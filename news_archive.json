@@ -131,5 +131,62 @@
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-17T22:33:13.898838+00:00"
+  },
+  {
+    "source": "European Central Bank",
+    "source_status": "منبع رسمی",
+    "confirmed_sources": [
+      "European Central Bank"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Philip R. Lane: The practice and science of monetary policy communication: the ECB experience",
+    "summary": "",
+    "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261117~7f5d3b1a0e.en.pdf",
+    "published_utc": "2026-11-17T18:30:00+00:00",
+    "published_kabul": "2026-11-17 23:00 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 22,
+    "relevance": "ارتباط محدود",
+    "category": "بانک‌های مرکزی و نرخ بهره",
+    "archived_at_utc": "2026-11-17T23:54:37.269043+00:00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Is Sprott (TSX:SII) Strengthening Its Dividend Following Strong Precious Metals Markets? - Kalkine Media",
+    "summary": "Is Sprott (TSX:SII) Strengthening Its Dividend Following Strong Precious Metals Markets? Kalkine Media",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVlppdnMyRVg3VWd2R2VKa1A4YUo0R21KRF96ZnhldHlYNy1ueVBqN052SmF0YzFJOGpVSFlLamZrcnVfVjFfMmg1a1p0Si1GQUpYTkpiTFlmS2lOVGRDWDdfNnpuaHlNb01TY0FXMmszdzQyLVR2WmxKUEhsWDRfVEYtaWFVWUZhcjd0R0RKdTZqRE04T1NlVFp0Sm55YlBrSGdwZmU0RGR5eWNGUW9hSEhRT05udnJwSWxwNHo2SGVwVldyUW80QQ?oc=5",
+    "published_utc": "2026-11-17T21:08:00+00:00",
+    "published_kabul": "2026-11-18 01:38 (کابل)",
+    "importance": "کم",
+    "relevance_score": 45,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-17T23:54:44.875970+00:00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Central Bank of Armenia: exchange rates and prices of precious metals - 16/11/26 - Armenpress",
+    "summary": "Central Bank of Armenia: exchange rates and prices of precious metals - 16/11/26 Armenpress",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fZWV3LWxLalJDSmFpdE1MZEhuSVZLcldxbGdwU1pqeW1qQl9vT3p6RU9uaFNGNjB1UzB6T25sLWxPcVFwSU5ZTnZQZTdaX0hmVlHSAVdBVV95cUxNZDZtd1VnS1RFMC0xWFdJN2dJOFQ4a0R5VEJ4ajJSYW03SUxpdXhIT0Q2MFNRTHZSX28xLThhX054XzludGE4eUMyNDdQdHFGSi1VM1ZYWk0?oc=5",
+    "published_utc": "2026-11-16T12:44:00+00:00",
+    "published_kabul": "2026-11-16 17:14 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 45,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-17T23:54:51.218193+00:00"
   }
 ]
