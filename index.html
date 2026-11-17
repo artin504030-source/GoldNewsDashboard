@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="fa" dir="rtl">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>داشبورد گلد نیوز | آرشیو فاندامنتال طلا</title>
+<style>
+:root{color-scheme:dark}*{box-sizing:border-box}body{font-family:Tahoma,Arial,sans-serif;max-width:1180px;margin:24px auto;padding:0 16px;background:#10151d;color:#edf2f7;line-height:1.8}h1{font-size:23px}.muted{color:#aebdcb;font-size:13px}.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(145px,1fr));gap:10px;margin:18px 0}.stat,.item,.filters{background:#1b2633;border:1px solid #334252;border-radius:11px;padding:14px}.stat b{display:block;font-size:23px}.filters{display:grid;grid-template-columns:repeat(auto-fit,minmax(165px,1fr));gap:8px;margin:16px 0}input,select,button{width:100%;padding:11px;border-radius:8px;border:1px solid #526070;background:#101a25;color:#fff;font:inherit}button{cursor:pointer;background:#263c50}.item{margin:12px 0}.item h3{font-size:16px;margin:0 0 8px}.meta{color:#b5c2d0;font-size:12px}.item a{color:#7cc4ff}.tag{display:inline-block;border:1px solid #526070;border-radius:20px;padding:1px 8px;margin:3px;font-size:12px}.status{padding:10px;color:#b5c2d0}.top{display:flex;justify-content:space-between;gap:12px;align-items:center;flex-wrap:wrap}
+</style></head>
+<body>
+<div class="top"><div><h1>🟡 داشبورد گلد نیوز | XAUUSD</h1><p class="muted">آرشیو اخبار فاندامنتال، فیلترها و آمار ثبت‌شده</p></div><button id="refresh" style="width:auto">بارگذاری دوباره</button></div>
+<div class="stats"><div class="stat"><span class="muted">کل خبرهای آرشیو</span><b id="total">—</b></div><div class="stat"><span class="muted">اهمیت زیاد</span><b id="high">—</b></div><div class="stat"><span class="muted">میانگین ارتباط با طلا</span><b id="average">—</b></div><div class="stat"><span class="muted">خبرهای ثبت‌شده در ۲۴ ساعت</span><b id="last24">—</b></div></div>
+<section class="filters">
+<input id="q" placeholder="جست‌وجوی عنوان، خلاصه یا منبع">
+<select id="cat"><option value="">همه دسته‌ها</option></select>
+<select id="imp"><option value="">همه اهمیت‌ها</option><option>زیاد</option><option>متوسط</option><option>کم</option></select>
+<select id="source"><option value="">همه منابع</option></select>
+<select id="minScore"><option value="0">همه امتیازهای ارتباط</option><option value="25">حداقل ۲۵ از ۱۰۰</option><option value="45">حداقل ۴۵ از ۱۰۰</option><option value="60">حداقل ۶۰ از ۱۰۰</option><option value="80">حداقل ۸۰ از ۱۰۰</option></select>
+<label class="muted">از تاریخ انتشار<input id="from" type="date"></label>
+<label class="muted">تا تاریخ انتشار<input id="to" type="date"></label>
+</section>
+<div class="top"><span id="count" class="muted">در حال بارگذاری…</span><span id="updated" class="muted"></span></div>
+<div id="items" class="status">در حال بارگذاری آرشیو…</div>
+<script>
+let all=[];const el=id=>document.getElementById(id);const controls=['q','cat','imp','source','minScore','from','to'];
+function esc(v){return String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))}
+function safeUrl(v){try{const u=new URL(v);return ['http:','https:'].includes(u.protocol)?u.href:'#'}catch{return '#'}}
+function dateValue(v){if(!v)return '';const d=new Date(v);return Number.isNaN(d.getTime())?'':d.toISOString().slice(0,10)}
+function stats(){el('total').textContent=all.length;el('high').textContent=all.filter(x=>x.importance==='زیاد').length;const scores=all.map(x=>Number(x.relevance_score)||0);el('average').textContent=scores.length?Math.round(scores.reduce((a,b)=>a+b,0)/scores.length)+'/100':'—';const cutoff=Date.now()-86400000;el('last24').textContent=all.filter(x=>{const d=new Date(x.archived_at_utc||x.published_utc);return !Number.isNaN(d.getTime())&&d.getTime()>=cutoff}).length}
+function fill(id,values,label){const s=el(id);[...new Set(values.filter(Boolean))].sort().forEach(v=>{const o=document.createElement('option');o.value=v;o.textContent=v;s.append(o)})}
+function render(){const term=el('q').value.trim().toLowerCase(),from=el('from').value,to=el('to').value,min=Number(el('minScore').value);const rows=all.filter(x=>{const hay=[x.title,x.summary,x.source,...(x.confirmed_sources||[])].join(' ').toLowerCase();const d=dateValue(x.published_utc);return (!term||hay.includes(term))&&(!el('cat').value||x.category===el('cat').value)&&(!el('imp').value||x.importance===el('imp').value)&&(!el('source').value||x.source===el('source').value||(x.confirmed_sources||[]).includes(el('source').value))&&(Number(x.relevance_score)||0)>=min&&(!from||(d&&d>=from))&&(!to||(d&&d<=to))});
+el('count').textContent=`نمایش ${rows.length} خبر از ${all.length} خبر`;el('items').innerHTML=rows.slice().reverse().map(x=>`<article class="item"><h3>${esc(x.title||'بدون عنوان')}</h3><p>${esc(x.summary||'')}</p><div class="meta">زمان کابل: ${esc(x.published_kabul||'نامشخص')} | منبع اصلی: ${esc(x.source||'نامشخص')}</div><div><span class="tag">اهمیت: ${esc(x.importance||'نامشخص')}</span><span class="tag">ارتباط با طلا: ${esc(x.relevance||'نامشخص')} (${Number(x.relevance_score)||0}/100)</span><span class="tag">${esc(x.category||'بدون دسته')}</span><span class="tag">تعداد فیدها: ${Number(x.source_count)||1}</span></div><div class="meta">فیدهای ثبت‌کننده: ${esc((x.confirmed_sources||[x.source||'نامشخص']).join('، '))}</div><p><a href="${safeUrl(x.link)}" target="_blank" rel="noopener noreferrer">مشاهده گزارش اصلی</a></p></article>`).join('')||'<p class="status">خبری با این فیلترها پیدا نشد.</p>'}
+async function load(){el('items').textContent='در حال دریافت آرشیو…';try{const response=await fetch('./news_archive.json?updated='+Date.now(),{cache:'no-store'});if(!response.ok)throw Error('HTTP '+response.status);const data=await response.json();if(!Array.isArray(data))throw Error('ساختار آرشیو معتبر نیست');all=data;fill('cat',all.map(x=>x.category),'');fill('source',all.flatMap(x=>[x.source,...(x.confirmed_sources||[])]),'');stats();render();el('updated').textContent='آخرین بارگذاری: '+new Date().toLocaleString('fa-IR',{timeZone:'Asia/Kabul'})+' (کابل)'}catch(e){el('items').textContent='آرشیو بارگذاری نشد. مطمئن شوید GitHub Pages فعال است و فایل news_archive.json در ریشه سایت منتشر شده است. جزئیات: '+e.message}}
+controls.forEach(id=>el(id).addEventListener('input',render));el('refresh').addEventListener('click',load);load();
+</script></body></html>
