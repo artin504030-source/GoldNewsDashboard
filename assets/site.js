@@ -1,7 +1,8 @@
 const $=s=>document.querySelector(s);
 const number=n=>Number(n??0).toLocaleString('en-US',{maximumFractionDigits:1});
-const dateOf=x=>{const d=new Date(x?.published_utc||x?.archived_at_utc||'');return Number.isNaN(d.getTime())?null:d};
-const localDate=d=>d?new Intl.DateTimeFormat('en-GB-u-ca-gregory-nu-latn',{day:'2-digit',month:'long',year:'numeric',hour:'2-digit',minute:'2-digit',hour12:false,timeZone:'Asia/Kabul'}).format(d)+' (کابل)':'زمان نامشخص';
+const dateOf=x=>{const raw=x?.published_utc||x?.archived_at_utc||x?.published_at||x?.created_at||x?.timestamp||'';const d=new Date(raw);return Number.isNaN(d.getTime())?null:d};
+const localDate=d=>d?new Intl.DateTimeFormat('en-US-u-ca-gregory-nu-latn',{day:'2-digit',month:'short',year:'numeric',hour:'2-digit',minute:'2-digit',hour12:false,timeZone:'Asia/Kabul'}).format(d)+' · کابل':'زمان نامشخص';
+const englishDate=(value)=>{const d=new Date(value);return Number.isNaN(d.getTime())?'—':new Intl.DateTimeFormat('en-US-u-ca-gregory-nu-latn',{day:'2-digit',month:'short',year:'numeric',timeZone:'Asia/Kabul'}).format(d)};
 const safe=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const importance=x=>String(x.importance||'').trim();
 const urgent=x=>/breaking|critical|فوری|بحرانی|زیاد|high/i.test(importance(x));
