@@ -112,5 +112,24 @@
     "relevance": "بسیار مرتبط",
     "category": "طلا و فلزات گران‌بها",
     "archived_at_utc": "2026-11-17T17:21:10.090270+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Airstrikes on Iran Missile Sites May Shed Light on Justification for Dams - The New York Times",
+    "summary": "Airstrikes on Iran Missile Sites May Shed Light on Justification for Dams The New York Times",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQM3RSb255WmtXVzRseHpHdk5tT1ZLTlYzRzJudFZKZHVaR2taQzdOcmQzWGF1b3hwTmZodTV6TWRvM1pyX2JtVVNlMVI3NUtyQlRVQXhQS3FJR2lhN1ZZcFZ4WU5fRHlsLXZEXzN2aDItSUppYmt0YzdVMXg4dHRHYUZrVzhRejZYcGZxRVlSMVJxN1paNGV6MzhfaS1sNTg?oc=5",
+    "published_utc": "2026-11-17T18:44:00+00:00",
+    "published_kabul": "2026-11-17 23:14 (کابل)",
+    "importance": "کم",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-17T22:33:13.898838+00:00"
   }
 ]
