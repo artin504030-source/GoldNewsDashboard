@@ -187,7 +187,8 @@
     "relevance_score": 45,
     "relevance": "بسیار مرتبط",
     "category": "طلا و فلزات گران‌بها",
-    "archived_at_utc": "2026-11-17T23:54:51.218193+00:00"
+    "archived_at_utc": "2026-11-17T23:54:51.218193+00:00",
+    "last_confirmation_utc": "2026-11-19T11:57:57.180794+00:00"
   },
   {
     "source": "Gold Market",
@@ -435,5 +436,62 @@
     "relevance": "بسیار مرتبط",
     "category": "طلا و فلزات گران‌بها",
     "archived_at_utc": "2026-11-19T03:26:29.779819+00:00"
+  },
+  {
+    "source": "Bank of England",
+    "source_status": "منبع رسمی",
+    "confirmed_sources": [
+      "Bank of England"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Minutes of the Market Participants Group meeting – 18 November 2026",
+    "summary": "The Market Participants Group (MPG) is a senior-level forum for financial market participants to share their views on relevant themes and narratives in financial markets with members of the Bank of England’s Monetary Policy Committee.",
+    "link": "https://www.bankofengland.co.uk/minutes/2026/november/market-participants-group-meeting-18-november-2026",
+    "published_utc": "2026-11-19T07:30:00+00:00",
+    "published_kabul": "2026-11-19 12:00 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 22,
+    "relevance": "ارتباط محدود",
+    "category": "بانک‌های مرکزی و نرخ بهره",
+    "archived_at_utc": "2026-11-19T11:57:53.426674+00:00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Precious metals carnage: Gold and silver just plunged ~10% i - KuCoin",
+    "summary": "Precious metals carnage: Gold and silver just plunged ~10% i KuCoin",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBza0lja2RGN1MxRHhBZFdWRkQ1dGJfM1JNY2FHelJqUmxWM3RxWlU0Mm9Da3FabXdlNVo5RmZaeTVKam03eU0taUEyZjdJemJqTTVyc1UybzhPRGNVb3BqQWpKOFNGS1Y0TzAxck04RlN4UQ?oc=5",
+    "published_utc": "2026-11-19T00:28:06+00:00",
+    "published_kabul": "2026-11-19 04:58 (کابل)",
+    "importance": "کم",
+    "relevance_score": 45,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-19T11:58:01.590150+00:00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Canada Gold Launches National 'Expert in Precious Metals' Advertising Campaign Featuring Elvis Stojko - PR Newswire Canada",
+    "summary": "Canada Gold Launches National 'Expert in Precious Metals' Advertising Campaign Featuring Elvis Stojko PR Newswire Canada",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQQjc1aVlPVVVmb0hfYWE1bGk4RjkxQUU0Y05BOWk2S1Q2UWQwWE5WRTV3THdKNW1LamNCR211UGRQVGhYeXYwenJjUVVXZWpIRUVWSTB1YjNqOVJCVUdxZlF1LTFMSUpDMVVJODZlcERuNHhFUmEzaXdidlE5LTduQjdsbkVXT2hmRWY0cGVLZGZNR0o1UWFuRko4OE5wcFdibE0wXzRpbGRLN3QzYWRrS2Y2czNkRHBBamlyQzdPdnAxeGl5UGdlNnJjUm5raWg3dFBfTjBBUjRVd3pYcWowdlN5YktvZVU?oc=5",
+    "published_utc": "2026-11-18T13:30:00+00:00",
+    "published_kabul": "2026-11-18 18:00 (کابل)",
+    "importance": "کم",
+    "relevance_score": 45,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-19T11:58:09.474117+00:00"
   }
 ]
