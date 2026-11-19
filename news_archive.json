@@ -359,5 +359,24 @@
     "relevance": "بسیار مرتبط",
     "category": "طلا و فلزات گران‌بها",
     "archived_at_utc": "2026-11-18T22:12:37.786868+00:00"
+  },
+  {
+    "source": "Economic Reports",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Economic Reports"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Breaking: Analysts surprised as unemployment rate surges to 4.9pc in October - ABC News & Headlines – Australian Broadcasting Corporation",
+    "summary": "Breaking: Analysts surprised as unemployment rate surges to 4.9pc in October ABC News & Headlines – Australian Broadcasting Corporation",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVmk2bnBKVXFJTmxmMUNGSUJVZWdJdmU0dy1UNzdOTnh0Wks5MjdtcEhTOVFjQkdzemxfQ2ExQ0ZDY0Q2Q2RzQkJRTUlKLS1rR1JyVHc1eGVJVDhJc0o2ekEySENIQnBWcE1MdHZvZzItTkFjaFFwNTVrclVkY18tT0sxaHQ3WXJZZTVqZnl3elpPSUVoUXNyU3FGWDE?oc=5",
+    "published_utc": "2026-11-19T00:59:34+00:00",
+    "published_kabul": "2026-11-19 05:29 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 0,
+    "relevance": "ارتباط محدود",
+    "category": "اقتصاد جهانی",
+    "archived_at_utc": "2026-11-19T02:28:32.727556+00:00"
   }
 ]
