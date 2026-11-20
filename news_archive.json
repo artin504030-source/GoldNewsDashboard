@@ -2512,5 +2512,62 @@
     "relevance": "ارتباط محدود",
     "category": "انرژی",
     "archived_at_utc": "2026-11-20T18:30:55.808750+00:00"
+  },
+  {
+    "source": "Economic Reports",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Economic Reports"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Forecasting the upcoming week: It’s PMI-week along with more US inflation - FXStreet",
+    "summary": "Forecasting the upcoming week: It’s PMI-week along with more US inflation FXStreet",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcHJsOXlJUENBVzRnVGdiRl9qemxSblhDNVhDZF90ZkRjRTN2TWFlU2VvM1Z5N3l6SjlabHFMWC1IOUV4NHRGc0xDOVA5a3BpUTc0UTBGbTlJeFBURlZfa2JrdWJaMXlDS19ldmJZNDd2NVFEYjBwcG1XNHZieVEyNXlnczJDYW92cWxfNzlYYV81dHZwTGZzRi04OXczSXM2dnJjVEpUaGRIcTlzcEdmdzZMNzdoQUttQ1E?oc=5",
+    "published_utc": "2026-11-20T18:35:23+00:00",
+    "published_kabul": "2026-11-20 23:05 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 30,
+    "relevance": "مرتبط",
+    "category": "اقتصاد آمریکا و دلار",
+    "archived_at_utc": "2026-11-20T18:45:50.020935+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Oil prices set for third straight weekly decline on strong Middle East export flows - Yahoo Finance",
+    "summary": "Oil prices set for third straight weekly decline on strong Middle East export flows Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdjEzd29VMWN4cDVjTDkxRTZEd0V0ZFgyMDVpb1VfRG9jaXBEY2ppakhnNUIyNXBDUzIyaVFCNVRXZ0R4OEJ2VklXempSMlFEbUNZRXlmLUh2MXhaQnZiekwwa2cwcjlnbEphYTJnYy1mV1hRVVV2OTRkelJHX3lnZg?oc=5",
+    "published_utc": "2026-11-20T11:36:03+00:00",
+    "published_kabul": "2026-11-20 16:06 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-20T18:45:58.797332+00:00"
+  },
+  {
+    "source": "Oil Trade and Supply",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil Trade and Supply"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Iran Just Crossed a Red Line No One Dreamed Possible: Tehran Keeps Attacking Oil Tankers But Their Plans Have Failed - National Security Journal",
+    "summary": "Iran Just Crossed a Red Line No One Dreamed Possible: Tehran Keeps Attacking Oil Tankers But Their Plans Have Failed National Security Journal",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPSkFvVERXMS1KRk1nWTQzT0lRaWp1TllpS3lwc1l2MWx0M1ltYl8wQ2JkYU5LQXQ1cnBVLUJKdFpoMVdxX2ZxLURXN1k5STdvRG8xanZMVDRVc0lMV01RQV9LQkt2TThYbWdmNS1SVkdWR0puV205azhYS3VvZHpmemNSc3FMeU9iVjdKbHlIbGJyV2ZlV2hmQTVDTDN0N2pCRGRwOHBNS1dMTlo2cjZIajdyTzE3YUMxclRJS29TOEEzekhzV25fNlhUTGJOMlZUSHZOWlg1SjdOTHo0NmM5cS1ISEpFLTQ?oc=5",
+    "published_utc": "2026-11-20T13:01:23+00:00",
+    "published_kabul": "2026-11-20 17:31 (کابل)",
+    "importance": "کم",
+    "relevance_score": 28,
+    "relevance": "مرتبط",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-20T18:46:07.313640+00:00"
   }
 ]
