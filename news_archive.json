@@ -3170,5 +3170,24 @@
     "relevance": "ارتباط محدود",
     "category": "انرژی",
     "archived_at_utc": "2026-11-20T23:05:05.879683+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Oil Prices Fall Despite Hostilities as Flows Increase - Oil & Gas Journal",
+    "summary": "Oil Prices Fall Despite Hostilities as Flows Increase Oil & Gas Journal",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQM2Y0TTZzX2tCSnFzQ1l4Q2toN2FyNHdWaVJSTEpUdWV1R2ppMk5IMEFfczBBM284c0YxX1RQVEdFZDk1N05xbjYtWlBzSlNxWVhlV2c4T1ZRRG9CaW1vSy1oTEZ5MExnMXlDUWpxQzB4b2ZjNjBjT1JGN3E0VHFtRlV6NlM0RVNMSVQ2WHVDeUREaHMyOTByYWRFNmZtM003UmhYc0ZTeC12akJSZFFIYmhRc2w2NkZkdkh0U3NoUlNHRzQ?oc=5",
+    "published_utc": "2026-11-20T23:07:16+00:00",
+    "published_kabul": "2026-11-21 03:37 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-20T23:15:35.466892+00:00"
   }
 ]
