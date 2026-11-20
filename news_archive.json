@@ -1368,5 +1368,62 @@
     "relevance": "ارتباط محدود",
     "category": "بانک‌های مرکزی و نرخ بهره",
     "archived_at_utc": "2026-11-20T13:46:13.660745+00:00"
+  },
+  {
+    "source": "Economic Reports",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Economic Reports"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Gold Recovers from One-Year Low as Markets Assess Federal Reserve’s Stance on Interest Rates - صحيفة مال",
+    "summary": "Gold Recovers from One-Year Low as Markets Assess Federal Reserve’s Stance on Interest Rates صحيفة مال",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XM0xIcnk5NnJ3d2lXblJfenZ5Q0lKT0dqZUdCN1RucEdKUFd6ZFNTYVo5OUZ2UkdmcXVBLVRkUDJrcjNRTzdiLXU5ZnN3anMxUkQ4cXVaTzlRVXk2UkY1eU9YSHNCNDgwRVZBOQ?oc=5",
+    "published_utc": "2026-11-19T09:48:26+00:00",
+    "published_kabul": "2026-11-19 14:18 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 97,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-20T14:01:09.261904+00:00"
+  },
+  {
+    "source": "Economic Reports",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Economic Reports"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "BOJ Gov. Ueda Vows to Continue Raising Interest Rates - Nippon.com",
+    "summary": "BOJ Gov. Ueda Vows to Continue Raising Interest Rates Nippon.com",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA1aVEzbVd2Vk1wcEszSk9aeGhLMjgxYkxrMGlBYmtKN0NkOEZhM1RxYjc4UVdaSENHSGxXbmVJZnhjQnpJbXd0UmJJWXJVeGtYOTVmNg?oc=5",
+    "published_utc": "2026-11-19T04:57:14+00:00",
+    "published_kabul": "2026-11-19 09:27 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 22,
+    "relevance": "ارتباط محدود",
+    "category": "بانک‌های مرکزی و نرخ بهره",
+    "archived_at_utc": "2026-11-20T14:01:16.256859+00:00"
+  },
+  {
+    "source": "Economic Reports",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Economic Reports"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Gold slips as higher interest rates and a firm US dollar raise investor caution amid increased opportunity costs - Traders Union",
+    "summary": "Gold slips as higher interest rates and a firm US dollar raise investor caution amid increased opportunity costs Traders Union",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZzFmbnBwV3o0T2gxYzJzSlhsajN6U1pzRU5Sbk1ySjExWjM1ZzZKc29DZU5uT09aYmVCczdSUHNKQWQ2T2xJZ0ctVGNMZ2ZSTXQwNlk2M2pQOXY4clZpb1pKaFJxaHJiY29veVNkMWF2UnJwUXRaZEtpWXd2UHB2MDdOT09YNmhXdmc?oc=5",
+    "published_utc": "2026-11-19T17:07:25+00:00",
+    "published_kabul": "2026-11-19 21:37 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 67,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-20T14:01:24.116584+00:00"
   }
 ]
