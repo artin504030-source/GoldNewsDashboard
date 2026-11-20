@@ -1025,7 +1025,8 @@
     "relevance_score": 45,
     "relevance": "بسیار مرتبط",
     "category": "طلا و فلزات گران‌بها",
-    "archived_at_utc": "2026-11-20T12:16:11.357002+00:00"
+    "archived_at_utc": "2026-11-20T12:16:11.357002+00:00",
+    "last_confirmation_utc": "2026-11-20T22:31:00.696827+00:00"
   },
   {
     "source": "Gold Market",
@@ -3055,5 +3056,24 @@
     "relevance": "ارتباط محدود",
     "category": "انرژی",
     "archived_at_utc": "2026-11-20T22:16:00.106255+00:00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Four Chinese Banks Issue Warnings on Precious Metals Amid Gold Price Decline - Shanghai Metals Market",
+    "summary": "Four Chinese Banks Issue Warnings on Precious Metals Amid Gold Price Decline Shanghai Metals Market",
+    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNWFFTQjVfMmpsZ1Y1RlFfU09yT2pwb1FySVcyd1ZaSlBLdnp0Wm5EWTQ5TTQyejdmVzNaOW0tUF9uUWdZU0FrM0NwaFNVSXhHZEJxNVduR3JNY3NvRWhUYmRnVGVlcXZCb2huYWQ1TWRzSkVzbjY1ZVNhd3BHMTlaeURLS0dFcTlObGZoTjJRWUEyM05QVV9UT1h6TS1fWUxSQmNXRFQxeTF4dkhmbzlyR2FBb3dCbnRuejVtd21LLUl4MHJYMTAxQmUxNGhmdUtKN0pHbjUzMnZ6Z25pMWt5clg5X28ydw?oc=5",
+    "published_utc": "2026-11-20T16:20:00+00:00",
+    "published_kabul": "2026-11-20 20:50 (کابل)",
+    "importance": "کم",
+    "relevance_score": 61,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-20T22:30:57.649300+00:00"
   }
 ]
