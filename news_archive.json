@@ -1559,7 +1559,8 @@
     "relevance_score": 16,
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
-    "archived_at_utc": "2026-11-20T14:45:57.212925+00:00"
+    "archived_at_utc": "2026-11-20T14:45:57.212925+00:00",
+    "last_confirmation_utc": "2026-11-20T16:56:55.313951+00:00"
   },
   {
     "source": "Geopolitical News",
@@ -2055,5 +2056,62 @@
     "relevance": "مرتبط",
     "category": "انرژی",
     "archived_at_utc": "2026-11-20T16:45:47.662781+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "OIL PRICES SLIDE as Recovering Middle East Exports Push WTI Toward $81 and Brent Near $90 - EnergyNow",
+    "summary": "OIL PRICES SLIDE as Recovering Middle East Exports Push WTI Toward $81 and Brent Near $90 EnergyNow",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNDJfYlhoaGdnellmeWVHdnJMOE90Y1hTNzVoTUE3UzRtd002eDM4emgyOFJfZEFZV2xHcWtJVVo2bUtNS0lpQ0JNZVdMV19rRWowcU45UHc3Zng4N2FGSGhvWFc3cGNObHljZy1TRHU2dDQwWE1nTlg5NnhCVHUwNURJVGtfa001UUVOcWhuRjFzcU5nbUl0UHRZeHpNemlDRjh5Ync5LXFGWEx0b0tlMXBFYXh0WUZ3?oc=5",
+    "published_utc": "2026-11-20T11:30:00+00:00",
+    "published_kabul": "2026-11-20 16:00 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 28,
+    "relevance": "مرتبط",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-20T16:57:00.707945+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Oil prices on track to post third weekly decline despite Middle East tension - The National",
+    "summary": "Oil prices on track to post third weekly decline despite Middle East tension The National",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMk9JZVdUNTVVUFk3NTNSNEtyTFBCbFJ2cjBRZmdONlVSWFJ1ZWhSUzNCbDZuM1ZMSVNxMVFsQXBXZDI0Z0pYY0ZpSVVwdkd6a3Y5QzE0a25MVjdGTi12dEhIZEp3c1NqWnBNMmhBMnByMXJEQ2lVR3hITzIxcEcyaWtFZEhYckk3YV9ENXVhMDJFbV9OMXB5Z0lWOHhlVktWcEY0a19FdGdOUXdUSy1sNF9WMjdOZlJmNXVRQmsxWnY?oc=5",
+    "published_utc": "2026-11-20T08:35:50+00:00",
+    "published_kabul": "2026-11-20 13:05 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-20T16:57:08.198633+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Crude Oil Prices Edge Higher on Fears of Escalation in US-Iran Conflict - Yahoo Finance",
+    "summary": "Crude Oil Prices Edge Higher on Fears of Escalation in US-Iran Conflict Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdmE3dnJzMVZyZnhaX2ZQbmJaeXhiZHphNXNhbE1qOVp0S2JyTHF6bWliTFdsUUR2dlRxUmRWZTgwSi1tUW9pR3k4Mm5FY1VyNUFITTNDNHRqX2Zsb1k3bkoydVdrblpjQ3U2QzJTbnE3RkctaC13cVphaVJscFgxN3pYWVNCdzQyc3E0UlNn?oc=5",
+    "published_utc": "2026-11-19T16:38:30+00:00",
+    "published_kabul": "2026-11-19 21:08 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 28,
+    "relevance": "مرتبط",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-20T16:57:15.686186+00:00"
   }
 ]
