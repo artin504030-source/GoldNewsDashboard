@@ -1775,10 +1775,11 @@
     "source": "Oil and Energy",
     "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
     "confirmed_sources": [
-      "Oil and Energy"
+      "Oil and Energy",
+      "Oil Trade and Supply"
     ],
-    "source_count": 1,
-    "confirmation_status": "یک منبع ثبت‌شده",
+    "source_count": 2,
+    "confirmation_status": "تأیید چند منبع",
     "title": "2.8 Billion Barrels Of Crude Oil Lost In Hormuz Crisis – IEA Report - https://thefact.ng/",
     "summary": "2.8 Billion Barrels Of Crude Oil Lost In Hormuz Crisis – IEA Report https://thefact.ng/",
     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaXdsbzNmZmpzTS1aZ3V2ZXpyTmZucUFpSXkzeVdhazM0a1RseTVRUVlRRlZUNHpzMDlSb3dVaF90ZW05bFpISWZwYmpobGZUVEN3QlEyU3gzLW9RRjkxQXZaS3dReXNiTFdTRFFPWjczVlVSLW5JaG1NT0lRZXFybjlBVXNQd2xxOFA2eE93?oc=5",
@@ -1788,7 +1789,8 @@
     "relevance_score": 12,
     "relevance": "ارتباط محدود",
     "category": "انرژی",
-    "archived_at_utc": "2026-11-20T15:45:32.389741+00:00"
+    "archived_at_utc": "2026-11-20T15:45:32.389741+00:00",
+    "last_confirmation_utc": "2026-11-20T19:15:45.994367+00:00"
   },
   {
     "source": "Oil and Energy",
@@ -2626,5 +2628,62 @@
     "relevance": "ارتباط محدود",
     "category": "انرژی",
     "archived_at_utc": "2026-11-20T19:01:10.334062+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Oil Prices Retreat as Market Digests Global Surplus Expectations - WSJ",
+    "summary": "Oil Prices Retreat as Market Digests Global Surplus Expectations WSJ",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUDJZaXFhY1pnSUd1OEp5V2NtbWc2Z2ZvUW41OU1pOGdBWVRPbllCZWhHMExvNWlsSjR3cmFsNFpjV0d1WkRGTEdUcEZNMUNfZ19lS1oxQTlDanlUMXZxZzV4NVhNd29tZWJ6bUI2a0E2SnhPSmJZRVViNUgtREpsZmVUOWN3TFFoU1BTRURIOUZCOGlkNkc0TU41TlNMeTB6b09XSk9MSE92YXBtOFh4WXd5ajFRR3Nna3YxdmxPdEg?oc=5",
+    "published_utc": "2026-11-20T17:30:25+00:00",
+    "published_kabul": "2026-11-20 22:00 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-20T19:15:35.359975+00:00"
+  },
+  {
+    "source": "Oil Trade and Supply",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil Trade and Supply"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Central Asia Faces a Looming Water Crisis as Glaciers Retreat - Crude Oil Prices Today | OilPrice.com",
+    "summary": "Central Asia Faces a Looming Water Crisis as Glaciers Retreat Crude Oil Prices Today | OilPrice.com",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdlFjUGJOWHNOOUxOMVgwR190OGRqaDdULTlJMnBJdGtWQkdaRkRSYTluN0ktZ1gyQS1BcmZvOTlOc1Y2VDQzMzU1Y2NWLTNyZ3JXQjNzdE1qZS1KcGJrVUsxRm9xaXpJWXZfNWJvWmdqOHE0UHpxY3JrVENreWl0enZWZG1aWVdwUTBEOEIwcWMxbGZtNHhhMGJxQ2tLWmdhQjdjc0pNbWs5NVBoblHSAbMBQVVfeXFMTlQxdUZ1aWx4cGEydnhldVM4Z0F0RWpKN2lraFlIQlp2U1BwRExuLWxHa1MtQlFfX2VCTy1tNkZjY2Y0OVhEMS00Qnp2SmNudTZvUHJvalpkNkl2UlhKTUFTM0xwdGgwamttdWdhY2ZNcllYMW54MjlXUWhkVk12Ymt3aEU4THBsZzA5ZVU0WnFkUS1Nd213MURMZC1XaGdjV0lPcDBHbk9FbjNaQk5FVVo2SUk?oc=5",
+    "published_utc": "2026-11-19T19:00:00+00:00",
+    "published_kabul": "2026-11-19 23:30 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-20T19:15:42.956417+00:00"
+  },
+  {
+    "source": "Oil Trade and Supply",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil Trade and Supply"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "IEA Calls Strait of Hormuz Crisis 'Largest Supply Shock on Record'; South Korea's 80% Energy Import Dependence Highest in World - BigGo Finance",
+    "summary": "IEA Calls Strait of Hormuz Crisis 'Largest Supply Shock on Record'; South Korea's 80% Energy Import Dependence Highest in World BigGo Finance",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5GV29IOWhmc2NaSDFlNUV6VFFrVG83NURfUm9ic2haTDJqMnVfU2E5WVdOZjZFSFl2ekRRbVBRcGoydHdfLWhPYVpUUFNqVEZwRURvdzlKQ0RMV2dsREtMOU9ISU9kWDc0R25hTmFldXh4dmVVNUE?oc=5",
+    "published_utc": "2026-11-20T04:05:00+00:00",
+    "published_kabul": "2026-11-20 08:35 (کابل)",
+    "importance": "کم",
+    "relevance_score": 0,
+    "relevance": "ارتباط محدود",
+    "category": "اقتصاد جهانی",
+    "archived_at_utc": "2026-11-20T19:15:50.642613+00:00"
   }
 ]
