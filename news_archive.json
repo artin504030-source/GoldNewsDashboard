@@ -1844,7 +1844,8 @@
     "relevance_score": 28,
     "relevance": "مرتبط",
     "category": "انرژی",
-    "archived_at_utc": "2026-11-20T16:01:19.933563+00:00"
+    "archived_at_utc": "2026-11-20T16:01:19.933563+00:00",
+    "last_confirmation_utc": "2026-11-20T16:45:35.523167+00:00"
   },
   {
     "source": "Oil and Energy",
@@ -1997,5 +1998,62 @@
     "relevance": "مرتبط",
     "category": "انرژی",
     "archived_at_utc": "2026-11-20T16:31:24.402875+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Chuck Schumer Blames Trump’s ‘Disastrous War,’ Tariffs and Trade Dispute With Canada for Rising Thanksgiv - Benzinga",
+    "summary": "Chuck Schumer Blames Trump’s ‘Disastrous War,’ Tariffs and Trade Dispute With Canada for Rising Thanksgiv Benzinga",
+    "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQT2tRWHJxSFVNeEU5RFhIRjlsSUNZcVpUQXA5VlhtUWNKb0tjMFZqeE4tdWNMVzloR1dxc1JLNHJPVjhJeGZjZ19aZ2hSVHAxN2VyUE5xY0RTYTBJcTEtYUpqN1hWVjFrbTFTd0kxdmVlYmxjUkF4ckVVNE8wRVVZM3FySGhUMFcwNEViejNqNG1KVXFaNzBPd29FUHlqYVV0X2NkTnNYU0Jkemc4T0t4RjgySjdjQ1BCZExnU3BQWk9kZkNMWFhIaFI3bTZfTmV5WmUyUVRIYkJpRWZaS25oakhPYzBpN0tadHRqQWozQVJFS0VEM0c3SU1ZT3VkWEFqVzd1TTgwcnhKalpEYlREa0xSclp4eFVxcE55eElnc0tOcVJfQlB2NThSUnFRc1dSTjdfSVJSUzJzUThCaW9IUk9hWUFqZw?oc=5",
+    "published_utc": "2026-11-20T13:06:32+00:00",
+    "published_kabul": "2026-11-20 17:36 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-20T16:45:31.881878+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Malaysian palm oil prices fall to lowest level in over 8 months - УкрАгроКонсалт",
+    "summary": "Malaysian palm oil prices fall to lowest level in over 8 months УкрАгроКонсалт",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQazhGS2Vfc0xaVmE4RGhLblNFQ1BCVzIzOEdkdVppLUtILVN1dzFCc2dObEo4N2VvN1ZXRGpPSzZDYnNTRjNZeUN4LXZHWmFmRHFObWp3WFZoMzNUbi11aUdyX0hZTFRHcFhUUHk1RjkwMlBuQnN1UXhGVWtacXY0OFJZeF9ZdHpmWW9WRnZ6eU95ajFubXhCTFZlQXEyOVV3?oc=5",
+    "published_utc": "2026-11-20T13:28:44+00:00",
+    "published_kabul": "2026-11-20 17:58 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-20T16:45:39.475979+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "The Middle East War Has Wiped 2.8 Billion Barrels Off Global Oil Supply - Crude Oil Prices Today | OilPrice.com",
+    "summary": "The Middle East War Has Wiped 2.8 Billion Barrels Off Global Oil Supply Crude Oil Prices Today | OilPrice.com",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUklXc2tqX0d3Rmx6a1hQUV9YNTFuUHEwTjBvd1cyUnRrNHJTTHVhNENpZVdYMzMyUmlydDMtYWVQRjJ6aEZSZ1FlQW90SWNYWTQyQXNVdGtjanBQS0dDd3BpbXNUbTBZSmQxUGdOZTFuM3RkSVJCc1JoTmJjTllaZmdyM3R4R2sySHZmWDBYbURISllGeUR3UmVUNTktamRZelB5dVVfLVlTVzg0djZsTnpVeHR3cVJmb1Zuc21CVzdpUXRn0gHKAUFVX3lxTFBvdGtlOXFNbmJxeWhHM0lkdExSdEtoWUhrbUdYWUVDMXFpd3p5cGpoQzA4X0tHOThJWFpCVXZTMHlXbDI4bU93RV9Ebk8tZERNNWRxNENyOFE0bmg5cWo2eFRRSHFpTjdVeTQ5QURsQzRnX1dnNXdTeDJ3Qjhic1VlOTk3OHZ0ZndqT0Z3NHE3enN5Y1JsSEI2bS1wQUptZ0R3Qmp6TmNjYVNoUHJ6UndjNU9VRFhZeU5IQnY4TUZaOEhsNlpxTEtyVEE?oc=5",
+    "published_utc": "2026-11-19T09:00:00+00:00",
+    "published_kabul": "2026-11-19 13:30 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 28,
+    "relevance": "مرتبط",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-20T16:45:47.662781+00:00"
   }
 ]
