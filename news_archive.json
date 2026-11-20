@@ -2371,10 +2371,11 @@
     "source": "Oil and Energy",
     "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
     "confirmed_sources": [
-      "Oil and Energy"
+      "Oil and Energy",
+      "Oil Trade and Supply"
     ],
-    "source_count": 1,
-    "confirmation_status": "یک منبع ثبت‌شده",
+    "source_count": 2,
+    "confirmation_status": "تأیید چند منبع",
     "title": "Oil Prices Rebound as Houthi Attacks Reignite Middle East Supply Fears - Crude Oil Prices Today | OilPrice.com",
     "summary": "Oil Prices Rebound as Houthi Attacks Reignite Middle East Supply Fears Crude Oil Prices Today | OilPrice.com",
     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNN3c3d19RVHF5TTRSYjJabTdKMkJ6dUtYZURXaEtvR0xsX2d1ZndtUVlrLVUwWVFJNDY4bHZtNnU4QTB2OWdJZDZ2Qjk3Y2NpZHA0WFpiT3psNWwzOXpDMEk4cjNTSTI4cGU2VG9QamlSNmxGNC1UWXFub2FKWlVEQ0pqZHhTa3ZjY1JMYWpPOWlBQVVBMTh5M0EtQWx0M3JMWmplUk12MVp5cTR1ZUV0M3FRLUN2THJZWG5kdi1kNjY1VjdS0gHKAUFVX3lxTE8wblM4Q1UtRjQ4Z3FUUlNUMHBMQTNaVWtMaGxZU1J5SzRibVVZUjUyMTkxUGtaMEppNE1SazFkN1hwSEJ2aW5LY01oSXF1bmhlMF9JcndJWERpUG9neVNJN3dLdEp5ZVFFWXNwWHNBN0EwdUdRMGViaWZUdUtQamdLbkR5MVZfZGk5ZnQ0N2JwUUlEdHhOcE43R0RoT3VjTGhqQ0dONHE5UGZtb2hHek9fOXdXWkw4UmlVSWtiVnVDMkN0QWpzRFFNRGc?oc=5",
@@ -2384,7 +2385,8 @@
     "relevance_score": 12,
     "relevance": "ارتباط محدود",
     "category": "انرژی",
-    "archived_at_utc": "2026-11-20T18:01:13.431801+00:00"
+    "archived_at_utc": "2026-11-20T18:01:13.431801+00:00",
+    "last_confirmation_utc": "2026-11-20T20:16:41.801195+00:00"
   },
   {
     "source": "Oil and Energy",
@@ -2860,5 +2862,62 @@
     "relevance": "ارتباط محدود",
     "category": "اقتصاد جهانی",
     "archived_at_utc": "2026-11-20T20:01:34.790184+00:00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Triple Flag Precious Metals stock hits 52-week low at 26.61 USD - Investing.com India",
+    "summary": "Triple Flag Precious Metals stock hits 52-week low at 26.61 USD Investing.com India",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdGxxR2J4Wm9jVE5va0JxaHB6Q0x0Qy0xdG13M1BYS09qVkZITnV3U29oV1FzdzAwOVJsc1k5bnZsbDJPMEF2dy1OZ3BtTjU3Z2diakpucUlwdkJCX01vRDlMXzZaSmRKQmprUlh3a3BYbEhwcXQ4Ny1RRlVnTXRzQVdoWWdwOTlpbU01SjJSOUFyWEFiUmJfdzZyVy1pMzVCd1BfS0hrcjhvRDdySUtCLW1ISHQ1dzJ6LXY0VF9SSQ?oc=5",
+    "published_utc": "2026-11-20T20:07:56+00:00",
+    "published_kabul": "2026-11-21 00:37 (کابل)",
+    "importance": "کم",
+    "relevance_score": 45,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-20T20:16:27.126240+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "AMERICAN ENERGY SNAPSHOT: Why Gasoline Prices Don’t Always Move in Lockstep with Crude Oil Prices - EnergyNow.com",
+    "summary": "AMERICAN ENERGY SNAPSHOT: Why Gasoline Prices Don’t Always Move in Lockstep with Crude Oil Prices EnergyNow.com",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQllwV3FRcWtSUHdaOGZ1eUlkaHRnN1NjTGNIeDRYQVhNekF5NkRGTE1KY3BnWXR4a0I5RTAtNy0ybktHd3BYakI0VlFjQlBtd0pNdVVOdzZrN0tzWmIya0VFU2JPRWxnS0x1NWJ3UTRDOUtPU1IxZmJiNVlBSXNvWUJLa1VMTWlxaGhwYm5jN3AybVZzYXBpbUZuOXlhMnozd3M2NlhyZUkzU0RsWkhULVJ4Y2pCVDRRckw2em40MUc4YUEz?oc=5",
+    "published_utc": "2026-11-19T19:44:09+00:00",
+    "published_kabul": "2026-11-20 00:14 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-20T20:16:38.350314+00:00"
+  },
+  {
+    "source": "Oil Trade and Supply",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil Trade and Supply"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Oil prices up as US lowers crude production estimates - Yeni Safak English",
+    "summary": "Oil prices up as US lowers crude production estimates Yeni Safak English",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRVc0N0t4V1BBSFVWdmlHclItSDE3MDM2UFNPMVVrdy04NFY1aF95dUdKMVRPZVZjNkZoVHB4QVhYc3JyTUU0TWFhTDRqbW9iYmhKUUgyVS13aFlHTGs5OURGcGpSRnVsZmVGTlVIRktrVjBBT19DM0d1T3JGdVprdERIRENENTM4cXowaW01QW9TRk1LSjZXQk53?oc=5",
+    "published_utc": "2026-11-20T20:08:28+00:00",
+    "published_kabul": "2026-11-21 00:38 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-20T20:16:53.391833+00:00"
   }
 ]
