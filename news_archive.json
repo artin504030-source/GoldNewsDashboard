@@ -3207,6 +3207,26 @@
     "relevance_score": 22,
     "relevance": "ارتباط محدود",
     "category": "بانک‌های مرکزی و نرخ بهره",
-    "archived_at_utc": "2026-11-20T23:30:36.962746+00:00"
+    "archived_at_utc": "2026-11-20T23:30:36.962746+00:00",
+    "last_confirmation_utc": "2026-11-20T23:45:35.114267+00:00"
+  },
+  {
+    "source": "Economic Reports",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Economic Reports"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "David Koch challenges the federal government as inflation and unemployment rates continue to rise - 7NEWS",
+    "summary": "David Koch challenges the federal government as inflation and unemployment rates continue to rise 7NEWS",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMlpudWJISHhIcWVfZThJbmVxUTZndVp2VHpOWlVCd2tOZF9NemVxSXo1N2hQZnh0c2xaczdnX2VjWmFaLW4waVpoSFllUS1xTlZJM1M2Sk9lS19KQkZ0RUtKM2FRdXZEUDh2UG93dVRlZ2I1YVJGUEIxTW5SX2h5ZGNCc1lPVjlXUFIwNDBoY1hGa1I3YkxPTERlMk1tbWxIUXp3dzd4aElndDRPWkE0ZXNLVHRfWTRPQktjeW1zZ01mQ0lHYkZtMUZ5aVV0Wko0QlFJbnlOM01MUVcySmdr0gHkAUFVX3lxTE0xa3A2OXJ4bkNESUxCRXUzd0ZGM01GZGpZeWRaR3gxUHlTSkkyVmlhR2RSZ1doX2pxRThGNEdhdlRKSDdhbU1tNFBveGVabUZCTTNxVGgtVTN2WE1fa1FQV2VoT0YzVEI2bkhTZVNrbTZZVm1zdWlZT3RaMm96Y1IxdjhiYW9EWWFEMjZ0bXoyZ0xnSlpYSnFod1QwY2JmWVJ0WXU3aG1vMUdpSG1reEZURVpLek9PNFA2anNsTXlmWWV2TndQTExrbjc4THpLelJfR3BqY1UyNHNHRmY3V0hsVVdIVA?oc=5",
+    "published_utc": "2026-11-20T23:39:00+00:00",
+    "published_kabul": "2026-11-21 04:09 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 0,
+    "relevance": "ارتباط محدود",
+    "category": "اقتصاد جهانی",
+    "archived_at_utc": "2026-11-20T23:45:32.079821+00:00"
   }
 ]
