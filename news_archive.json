@@ -1278,10 +1278,11 @@
     "source": "Forex and Central Banks",
     "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
     "confirmed_sources": [
-      "Forex and Central Banks"
+      "Forex and Central Banks",
+      "Economic Reports"
     ],
-    "source_count": 1,
-    "confirmation_status": "یک منبع ثبت‌شده",
+    "source_count": 2,
+    "confirmation_status": "تأیید چند منبع",
     "title": "Bank of Japan to raise interest rates in December and again by end-March, economists say - Reuters",
     "summary": "Bank of Japan to raise interest rates in December and again by end-March, economists say Reuters",
     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNd2tVS3ktQThQZmhzbFBGVmwzRDlycmtudVhLTk1vLWpJeDlQMFBqV1J3bFZXNGtTT0VfRGJaWUxBeWNWck0tblgzbTJsQmM4SXNRbUVXZEo1Nk1UdWpONURjY1I5RnJsVmRuRzdra2VFSVlyYnJUTnhjUXNjNUJKU2YtWDBfQkZuWFV2d3FJZTdFSzZKdHgyM242QzVReUJENE52TEtXaWlfMnNlNGZkejlzRGR3TnM?oc=5",
@@ -1291,7 +1292,8 @@
     "relevance_score": 22,
     "relevance": "ارتباط محدود",
     "category": "بانک‌های مرکزی و نرخ بهره",
-    "archived_at_utc": "2026-11-20T13:30:49.746857+00:00"
+    "archived_at_utc": "2026-11-20T13:30:49.746857+00:00",
+    "last_confirmation_utc": "2026-11-20T14:30:41.733583+00:00"
   },
   {
     "source": "Forex and Central Banks",
@@ -1482,5 +1484,62 @@
     "relevance": "ارتباط محدود",
     "category": "بانک‌های مرکزی و نرخ بهره",
     "archived_at_utc": "2026-11-20T14:16:00.820232+00:00"
+  },
+  {
+    "source": "Economic Reports",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Economic Reports"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Cutting through the Noise: A Fresh Look at Trimmed Mean PCE Inflation - Federal Reserve Bank of Boston",
+    "summary": "Cutting through the Noise: A Fresh Look at Trimmed Mean PCE Inflation Federal Reserve Bank of Boston",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRGd3MU1jcEt3MnhUV043ZENQOVdaQU5RVktnUEE4b0pMcWZialJPcVZnaHZoZklaTlY2TXc1TUhpMm5pWkQ2RmY1SWZqSTZpdVQydU85eFhndC1McWlZcTZwbHFTZkJ4VHBYRG1SZVNOcE54aThzTE9OR042SUhpUWFfRU9YS1psSXE2TFBjWmtHaGxoWFlMMGpfa3JWam5kLU45OFl1a2ZNd0V5Ni01dUFCRE1VaUJQ?oc=5",
+    "published_utc": "2026-11-19T12:03:09+00:00",
+    "published_kabul": "2026-11-19 16:33 (کابل)",
+    "importance": "زیاد",
+    "relevance_score": 30,
+    "relevance": "مرتبط",
+    "category": "اقتصاد آمریکا و دلار",
+    "archived_at_utc": "2026-11-20T14:30:38.713373+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Canada auto plant the 'front line' in Trump's trade war - KMVU FOX 26 Medford",
+    "summary": "Canada auto plant the 'front line' in Trump's trade war KMVU FOX 26 Medford",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZ0lqVEZZUmFxeU5BOFBWeU4tamJRMWdrM01GZ3JEdTB6NUhzQXRqMkVVbFdfNXZsZms1aTBCZDE2Z24wREYxWnY4NmxtM0hzVzRRWHdnX0UydEN2TVRzUlE0ZzRiX0hrcVV1UVB6UE5DMms2Uzk5T3N5UHRUSnFfTTdReGtaS1Q0cWxKVzVkaklYSVhzZUVqWUdpR2tiNjFpZFA4QkpTQl9jamNFcDl4VWZPa05hUXVtNkJ1bUswZldRQ2N2M1d5dFpOUGNfdGstVnZveFlIWGs3S2N6VUE?oc=5",
+    "published_utc": "2026-11-20T03:01:52+00:00",
+    "published_kabul": "2026-11-20 07:31 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-20T14:30:46.318621+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Marcos: PH-US trade deal covers tariffs, wider access to US food, energy SHENZHEN, China – President Ferdinand R. Marcos Jr. on Friday said the Philippines-US trade discussions cover both the tariff issue and a separate initiative to expand Philippine acce - Facebook",
+    "summary": "Marcos: PH-US trade deal covers tariffs, wider access to US food, energy SHENZHEN, China – President Ferdinand R. Marcos Jr. on Friday said the Philippines-US trade discussions cover both the tariff issue and a separate initiative to expand Philippine acce Facebook",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSnZGamhHV1N1N0VwRllyaE5kRndKM09NelpBYllvUU5TLVFPZjhQS2JwMUxidEY3cXNNZ2hTM2hBbkJrcTliVXVRTTdEdjUwb1ZZX1lrdVZmUE10LUwxS1Mzdno0TEtveGVlWFlHZC1STG1JT1VXTzdFSXB0YW1uYjg1NzM2N1dhdUM3REJkWU94bnFvNTdobTBzRlY4WC1jQkc3aWxQMVJOZFdPZVZrc19qVnpqaFVla1VhaG4yUGNhYmhlLUZJTlZnOVFwNTVROWxWWWFB?oc=5",
+    "published_utc": "2026-11-20T11:45:04+00:00",
+    "published_kabul": "2026-11-20 16:15 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-20T14:30:55.075967+00:00"
   }
 ]
