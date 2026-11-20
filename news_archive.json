@@ -1425,5 +1425,62 @@
     "relevance": "بسیار مرتبط",
     "category": "طلا و فلزات گران‌بها",
     "archived_at_utc": "2026-11-20T14:01:24.116584+00:00"
+  },
+  {
+    "source": "Economic Reports",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Economic Reports"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Bond yields are rising everywhere—except China - The Economist",
+    "summary": "Bond yields are rising everywhere—except China The Economist",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcDV6c3lGUngyMDRuWXBtNERZZFhpQktSNi1Gbm5uMVVRNmxXaHBSaXNCdnBQSF90WEJaeU1QNTluT3p1YmtFbUlmMFZPQzEwMHZRQjJWWTYtcDNpanVYUXJ6WEZiTzdwUWFuQ1Y4RHlCa1VoM3BDMjA4c1l1aTlmb0x2czUtQ3JRQmNUSHVuR0tpRm0tMWdmSGFSWncxVnJNODg5Z3lBM0c?oc=5",
+    "published_utc": "2026-11-19T10:04:37+00:00",
+    "published_kabul": "2026-11-19 14:34 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 10,
+    "relevance": "ارتباط محدود",
+    "category": "بازارهای جهانی",
+    "archived_at_utc": "2026-11-20T14:15:46.531280+00:00"
+  },
+  {
+    "source": "Economic Reports",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Economic Reports"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Robin Brooks: U.S. real interest rates are higher now than before global financial crisis - Traders Union",
+    "summary": "Robin Brooks: U.S. real interest rates are higher now than before global financial crisis Traders Union",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMHg5Z1J5eDZuYlpLOHZNSUVUbzlyY2ExVHJYUjc2VGNqYXNiXzF6T3BjOEd3bU5XVVplOGc4RE9NX055VlVlek4wX2VzS1RieG9TM0RpNWpHT24zSldrU1AweWhZV3cxTkVYZ3Nnc3Z4QkhGU01tVkNFTjhNaWtRNjVoSDIxUQ?oc=5",
+    "published_utc": "2026-11-20T13:50:11+00:00",
+    "published_kabul": "2026-11-20 18:20 (کابل)",
+    "importance": "زیاد",
+    "relevance_score": 32,
+    "relevance": "مرتبط",
+    "category": "بازارهای جهانی",
+    "archived_at_utc": "2026-11-20T14:15:53.431910+00:00"
+  },
+  {
+    "source": "Economic Reports",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Economic Reports"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Analysis-BOJ’s ambiguity on rate hike path could tempt yen bears - WTVB",
+    "summary": "Analysis-BOJ’s ambiguity on rate hike path could tempt yen bears WTVB",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSzJqOEpBNm1kazFBSDZ0Y3VQQ2xOdEtCN2wzNzdhRFRqRFh1MXBLR2M1cDlwZzlNdUZkUFc3aENmMnloRWoweHBzVC1qVnNPMWt0QmVLaXREQkRuQWIyajFleVJ5cUw0NVRzODU5enF5VEtISXJxOXdhR0REQk83d3lWMTFyUmV5VkFYUjA1b2RxZjI4LVF3T1RB?oc=5",
+    "published_utc": "2026-11-20T04:28:24+00:00",
+    "published_kabul": "2026-11-20 08:58 (کابل)",
+    "importance": "کم",
+    "relevance_score": 22,
+    "relevance": "ارتباط محدود",
+    "category": "بانک‌های مرکزی و نرخ بهره",
+    "archived_at_utc": "2026-11-20T14:16:00.820232+00:00"
   }
 ]
