@@ -853,7 +853,8 @@
     "relevance_score": 45,
     "relevance": "بسیار مرتبط",
     "category": "طلا و فلزات گران‌بها",
-    "archived_at_utc": "2026-11-20T11:30:48.625575+00:00"
+    "archived_at_utc": "2026-11-20T11:30:48.625575+00:00",
+    "last_confirmation_utc": "2026-11-20T12:30:46.584831+00:00"
   },
   {
     "source": "Gold Market",
@@ -1025,5 +1026,62 @@
     "relevance": "بسیار مرتبط",
     "category": "طلا و فلزات گران‌بها",
     "archived_at_utc": "2026-11-20T12:16:11.357002+00:00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Gold Prices Hit 14-Month Low as Strong Dollar and Fed Rate Hike Bets Drive Weekly Sell-Off - Yahoo Finance UK",
+    "summary": "Gold Prices Hit 14-Month Low as Strong Dollar and Fed Rate Hike Bets Drive Weekly Sell-Off Yahoo Finance UK",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9hZlFpTWljQTB3bFhudTY3NW1yVEdYelJBVGNpZDI4NVp1T3pucGRfR1FLSl9GNFhHVVplNHB5TVN2UEd2TEVYVE56bGQ4YV9ONU9KZTl2RzFWTGdqeDNjdkZvS1liYnp2WFVlVWRlb0RvZVBKY1pSVXdYd0ltQQ?oc=5",
+    "published_utc": "2026-11-20T09:52:39+00:00",
+    "published_kabul": "2026-11-20 14:22 (کابل)",
+    "importance": "کم",
+    "relevance_score": 75,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-20T12:30:36.373864+00:00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Cowboy Christmas presented by Texas Precious Metals Launches ‘10 Days of Cowboy Christmas Scavenger Hunt’ - NFR Experience",
+    "summary": "Cowboy Christmas presented by Texas Precious Metals Launches ‘10 Days of Cowboy Christmas Scavenger Hunt’ NFR Experience",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQlVpWC1XMkdIMng0dEd1clhxT1VHeERZOGlzM250ZFR4dFFkYkpSZjI0d0pQZzJyZVN0eGF4djU3NUZxSXp3aHItc2Z5aGpySTdqZlBfMkg1LUUwNkQyVmR5SFBMc2E2SHRKNHh3dkUtNk1IM0Rfcy0zSmpfeGxCbm0yWGprNmZMSDVOV0tNREtSMUdmOVBMYmltMzZXRlg0TzFSOWpzTDl3N1d0Y1o3SDIxQUtTRHhvaWZjQ1E4OVQ5eXRxNUQ3VGxmUzJFbTNzMzFLZg?oc=5",
+    "published_utc": "2026-11-19T15:49:40+00:00",
+    "published_kabul": "2026-11-19 20:19 (کابل)",
+    "importance": "کم",
+    "relevance_score": 45,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-20T12:30:43.573009+00:00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Silver Miner Backs Bill Breaking NY's Grip on Precious Metals Vaults - Streetwise Reports",
+    "summary": "Silver Miner Backs Bill Breaking NY's Grip on Precious Metals Vaults Streetwise Reports",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOThKUEdFbjN2NHBERm5FVUk1Z0tseFoxaDhXXy1FSW0zQnA1S3pKZG9FM3hMc0R4Q1FVeUJOcWUzSW5Bc3AwZjE1VDR5MEFmb0VySXoyQkQ2eDE0VFJFdk1jT0NWVzdIc3dQTnFXZmp0TjFjQXhpOEFfYkNwaVlfcUI4TENxX1JRb1BBT1pPejdrTFZzSmpwOG5uZXdTSlZDS00wMUJnQVEybEhZckN2Wkl0T0FlcUhfdy1JUG9zRlRDdVE?oc=5",
+    "published_utc": "2026-11-20T06:09:58+00:00",
+    "published_kabul": "2026-11-20 10:39 (کابل)",
+    "importance": "کم",
+    "relevance_score": 45,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-20T12:30:50.767832+00:00"
   }
 ]
