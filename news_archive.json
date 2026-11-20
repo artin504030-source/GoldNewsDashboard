@@ -1911,10 +1911,11 @@
     "source": "Oil and Energy",
     "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
     "confirmed_sources": [
-      "Oil and Energy"
+      "Oil and Energy",
+      "Oil Trade and Supply"
     ],
-    "source_count": 1,
-    "confirmation_status": "یک منبع ثبت‌شده",
+    "source_count": 2,
+    "confirmation_status": "تأیید چند منبع",
     "title": "How Energy Security Is Reshaping Global Investment Decisions - Crude Oil Prices Today | OilPrice.com",
     "summary": "How Energy Security Is Reshaping Global Investment Decisions Crude Oil Prices Today | OilPrice.com",
     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQR2xWZ2x2eWxfVXZfQUlLZXc2TWdxSVlId3JsYm5GUUJ6QjluS1A2QmcwLWdjdTdNd05IUTBOQktmdWE3dTdNZmkxWFE1SVhZcElIeS1wVzJuM0pWM25uZVB3MG83UjFkN0VBa2pLWTUtMlVqYTFCVnJpaEs4b0NTV1g5bU1uTDI0TE9zNFRyLXNyNVdsejlnLXFkWXlMMmE1WTJuVDNxT3FnaHlm0gGyAUFVX3lxTE8xSXcyUFA3T3cxRE1lUWhvMXRyb0JoMExwMDMyd014elJjcmRlejNYMFlsd1U1Qi02ckVKanVNSlduWnpBdUVQRVhPRzhBZHBMN2JDUHJXaE9wNm9QQTVoWTFvUGlaSlRRY3RTMFlCaE5CMlVyTW9ybnpTTUlBRGhyVWwxWVdfUVE1ZUpvazNYOFRmRkNlYzBEalZzMXJWNFJMV1dpR2pYWTBwYndlZVJEbXc?oc=5",
@@ -1924,7 +1925,8 @@
     "relevance_score": 12,
     "relevance": "ارتباط محدود",
     "category": "انرژی",
-    "archived_at_utc": "2026-11-20T16:15:59.244305+00:00"
+    "archived_at_utc": "2026-11-20T16:15:59.244305+00:00",
+    "last_confirmation_utc": "2026-11-20T19:45:58.461844+00:00"
   },
   {
     "source": "Oil and Energy",
@@ -2044,10 +2046,11 @@
     "source": "Oil and Energy",
     "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
     "confirmed_sources": [
-      "Oil and Energy"
+      "Oil and Energy",
+      "Oil Trade and Supply"
     ],
-    "source_count": 1,
-    "confirmation_status": "یک منبع ثبت‌شده",
+    "source_count": 2,
+    "confirmation_status": "تأیید چند منبع",
     "title": "The Middle East War Has Wiped 2.8 Billion Barrels Off Global Oil Supply - Crude Oil Prices Today | OilPrice.com",
     "summary": "The Middle East War Has Wiped 2.8 Billion Barrels Off Global Oil Supply Crude Oil Prices Today | OilPrice.com",
     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUklXc2tqX0d3Rmx6a1hQUV9YNTFuUHEwTjBvd1cyUnRrNHJTTHVhNENpZVdYMzMyUmlydDMtYWVQRjJ6aEZSZ1FlQW90SWNYWTQyQXNVdGtjanBQS0dDd3BpbXNUbTBZSmQxUGdOZTFuM3RkSVJCc1JoTmJjTllaZmdyM3R4R2sySHZmWDBYbURISllGeUR3UmVUNTktamRZelB5dVVfLVlTVzg0djZsTnpVeHR3cVJmb1Zuc21CVzdpUXRn0gHKAUFVX3lxTFBvdGtlOXFNbmJxeWhHM0lkdExSdEtoWUhrbUdYWUVDMXFpd3p5cGpoQzA4X0tHOThJWFpCVXZTMHlXbDI4bU93RV9Ebk8tZERNNWRxNENyOFE0bmg5cWo2eFRRSHFpTjdVeTQ5QURsQzRnX1dnNXdTeDJ3Qjhic1VlOTk3OHZ0ZndqT0Z3NHE3enN5Y1JsSEI2bS1wQUptZ0R3Qmp6TmNjYVNoUHJ6UndjNU9VRFhZeU5IQnY4TUZaOEhsNlpxTEtyVEE?oc=5",
@@ -2057,7 +2060,8 @@
     "relevance_score": 28,
     "relevance": "مرتبط",
     "category": "انرژی",
-    "archived_at_utc": "2026-11-20T16:45:47.662781+00:00"
+    "archived_at_utc": "2026-11-20T16:45:47.662781+00:00",
+    "last_confirmation_utc": "2026-11-20T19:46:05.920520+00:00"
   },
   {
     "source": "Oil and Energy",
@@ -2742,5 +2746,62 @@
     "relevance": "ارتباط محدود",
     "category": "انرژی",
     "archived_at_utc": "2026-11-20T19:30:55.232401+00:00"
+  },
+  {
+    "source": "Economic Reports",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Economic Reports"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Trump accuses the Federal Reserve of being very politicized and attacks high interest rates - Demócrata",
+    "summary": "Trump accuses the Federal Reserve of being very politicized and attacks high interest rates Demócrata",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeVlsYk9UY3g4RUNPdzlHREU5ZUJ4bDFpeVJvODU5MXhyVUd1TURxNjJna2s2NVZsQ0EyUC1iMHhyNTlfZUVJVUJPdEdXMHdmc0V0YUlnemRnQmsyanRmc0hpSTVpUWgwbXp1ei1NaXplNFVaSVFwOXVZeHkxck8tNXVWbHRXSGNFWkJ2U2ZfbjAtS0kyNGdkNXQ2aFBkcE5pZVpDalhvZHkxeGFaME5MaGgxd3dVa3B5Ti1NVGFOS2hPeVlKRDRN0gHMAUFVX3lxTE03QVcwLVZsaEtDT200Tm5fMkI4aVFySGpsZTVCOWFuRGZGX3NXaEg1T0IxeUUyU1JZbm1Wb2pwbE1SQm5yb29vSXZSRDRaendndHdjSEdZRl9UZy1YQVJ5My1LZUl2b1RJZ0JaVlJ1UUFDQlpZNkdYZnBMaHBfbDdYZl8xcEhMaXN3bHNJRF80aFFPU0U1OE5MSjN4dGpNU09fTlZnMGVBYlgzVFNTZTZFdGdLYlhRZ216ZnFWWHZ5VjBJSjBab0tRVy1vTQ?oc=5",
+    "published_utc": "2026-11-20T19:26:35+00:00",
+    "published_kabul": "2026-11-20 23:56 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 52,
+    "relevance": "بسیار مرتبط",
+    "category": "اقتصاد آمریکا و دلار",
+    "archived_at_utc": "2026-11-20T19:45:52.648818+00:00"
+  },
+  {
+    "source": "Oil Trade and Supply",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil Trade and Supply"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Iran prepares to resume oil exports despite US blockade — OilPrice - UA.NEWS",
+    "summary": "Iran prepares to resume oil exports despite US blockade — OilPrice UA.NEWS",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTFhNSl9HMWoycDdsbDBETVQ0bkJodjdJZ2FBQk1yYjhKMGRrM1BuODBBdk5LaHl6TFpHbVZLYzAxUWFVWHZIbHpvTHBIMFl1cmNEYXpiMmxDQm5Tay1zUVFTVHJIdWRzclFCczNQcHZsdFM0RFFLa0ZTQTU4WXBxZElBaXQ5S0dWSGw4dkR3TDYxTWI0Ty0tM1JHWFlTU1puWHc?oc=5",
+    "published_utc": "2026-11-20T09:26:16+00:00",
+    "published_kabul": "2026-11-20 13:56 (کابل)",
+    "importance": "کم",
+    "relevance_score": 28,
+    "relevance": "مرتبط",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-20T19:46:02.881574+00:00"
+  },
+  {
+    "source": "Oil Trade and Supply",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil Trade and Supply"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Iran War Wipes Out 2.8 Billion Barrels Of Oil Supply. Why Are Crude Prices Falling? - International Business Times",
+    "summary": "Iran War Wipes Out 2.8 Billion Barrels Of Oil Supply. Why Are Crude Prices Falling? International Business Times",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ydThRS1E1Wko3SkpSZHVndmhTeDFwR3BoYi1FdUVGRDY0NHdOVzhGWUxKTU5sR0lseFhlSmx5MzR0bnM2alczR2hCQThLbkczVTQ0NFNRd3lMZ3VFVUk3TGtMU0tlNi1EZmdoRXRIUlJURVY5bTZLSU9mZ0U?oc=5",
+    "published_utc": "2026-11-19T18:09:37+00:00",
+    "published_kabul": "2026-11-19 22:39 (کابل)",
+    "importance": "کم",
+    "relevance_score": 28,
+    "relevance": "مرتبط",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-20T19:46:10.052799+00:00"
   }
 ]
