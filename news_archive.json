@@ -2227,5 +2227,62 @@
     "relevance": "مرتبط",
     "category": "انرژی",
     "archived_at_utc": "2026-11-20T17:16:09.457723+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Canada auto plant the 'front line' in Trump's trade war - AFP.com",
+    "summary": "Canada auto plant the 'front line' in Trump's trade war AFP.com",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBIVzYya2hxQWFrb0RVdkRtUmQyaFpBSjN0aGRtVTVXckhfaGlFOWN5QVpXTDh4cGNpYWtXR3l3RWM5YVFmT2Zrb2ozdE9LQS1OWWI2X0RWRWs1eTd3NWQ2eTE2WjlzMDJUVGFfUEZFTkhHaVplVE93?oc=5",
+    "published_utc": "2026-11-20T02:18:28+00:00",
+    "published_kabul": "2026-11-20 06:48 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-20T17:31:00.757672+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Connecting the dots: Why falling oil prices might not deliver the inflation relief everyone expects - investingLive",
+    "summary": "Connecting the dots: Why falling oil prices might not deliver the inflation relief everyone expects investingLive",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSnBJX3g3SGF4eFQ1aHI1UGg0VHVmM3AyeGN0X2NnNHQwQl9vVVJNal9vX3Q1N3ExTzRncW1mbmVWX1c2VUFlNFEtd0VINnA2OHVwT1lZWnFyMFM5T3pycW0td0lNVFRVQ2UtVVNSdXkxVnpMdGpDUEtzZW9UVnVDb2Z5Um8zMERYOVpNR0d2NmtFSnpTOG1tZEZLMG5ySDVyMDhPdTQyMzl1VG9BZW5mUmRPSk1Xd2puVlV3Yl84UUNHZUd5b3pXSVE4b1ktOERj?oc=5",
+    "published_utc": "2026-11-20T06:09:44+00:00",
+    "published_kabul": "2026-11-20 10:39 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-20T17:31:09.178113+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Canada Builds an Energy Exit From the U.S. - Crude Oil Prices Today | OilPrice.com",
+    "summary": "Canada Builds an Energy Exit From the U.S. Crude Oil Prices Today | OilPrice.com",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVmdKZnVYYVo3eEU0Q0Z6OGZNbVJvVTV0XzVVZlNqcGNDRnZHNlE3ZFpXUm10SzRtcDlYUzB5YmFrb3BpeUdESFJqSVFLN0JkOUhfTFNtcWV4MHctbTBOMXJkM1RMVFBQYlpNdkNYZjdUYWliUDJsWWhnbE01VFpqWmFWSHZhOWswYkd2TGdXY1hsUdIBlwFBVV95cUxPUGN1RnRyV3pkNkdhTEJ0V0JGYXhXREJkYkhQaFdLWGFmbm9mOTkxc0lKZnJCMU9nd3JYS0g5QTdpVDY5TlQxMmszajdkb1RWOTkyQVFVSXhfQkxxTmV4SUt0RkZXSmhibGNBQ01PVy01NWljLU5TZC1weFAyeHlOY0hBb3QxQzRfb20xbjMtZzFQVEtOQndv?oc=5",
+    "published_utc": "2026-11-20T01:00:00+00:00",
+    "published_kabul": "2026-11-20 05:30 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-20T17:31:16.372959+00:00"
   }
 ]
