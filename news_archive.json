@@ -607,5 +607,24 @@
     "relevance": "بسیار مرتبط",
     "category": "طلا و فلزات گران‌بها",
     "archived_at_utc": "2026-11-20T01:42:53.234499+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "‘War of Necessity’: Trump Gets Senate Backing to Continue Fighting as Democrats Fail to Block Further Military Strikes - Benzinga",
+    "summary": "‘War of Necessity’: Trump Gets Senate Backing to Continue Fighting as Democrats Fail to Block Further Military Strikes Benzinga",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPc0tveFppVlBPajNsaVQ5WGFsR3B5SkZnM0VteE9iRXhWTlJENTVWZngxankzd2daM3dMTHVEbkRvYzVkYkxGMXF4RXFReWF0SHR0NjgyQ1lSSVhzNHhwVTVPOEdSYWFNSXdheVE5WTRzNS1INk1tdEpxeFBRVmUwS1RfczdXY0NLN1ZsbWVQUVM?oc=5",
+    "published_utc": "2026-11-20T05:52:48+00:00",
+    "published_kabul": "2026-11-20 10:22 (کابل)",
+    "importance": "زیاد",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-20T10:25:27.734268+00:00"
   }
 ]
