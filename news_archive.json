@@ -2314,10 +2314,11 @@
     "source": "Oil and Energy",
     "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
     "confirmed_sources": [
-      "Oil and Energy"
+      "Oil and Energy",
+      "Oil Trade and Supply"
     ],
-    "source_count": 1,
-    "confirmation_status": "یک منبع ثبت‌شده",
+    "source_count": 2,
+    "confirmation_status": "تأیید چند منبع",
     "title": "Iran Steps Up Hormuz Tanker Attacks as Oil Prices Slide - Crude Oil Prices Today | OilPrice.com",
     "summary": "Iran Steps Up Hormuz Tanker Attacks as Oil Prices Slide Crude Oil Prices Today | OilPrice.com",
     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYWxOSGVhc01femVDaXk1TmxpZU1vOG91Ym02U3o2RWVjZTFWZXFOZ01xdHJfZDQ1TXJzRXROSXBNOTB6U0ZFeW84eUVGYWtydUdxTUU2c1V5aFF0UDZXdV96d2ZfV0dYcWdkMm10QzNuRThJY0hXVHRaOXVBNHJwamplUndGenRFdVNXY2g5WEdmWXJOSmJxNU9lSS1hSFc2TDdoNHk5TFVUVk83b2w3etIBtgFBVV95cUxNNGpxUHFWcjgxeTV4dU9waElnQVRVRlFtQkViajJ5aGp6bVg5N3Z5YmtKWGJqRnhRLTU0OFV6cWhJemNjMzN6VU9hVENzZ2JVYXpNa05kMnozWkx6SjFDR1lZSVRnSlFEXzBqblZrU294SU9DZXRqTzZhNmZaTlp6NUhpaVJMaG9ocG1YZ2VJR0pyYVhlNlI2SnM5N3c5elJJS0wzYnhCVEdXY0ZhWG9ZY0lad0U0QQ?oc=5",
@@ -2327,7 +2328,8 @@
     "relevance_score": 28,
     "relevance": "مرتبط",
     "category": "انرژی",
-    "archived_at_utc": "2026-11-20T17:45:57.357924+00:00"
+    "archived_at_utc": "2026-11-20T17:45:57.357924+00:00",
+    "last_confirmation_utc": "2026-11-20T20:30:38.871848+00:00"
   },
   {
     "source": "Oil and Energy",
@@ -2880,7 +2882,8 @@
     "relevance_score": 45,
     "relevance": "بسیار مرتبط",
     "category": "طلا و فلزات گران‌بها",
-    "archived_at_utc": "2026-11-20T20:16:27.126240+00:00"
+    "archived_at_utc": "2026-11-20T20:16:27.126240+00:00",
+    "last_confirmation_utc": "2026-11-20T20:30:36.672885+00:00"
   },
   {
     "source": "Oil and Energy",
@@ -2919,5 +2922,24 @@
     "relevance": "ارتباط محدود",
     "category": "انرژی",
     "archived_at_utc": "2026-11-20T20:16:53.391833+00:00"
+  },
+  {
+    "source": "Oil Trade and Supply",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil Trade and Supply"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Iran Moves to Restart Oil Exports Despite U.S. Naval Blockade - Yahoo Finance",
+    "summary": "Iran Moves to Restart Oil Exports Despite U.S. Naval Blockade Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRnd6dUxQaHdlWUpUWXh6OTBPRGlaSzZWUFpyaGJxWnBTbmpZREZaZG1MVi1NVzBkNVkxM2NVQWZoNlFxV2NNeXIteksxQWFJWnFJaENLUk51dkgzVXZTSnZZemMyMFNHYm1POXBya1JKVnNPa3JfXzBIcW1PTm83LUVnUDJWb0NsbkpYSGRVYXg?oc=5",
+    "published_utc": "2026-11-20T09:00:00+00:00",
+    "published_kabul": "2026-11-20 13:30 (کابل)",
+    "importance": "کم",
+    "relevance_score": 28,
+    "relevance": "مرتبط",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-20T20:30:43.079523+00:00"
   }
 ]
