@@ -124,3 +124,15 @@ main.shell{padding-top:36px;padding-bottom:68px}.hero{min-height:252px;padding:4
 
 /* ARCHIVE UX UPGRADE */
 .filter-actions{display:flex;align-items:flex-end}.filter-actions button{min-height:49px;cursor:pointer;white-space:nowrap}.filter-actions button:hover{border-color:rgba(201,164,95,.55);transform:translateY(-1px)}@media(max-width:640px){.filter-actions{width:100%}.filter-actions button{width:100%}}
+
+/* Stage 14 — source and bot health monitor */
+.health-panel{position:relative;overflow:hidden}.health-panel:before{content:'';position:absolute;inset:0 0 auto;height:1px;background:linear-gradient(90deg,transparent,rgba(201,164,95,.55),transparent)}
+.health-updated{color:#91a2b6;font:10px/1.8 Inter,Arial,sans-serif;direction:ltr;unicode-bidi:plaintext}
+.health-stats{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:11px;margin:0 0 17px}
+.health-stat{padding:14px 16px;border:1px solid var(--line);border-radius:13px;background:linear-gradient(145deg,rgba(19,33,49,.92),rgba(9,17,27,.96))}
+.health-stat small{display:block;color:var(--muted);font-size:10px}.health-stat strong{display:block;margin-top:4px;font-size:23px;font-weight:900;font-variant-numeric:tabular-nums}.health-good{color:var(--green)}.health-bad{color:var(--red)}
+.health-list{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:11px}
+.health-source{min-width:0;padding:15px 16px;border:1px solid var(--line);border-right:2px solid #8291a4;border-radius:13px;background:rgba(16,28,42,.72)}.health-source.ok{border-right-color:var(--green)}.health-source.fail{border-right-color:var(--red)}.health-source.unknown{border-right-color:#8795a8}
+.health-source-top{display:flex;align-items:center;justify-content:space-between;gap:10px}.health-source-top b{font-size:12px;color:#e9eef5;overflow-wrap:anywhere}.health-badge{flex:none;padding:3px 9px;border:1px solid var(--line);border-radius:999px;font-size:10px}.health-badge.ok{color:#83e4b8;border-color:rgba(75,211,154,.25);background:rgba(75,211,154,.08)}.health-badge.fail{color:#ffaaaa;border-color:rgba(242,125,125,.27);background:rgba(242,125,125,.08)}.health-badge.unknown{color:#b4c0ce}
+.health-source p{margin:8px 0;color:#aab8c8;font-size:11px;line-height:1.9;overflow-wrap:anywhere}.health-meta{display:flex;flex-wrap:wrap;gap:5px 13px;padding-top:8px;border-top:1px solid var(--line);color:#8192a6;font-size:9px}.health-footnote{margin:15px 0 0;color:#8192a6;font-size:10px;line-height:1.9}
+@media(max-width:640px){.health-stats{grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}.health-stat{padding:12px}.health-list{grid-template-columns:1fr}.health-source{padding:13px}.health-updated{white-space:normal}}
