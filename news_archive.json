@@ -2685,5 +2685,62 @@
     "relevance": "ارتباط محدود",
     "category": "اقتصاد جهانی",
     "archived_at_utc": "2026-11-20T19:15:50.642613+00:00"
+  },
+  {
+    "source": "Economic Reports",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Economic Reports"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Bond Yields Are Up. Should You Stay in Cash or Lock ’Em In? - Morningstar",
+    "summary": "Bond Yields Are Up. Should You Stay in Cash or Lock ’Em In? Morningstar",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBkVXQ5OEpiWWtiMXdCbklLemxXMmppa1ZlY1gxSjlwUE8wX1ViWjBwS3djZTJHemRpS3BlZEZRMUhUNm1oVWZMY0htNmcxeFYyeXZQWkE4NzFBR2V2ZFlGR1ZaY0NmM0ZlU0pMdHVyVW9XdFVyX21MSnFn?oc=5",
+    "published_utc": "2026-11-20T11:02:59+00:00",
+    "published_kabul": "2026-11-20 15:32 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 10,
+    "relevance": "ارتباط محدود",
+    "category": "بازارهای جهانی",
+    "archived_at_utc": "2026-11-20T19:30:39.034065+00:00"
+  },
+  {
+    "source": "Oil Trade and Supply",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil Trade and Supply"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "India's October crude oil imports rise over 4% month-on-month - marketscreener.com",
+    "summary": "India's October crude oil imports rise over 4% month-on-month marketscreener.com",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSGN0R0ZBMlc1NVAzYVhCcGV0RzJ4UEFCZjNaTjVwbXo4eWVEVXM4elhiRU1FeS1zaEtfSUo1Mkwtc2xOUTdpMVFwZ3F1YnZud0tSdnUyN3R2MjVRNU8tN3RjVnI5dWlqX24yVlYwM1R3V3pDWnA5SUh3VlZGenNyZ184VlZ2eERXNEo0Z05JclJ0QnZCeUxCSGlMS19uTDZpckUxLTVhaVJYZ0plRldiejV0Zw?oc=5",
+    "published_utc": "2026-11-19T18:15:05+00:00",
+    "published_kabul": "2026-11-19 22:45 (کابل)",
+    "importance": "کم",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-20T19:30:48.058591+00:00"
+  },
+  {
+    "source": "Oil Trade and Supply",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil Trade and Supply"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Global Cooling Demand Overtakes Heating for the First Time - Crude Oil Prices Today | OilPrice.com",
+    "summary": "Global Cooling Demand Overtakes Heating for the First Time Crude Oil Prices Today | OilPrice.com",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeERPMUtsc1BtMXJmS3hfU2R2TkNCZmM3MzZtTVcyOHJVeGpUVExDZFNIYnk0OFhRaV9hb0tDWkVNSml4WXM1VGtTS0Vad1FqZ1ZBRXl0N0xkYmg2ZDl0QzdNTV9GcU9rekw2LWFvWlREWDBtOVd2OFQxRnV0VVIxUEpRNHFleG9uMHJWZFlpelpnUi1VWnpDcTA0aXVmWDZfNmF4UkdvSUU5WXM4VFlHT0tiUFbSAboBQVVfeXFMTjdWTXhBWFlINzdackwza2o2anZoOEQ5RkhpLTg1MHNUS2ExY2JTRlF4QmpUbnFLcy1JWC1ja25nRmlGZ09sSU9QUWM4aHJlbUxGVU1iVUljMVIxM2dtZ3MzMTZsRjQycmxIVDh0RkFqNzhXeVF1bWtNLVlTYnNEeW1Idlc5SnFEMHBmMld0andUb1o0T2FZLUMwamEwWGxsWDRDbTZQUUZPSm1pa0VIeDdrelZJTEJuWk93?oc=5",
+    "published_utc": "2026-11-19T11:30:00+00:00",
+    "published_kabul": "2026-11-19 16:00 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-20T19:30:55.232401+00:00"
   }
 ]
