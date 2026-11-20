@@ -188,7 +188,7 @@
     "relevance": "بسیار مرتبط",
     "category": "طلا و فلزات گران‌بها",
     "archived_at_utc": "2026-11-17T23:54:51.218193+00:00",
-    "last_confirmation_utc": "2026-11-19T11:57:57.180794+00:00"
+    "last_confirmation_utc": "2026-11-20T13:45:51.690358+00:00"
   },
   {
     "source": "Gold Market",
@@ -1311,5 +1311,62 @@
     "relevance": "ارتباط محدود",
     "category": "بانک‌های مرکزی و نرخ بهره",
     "archived_at_utc": "2026-11-20T13:30:57.048914+00:00"
+  },
+  {
+    "source": "Forex and Central Banks",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Forex and Central Banks"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Tokyo FX: Dollar Retreats to Lower 159 Yen Range as US AI Company's IPO Weighs on Stocks, Bond Yields - BigGo Finance",
+    "summary": "Tokyo FX: Dollar Retreats to Lower 159 Yen Range as US AI Company's IPO Weighs on Stocks, Bond Yields BigGo Finance",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE81TzJyLThJU1lkU284S3o5Nm4yVDRKemgtSnlSbjNDNEtSSnJjcDFrV3pYYmpCRk5HVHFkMjZiaS0zY3U5TVBzeF93ZEp2YU55N3MzUTVWN0F6dXh4ektmZWxKeXh4eHJCbXFWbnFveF9URkNja0E?oc=5",
+    "published_utc": "2026-11-20T07:05:00+00:00",
+    "published_kabul": "2026-11-20 11:35 (کابل)",
+    "importance": "کم",
+    "relevance_score": 10,
+    "relevance": "ارتباط محدود",
+    "category": "بازارهای جهانی",
+    "archived_at_utc": "2026-11-20T13:45:56.950377+00:00"
+  },
+  {
+    "source": "Economic Reports",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Economic Reports"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Australia’s unemployment rate hits a five-year high. Has the RBA finally finished raising interest rates? - Property Update",
+    "summary": "Australia’s unemployment rate hits a five-year high. Has the RBA finally finished raising interest rates? Property Update",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWWZ2Z0NtMElYdGdhM0VpT2NEZmJ6dWlPdzRJOWVFVnNTbGQzc1JmVDdKbDQ1MzBLY1pRbTV2dzdMZzdobzdmekxHcWJGVk8xR0NVamhkakh3Uzdxa2lZS0RZbVJBSTBpMzJjRDhqcXhkRVZwWG83NzFTdTFiVDdoeFFRMlFjLXN4VndIUVU5MzBEU1lCTXczZWFwSmZNdTZlc1Y1Z2h0ZE0tUExwUmNRWnJ5ZUdKRzBJdXFWbTVpTjJ0ZkZHb1czaEc0WjFNZw?oc=5",
+    "published_utc": "2026-11-20T06:48:37+00:00",
+    "published_kabul": "2026-11-20 11:18 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 22,
+    "relevance": "ارتباط محدود",
+    "category": "بانک‌های مرکزی و نرخ بهره",
+    "archived_at_utc": "2026-11-20T13:46:06.165267+00:00"
+  },
+  {
+    "source": "Economic Reports",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Economic Reports"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "BoJ Governor Ueda: Real interest rates stay low in short-term zones despite previous hikes with biggest effect on economy - Forex Factory",
+    "summary": "BoJ Governor Ueda: Real interest rates stay low in short-term zones despite previous hikes with biggest effect on economy Forex Factory",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbTJtNUdtN0ZhbXJwUy11cWNHQmhxT1dKMEtDWmNPRE1ZMU5fNUdTQnVJU1VPb05keWlNVmpyUDYtd3RCUFlrQ0JxQldjVmNjZjFaa2tKYXNSRnlXTS1PRjJEaDBzVDRVdVowSkU3ekwyZDRKSEszemZTUm9QU1dzT21jVFNFOGxLVDBHSGNSS19wQdIBlwFBVV95cUxQWkxPX211MmhLUE96TzFTM05hUHJyWml3Y3c4TklMbmVGM19KcUpfWWlLcnBrRmpSZzU2WV9WUWVUNTl2bFRVWmVxZ1lHSkxyR2Y4ODd4a3VDRmNLblc5RS1VZWtudm1TcnVCQjM5bFo1bzF0ZlNUUmtkUW9IV1lsQUNISVA4WGFDc3JicG5RZE5YeFIzOERF?oc=5",
+    "published_utc": "2026-11-19T02:09:52+00:00",
+    "published_kabul": "2026-11-19 06:39 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 22,
+    "relevance": "ارتباط محدود",
+    "category": "بانک‌های مرکزی و نرخ بهره",
+    "archived_at_utc": "2026-11-20T13:46:13.660745+00:00"
   }
 ]
