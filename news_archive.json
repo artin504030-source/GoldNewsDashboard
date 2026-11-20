@@ -3075,5 +3075,62 @@
     "relevance": "بسیار مرتبط",
     "category": "طلا و فلزات گران‌بها",
     "archived_at_utc": "2026-11-20T22:30:57.649300+00:00"
+  },
+  {
+    "source": "Economic Reports",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Economic Reports"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "The Federal Reserve is Expected to Raise Interest Rates Next Month. By How Much Is an Open Question. - Barron's",
+    "summary": "The Federal Reserve is Expected to Raise Interest Rates Next Month. By How Much Is an Open Question. Barron's",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdTFoLTh6OXU1N2ZjSmNYN09CTWhISTZuaVhMSXJCbklsdEFyWGpQN3B3c0NieVdVRUV6VnRDYjdIWG1vaFVOQWRRM19ZaklQMUZuUktlT2hCT3V3NnhCZDg2Y215b09aVmFFRkNyeTNmYzZYYWt1LXlnRkM3bG1ad1YxdGVNUnVhcE82RXh4TQ?oc=5",
+    "published_utc": "2026-11-20T22:39:00+00:00",
+    "published_kabul": "2026-11-21 03:09 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 52,
+    "relevance": "بسیار مرتبط",
+    "category": "اقتصاد آمریکا و دلار",
+    "archived_at_utc": "2026-11-20T22:45:48.485719+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Tankers Are Being Hit Daily. So Why Is Oil Falling - Crude Oil Prices Today | OilPrice.com",
+    "summary": "Tankers Are Being Hit Daily. So Why Is Oil Falling Crude Oil Prices Today | OilPrice.com",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNkVuN2hKSkxKQTdtQl84WTJabnJNWlI1SWVaQ1lJMDVPY181SmNaLWEweGxLcVhZamdJS0ZyQWJxNnpzUmV0aUFmZldyUUpCTW5HRTMyYVc3Zk5DSHVNUzAyb0Y1UlpPb0NidGlWdTRqaVVwS2p5RTFWQkMwdElZS2NsdkEwTXVBTGRtVTJMeC1XNEtWenp30gGcAUFVX3lxTE1jR19RajlSRXNqaEtwamtrVzhYbERpRnVGSGwyejJTOVE2ZEx2YWxEOGM5U1E4YndLdXg3eTN6aFMyZmxMdlRZem5wU0IxTWIteVhUNE9VbGU1WmFmbFdWX3l2cU5xNW1PWVVITGNudG9teEU1UktWR1ZZUl9kSVZRcjlJMVRCdmVlc1YzWThERXdZZ1otbE5WcWxyZA?oc=5",
+    "published_utc": "2026-11-20T17:11:05+00:00",
+    "published_kabul": "2026-11-20 21:41 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-20T22:45:56.673106+00:00"
+  },
+  {
+    "source": "Oil Trade and Supply",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil Trade and Supply"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Iran readies oil tanker convoy at Kharg Island to challenge US naval blockade - Latest news from Azerbaijan",
+    "summary": "Iran readies oil tanker convoy at Kharg Island to challenge US naval blockade Latest news from Azerbaijan",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYk9ubUtpYUpMUWZ0V3drNlVsR0NSV1V6aHNCUUFjMTNjV1JmZ2c2aVN4ZE94cF9ZRUxWc3JZWEVFYkZJRTE3ajRHM1BsR1NzdlVlTkx5QV9MMnA1R3NXMUVuQ2xIWW9QaEFMWndZYjBtUjNTckJrRFVsODZhc05ZazRxZndtajJVZVFJWHBwRzNkSHdaMlFvTnE0cFZpbkU?oc=5",
+    "published_utc": "2026-11-20T10:31:07+00:00",
+    "published_kabul": "2026-11-20 15:01 (کابل)",
+    "importance": "کم",
+    "relevance_score": 28,
+    "relevance": "مرتبط",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-20T22:46:04.580106+00:00"
   }
 ]
