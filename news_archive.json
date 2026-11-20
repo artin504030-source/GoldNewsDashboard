@@ -1598,5 +1598,62 @@
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-20T14:46:15.054819+00:00"
+  },
+  {
+    "source": "Federal Reserve",
+    "source_status": "منبع رسمی",
+    "confirmed_sources": [
+      "Federal Reserve"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Federal Reserve Board releases results from survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
+    "summary": "Federal Reserve Board releases results from survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120a.htm",
+    "published_utc": "2026-11-20T15:00:00+00:00",
+    "published_kabul": "2026-11-20 19:30 (کابل)",
+    "importance": "کم",
+    "relevance_score": 30,
+    "relevance": "مرتبط",
+    "category": "اقتصاد آمریکا و دلار",
+    "archived_at_utc": "2026-11-20T15:00:39.170110+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Tariffs keeping essential baby products costly despite U.S.-China deal - Kiowa County Press",
+    "summary": "Tariffs keeping essential baby products costly despite U.S.-China deal Kiowa County Press",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPblBfakVfSm1MVDVibWV2UnFCVkowbGl0eTVpVlBkenZXRFRDT04xMU9FRDZtTV84U0tWNkU3SGlscUZDSlFRMHlTbnZuV08yaUVmOTFPa29zeUlTZUhfaGMyOUcyU0YyMjd5VzZ5bVlkdXlGMjVVaUlfYW12VnVoWC1SWGxWY0UyTDM3N2d2SjVjUkR3aE93WmJldDZWMW1SbGIzak8zdFk?oc=5",
+    "published_utc": "2026-11-20T12:19:39+00:00",
+    "published_kabul": "2026-11-20 16:49 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-20T15:00:50.117123+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "China’s Persian Gulf oil imports hit highest level since start of Iran war - South China Morning Post",
+    "summary": "China’s Persian Gulf oil imports hit highest level since start of Iran war South China Morning Post",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZHB2a3ZMRkJCa0JJV1BwaXRMNkpoYVN4aUtyTWdTUHdzcUpycWR1NWVtaGF3aXRES25OZHRkdXlGbmU5aEtKaU9rem9NZG9ISXpIQjRfeHNCWVp3QUZ3SHFyQzlMVXVBUGpiYTBzMEdfNWVrWVZBZEJkTlBQS2hGUFpNQktWWGRhWFhKNmVueThjMnk4RXZwUWR0LWM2ZTVhZTVOczAtSjRXb3ViUnJnc1B2OVdySG81M1dWY2dudjVKRXVjYVViNlktTURhQzlZ0gHQAUFVX3lxTE15cVh5RFU1S2ljTWc0ODdiMVBlaFFYTzI0WEszTWprWVlRVUJGZzN6eHlDNTM2T1dVTkt6RkJyM0R0QTJELVNxazBja3FkeUFLcTl5TFdJOVBZZno0Mzc0Y3NFWEdVcWFXQnBNUDhXNGVHcWJ4RFVoWjFwWEN3SmpsWTRhalkwTE9MMmR4U21LREN3SEdEYmFacUI1WHpKTlZzVEhkUXN1ekhoZktIN0YxVi1VUXlkWjdCWkdvRmFvQjhUSnZjZjRCSHFJdnczV0U?oc=5",
+    "published_utc": "2026-11-20T08:08:58+00:00",
+    "published_kabul": "2026-11-20 12:38 (کابل)",
+    "importance": "کم",
+    "relevance_score": 28,
+    "relevance": "مرتبط",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-20T15:00:57.229448+00:00"
   }
 ]
