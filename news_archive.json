@@ -1655,5 +1655,62 @@
     "relevance": "مرتبط",
     "category": "انرژی",
     "archived_at_utc": "2026-11-20T15:00:57.229448+00:00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Silver sell-off deepens as precious metals face a broad risk-off reset - kalkine.ca",
+    "summary": "Silver sell-off deepens as precious metals face a broad risk-off reset kalkine.ca",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOckhsZk9RSUNQNmpidUdhdU1pVi1pS055dWVsUjNBNXU2UWNVQjF6dUZZbE1xdGJrdkxPa0k5cndleExLS0ZpNl9kRmE3aFoyel9XRFl5eEowODdwSml2NmhYRjVPRWI5cEowbTlMcjZ6ZmJQNFV0Y1cyeWgtZFRwSzlESWIyb283N1otWkY1bzI5RjJsT2VOdDRlUk9YSGtKUVNXcnl0d1czWWM?oc=5",
+    "published_utc": "2026-11-20T14:49:00+00:00",
+    "published_kabul": "2026-11-20 19:19 (کابل)",
+    "importance": "کم",
+    "relevance_score": 45,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-20T15:15:28.728235+00:00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Platinum weakens with precious metals as automotive and macro signals compete - kalkine.ca",
+    "summary": "Platinum weakens with precious metals as automotive and macro signals compete kalkine.ca",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQell3NjlYdlJhcUZ6ZEZnVlYwS0hsWUl5YTJmYmRBZVcxYmtiLWdUR0lkS0djWDZ3VVh4OG4tcUF1Y1otV2tHMDlZUC13U08xbWVqUGdwSGpVRlNtcnZWLThfYnBnejlDZ0hUNDdUSU9ZaGZiWnlqUjBXUWlMZUZGd0IySVRkN3ZCSlAyMmZJNjlWSVVqMkh5a1FMNm9LMlZXUDBhSXFHX0ZCWGdLSWs5NEJRNTg?oc=5",
+    "published_utc": "2026-11-20T14:49:00+00:00",
+    "published_kabul": "2026-11-20 19:19 (کابل)",
+    "importance": "کم",
+    "relevance_score": 45,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-20T15:15:35.623093+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Oil prices caught between rising Mideast exports and tanker attacks - The Edge Malaysia",
+    "summary": "Oil prices caught between rising Mideast exports and tanker attacks The Edge Malaysia",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE96dXh3VVI1dFpsaFRoS2U0YkVzazdlYjJCX0l0TEJENy01dU8yS1Rvb2pKbFdUeTRzNl9TdkVQRWk1Z3hGeGdRWWN6Uk1TSEpK?oc=5",
+    "published_utc": "2026-11-19T20:41:15+00:00",
+    "published_kabul": "2026-11-20 01:11 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-20T15:15:44.569986+00:00"
   }
 ]
