@@ -550,5 +550,62 @@
     "relevance": "بسیار مرتبط",
     "category": "طلا و فلزات گران‌بها",
     "archived_at_utc": "2026-11-19T19:59:37.177394+00:00"
+  },
+  {
+    "source": "Federal Reserve",
+    "source_status": "منبع رسمی",
+    "confirmed_sources": [
+      "Federal Reserve"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Federal Reserve Board issues enforcement action with former employee of First Security Bancorp",
+    "summary": "Federal Reserve Board issues enforcement action with former employee of First Security Bancorp",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261119a.htm",
+    "published_utc": "2026-11-19T16:00:00+00:00",
+    "published_kabul": "2026-11-19 20:30 (کابل)",
+    "importance": "کم",
+    "relevance_score": 30,
+    "relevance": "مرتبط",
+    "category": "اقتصاد آمریکا و دلار",
+    "archived_at_utc": "2026-11-20T01:42:35.612984+00:00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Commodity Momentum Puts Wheaton Precious Metals Corp. at the Heart of the TSX Mining Story - kalkine.ca",
+    "summary": "Commodity Momentum Puts Wheaton Precious Metals Corp. at the Heart of the TSX Mining Story kalkine.ca",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQM09XNHkxeWlhVVRNM2Zha1lvVkpVdTlGazhvNzUxM3pyT200UzhxMi1KbDhpUHpPMFdyOS1kTXhtT3BRR0lTV0lSckVhV0lqaFU0cHpySm81T0xFSnRRWGtXVlJoTkdqMjk1d0hNdnh2dlVDOFpjdFhGVVNJcVRHcVNuRUotOGNPdU1aODJacVl6Z0NlNUlOOFgwY01TRVFWSGpEaExxS2FpWEVQY2l5cEtnVkFDdU12b3JBQg?oc=5",
+    "published_utc": "2026-11-19T17:32:00+00:00",
+    "published_kabul": "2026-11-19 22:02 (کابل)",
+    "importance": "کم",
+    "relevance_score": 45,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-20T01:42:46.098596+00:00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Palladium Rises Faster Than Gold as Precious Metals Advance - Kalkine",
+    "summary": "Palladium Rises Faster Than Gold as Precious Metals Advance Kalkine",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOFdnVS03RllpSWxjdllxMlR0X1BiZUNLYUhYZHBqNFppbExKUjJIRTJ5c3F4Y3ZBcWpmcVdLUGRxbFM5MU1ZMmNPZjN6c0UtV3N0ZFdoVXZrdWdkZ1NGVHVSWjJSMDVyaFNpTGdNUHM4RUZCRTZHZ1VkVVFFYW1lbUJoZjJtckFKalQxemYwSE13X3o3WnZIT243ajFrZVJt?oc=5",
+    "published_utc": "2026-11-19T07:23:00+00:00",
+    "published_kabul": "2026-11-19 11:53 (کابل)",
+    "importance": "کم",
+    "relevance_score": 45,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-20T01:42:53.234499+00:00"
   }
 ]
