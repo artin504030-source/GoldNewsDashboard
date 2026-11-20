@@ -1712,5 +1712,62 @@
     "relevance": "ارتباط محدود",
     "category": "انرژی",
     "archived_at_utc": "2026-11-20T15:15:44.569986+00:00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Dillon Gage sale talks face legal hurdle in U.S. precious metals market - Traders Union",
+    "summary": "Dillon Gage sale talks face legal hurdle in U.S. precious metals market Traders Union",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOFU0NWd4NkhZdkZsdWdrSG1FdDlnYnlJeC05V295OHFIVERGZkRBcm95YzhRdU1sSW95bGRHRWh6UFlINnVmSk9qdXJQUHYtZXZETmt0QTFGQ3ZtWjNVbGplZDZWOHpPZzduYTU4RmtkdTdEMmF6dElaWnhVcEdzaUZDV2RIcGlTRGJRNw?oc=5",
+    "published_utc": "2026-11-20T09:24:21+00:00",
+    "published_kabul": "2026-11-20 13:54 (کابل)",
+    "importance": "کم",
+    "relevance_score": 45,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-20T15:30:46.818221+00:00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Pacific Precious Metals Announces In-Person Gold Bullion Buying Options Across the San Francisco Bay Area - Benzinga",
+    "summary": "Pacific Precious Metals Announces In-Person Gold Bullion Buying Options Across the San Francisco Bay Area Benzinga",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdmN5dlJ1cW9QMTJsUmZ3dGNWam5XMzQ4TEJzSTJKYlh6VkNaT3JRX0xtSFM4Nm51TlJxVmlRand6V0VCaHJXUllNNlVLNW9ZV3ljTUdVQldpbXprajBOQ0dPcnpTMGxFdlpGN0l2VzBvV0l4TUlTT05VZHF2TFRJdHhxM1FiME9selZ4d1Fvb2pySU9pcDNVRDlzSFNlZVdiWjdVcDF6bVVHOHZiVUZsSTVnQWNqanBTT254TDVDVFhsaW5TQkZCLVlpTlcxalBKX3g0c2h2QQ?oc=5",
+    "published_utc": "2026-11-20T15:08:22+00:00",
+    "published_kabul": "2026-11-20 19:38 (کابل)",
+    "importance": "کم",
+    "relevance_score": 45,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-20T15:30:54.776479+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Oil prices rise on global markets - Apa.az",
+    "summary": "Oil prices rise on global markets Apa.az",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMWg0Qlc1REpCTk52R1JMN3NzN3lrdkE1eEVySE1KOXJ1WUgwMnF6WjIzQndnekNlSEJHemx1LWFIeW5rZmFEd0JhemZyWVNUaVlWc0ZxRHRYLUM1ZzRZN3VHM2tjY2NGa0pUTFB5TnpVOXdkQUVmS0F2LXNwbXBUTGpSeG0?oc=5",
+    "published_utc": "2026-11-20T04:51:00+00:00",
+    "published_kabul": "2026-11-20 09:21 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-20T15:31:03.984397+00:00"
   }
 ]
