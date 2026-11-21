@@ -3845,7 +3845,7 @@
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-21T11:45:32.006720+00:00",
-    "last_confirmation_utc": "2026-11-21T12:30:59.937487+00:00"
+    "last_confirmation_utc": "2026-11-21T12:37:57.617157+00:00"
   },
   {
     "source": "Oil Trade and Supply",
@@ -3904,5 +3904,24 @@
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-21T12:30:56.832685+00:00",
     "last_confirmation_utc": "2026-11-21T12:30:59.915432+00:00"
+  },
+  {
+    "source": "Trade and Sanctions",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Trade and Sanctions"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "India’s October crude import bill surges to $19.5 billion as oil prices climb - Maritime Gateway",
+    "summary": "India’s October crude import bill surges to $19.5 billion as oil prices climb Maritime Gateway",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQXlxWGl3dS1zR1pDRTV5anFLOTJBT3Bxcnpoam1WWGxXdnZVSUd0SHp3cDdTNXZzWjVpOHVQUzRtQmFjUUEycjRCU3FQOEVxMjBBcUhwVXVKUUVhSWxuOW5aOU1xbDM1THlfMmdjaUlreV84Ykc2NjBrUF9VTDFnSXhTcEtqTlc5bHo0TEYzeEl5SndzMm50S0JiTWxlWEt0R25kZGNTQlQ2NTI5?oc=5",
+    "published_utc": "2026-11-21T00:46:00+00:00",
+    "published_kabul": "2026-11-21 05:16 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-21T12:38:04.169202+00:00"
   }
 ]
