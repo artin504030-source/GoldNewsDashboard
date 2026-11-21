@@ -3247,7 +3247,7 @@
     "relevance": "ارتباط محدود",
     "category": "بانک‌های مرکزی و نرخ بهره",
     "archived_at_utc": "2026-11-21T00:00:43.828570+00:00",
-    "last_confirmation_utc": "2026-11-21T01:45:51.690012+00:00"
+    "last_confirmation_utc": "2026-11-21T02:00:47.262486+00:00"
   },
   {
     "source": "Economic Reports",
@@ -3363,5 +3363,24 @@
     "relevance": "بسیار مرتبط",
     "category": "طلا و فلزات گران‌بها",
     "archived_at_utc": "2026-11-21T01:45:47.735555+00:00"
+  },
+  {
+    "source": "Economic Reports",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Economic Reports"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Trump praises India's low interest rates, 7% GDP growth, says US could hit 20% with same approach - India TV News",
+    "summary": "Trump praises India's low interest rates, 7% GDP growth, says US could hit 20% with same approach India TV News",
+    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxORk5BYUE5QUpBbG1QeTU4cWtZekR6TFp6UzhyWFlFa2VtX1Y3UHJ1cXJUVEJieUdHRzh6LTJINVRRNllEWWd4dndZU2E4ckFES1ZvWHQtV0R2d25adzJMSEtLaEJma1ZfeHVDV2Z3cVdvSmJWS1E5TUVpNGtvV2dmT1BTeXlvQU5vLVNoYmJwb2s4dlZXTVh3YjJ3U1hSQWFRM3Y5RGsxd2JVZGZYT1ZSMkJWcFdSdk9ZUGhsOWk1cE92ZzN0Q05jOThPVG54TldOM3ExcVZwOElNQ05BY3lhY1BjWlNXUdIB6wFBVV95cUxQTkFpMVMwSWl5RkFLbDNBdlFGd3JzU1M3bVhMTERfNmJQZVlpLWRxRC1ENGpyZGNFUU50VlFZRVBOdldPR3NmSU9aQTlfYVNERktoRGtkMUp0Z0lvWTI1dDVfVnozWU5aeksxS2M2MWxNN1J5QVQ1WGpMS29Ob1F3S09ZUkl2eTh6MVpTbWFKc2I4czZWdmtsWnRBT2VINzBlWUlfNzM3d0xkZ3U3b2RteGNpNE5weWNPZTZfUGNmYU0yVVlKaUZ2UWlDRTRQaENna3VSbWxTUGZrZ2x2S1Bia3NYdFdZcFlRTFZJ?oc=5",
+    "published_utc": "2026-11-20T18:24:02+00:00",
+    "published_kabul": "2026-11-20 22:54 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 22,
+    "relevance": "ارتباط محدود",
+    "category": "بانک‌های مرکزی و نرخ بهره",
+    "archived_at_utc": "2026-11-21T02:00:44.191576+00:00"
   }
 ]
