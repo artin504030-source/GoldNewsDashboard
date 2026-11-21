@@ -3826,5 +3826,44 @@
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-21T11:30:39.408950+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Russia Ukraine War - WV News",
+    "summary": "Russia Ukraine War WV News",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSWViNFpfbndZeGJEWjFtSXlxMWhDTzktVG1QZm41cW9fYXhBd0Nxc004MTh2R2s0SHlwcDdwUmhWRXQ5MUtTZ2xVZk9BQXp2RU5xeUZvZlhqTk9jODdVWkRaNnYxY3U3LUhqeWFEdnZtbmxYemR4SktvOUFqQnc3b0swWV9wdkJLbVp5aVVfakdtSXpreDRFZk5qN2g1S2pSb0ZrbDd5QQ?oc=5",
+    "published_utc": "2026-11-21T11:14:03+00:00",
+    "published_kabul": "2026-11-21 15:44 (کابل)",
+    "importance": "کم",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-21T11:45:32.006720+00:00",
+    "last_confirmation_utc": "2026-11-21T11:45:35.139280+00:00"
+  },
+  {
+    "source": "Oil Trade and Supply",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil Trade and Supply"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Indias Crude Oil Production Likely to Fall by 20% Over Next Decade Even as Demand Continues to Increase: Report - TheWire.in",
+    "summary": "Indias Crude Oil Production Likely to Fall by 20% Over Next Decade Even as Demand Continues to Increase: Report TheWire.in",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUDExVm1qdkJMVlBVaEtIbHdsUHVha1BJVjc1clA3ZDNqUnBKQnVOcHN5ZXdZQzBCbGpTMy16cUtFQjlRZHpRRUxvMHRRWlhOX0JCNUlwZnNQVW1OTVktQ2xPX0RaNUZCaE1RZUI0N2llS084VGRNNzZ0N0NJWWY4MlNrakI3QUE3S1hjd0lGM3Jjbm5GVVR6a3pjSWVrSVdXX0Yw0gGoAUFVX3lxTE9iMmJZQi1DeEotaWNQVzlSU241bEREUXB4czVfQkhNRUpzUFBvc0VrYXFsNkQyM3psdmVCbFRPUlRzZkp0eklKM0VFeldPcFhnWFdTV2NRYmJGMHloVUUzWGtGVURObTQ1TEQzbjA1c2dpdTg2dkFFSmVKLUhLOHZEdGVsVjg5VzB2UU55bmlIdVl2RjZVZ05tVnhxUTBDYzJtOGpXR2hWbw?oc=5",
+    "published_utc": "2026-11-20T09:37:12+00:00",
+    "published_kabul": "2026-11-20 14:07 (کابل)",
+    "importance": "کم",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-21T11:45:41.669736+00:00"
   }
 ]
