@@ -3228,5 +3228,43 @@
     "relevance": "ارتباط محدود",
     "category": "اقتصاد جهانی",
     "archived_at_utc": "2026-11-20T23:45:32.079821+00:00"
+  },
+  {
+    "source": "Economic Reports",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Economic Reports"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "\"Look at India...\": Trump cites India's 7% GDP growth to slam US Fed over high interest rates - ANI News",
+    "summary": "\"Look at India...\": Trump cites India's 7% GDP growth to slam US Fed over high interest rates ANI News",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQTR1Vi1DRkVOLTIxc29EYnN5eWZ2NHBNQmR3RmtwM0dTUGgzZnVuV3gtYnk1SVNQZFdDSU1hUHhveE8tdE9xZXRGY3hGV19DNV9xUThVNVZPdWxXVnhPQVdSSnRCUExPLUV1S0QtbEJvVGVtUldBQVQ5TjFGSV9TMW9fYktZQ2hFdmxsX0hIM25nbm5NS3BlalNfS0N4cklydHB2Y09UdzM2d09ob3FyWEE5Zk12RmhtdzF6TjF5WmkxWHc0TW9CY3dERnFrcnU1Vmc?oc=5",
+    "published_utc": "2026-11-20T22:37:00+00:00",
+    "published_kabul": "2026-11-21 03:07 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 22,
+    "relevance": "ارتباط محدود",
+    "category": "بانک‌های مرکزی و نرخ بهره",
+    "archived_at_utc": "2026-11-21T00:00:43.828570+00:00"
+  },
+  {
+    "source": "Economic Reports",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Economic Reports"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "The Fed - When productivity booms, do interest rates rise? - Federal Reserve (.gov)",
+    "summary": "The Fed - When productivity booms, do interest rates rise? Federal Reserve (.gov)",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTnR1TWFnV05TSXZJdTFwZE0yZlpCNi1lZU8zYTVDdGlqQS1TZjF3ZHJjWXF1NFhXT3EyQ2RUR0JIUEwxWUtXNUktQUNfUldwZEJtNnlKX3BpRkRVNTJDbk8tNEJsT011dWFXaXRQMUdqbEt2STQ3NUVZRm9UbkNYRVU4YWtTa0lKVnJabHlxT0k3ZTJ1cDEyR1Z2UVNnRk5RZlZSTXpHMnFkTS1pNmJ1UlozSWc3eEE?oc=5",
+    "published_utc": "2026-11-20T18:06:28+00:00",
+    "published_kabul": "2026-11-20 22:36 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 52,
+    "relevance": "بسیار مرتبط",
+    "category": "اقتصاد آمریکا و دلار",
+    "archived_at_utc": "2026-11-21T00:00:50.995934+00:00"
   }
 ]
