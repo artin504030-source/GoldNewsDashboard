@@ -3285,5 +3285,62 @@
     "relevance": "ارتباط محدود",
     "category": "انرژی",
     "archived_at_utc": "2026-11-21T00:15:48.635033+00:00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Gold and silver forecast: Precious metals extend drop but seasonality hopes keeps bullish case alive - FOREX.com",
+    "summary": "Gold and silver forecast: Precious metals extend drop but seasonality hopes keeps bullish case alive FOREX.com",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdEtjcGx1WmJ2ZldaU2E3aTNGd0tOWW9GeTBxcnJIUk1jOUFmQmdBT0I3NHpzcjlZTjJVR1lwekJFLXB6Y3loS3cwdGpjNXVXWTkwb2VTY19VSmtERy1WalFvbURnTDQxTzBOYU50OGFjM3BLN0JESFlzNlJEc3UyUlNaUkpQWDRGbGtmclBuRHVyNWFFd2U2Z2w3WjJTQzVzX1J0Wlc2RXlsVVEtNEp3OWFla0xuT1FaWTV5N3J2NEtPaUo4ald0WDFXNHlRcXRYaVA0aUdERHh1Y3RIUTA4?oc=5",
+    "published_utc": "2026-11-20T08:32:27+00:00",
+    "published_kabul": "2026-11-20 13:02 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 45,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-21T00:30:38.629800+00:00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Gold Price Today | Price of Gold Per Ounce | 24 Hour Spot Chart - Kitco",
+    "summary": "Gold Price Today | Price of Gold Per Ounce | 24 Hour Spot Chart Kitco",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBnU2dTNUduLWh4WmxVQy1ndS1jN01abVlCeTNTMnFMbFdmS1d6TnFCekxTZVlXNGtKdnNRN3plT00yZm5LQmh6Rg?oc=5",
+    "published_utc": "2026-11-20T19:20:26+00:00",
+    "published_kabul": "2026-11-20 23:50 (کابل)",
+    "importance": "کم",
+    "relevance_score": 45,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-21T00:30:46.104671+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Oil prices wrap up third straight weekly decline on strong Middle East supply outlook (USO:NYSEARCA) - Seeking Alpha",
+    "summary": "Oil prices wrap up third straight weekly decline on strong Middle East supply outlook (USO:NYSEARCA) Seeking Alpha",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWUFpOEF3SWhtVGJVYVhwSVcyekhHNWVtV1RhNnVkWnFEblNiN184X3NabFZiZDdnR0V5MmNHd20xc3pWMnNEQVhOMld5Qk01TmV5dEZjbGdqSEs5U0o5dnQxYW5CbldERWx5WmR0NXVHanN1LVZmek9zRS05bmhpMUpRa29qRjVYZFdKcXRIa1p2d3NJUWl1U0NoZ0ZjSkZ4bWdQM3hDeFFDa21YNFJmN3hSSTQ3akI5cnhxbkNtc2FfRVZiUVdIXzJiYVNyZEU4XzgyVEpNWlZQZw?oc=5",
+    "published_utc": "2026-11-21T00:10:24+00:00",
+    "published_kabul": "2026-11-21 04:40 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-21T00:30:55.320654+00:00"
   }
 ]
