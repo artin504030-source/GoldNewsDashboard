@@ -3246,7 +3246,8 @@
     "relevance_score": 22,
     "relevance": "ارتباط محدود",
     "category": "بانک‌های مرکزی و نرخ بهره",
-    "archived_at_utc": "2026-11-21T00:00:43.828570+00:00"
+    "archived_at_utc": "2026-11-21T00:00:43.828570+00:00",
+    "last_confirmation_utc": "2026-11-21T01:45:51.690012+00:00"
   },
   {
     "source": "Economic Reports",
@@ -3343,5 +3344,24 @@
     "category": "انرژی",
     "archived_at_utc": "2026-11-21T00:30:55.320654+00:00",
     "last_confirmation_utc": "2026-11-21T00:45:48.730859+00:00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Precious metals and copper, tin weekly charts plunge; metals nearly all fall; LME copper drops for six consecutive weeks; NY and SHFE silver weekly decline exceeds 16% [Overnight Market] - Shanghai Metals Market",
+    "summary": "Precious metals and copper, tin weekly charts plunge; metals nearly all fall; LME copper drops for six consecutive weeks; NY and SHFE silver weekly decline exceeds 16% [Overnight Market] Shanghai Metals Market",
+    "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOSjJDTk1tNmtlQk1vd3N6ZVpsMGF0ZkRzTDNGRmp2Y1dRYXNzWlN6SEhCS2dtTGV5NXBOZHNzRExnakJYUVAyd1NocnJWRkdvOXdpeDl4WEpTNmVLTzFDbHoyNzJuRzdhUTF2UUxBZzRFVnpsbWxsSnhUZy02RWo2amZTSk5JeV9vR2JBUmRaa2FpaDdRaC1uZXVzdXM2RzRrNkdqTzdGOE9KS0drenJacFdTTnVYRGdWUTFCRW9URWozM1U5czR4TFJJRU5MQTZObm1VMTN3ZmNmV0FZMmZrYUxYSUdqVUo3R2dqbzFYaTRwQ2FpbE5HRmkta3h2X3k2Qk9sN2lzRC1jUVhPSV9WTktpRld6aGRMd3gyckVJZEI3bEV6alc1V2hURWVmcWFDcFZlVF9RYy16T3BfSS16cTA4b0hBeUFBLV9WcjB4Y181bWFOM1RYQVRwMlB0UmtEWmFQNlNtTlRxbjFOVHlv?oc=5",
+    "published_utc": "2026-11-21T01:31:00+00:00",
+    "published_kabul": "2026-11-21 06:01 (کابل)",
+    "importance": "کم",
+    "relevance_score": 45,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-21T01:45:47.735555+00:00"
   }
 ]
