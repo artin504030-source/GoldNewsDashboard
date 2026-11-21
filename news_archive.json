@@ -3330,10 +3330,11 @@
     "source": "Oil and Energy",
     "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
     "confirmed_sources": [
-      "Oil and Energy"
+      "Oil and Energy",
+      "Oil Trade and Supply"
     ],
-    "source_count": 1,
-    "confirmation_status": "یک منبع ثبت‌شده",
+    "source_count": 2,
+    "confirmation_status": "تأیید چند منبع",
     "title": "Oil prices wrap up third straight weekly decline on strong Middle East supply outlook (USO:NYSEARCA) - Seeking Alpha",
     "summary": "Oil prices wrap up third straight weekly decline on strong Middle East supply outlook (USO:NYSEARCA) Seeking Alpha",
     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWUFpOEF3SWhtVGJVYVhwSVcyekhHNWVtV1RhNnVkWnFEblNiN184X3NabFZiZDdnR0V5MmNHd20xc3pWMnNEQVhOMld5Qk01TmV5dEZjbGdqSEs5U0o5dnQxYW5CbldERWx5WmR0NXVHanN1LVZmek9zRS05bmhpMUpRa29qRjVYZFdKcXRIa1p2d3NJUWl1U0NoZ0ZjSkZ4bWdQM3hDeFFDa21YNFJmN3hSSTQ3akI5cnhxbkNtc2FfRVZiUVdIXzJiYVNyZEU4XzgyVEpNWlZQZw?oc=5",
@@ -3344,7 +3345,7 @@
     "relevance": "ارتباط محدود",
     "category": "انرژی",
     "archived_at_utc": "2026-11-21T00:30:55.320654+00:00",
-    "last_confirmation_utc": "2026-11-21T00:45:48.730859+00:00"
+    "last_confirmation_utc": "2026-11-21T08:31:04.044028+00:00"
   },
   {
     "source": "Gold Market",
@@ -3688,5 +3689,43 @@
     "relevance": "ارتباط محدود",
     "category": "بانک‌های مرکزی و نرخ بهره",
     "archived_at_utc": "2026-11-21T08:15:56.509355+00:00"
+  },
+  {
+    "source": "Economic Reports",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Economic Reports"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Video | Trump On India | Trump Praises India's GDP Growth, Cites India To Slam US Fed On High Interest Rates - NDTV",
+    "summary": "Video | Trump On India | Trump Praises India's GDP Growth, Cites India To Slam US Fed On High Interest Rates NDTV",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPc2JCMXV5T0g3WWxvd3Y0VV9Oa1hERFJKZi1kY2ZsS2VHY2t0LW9wMm00VlN3TlR6Um5oZERiMXVITEhMblg0NnNZbXZIR1NqWFoyRG9ydFh5RU1sV29IaU1yRFZqcGhLR1R6RHdQMTByRlA4YUxBc25BdUl0Y3NBRHFlekYtOXk1b080S0pIQlRQakJJZmhScTdRVEJNUnpSa1dPNmFjc2RVYmZ0c0VOZUhXd3E4R2d0Nl9HX1g1dnZaRTlVeVhpUjRwTno?oc=5",
+    "published_utc": "2026-11-21T06:26:38+00:00",
+    "published_kabul": "2026-11-21 10:56 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 22,
+    "relevance": "ارتباط محدود",
+    "category": "بانک‌های مرکزی و نرخ بهره",
+    "archived_at_utc": "2026-11-21T08:30:52.324477+00:00"
+  },
+  {
+    "source": "Oil Trade and Supply",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil Trade and Supply"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Oil prices seek balance with supply cuts, low demand - Yeni Safak English",
+    "summary": "Oil prices seek balance with supply cuts, low demand Yeni Safak English",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUkMyU0NHdFgwTXc3RzJWbXVETFhfdWgxc0MtZXBJejlxZThFQW16ZjFfc0tuUHdaTHE3WnR5em9SNlRxOTc1ckdQbGlIUmRBTkVmVWRfYWk4REV5NW15UHppbWNYR2FBenY1NHcyRnhoZUNtQkpOalBmeURBM0E0bGdIaW14dEpsNmFKcTdCendoMWt4dkpz?oc=5",
+    "published_utc": "2026-11-20T20:08:36+00:00",
+    "published_kabul": "2026-11-21 00:38 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-21T08:31:00.988161+00:00"
   }
 ]
