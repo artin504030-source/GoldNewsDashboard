@@ -1561,7 +1561,7 @@
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-20T14:45:57.212925+00:00",
-    "last_confirmation_utc": "2026-11-21T18:00:57.393434+00:00"
+    "last_confirmation_utc": "2026-11-21T20:30:58.875620+00:00"
   },
   {
     "source": "Geopolitical News",
@@ -4113,5 +4113,24 @@
     "relevance": "بسیار مرتبط",
     "category": "اقتصاد آمریکا و دلار",
     "archived_at_utc": "2026-11-21T20:15:55.205408+00:00"
+  },
+  {
+    "source": "Economic Reports",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Economic Reports"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Trump Accuses the Federal Reserve of Political Bias Over High Interest Rates - Oherald",
+    "summary": "Trump Accuses the Federal Reserve of Political Bias Over High Interest Rates Oherald",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQzczUEd4RGRUMGpVbVNIeEZLb0NMUWN1UXd2dGVOY3VIX1ZsdW9xLU9IV2g4S0I2SEs2TmJJYmp1Znl3cWZJV0tYZW8ydUtEejhZTUtCR0I0NUxLa1Jia2tOWE00NE1zQS1xdUJHdnFnMElkcHlET01Vc2QtcS1qM2k5dUVrcU9zR0hWV3hyRjRacmtxa0oteENlcnRQYy1NdjN6NHltT3VFY0dCR21EQVQtWQ?oc=5",
+    "published_utc": "2026-11-21T13:34:43+00:00",
+    "published_kabul": "2026-11-21 18:04 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 52,
+    "relevance": "بسیار مرتبط",
+    "category": "اقتصاد آمریکا و دلار",
+    "archived_at_utc": "2026-11-21T20:30:55.324866+00:00"
   }
 ]
