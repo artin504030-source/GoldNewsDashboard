@@ -3942,5 +3942,24 @@
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-21T13:15:48.131375+00:00"
+  },
+  {
+    "source": "Economic Reports",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Economic Reports"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Trump: Interest rates are too high because the US Federal Reserve is \"politicized\" - صحيفة مال",
+    "summary": "Trump: Interest rates are too high because the US Federal Reserve is \"politicized\" صحيفة مال",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAxUUZiYTZGMmFVay1mZV9ZQ3hSLUk5Q2puODlaSDZydmZKNEhEbTBfV1VxSG9vcUthUnFubFhpYzI4QnJFdnIyNTVWb0pTcXRkQ3RLLXhDS0VocVVDMUhoWGxQSzVjNUdfOG93?oc=5",
+    "published_utc": "2026-11-21T13:43:00+00:00",
+    "published_kabul": "2026-11-21 18:13 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 52,
+    "relevance": "بسیار مرتبط",
+    "category": "اقتصاد آمریکا و دلار",
+    "archived_at_utc": "2026-11-21T13:45:30.007834+00:00"
   }
 ]
