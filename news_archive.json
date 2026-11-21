@@ -854,7 +854,7 @@
     "relevance": "بسیار مرتبط",
     "category": "طلا و فلزات گران‌بها",
     "archived_at_utc": "2026-11-20T11:30:48.625575+00:00",
-    "last_confirmation_utc": "2026-11-20T12:30:46.584831+00:00"
+    "last_confirmation_utc": "2026-11-21T07:30:31.496919+00:00"
   },
   {
     "source": "Gold Market",
@@ -3400,7 +3400,8 @@
     "relevance_score": 22,
     "relevance": "ارتباط محدود",
     "category": "بانک‌های مرکزی و نرخ بهره",
-    "archived_at_utc": "2026-11-21T02:15:38.854682+00:00"
+    "archived_at_utc": "2026-11-21T02:15:38.854682+00:00",
+    "last_confirmation_utc": "2026-11-21T07:30:32.325147+00:00"
   },
   {
     "source": "Economic Reports",
