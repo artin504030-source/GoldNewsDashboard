@@ -4189,5 +4189,24 @@
     "relevance": "مرتبط",
     "category": "انرژی",
     "archived_at_utc": "2026-11-21T23:01:08.061746+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "British man swims in Strait of Hormuz to highlight environmental impact of US-Israel war with Iran - TRT World",
+    "summary": "British man swims in Strait of Hormuz to highlight environmental impact of US-Israel war with Iran TRT World",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9iZ2tWRVNpNjFFaWJFTWpoVDFscUYtall6ekNPWWtWNWJxU1dEc2lIbGh4dG9EWmxnZEtKcnBJenlEdXNvOEE0X05UX1J2TDVaeUFvbXBEV3M?oc=5",
+    "published_utc": "2026-11-21T22:53:21+00:00",
+    "published_kabul": "2026-11-22 03:23 (کابل)",
+    "importance": "کم",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-21T23:15:31.546551+00:00"
   }
 ]
