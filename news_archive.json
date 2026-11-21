@@ -1965,7 +1965,8 @@
     "relevance_score": 45,
     "relevance": "بسیار مرتبط",
     "category": "طلا و فلزات گران‌بها",
-    "archived_at_utc": "2026-11-20T16:31:01.794512+00:00"
+    "archived_at_utc": "2026-11-20T16:31:01.794512+00:00",
+    "last_confirmation_utc": "2026-11-21T07:45:42.758198+00:00"
   },
   {
     "source": "Economic Reports",
@@ -3649,5 +3650,24 @@
     "relevance": "ارتباط محدود",
     "category": "بانک‌های مرکزی و نرخ بهره",
     "archived_at_utc": "2026-11-21T07:00:59.200856+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Oil Prices Surge Past 50% Yet US Shale Producers Won't Expand Output; Q3 Shareholder Returns Hit NT$240 Billion - BigGo Finance",
+    "summary": "Oil Prices Surge Past 50% Yet US Shale Producers Won't Expand Output; Q3 Shareholder Returns Hit NT$240 Billion BigGo Finance",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9OdXZQUzdVNUZBeWx0TVJuTTMtcF8yaHRFQnRXSUJaTVBuV1Nmb2djMGNKY2c4dlhOaFNGRUVTYVhudThoaElxNWl5WlhTY1lhUTV1SFZnU2FOUFB5YWs2YjBNS1JkLXMtTzZLRVRTLWJzV3JiQkE?oc=5",
+    "published_utc": "2026-11-21T07:25:00+00:00",
+    "published_kabul": "2026-11-21 11:55 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-21T07:45:49.662344+00:00"
   }
 ]
