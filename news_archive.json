@@ -3999,5 +3999,24 @@
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-21T17:01:05.285252+00:00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Gold Price Nears 52-Week Low, Institutions Forecast Rebound to $5,200 Next Year - NAI500",
+    "summary": "Gold Price Nears 52-Week Low, Institutions Forecast Rebound to $5,200 Next Year NAI500",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNa1N6S2EtcjE3aDYxbFNlMUJpamZHYXVUTl81RW1tOC1rdDdBTGJSdTd0TjZDQTJuMWhqOTV4SEQzcWhuU0w5VmMwaE9oVS1leFpqbHgyaXJWREhEWHk0RVJmX3QzNTdzSWZhYm5mVDZ3Ry1LUXAzLVdHZTRId0RjU045UHR5Y3ljck5rbVJselNMU283NllEbjlneFhqM3hlaEZnSHZsazY1T0VvSnc?oc=5",
+    "published_utc": "2026-11-21T08:02:52+00:00",
+    "published_kabul": "2026-11-21 12:32 (کابل)",
+    "importance": "کم",
+    "relevance_score": 45,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-21T17:45:29.567808+00:00"
   }
 ]
