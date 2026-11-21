@@ -4037,5 +4037,24 @@
     "relevance": "ارتباط محدود",
     "category": "انرژی",
     "archived_at_utc": "2026-11-21T19:30:43.526692+00:00"
+  },
+  {
+    "source": "Economic Reports",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Economic Reports"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "‘Look at India’: Trump says US could achieve 20% GDP growth with lower interest rates - Livemint",
+    "summary": "‘Look at India’: Trump says US could achieve 20% GDP growth with lower interest rates Livemint",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbEdyaUFEV09FcXZ2TTFOa0pPem93UHNXNkV3NFdoOFZ6bk9ENXd6V1p1OFN5eklkZm5nenMta2xhQjZtZ2diX3R0YzNTSlZ5ZW5DRUJpV0NWTjhUVnhXbFUyckwxeWw2RGF0WGx3Z3dFLV9SZWVoSEtLd0NwNS04VzE1SzlMRDZ1X3I4bmVSbkMyLWZXWnFrdXNxLXhwdGtJSVF3YnpHREFJWWNxTmZwdmhhbVZiUUJLb3hCdEtXZnlGcGIzaFlUeE5PSFJXVnVkU1N30gHYAUFVX3lxTE9HV1M1cHV6UDVpRTViUktPQktOeE5ETl9RNy1ERFVrVmh6c1hDTmJDQ25DZHpVRlFzeVBPbXBMaS1sb2FFRWExV3h0ME9fa3kwc3UzUW9NTmJMNnBYS3Q2ZHpoeFFLYThmTjdvaWpYVml5M1NyZDczYXNHQ3VDSlgtcjlTdkZ5V3BTSmVpRjhKNjZmSlVZRUdpanRfNGpXbUxSX3FRd29TNF9yNi1tTFp3LXl0VWM4dFVOYUVEcmV2QmtMQ0FKMWhpX2pabVhFNE1zbkgxNWZPWA?oc=5",
+    "published_utc": "2026-11-21T10:38:40+00:00",
+    "published_kabul": "2026-11-21 15:08 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 22,
+    "relevance": "ارتباط محدود",
+    "category": "بانک‌های مرکزی و نرخ بهره",
+    "archived_at_utc": "2026-11-21T19:45:30.764146+00:00"
   }
 ]
