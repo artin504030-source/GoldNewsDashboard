@@ -3439,5 +3439,24 @@
     "relevance": "مرتبط",
     "category": "اقتصاد آمریکا و دلار",
     "archived_at_utc": "2026-11-21T03:30:36.833834+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "India's LPG Consumption Hits 8-Month High as Supply Rebounds - Crude Oil Prices Today | OilPrice.com",
+    "summary": "India's LPG Consumption Hits 8-Month High as Supply Rebounds Crude Oil Prices Today | OilPrice.com",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOFBNeTZWQ2s5RlNBZWxOd0dNdzNyYWduemQ2MzFZYURWWTFIMzBfc0FPUnNEbExlcGh6Z0VnS2x4dXYtdnduVzBmYzRkMjhRSkVfWkJPUnFySm1LUFdvVnhYdklhT25XX1p0WC1ZLUIyS1hqUUhTTGhyUVpkbTMtY0ZiNXlfQkVWY3BiS3BBT250NC11ZG1HdkVlQnB0MVVGd2JBV3ZZNEsxNlBIQnJIZlI0UGh2QdIBuwFBVV95cUxOTXpyTUpBT0RxX0Vhek1VZ1Bsd19weWpvSldvWjZlai1ISElZX09LYzgxR2dhUThaTVI1ZDdwSHBpdHNqX2RpcW9TLTRxY3ZmZXlQNmdVMDRldUJ6UHR4SjZUZktZeUVwTTJldlhnWlNmcnpNYktKWEZET25BSlNaRDJSLWFFc3dTVkgxNDkwSHduR3JhSWJLdi03ZmV5S2tFcXdCRThla2hNWnFPRGJBc1ZBSS1haTNvODdR?oc=5",
+    "published_utc": "2026-11-20T13:30:00+00:00",
+    "published_kabul": "2026-11-20 18:00 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-21T03:57:42.524134+00:00"
   }
 ]
