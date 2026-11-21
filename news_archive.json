@@ -4208,5 +4208,26 @@
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-21T23:15:31.546551+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News",
+      "Oil Trade and Supply"
+    ],
+    "source_count": 2,
+    "confirmation_status": "تأیید چند منبع",
+    "title": "Strait of Hormuz Attacks Hit Highest Level Since U.S.-Israel-Iran War Began: how 17 outlets framed it - NewsCord",
+    "summary": "Strait of Hormuz Attacks Hit Highest Level Since U.S.-Israel-Iran War Began: how 17 outlets framed it NewsCord",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQLU15RFlwS2NabF9pUlVrN3MyOU9CYjFQWmZuMFYydWhHR3daQW1oaHFXSjNKcy1tVkMtbGI1bUZaWHpPUXkyaWZYRzlBb1NsZ3MtalV5Y0ZzR1doeXowb3ZWSUI4aDJKQU5PYXpMSWhVcDd6N0QyQjI4TzY4N0ZFY2pjRmxHd1ZuWGcxa2M1NURQbjVNY0N4NG00dlpWZF80ZXFXdnNQOU1GMVlEVkpJc3pEbTJVT3FTZkQ4U0ZpbVlDRXRfN1E?oc=5",
+    "published_utc": "2026-11-21T23:23:08+00:00",
+    "published_kabul": "2026-11-22 03:53 (کابل)",
+    "importance": "کم",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-21T23:30:52.467158+00:00",
+    "last_confirmation_utc": "2026-11-21T23:30:56.378522+00:00"
   }
 ]
