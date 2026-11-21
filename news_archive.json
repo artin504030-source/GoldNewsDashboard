@@ -3865,5 +3865,24 @@
     "relevance": "ارتباط محدود",
     "category": "انرژی",
     "archived_at_utc": "2026-11-21T11:45:41.669736+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Russia Ukraine War | Trump Says Putin Wants To End War, Cites Zelenskyy-Putin Hatred As Big Hurdle - NDTV",
+    "summary": "Russia Ukraine War | Trump Says Putin Wants To End War, Cites Zelenskyy-Putin Hatred As Big Hurdle NDTV",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbnFUemlMUElHemN6eDlpd2ZyREx4TDdXbnNUaGc1OTlKU3YydEtBOV9fcXpEcnVqOUxrS2psVGtuNWZ6RUdXVl9vRGlhS0d1cnNRaXZGR2Fweks3OW56YUhPMU5oVHNTU0hwSk95X1h2Q2hDbHpyblgxY2VNb2RYaWVHVFVoSHkwdDBFVFROdVdMVF95ZThXcjdFUkZqRURUZ3RrR2I5c1VnSUFuaVRQYmRFS1VqdDhScFZaQ2dRRXJpUGc5Vi1iR0ZiQQ?oc=5",
+    "published_utc": "2026-11-21T06:13:15+00:00",
+    "published_kabul": "2026-11-21 10:43 (کابل)",
+    "importance": "کم",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-21T12:01:04.967791+00:00"
   }
 ]
