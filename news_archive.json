@@ -3923,5 +3923,24 @@
     "relevance": "ارتباط محدود",
     "category": "انرژی",
     "archived_at_utc": "2026-11-21T12:38:04.169202+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Russia Ukraine War - Daily News-Record",
+    "summary": "Russia Ukraine War Daily News-Record",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbDVFd2djVUlpYXphc1ExWVJwVkJobWpVanZkTERBOUJ3UmFveVZuQUF5WU9WYjI4d0U2WDlpMzRuWVBxNExWOC1yMWIxTzM0UmFXT0RmVGpfdHJaSHo2QmlqRVM1WnJvNWJ2M2Y2ZU5VZ0N6Q2VCM1FSaGFvNTZnYUtKSmdNdWZWMkxiQXNHS2g3LWNXRk53WFNZc2M3V3FEb2Z1Wm9hbEVfdFVOeWRmQUhkZW5aanpydmplc3NQT3A?oc=5",
+    "published_utc": "2026-11-21T12:14:06+00:00",
+    "published_kabul": "2026-11-21 16:44 (کابل)",
+    "importance": "کم",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-21T13:15:48.131375+00:00"
   }
 ]
