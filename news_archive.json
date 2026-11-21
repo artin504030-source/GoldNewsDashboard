@@ -3477,5 +3477,43 @@
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-21T04:30:37.046300+00:00"
+  },
+  {
+    "source": "Economic Reports",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Economic Reports"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Trump cites India's 7% GDP growth to slam US Fed over high interest rates - Times of Oman",
+    "summary": "Trump cites India's 7% GDP growth to slam US Fed over high interest rates Times of Oman",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNR3J2R01leEhWZmNJSW03ZjY5dnRoY0xEY0hRSzZBbmQzREdPMXlKWUd4WW1FT3FPUGlwQjZvTnczVWphRVp0cnFPRTVpR1FqcjF3OVEtV3VnUS1yRFRQNmx2czRfU3gtUGk5M3U4RU43RHIyRktwc05xS082RVNsdzIzTEZkRkRyWE9xTWNhNWdKeC1kWXpJZGtoWkViaFpoLTNjaHE1OFhXM2JYQ2EtcnJB?oc=5",
+    "published_utc": "2026-11-21T04:39:00+00:00",
+    "published_kabul": "2026-11-21 09:09 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 22,
+    "relevance": "ارتباط محدود",
+    "category": "بانک‌های مرکزی و نرخ بهره",
+    "archived_at_utc": "2026-11-21T04:45:29.978038+00:00"
+  },
+  {
+    "source": "Oil Trade and Supply",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil Trade and Supply"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Oil prices push $110 after EU proposes Russian oil ban - Yeni Safak English",
+    "summary": "Oil prices push $110 after EU proposes Russian oil ban Yeni Safak English",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSXN6ZHNaNEpPclREbFp0QjFub2lvRFdzZWFwc2FQSzE2eDJOSWZOOEQ4N2tudHlhX1ZhR0F4QjVwa0dOOVhWWEZkYTJnbjFFWjhjWTFhWl85TWx1T2hfajVDcjhsREdFbkc2ZWllVmp6NEF1Y211R3FyVzdNQVlFSVpGb0p1YzlnazU4N2xRTzdBWFNoeDhjZzNB?oc=5",
+    "published_utc": "2026-11-21T04:30:06+00:00",
+    "published_kabul": "2026-11-21 09:00 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 28,
+    "relevance": "مرتبط",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-21T04:45:38.587036+00:00"
   }
 ]
