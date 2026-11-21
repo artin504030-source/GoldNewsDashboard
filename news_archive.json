@@ -3420,5 +3420,24 @@
     "relevance": "ارتباط محدود",
     "category": "بانک‌های مرکزی و نرخ بهره",
     "archived_at_utc": "2026-11-21T02:45:44.197482+00:00"
+  },
+  {
+    "source": "Economic Reports",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Economic Reports"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "‘Look at India’: Trump cites 7% GDP growth to slam US Federal Reserve - The Week",
+    "summary": "‘Look at India’: Trump cites 7% GDP growth to slam US Federal Reserve The Week",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWldqd084ZWNTa1hzQ0dYdjFyUjM2MUNDT295a21QU2hoU1p0RDF5WXNXVGJlbktjdEkzVGdOWmZ1THZIZ1Q4UElLTHlnVFNobFlmWWNrY2NuN0wzUGN6UkJLYW01Mkh1WHBWM21XaHRBS3MzQkZEQzg5d2lQUVdUV2dlVXpwNFhRb3pjQlh3aV9sNzY3OFVBNmI3WXg5WnJuN2fSAacBQVVfeXFMTTdaV25zTW1BTU1HeFVIcVdxN3lfU3B3UEFZSmJqN0gwVlNHMndKelVFcDBPemJuemRYNGVaU1lnd0QyTGNRNy05WS1FbmpTeVVmTGRma2c5QmE4UFVyeDk1Sl8wZUdKVEtJWjdYcVlSS29zaExhVWlFQ0pJbGdQcldFaS1TakhBbjJSbzJPRjhOeGdOYkNZTC0wcmlrdnBxTjlQYUxNTVk?oc=5",
+    "published_utc": "2026-11-21T03:15:38+00:00",
+    "published_kabul": "2026-11-21 07:45 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 30,
+    "relevance": "مرتبط",
+    "category": "اقتصاد آمریکا و دلار",
+    "archived_at_utc": "2026-11-21T03:30:36.833834+00:00"
   }
 ]
