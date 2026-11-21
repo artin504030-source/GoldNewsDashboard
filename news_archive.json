@@ -3534,5 +3534,62 @@
     "relevance": "ارتباط محدود",
     "category": "انرژی",
     "archived_at_utc": "2026-11-21T05:30:54.620976+00:00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Gold and other precious metals prices fall sharply - Apa.az",
+    "summary": "Gold and other precious metals prices fall sharply Apa.az",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTHpaNjRiVUlEWk1YQzVVc200TVZ2QjNpXzdTbGktYm1ybHpIYmZCQjJnODR0Vlh4Z18zUUlwUF9wYy1RQ0JFTWhOaGY2cFA5eXJiZy1MNkpkc3RYZFA3VFVYZHc5cnN0N0dXUHdPa2xwd0ZvX0EwRGhOd25QNk1ad253dDZQZGxwbkE?oc=5",
+    "published_utc": "2026-11-21T06:12:00+00:00",
+    "published_kabul": "2026-11-21 10:42 (کابل)",
+    "importance": "کم",
+    "relevance_score": 45,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-21T06:16:02.985363+00:00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Live Gold Prices | Gold News And Analysis | Mining News | KITCO - Kitco",
+    "summary": "Live Gold Prices | Gold News And Analysis | Mining News | KITCO Kitco",
+    "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1MSHpVaXo3MDFUeWJjUmJ0NlB6NkktRGxIcDBqMW1vaVlSc3pUbmJ6OTl3cUgzTHUtemc?oc=5",
+    "published_utc": "2026-11-20T18:05:27+00:00",
+    "published_kabul": "2026-11-20 22:35 (کابل)",
+    "importance": "کم",
+    "relevance_score": 45,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-21T06:16:09.777292+00:00"
+  },
+  {
+    "source": "Oil Trade and Supply",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil Trade and Supply"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Mercosur's Tax Break Is Fueling Brazil's Oil Push Into Europe - Crude Oil Prices Today | OilPrice.com",
+    "summary": "Mercosur's Tax Break Is Fueling Brazil's Oil Push Into Europe Crude Oil Prices Today | OilPrice.com",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSjNOQTZBdHoySUROWWxZOURRT0ZsZWhLQ0JFNHlIVDNvbnFqZzRQWk9ITjZqS3ZRRU1qWUdWeU5NTWl1Sk1JbnNYVnYzY1k2WXdwb09ubThQVmF6MjFPTXFxR2JzajdTQXhyOGl1alRpdUlJMGFFdXd4T2lYdHZ0QkQ2NXNObk1pUnQxRHd3WjVFSEYweG5xQXhkQ1JEOWpCYlRCVtIBqgFBVV95cUxPRGVDQXpKWl9oOVptYnJTYWlSR3cyRnYyRExtbFdDbEdKM3FQOVFScGJwSUxzVzF0OFBPQ1gwV2xQcEhUTUN0T1MxZDF1cF9PenRJcXpXWUtXRktrUTNBQkcwVTJpTGg0S3otMDJDalJVOXhwSTREMldjeU9WMkJicktiMkt5WGNMdnR6bHVxNnZCYVhzQTR2Y0kzUGJKN2FKYTJUYm9INEYxQQ?oc=5",
+    "published_utc": "2026-11-19T21:00:00+00:00",
+    "published_kabul": "2026-11-20 01:30 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-21T06:16:18.688588+00:00"
   }
 ]
