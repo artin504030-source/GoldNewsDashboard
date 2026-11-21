@@ -3805,5 +3805,24 @@
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-21T11:20:36.407319+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Strait of Hormuz attacks have increased to highest level since Iran war began - KVNU News Talk",
+    "summary": "Strait of Hormuz attacks have increased to highest level since Iran war began KVNU News Talk",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOT0pncDJOZDJYMjNOU1N3U3YxendGTTd0YlIzUWl4YkRWQnZLQU1IMlVIWUdiQk1wU0w2LWJ3UmFRcHExXzI2NmxLRUg4UnY0MjN3a3p4aXhMTm5GOTUteG1PVUFIc1BDZTdfejJxY19naEFzZmpsaE5lSkd3WUJvczFTLWgwaWx1amlpMExVZmxGZFpmbUNsc0ZFakd1MUpB?oc=5",
+    "published_utc": "2026-11-21T11:25:23+00:00",
+    "published_kabul": "2026-11-21 15:55 (کابل)",
+    "importance": "کم",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-21T11:30:39.408950+00:00"
   }
 ]
