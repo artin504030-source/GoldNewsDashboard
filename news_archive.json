@@ -3669,5 +3669,24 @@
     "relevance": "ارتباط محدود",
     "category": "انرژی",
     "archived_at_utc": "2026-11-21T07:45:49.662344+00:00"
+  },
+  {
+    "source": "Economic Reports",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Economic Reports"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Trump hails India's 7% GDP growth, low interest rates as he lambasts US Fed Reserve - Firstpost",
+    "summary": "Trump hails India's 7% GDP growth, low interest rates as he lambasts US Fed Reserve Firstpost",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOb1FTc1k1NEJMOGRVdUZsaHB6b1ZqSF9sclM3Z2VZaHlpR1NUV3k1VFAwUmw4LU1sbVJ5NHg3UnZTTnpGLVJlLXlVcmdxR1JzWGN1WXAxN3gtbGR1OXI1UVliSlpkaGJtTTVDQm9vZXJXdllTR0hQMnFNMnRIbnFhcjJoNjd0SGVMUlRqMU01TEIzUTFROXlNMnVDUTNZMGJwVE9SenVPdWtwVURFdmcydDJrdV9oOXliQUdBaTl2d2FaOGF2ajR3ZmJYNlhlUFFheGVn0gHYAUFVX3lxTFBzZWpsMm9MQVR0RW9oOVNVSXNKS2FxbWp4eldCdGlJTmxyR2k0QlVJaTFVeGs4TE1SME41dHdJWkZQNXdZX0M3UHJ4Y19yYlRsV3AtRi00T25pVWJFb0JiZmFWR0hITTNyQWJkMVJnbjhJQXFRV1VPcmFBUm5DQUhBWnYwU21sYkhWeHhiV0dfOFZ1cENkREowN0VWWmFDLXRMNTBfNnUtaWs0c2tDblFaV1pOVzlhVmphR1F1cjRrY2UtRm5OOUZTcTk5QXhNSVpuVUE3SjhQbg?oc=5",
+    "published_utc": "2026-11-21T04:14:18+00:00",
+    "published_kabul": "2026-11-21 08:44 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 22,
+    "relevance": "ارتباط محدود",
+    "category": "بانک‌های مرکزی و نرخ بهره",
+    "archived_at_utc": "2026-11-21T08:15:56.509355+00:00"
   }
 ]
