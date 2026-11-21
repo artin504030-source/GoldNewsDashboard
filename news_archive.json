@@ -3845,7 +3845,7 @@
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-21T11:45:32.006720+00:00",
-    "last_confirmation_utc": "2026-11-21T11:45:35.139280+00:00"
+    "last_confirmation_utc": "2026-11-21T12:30:59.937487+00:00"
   },
   {
     "source": "Oil Trade and Supply",
@@ -3884,5 +3884,25 @@
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-21T12:01:04.967791+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Russia Ukraine War - The Batesville Daily Guard",
+    "summary": "Russia Ukraine War The Batesville Daily Guard",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMTk2SkdBTEo5Rk5VaWdLNzl6T21jclJ6RzhfY01IckdfMG5CRnNfYUJlTjBvYjlrRm1TOTZFY0FPcFJZU0kwSHAtd0w0ZmU0dHdhcldCOVlxX1B4S3NiX05FOU5uOTFIVWd5cHZhck9Hc2F1TlZKRUxIamhGaTUwMm8tMm1hRHJwUGMwR0p2Z2xmbHBIaEV1Z1lNS2tEM2JoRklQZzhIWFE?oc=5",
+    "published_utc": "2026-11-21T12:14:38+00:00",
+    "published_kabul": "2026-11-21 16:44 (کابل)",
+    "importance": "کم",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-21T12:30:56.832685+00:00",
+    "last_confirmation_utc": "2026-11-21T12:30:59.915432+00:00"
   }
 ]
