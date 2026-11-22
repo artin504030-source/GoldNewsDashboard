@@ -4229,5 +4229,24 @@
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-21T23:30:52.467158+00:00",
     "last_confirmation_utc": "2026-11-21T23:30:56.378522+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Oil prices expected to moderate, but fuel prices stay high - The Western Producer",
+    "summary": "Oil prices expected to moderate, but fuel prices stay high The Western Producer",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcGRLQzlNVzFWanZ5ZlYyeXljRDBaSVhxQjZtTm5iMWpubjh2SUhidkJKN1hXc0ZpM29kazl0WDcyVTkxVm1MS2dKVlRsNmw4Q0gtZmFoZGhHM1d4Rl9QYkstOE5EWWZsVVBxWm8xaDlmX1JuSTdnamdhOFZ0T3QxSjk3NVB0blJQMXFJWnNPQWF3OFoxV3c?oc=5",
+    "published_utc": "2026-11-21T14:47:07+00:00",
+    "published_kabul": "2026-11-21 19:17 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-22T00:15:41.791499+00:00"
   }
 ]
