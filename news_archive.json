@@ -6582,5 +6582,24 @@
     "relevance": "ارتباط محدود",
     "category": "انرژی",
     "archived_at_utc": "2026-11-23T18:30:54.154290+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Oil Prices Edge Higher as Gulf Attacks Offset Market Selloff - cwibc.co.id",
+    "summary": "Oil Prices Edge Higher as Gulf Attacks Offset Market Selloff cwibc.co.id",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1faTl5cDg4NEVWZVZjdzg0Z1dFTzlVaTU0a1VXS2RNdW9SZklNMUE5RlU5MXFzWnJxaHFXVUQ3aTh2Y21jYThHMlFZcjhhWUJ5Skp3SDBIWmhaZw?oc=5",
+    "published_utc": "2026-11-23T18:18:00+00:00",
+    "published_kabul": "2026-11-23 22:48 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-23T18:45:51.840988+00:00"
   }
 ]
