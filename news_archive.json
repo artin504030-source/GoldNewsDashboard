@@ -5510,7 +5510,8 @@
     "relevance_score": 12,
     "relevance": "ارتباط محدود",
     "category": "انرژی",
-    "archived_at_utc": "2026-11-23T09:46:04.805132+00:00"
+    "archived_at_utc": "2026-11-23T09:46:04.805132+00:00",
+    "last_confirmation_utc": "2026-11-23T21:01:29.819856+00:00"
   },
   {
     "source": "Trade and Sanctions",
@@ -6829,5 +6830,24 @@
     "relevance": "ارتباط محدود",
     "category": "انرژی",
     "archived_at_utc": "2026-11-23T20:31:20.187268+00:00"
+  },
+  {
+    "source": "Economic Reports",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Economic Reports"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Core PCE Inflation vs. Softer Data in the Debate Over Fed Rate Hikes - StoneX",
+    "summary": "Core PCE Inflation vs. Softer Data in the Debate Over Fed Rate Hikes StoneX",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVlRoT3ZyMVk3c1dnMFpNSUF2dzhoU1U3Y2pzWjc1MGlkeHJCVm1tdnp0dzdUOWo5TU52SjlWOGhKTlFBN01IS2I5cWV5QkpXc1pGOUl5TWJaeVNwbXM1c0FxZWJGelA3ZUJJdnBid0tLeGFaYUVJdlRibG9fRFNIdVpoSm9RcjBIekZoNU8tS2NHZHRnczlwOTZWWUl6RGM4REFENDFn?oc=5",
+    "published_utc": "2026-11-23T20:57:57+00:00",
+    "published_kabul": "2026-11-24 01:27 (کابل)",
+    "importance": "زیاد",
+    "relevance_score": 30,
+    "relevance": "مرتبط",
+    "category": "اقتصاد آمریکا و دلار",
+    "archived_at_utc": "2026-11-23T21:01:25.709581+00:00"
   }
 ]
