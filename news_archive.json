@@ -6601,5 +6601,43 @@
     "relevance": "ارتباط محدود",
     "category": "انرژی",
     "archived_at_utc": "2026-11-23T18:45:51.840988+00:00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Is Wheaton Precious Metals (NYSE:WPM) Quietly Strengthening Its Position? - Kalkine Media",
+    "summary": "Is Wheaton Precious Metals (NYSE:WPM) Quietly Strengthening Its Position? Kalkine Media",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVFVVeUtPdFB2d0dzQVNMY1p4Z2tIeDNuTlVxeUZocU5CSmVucW9NR2Uzczl2anJ2c3dFMk9FVGlldGJNY2w5SGFyU0h0TUF6NUVvRmlLR3hNalZjdUY4SHpxcGpWWlQ5SlROUENpMVFYRXlfa0lOUGxrdXY0VndlLVVCQ2RJNG5NaWFiWU1oRU5qb0hNektlZXU5aVN2WWRMMFpUUU9mZXQtTFBjRzItNjFVaml2S0I3Yk14N1Jn?oc=5",
+    "published_utc": "2026-11-23T18:49:00+00:00",
+    "published_kabul": "2026-11-23 23:19 (کابل)",
+    "importance": "کم",
+    "relevance_score": 45,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-23T19:00:58.793968+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Nonlinear Model Shows Stability and Predicts Medium-Term U.S. Crude Oil Supply - Bioengineer.org",
+    "summary": "Nonlinear Model Shows Stability and Predicts Medium-Term U.S. Crude Oil Supply Bioengineer.org",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaE9UN3RlcXV5WVBDdVR6Z05CdWdfVTZ5ZzQzb0MySjhha2steS1teVYtZnlLWU42NzVubHpKZVhNVzNlQVV6ZXFSUUd2M0o3SEFIcWFveWFialRmZ0NvU192dU5BcXV2cHdfRWRzcHdvWTZpQXNYeXhVd1NKUFJGWExyQVFvRDNKeUl1TVJXX1dFd3dPT1ppUGluTHB1Y09FTllQQg?oc=5",
+    "published_utc": "2026-11-23T17:49:49+00:00",
+    "published_kabul": "2026-11-23 22:19 (کابل)",
+    "importance": "کم",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-23T19:01:08.471969+00:00"
   }
 ]
