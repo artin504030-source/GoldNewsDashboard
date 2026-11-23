@@ -4979,10 +4979,11 @@
     "source": "Oil and Energy",
     "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
     "confirmed_sources": [
-      "Oil and Energy"
+      "Oil and Energy",
+      "Oil Trade and Supply"
     ],
-    "source_count": 1,
-    "confirmation_status": "یک منبع ثبت‌شده",
+    "source_count": 2,
+    "confirmation_status": "تأیید چند منبع",
     "title": "U.S. Energy Exports Hit Records as Global Competition Intensifies - Crude Oil Prices Today | OilPrice.com",
     "summary": "U.S. Energy Exports Hit Records as Global Competition Intensifies Crude Oil Prices Today | OilPrice.com",
     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTFQ5TGY0T0s2RWVQMXVoLUN1cUFiaVF0SkVTdFBDMGtoX3dEZGpXQUNPNVdiejF6TjZiVWVNbGd2SXdYYml4eXN2bG5HaUxzMmRFaGdQWUw1SG9IdzlTbXdqWmtYY296b3N1eVFiQXZjWmFOOVpfMEUxUkdRY3RaMGppRXVKNHZjM1UwY3Mxc0hRRlJmR1ItLTRTQ0g5MFUzY1o5eUpoSGNQcVFzNWljVNIBtgFBVV95cUxOLV94SkZoRzAwMjMxMW5aMjBYSkJ5VE5aN0NkTXZ3dElvZVB1WWFvS3JfMk4wV092aHdEZkxwMWhMdThxbzFxRmluU1F5bURXQXg1b3h4cHM0S0lKQjVfc2JidFhKNmFKZE93eGJuTnNMWHJFeUV6RHh0U1lpUGZUMzVWSTdvdks4TkZXR2JVR2xQendFUDVVNUpSN3E5NE1JYXdGTjhKVWtZcUIzdjE1UlBFUGlRUQ?oc=5",
@@ -4992,7 +4993,8 @@
     "relevance_score": 12,
     "relevance": "ارتباط محدود",
     "category": "انرژی",
-    "archived_at_utc": "2026-11-23T07:30:45.867097+00:00"
+    "archived_at_utc": "2026-11-23T07:30:45.867097+00:00",
+    "last_confirmation_utc": "2026-11-23T09:46:08.235518+00:00"
   },
   {
     "source": "Oil and Energy",
@@ -5471,5 +5473,62 @@
     "relevance": "ارتباط محدود",
     "category": "انرژی",
     "archived_at_utc": "2026-11-23T09:30:54.319802+00:00"
+  },
+  {
+    "source": "Economic Reports",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Economic Reports"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "The PMI for the euro zone points to 0.3% GDP growth in the fourth quarter - Demócrata",
+    "summary": "The PMI for the euro zone points to 0.3% GDP growth in the fourth quarter Demócrata",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWDBkV1Vlb2pmWFY1UXVHUmN1UWVBVXdYd0IteXNBSHdHVlZaS29DTnVwVXZtWm1RUDRDOWI4R1VrZ0I3c1BtWGFxLVl1QU9Qc2txazByZ3JmNEF2cFFWUUpHWmZHcmZaN3lzMnJXRzVOakZWTDRfd1plMkwyYVcyR2N1VG1RWXRGOGRka1BZbkFhdGUxZjlILWJJQno1ZGNTX3ZYVmtJM3NLYUo3alHSAbMBQVVfeXFMT0U2bTh5dk9RRW8wMml2dnVydE41UHdIaDhFdTVYdHlubnJDRzJ5aFhFaUltQzN3RG1JdkNGbExFOE95cFEzbzNOR01GdFhjQnlycUZrSk1zOHJtX3pXcmtsMjBWZTlBb3RLa3hIdEZRczg2WXdkQ1Fmc2RlVXVrOE8wUzd4X1RGWU9QbmhOT2o1dGRNb1hPcGdTSHEyUWIzUjZMYXBWUmw3d2RwdGNnaWZUOFk?oc=5",
+    "published_utc": "2026-11-23T09:28:29+00:00",
+    "published_kabul": "2026-11-23 13:58 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 0,
+    "relevance": "ارتباط محدود",
+    "category": "اقتصاد جهانی",
+    "archived_at_utc": "2026-11-23T09:45:56.748972+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Midterm Elections Shift Energy Policy but Oil Supply Still Rules - StoneX",
+    "summary": "Midterm Elections Shift Energy Policy but Oil Supply Still Rules StoneX",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQekFJTXAxYy10Q0ljQkJYMGU2N1ptcXptRHZ3T19BY21semdUSGxyS2RocEFyUGR1QjZLZHNGWEtBYTl3Vnc4aVRFSjRsQ0Z2ZjVTNU9nSWRYb2hoNTNqSThtMXVtVUlFaE9Pak94MzZWWGZzSUE3a3M4UDJSZVZkeTUtSFRJbU5VdnFYMDRfLTk0cTFEUlJBV0x3eUtfUFRtbV9sVHRR?oc=5",
+    "published_utc": "2026-11-23T08:57:14+00:00",
+    "published_kabul": "2026-11-23 13:27 (کابل)",
+    "importance": "کم",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-23T09:46:04.805132+00:00"
+  },
+  {
+    "source": "Trade and Sanctions",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Trade and Sanctions"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Iran’s non-oil exports to Afghanistan up 32%: official - Mehr News Agency",
+    "summary": "Iran’s non-oil exports to Afghanistan up 32%: official Mehr News Agency",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNXzk3b1BOREIwZDlwRFZJai1JMlk5VlI1VkMyQ3FHZzlQZGdoLWxhT3dnc0FPZWh0OW1zcEZpY2ViQkp4RHloazRLem80d3Z6ZjRkODZRallDMGZOaDhyd25qQW9JUkJyVHdxR2JTenZBbU96cV9HZjl6bEJDZ25qNW9fVWZqMjdIbERtVFExYmo2Zw?oc=5",
+    "published_utc": "2026-11-22T06:32:00+00:00",
+    "published_kabul": "2026-11-22 11:02 (کابل)",
+    "importance": "کم",
+    "relevance_score": 28,
+    "relevance": "مرتبط",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-23T09:46:15.256106+00:00"
   }
 ]
