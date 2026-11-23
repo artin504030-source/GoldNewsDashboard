@@ -188,7 +188,7 @@
     "relevance": "بسیار مرتبط",
     "category": "طلا و فلزات گران‌بها",
     "archived_at_utc": "2026-11-17T23:54:51.218193+00:00",
-    "last_confirmation_utc": "2026-11-20T13:45:51.690358+00:00"
+    "last_confirmation_utc": "2026-11-23T12:45:59.131798+00:00"
   },
   {
     "source": "Gold Market",
@@ -5855,5 +5855,24 @@
     "relevance": "مرتبط",
     "category": "بازارهای جهانی",
     "archived_at_utc": "2026-11-23T12:15:47.914754+00:00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Why AbraSilver Resource (TSX:ABRA) and Vizsla Silver (TSX:VZLA) sank on the S&P/TSX Composite: silver slumped as precious metals sold off, and Vizsla delayed Panuco - kalkine.ca",
+    "summary": "Why AbraSilver Resource (TSX:ABRA) and Vizsla Silver (TSX:VZLA) sank on the S&P/TSX Composite: silver slumped as precious metals sold off, and Vizsla delayed Panuco kalkine.ca",
+    "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPV0d5eXU2bEVVdjJpWGw5Umd2dFhNaThvSWFHb2hDQU15NlVPdkJKb2p5ek1XMVZjTkZxNnFDWll6OGJhTTNZWGJKMGtmRmp6TmpMZkFUUk5tcU9mcVFHWFByQnh3VkFkSHJHYW11d3BYLU82bE02VGtpQTVVOEU5Nzk5OHMyQnVjamRtXzF4WHI0RGQyaEtJSU1xbldjTjQtZzdzZmJUY2htWkx2UzNWR3kwNkhYQWFaMXFibU9YclJEZ21UdXdPbU5UdFVuTDJaX1M4QVFGbGZuM3Uwc0ZHV0p1Q19zSFN2cTBEdE5tNWJqQ09OYkdFWmpuRlpmUUFnTUwxZW5WVFF0NGZsdGdPc2VCVQ?oc=5",
+    "published_utc": "2026-11-23T12:21:00+00:00",
+    "published_kabul": "2026-11-23 16:51 (کابل)",
+    "importance": "کم",
+    "relevance_score": 45,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-23T12:45:56.078682+00:00"
   }
 ]
