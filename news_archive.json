@@ -1561,7 +1561,7 @@
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-20T14:45:57.212925+00:00",
-    "last_confirmation_utc": "2026-11-22T01:00:52.357044+00:00"
+    "last_confirmation_utc": "2026-11-23T09:16:06.304589+00:00"
   },
   {
     "source": "Geopolitical News",
@@ -3845,7 +3845,7 @@
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-21T11:45:32.006720+00:00",
-    "last_confirmation_utc": "2026-11-23T09:00:39.159082+00:00"
+    "last_confirmation_utc": "2026-11-23T09:16:06.353746+00:00"
   },
   {
     "source": "Oil Trade and Supply",
@@ -3903,7 +3903,7 @@
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-21T12:30:56.832685+00:00",
-    "last_confirmation_utc": "2026-11-21T16:45:44.555691+00:00"
+    "last_confirmation_utc": "2026-11-23T09:16:06.251859+00:00"
   },
   {
     "source": "Trade and Sanctions",
@@ -5355,5 +5355,62 @@
     "relevance": "ارتباط محدود",
     "category": "انرژی",
     "archived_at_utc": "2026-11-23T09:01:23.398804+00:00"
+  },
+  {
+    "source": "Forex and Central Banks",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Forex and Central Banks"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Yen retreats as uncertainty over Bank of Japan policy weighs on sentiment - Economies.com",
+    "summary": "Yen retreats as uncertainty over Bank of Japan policy weighs on sentiment Economies.com",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWWRhSXJDRUJvTVRDamlVUmZVVU84MDRYU3JOcmM1X1hHZnU0UHpCWXRuSlEzb1lpQmtVOVR4dUFPUW5RTUFHOTZKTVlvUU1WMnZmd2VxQzh0SnhIaEZ4LVBUdDZxY3VPZ1dmdVo2V1hNMDFnd3l0WDQxeXpSNXpNRE1UQmN5OG53dGkzZE9IM1I3Y19JWHZVdURpZ2NEM3dROENlTHdaSXcwSnRBNVFDRHZKTTVoRzdmeVI0c2RfZ1U4S0U?oc=5",
+    "published_utc": "2026-11-23T08:48:00+00:00",
+    "published_kabul": "2026-11-23 13:18 (کابل)",
+    "importance": "کم",
+    "relevance_score": 22,
+    "relevance": "ارتباط محدود",
+    "category": "بانک‌های مرکزی و نرخ بهره",
+    "archived_at_utc": "2026-11-23T09:15:53.950364+00:00"
+  },
+  {
+    "source": "Forex and Central Banks",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Forex and Central Banks"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Euro: Danske Bank sees gradual weakness against US Dollar over 6–12M - www.tmgm.com",
+    "summary": "Euro: Danske Bank sees gradual weakness against US Dollar over 6–12M www.tmgm.com",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQckFxZkhLVzZ4cFJWY3V2czdYeDlNTFRkSmFUekxSS3haZURJUXNWS01SX2lhSkwxTnJicXFtVzVGaTNwcVA3dDM2YUpENXlFREJNLWZtS0RnRERZdTMyZGhEM2J1eUNSTHRfZlNRa0kweXVJT1lUM2thZ2xWUFdNS1ZBUVViSV82Z3JIYUhyaEtTSWZFVUdfZ0FYNVlTaXh6SXBVdXVaSEZDVHR1Qm9fSUVsV19uYTZHWHZwLVNiY1dTMndUZGR6MjVGdnFJSG1sdXlN?oc=5",
+    "published_utc": "2026-11-23T09:12:35+00:00",
+    "published_kabul": "2026-11-23 13:42 (کابل)",
+    "importance": "کم",
+    "relevance_score": 0,
+    "relevance": "ارتباط محدود",
+    "category": "اقتصاد جهانی",
+    "archived_at_utc": "2026-11-23T09:16:02.301143+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Oil Prices Slide as AI Bubble Fears Rattle Global Markets - Yahoo Finance",
+    "summary": "Oil Prices Slide as AI Bubble Fears Rattle Global Markets Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOa2VSaG5GSjkyMmdET1BPd0lpaVRuM2M2d2owTUhpS3ZtT2RjUTlWeW92OXZqWEdVRmhmTkYwR3Jpa2YtME10RVkzUmNUUmJncWZUbmRHaXBkR1ZPLTkzUXlMaWIyRkc5MHZhQm1TOWNyTUxnVVQ3X0wzQ3NuV094MTVXc1puQklOdUIw?oc=5",
+    "published_utc": "2026-11-23T05:50:00+00:00",
+    "published_kabul": "2026-11-23 10:20 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-23T09:16:12.215428+00:00"
   }
 ]
