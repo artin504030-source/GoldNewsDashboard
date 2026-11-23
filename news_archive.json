@@ -5796,5 +5796,64 @@
     "relevance": "ارتباط محدود",
     "category": "بازارهای جهانی",
     "archived_at_utc": "2026-11-23T11:45:54.411250+00:00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Why Wheaton Precious Metals Corp (TSX:WPM) Is Drawing Notice Beyond the Index Move - Kalkine Media",
+    "summary": "Why Wheaton Precious Metals Corp (TSX:WPM) Is Drawing Notice Beyond the Index Move Kalkine Media",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYjZrUlFDNjB0YnllRU9QS3BlR1NxTWNheTd1dzJJbkprNEJDN2NaSkNxekZpUjlnRGFUQ3N4U0ctWElxSHJMZGVLaVd5dnJ1S2xUa1JDVVExWVpRSkIweTBWU0hvZXprSEFQNUlrMUR4UDRYbE43T0dzMnZWUlhUZWd3Z0RfdTBZTzJvR180Q2FVYkNPXzFld2hfRzZjVWZGdmxtM3FCaEE3WUcxZDhyeERaempzTnRQSVM0?oc=5",
+    "published_utc": "2026-11-22T14:46:00+00:00",
+    "published_kabul": "2026-11-22 19:16 (کابل)",
+    "importance": "کم",
+    "relevance_score": 45,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-23T12:15:28.527683+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy",
+      "Oil Trade and Supply"
+    ],
+    "source_count": 2,
+    "confirmation_status": "تأیید چند منبع",
+    "title": "European Natural Gas Prices Surge 8.6% as Cold Snap Looms - Crude Oil Prices Today | OilPrice.com",
+    "summary": "European Natural Gas Prices Surge 8.6% as Cold Snap Looms Crude Oil Prices Today | OilPrice.com",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZk5OWFhMUkZMazJzUU5iN3EtMnJhd0ZacEJPN256SEw0OVRoV2tUSXdBcmxWbFdWdTd2QTRXQlUtN2RaQnlZSFpBLUZCbmZGdHV1cFFIbG10LXI0V05QSzh0dFhNSnNJLU84ZUhDcHV4RlR1RzZSbENJY1V1dEU4eXg3VzVFRmpQVzhmUlJhYnEwVWRGNmYxXzVsRU9xbklpdF85WHZNcXBoYlFaelg3V9IBtgFBVV95cUxNQlFQQU40UGF1YmdILU50R0hxSEhBVjlVb1drT0o2LUxQSFJBa2g3UkZUQzdYRG5iWGZGSi0yUzhYLWFUeHBpRW5HOU0tVU5YajVFX2hGd252R19NcU9NR3RlZ00yMDJYd2FQbkVuSDVVLVNMakVDamZZNjh0M1hHa2dTUnF5SmluYUM4U1JZZTRXR2R3bkhjOUkzUXc0VWs5U256VWNicWU5eUJLMGtGNnFtTWFqQQ?oc=5",
+    "published_utc": "2026-11-23T08:30:00+00:00",
+    "published_kabul": "2026-11-23 13:00 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-23T12:15:38.149935+00:00",
+    "last_confirmation_utc": "2026-11-23T12:15:41.751802+00:00"
+  },
+  {
+    "source": "China and Global Markets",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "China and Global Markets"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Mohamed El-Erian Warns Wall Street Turmoil Could Spill Over Into US Economy - Sada Elbalad English",
+    "summary": "Mohamed El-Erian Warns Wall Street Turmoil Could Spill Over Into US Economy Sada Elbalad English",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORUw4Z3hjWnUwR0hKSjZnSmxlck9fLWVyNmxNX1NfV3F3Sm0xT3BYUlJGOEVCcFdKWXNTSElFd09TRzJkTDY2NW5YMlhENHdMLUtRUGhNQjVlRmNnWHZtU08zOVJxck1INnZadU5IU0lDTVVSbmtESnFUTkZsdm44M29BV1RJaWlRcGJOekFMckxhY09pMkFn?oc=5",
+    "published_utc": "2026-11-22T23:27:23+00:00",
+    "published_kabul": "2026-11-23 03:57 (کابل)",
+    "importance": "کم",
+    "relevance_score": 38,
+    "relevance": "مرتبط",
+    "category": "بازارهای جهانی",
+    "archived_at_utc": "2026-11-23T12:15:47.914754+00:00"
   }
 ]
