@@ -4647,5 +4647,62 @@
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-23T06:00:16.984928+00:00"
+  },
+  {
+    "source": "Forex and Central Banks",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Forex and Central Banks"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "The Federal Reserve’s balance sheet yo-yo - Financial Times",
+    "summary": "The Federal Reserve’s balance sheet yo-yo Financial Times",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1zVWg4dzdvbGJIdk9fOVIxTVBCNUdjVkFMSGQwSTBINldJZWdXQXlhRU9qSGRjZnpZdkRhdERmcFpQX2ZHZkxCUk5nOFZjZWlOWkpIaUFHQW5ZcFIyVGdIcU5xd3pJaFNZXzRZMFAtYXg?oc=5",
+    "published_utc": "2026-11-23T05:34:23+00:00",
+    "published_kabul": "2026-11-23 10:04 (کابل)",
+    "importance": "کم",
+    "relevance_score": 30,
+    "relevance": "مرتبط",
+    "category": "اقتصاد آمریکا و دلار",
+    "archived_at_utc": "2026-11-23T06:15:44.393989+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "US Congressman puts Iran war, tariffs and healthcare on early House agenda - MorungExpress",
+    "summary": "US Congressman puts Iran war, tariffs and healthcare on early House agenda MorungExpress",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONEV2Z2F5Qm8zWDhvcHpRUXBTclBQdkpFLWZOT2cxUVpPUG1YOU9TdnljN3BnVHVnTXlOY0F5MUM4RTBDb01OUGI4ZmtaaDg1cDZkN1NCTndEQzRiMmFLeERwUHlLWnlKUGVXZDFWdHRreGc4MGdHVDNfUTZxNmlyMW1oQWtxRkhCSThyMGZrOFRKU0dUS0lEaF83RmxXOHpjOWJXWVNn?oc=5",
+    "published_utc": "2026-11-23T05:09:00+00:00",
+    "published_kabul": "2026-11-23 09:39 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-23T06:15:52.289891+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "EU and Indonesia sign trade deal to eliminate most tariffs - Investing.com",
+    "summary": "EU and Indonesia sign trade deal to eliminate most tariffs Investing.com",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeTdkbURRUlpnVVg4bHVNNzlVREw4eDh6TUtaOUtYS0lKb2c4dUJPZ1NiVU1POWZPSU92T2I0VmpyVkxLY2hMUEhnYkkxWFRMODlzUEMzTUw0S25sZkJkbEJ4bW9fbEJkVW1kdTduSUxONXNMaEM0RG9fd1MxUkRkcW1sZ2lpYklTUTVtNzF6R09rcWRIZHRWX1lVa1F6WkR4RE0xUEtheEVTQU5ka2ZJbnliRjJ4QQ?oc=5",
+    "published_utc": "2026-11-23T06:02:01+00:00",
+    "published_kabul": "2026-11-23 10:32 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-23T06:15:59.553842+00:00"
   }
 ]
