@@ -1561,7 +1561,7 @@
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-20T14:45:57.212925+00:00",
-    "last_confirmation_utc": "2026-11-23T09:16:06.304589+00:00"
+    "last_confirmation_utc": "2026-11-23T09:30:32.563972+00:00"
   },
   {
     "source": "Geopolitical News",
@@ -3845,7 +3845,7 @@
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-21T11:45:32.006720+00:00",
-    "last_confirmation_utc": "2026-11-23T09:16:06.353746+00:00"
+    "last_confirmation_utc": "2026-11-23T09:30:32.613056+00:00"
   },
   {
     "source": "Oil Trade and Supply",
@@ -5170,10 +5170,11 @@
     "source": "Oil and Energy",
     "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
     "confirmed_sources": [
-      "Oil and Energy"
+      "Oil and Energy",
+      "Oil Trade and Supply"
     ],
-    "source_count": 1,
-    "confirmation_status": "یک منبع ثبت‌شده",
+    "source_count": 2,
+    "confirmation_status": "تأیید چند منبع",
     "title": "Oil prices fall as Middle East supply recovers, surplus concerns mount - Anadolu Ajansı",
     "summary": "Oil prices fall as Middle East supply recovers, surplus concerns mount Anadolu Ajansı",
     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTC1CNjZIVnRKSVhBUFlteUZwdU9sSm9XS094aDlrVzdKWFd6bWkzSm1LUThmOVpLbXF6eFY2WTVfc1ZnMmxQMGFhWk9oc1FIUzJtQ3ZUOGdDX0VLUmxuam5ud3VMeFM2UE9PYURLZkVwRW91UWVLeFhaVUR3WEh1R1YxbTZWNFRtai1OTVU3N09sTGdwSGhja01NQ3ltQk8zYmpWWWV3TkF4ZHJGX0hnc9IBuAFBVV95cUxQUVhacHZyYUlMNkVjVjc2My03RVJXNjNNdENNclFkdXBzaWNaMFgzZUZTcHIwdXZOYVh2UU1XUi04TzJJQzZ1clhqa2g3bVRia2tEWTlCSk90UXlXb0VDYk9ackpuZTNwNFpBUXhHaGxzNl9zT2xZdFhsM3ZNZmJtUzRQaTlNdjU3a1ZRbnpOVXJIeDZZX1dVNDVxWlROQ2dMVF9mbGZXUnFqQ3d0ckw4cGtON3dGLUh1?oc=5",
@@ -5183,7 +5184,8 @@
     "relevance_score": 12,
     "relevance": "ارتباط محدود",
     "category": "انرژی",
-    "archived_at_utc": "2026-11-23T08:15:46.849538+00:00"
+    "archived_at_utc": "2026-11-23T08:15:46.849538+00:00",
+    "last_confirmation_utc": "2026-11-23T09:30:49.641086+00:00"
   },
   {
     "source": "Gold Market",
@@ -5412,5 +5414,62 @@
     "relevance": "ارتباط محدود",
     "category": "انرژی",
     "archived_at_utc": "2026-11-23T09:16:12.215428+00:00"
+  },
+  {
+    "source": "Oil Trade and Supply",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil Trade and Supply"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Five countries tighten biofuel policies amid global energy crisis and oil supply concerns - BioEnergy Times",
+    "summary": "Five countries tighten biofuel policies amid global energy crisis and oil supply concerns BioEnergy Times",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUF9BeVlHaW53czgyWDhqQnVfdnJXYmNXX0o5Ukl6WVpyWFFRam1XTF9STUpvaXFvVWJfWnRkNFNiM3ppXzBrYy1DbUNmMkNSeW8teGhLM3IyMlRBMnVBM2VEZERCUTRPeko4VzNpWWt4Mi1lVXFqRllwMlRFYlNKZE44elNxc0o5bFkzRjl0YnpTYS1uTjNKMHFLZmhuMjRCZDZHN2oxX292c1RnSWxGdGV4S2Z2UHM0?oc=5",
+    "published_utc": "2026-11-23T07:33:01+00:00",
+    "published_kabul": "2026-11-23 12:03 (کابل)",
+    "importance": "کم",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-23T09:30:38.804745+00:00"
+  },
+  {
+    "source": "Oil Trade and Supply",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil Trade and Supply"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Trump dares Iran to breach US port blockade as Tehran reportedly readies 14 oil tankers - Fox News",
+    "summary": "Trump dares Iran to breach US port blockade as Tehran reportedly readies 14 oil tankers Fox News",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNd1BjTGRmMGRRNmNZZnFiZEc1eV9WNU1oTzR1TXh6NDZ5aTFZMkhWN1ZVb1lwOFFybjE5V3dIbDAxbjRCQ2wzV3NBU1BGTE42U0xXMkFRMGItdjk4RHdLVUhUcl95MkdtVllUU2xCN3lZYk1oQk03MUxYcmxnZVNteWgwLWJ6NUItSGFvY1A3TzZHYTZqelRfcWh5eUQzUVllYUkteEhOREhiaHFETWVfVNIBtgFBVV95cUxOemFJRWtRTGk0YVVad3pyc0tYRExXN2QtdlZQdUN6dTJXM2J2UTZwNWZYRUczemtyaHpTRkQxb092YThXR3ZrOUprUHRzbE41VGtyQWl3SU1TT3JTcHctSlVvVk43WkZsM3JxRHZVWG5qZWNpN2hkMjFHVndLbnQySTFwWHVsSE5YbTBvdTlLRkNtSGo2Mm95ajl2a1c1Wm9BMjg1T0Nobms5cG1ydWM3TUxHRXYzZw?oc=5",
+    "published_utc": "2026-11-22T22:43:24+00:00",
+    "published_kabul": "2026-11-23 03:13 (کابل)",
+    "importance": "کم",
+    "relevance_score": 28,
+    "relevance": "مرتبط",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-23T09:30:46.557213+00:00"
+  },
+  {
+    "source": "Oil Trade and Supply",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil Trade and Supply"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Sharara pipeline closure deepens Libya’s oil production crisis - The Arab Weekly",
+    "summary": "Sharara pipeline closure deepens Libya’s oil production crisis The Arab Weekly",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNd3dRd2FEaUFmck1KV1JMazRDUGRLQzdKald4S3hIUmVZdGhKNXRjZFVHay1Cbjh5UGpBcXl2eXB0Y2M3Rm1LdXpZa0dHbS1ORnVhTWU2bWtDS1B1eXh6eXg5ZUhNQnI2TUVHRGVoUXBNUGNySEViV2ZtMkg2Y1Y2V0RhX3kyZTBRM0NhVDh6WkI?oc=5",
+    "published_utc": "2026-11-23T09:19:53+00:00",
+    "published_kabul": "2026-11-23 13:49 (کابل)",
+    "importance": "کم",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-23T09:30:54.319802+00:00"
   }
 ]
