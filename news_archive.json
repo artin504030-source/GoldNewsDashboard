@@ -6887,5 +6887,24 @@
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-23T21:45:37.477552+00:00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Don't Worry, Precious Metals Will Shine Again (NYSEARCA:GLD) - Seeking Alpha",
+    "summary": "Don't Worry, Precious Metals Will Shine Again (NYSEARCA:GLD) Seeking Alpha",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZHdZNzhDTHlqN1NtWVZraERBb2RySEFmZHNfSF9aZkhzRmVUR0hWZkdLSHE3dTdXUG1GTFJ4YXBTMkpLdktXNXZmbTlvQ29LSmxNMUl1bFIySXVmZWJwZk5fSEMxLXQ5X3lmU1dxSkZIb0dMemNjQzRjc1YxWnhMRVN2WF9PajZZZGx6Vw?oc=5",
+    "published_utc": "2026-11-23T21:46:15+00:00",
+    "published_kabul": "2026-11-24 02:16 (کابل)",
+    "importance": "کم",
+    "relevance_score": 45,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-23T21:53:42.901785+00:00"
   }
 ]
