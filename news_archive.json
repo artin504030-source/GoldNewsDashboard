@@ -6448,5 +6448,24 @@
     "relevance": "ارتباط محدود",
     "category": "انرژی",
     "archived_at_utc": "2026-11-23T17:01:21.228715+00:00"
+  },
+  {
+    "source": "Oil Trade and Supply",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil Trade and Supply"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "libya oil production plunges amid pipeline shutdowns - NewzTodays",
+    "summary": "libya oil production plunges amid pipeline shutdowns NewzTodays",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPN0R2d2s1XzA3YVBJWmxJUm12bU5vc3hqc0NTZ3c2cWpKcktuOGVMOW5rX1FwU1lMeE5xaGlZaTN3WGhzd3pXWmxvbFVDS3RqWmFGMDNfV1k2ZGJrWjBnWVQ3NTZURnVFVXZiUENKRTlvbHpOSlBfMVFqRV9MUWVUZlVodHJDNzc1NEtCd3BZQ0tpS05va1VB?oc=5",
+    "published_utc": "2026-11-23T10:49:07+00:00",
+    "published_kabul": "2026-11-23 15:19 (کابل)",
+    "importance": "کم",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-23T17:15:36.047456+00:00"
   }
 ]
