@@ -4590,5 +4590,62 @@
     "relevance": "ارتباط محدود",
     "category": "انرژی",
     "archived_at_utc": "2026-11-23T05:31:08.384072+00:00"
+  },
+  {
+    "source": "Economic Reports",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Economic Reports"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Gold rises from 14-month low as markets await U.S. inflation data - CNBC",
+    "summary": "Gold rises from 14-month low as markets await U.S. inflation data CNBC",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZ2JoZHpCc3VicTV4YkFsUE1XMjFGY1VPMlpQRU1rblNRbTRnM0xFRHUwVWtDRGFsWGh3cmJ1ODc4eDktQ1JjN3JLZFo3eTZCdXZZaWl0eU41eUxVekJwSmNvemtXeENPbXVwd2FYamsxSDJGRkxKM0ZBNmJEVEVKeFJMa3BYSEp4em52VmwzODk3YzAtVWUzWkx0em9TbXo4MXfSAacBQVVfeXFMUDdja1psWm1WcnBQUHBiTGZ1dDdnY2ZBS2xhTG5xX0ZTeXNYNWNIeDZRLWlpWDVfQ0VSZkdsenFtM09DN0FWYUVaMzJRRDBVWUs0dkU4N2xtSjBqQmFfQXRkdVV3cTZIQ2lobC16YUN6S2dHT2QtUUhPbVpiSEJfWEFvY19QRFJHeHFobzdmUjlaYlJrTVZCRkRJbHc3MWY0R1pLaS02QUk?oc=5",
+    "published_utc": "2026-11-23T05:47:14+00:00",
+    "published_kabul": "2026-11-23 10:17 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 75,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-23T06:00:01.753658+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Trump links Iran war, oil prices and market crash to midterm elections: Key takeaways - Gulf News",
+    "summary": "Trump links Iran war, oil prices and market crash to midterm elections: Key takeaways Gulf News",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSWJaZFlDLUl5UldWczZ4UTg1WGw4Vnh2bTdhbU9sbjFKdVczVWRvU2luNE9YMWV2YTRjZ2lQdWU3ZDBIRmxpUlJQNTJDcUQ4Q1BDNnY4T1UyUWRIVm9NU1RrNDk0VDRzRnJ5UDdMNkczWlhlRXFBdmtJcVF5VHNrSFNUZTJCcm5QQzJUZUNBYWNhZ2FrMXRVMGZLa3FDb0tNWGZmN05sQUtLTldiUEZybkYxMk43NHJQX1ZTN0xGNXJ6X1c5ZzRHM1Zpd9IB3gFBVV95cUxQY3NsRFZxODVTbjlaX2pBMVRKZ2dKaVQ3ay00cmVDcXdiMWpUMndBMnV6TWFlVkFsMDhFWlZtS2RmcGpqZ0RKbE4yRWFOR3VvXzVhX3h2SXJQdWNoNXNqMXNwODI1bFltcmJWT0hNUUxSSkhtc3MyQ3NaaXBmR2lGVVJMSFg0U3NEaEpWd1dRaG5wdGdITWZ3NFQweWNvZGNzckRfcGRPUndlSXFzdXVfcUVJZHZQc0xxYlV2bkwxU3JUUDM4WmJkTC1xSy1MOXJKTWp2SWtTWmh5ZDNtT3c?oc=5",
+    "published_utc": "2026-11-23T03:05:48+00:00",
+    "published_kabul": "2026-11-23 07:35 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 28,
+    "relevance": "مرتبط",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-23T06:00:09.415958+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "EU reset threatens trade war with Britain’s allies - The Telegraph",
+    "summary": "EU reset threatens trade war with Britain’s allies The Telegraph",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUjktTk1CSVNpdTdDWFVhY0xneGtZTUpyY3VkVHVoYnVNcHktQVcwV1p5RU1SUUZUMERKU3RwaF8xeXMza25ueDFJcGNUNV9TdWh6YnRFSDhqTVhPRHBTVjVsSWdEejMxRjhLNXhQcDBvQ1Q2VEh3SGNNbGZDUjdTMGwyd1pFMWh4N1BWNzB2YW5JSzRZWExiYWFsTmhQcUk?oc=5",
+    "published_utc": "2026-11-22T14:31:00+00:00",
+    "published_kabul": "2026-11-22 19:01 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-23T06:00:16.984928+00:00"
   }
 ]
