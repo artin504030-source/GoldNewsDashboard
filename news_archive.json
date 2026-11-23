@@ -4723,5 +4723,62 @@
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-23T06:30:43.960940+00:00"
+  },
+  {
+    "source": "Forex and Central Banks",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Forex and Central Banks"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Bitcoin Braces for Fed Test as PCE Inflation and GDP Land Before Thanksgiving - BigGo Finance",
+    "summary": "Bitcoin Braces for Fed Test as PCE Inflation and GDP Land Before Thanksgiving BigGo Finance",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE80RmJDUkNtbko2Uzh6ZEtLUXhpOUhpb3o3RjRCOXpTY1pscnZwOE5yOV9IdEZtdFJOZFJsMG9VMm9sc3h4b0d4dzdqVmhvMXdjcG9XQ2wwRkJUYnVDZnkzWnBMaTNDSXFJdW1KbzdyT1B2RjhpM3c?oc=5",
+    "published_utc": "2026-11-23T06:05:00+00:00",
+    "published_kabul": "2026-11-23 10:35 (کابل)",
+    "importance": "زیاد",
+    "relevance_score": 30,
+    "relevance": "مرتبط",
+    "category": "اقتصاد آمریکا و دلار",
+    "archived_at_utc": "2026-11-23T06:31:09.299992+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Oil Prices Enter Fourth Week Of Declines Over Supply Glut - WE News English",
+    "summary": "Oil Prices Enter Fourth Week Of Declines Over Supply Glut WE News English",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUEUycDU0VF81RGNHeVVnRVpiQ181d280ZkFMbmRWQzBVNjNzdmNMTEwtSXZZZGc2Y2xlSWRleFBCdF9VZGI4TWtHbnlmTW9fZFBGRjZKYm5XdTItallRTW10N3F1TFByZ2JoYWVDVUgyNEJMc3B3Z0U4NThUV1lUaA?oc=5",
+    "published_utc": "2026-11-23T05:33:17+00:00",
+    "published_kabul": "2026-11-23 10:03 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-23T06:31:18.145130+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Oil Prices Extend Losses as Global Market Sell-Off Clashes with Rising Gulf Security Risks - Sri Lanka Guardian",
+    "summary": "Oil Prices Extend Losses as Global Market Sell-Off Clashes with Rising Gulf Security Risks Sri Lanka Guardian",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdF91NXNrZk5jSkNwVFRsQU5OQ0ZyWHRkb2lFNTlVRUg2R01qWU1tNkFwUTJ3clRLT2llTnZsZzNsd3I1MXh6VklMYk8xWWhPTlRndEktUGY5amFXMGNGV2hKeXoyVjB5OHctU3plZGktVU44b1hUYTdkR2pJOEM0NVpINVRKVWI2UmhQcFQ4WkFseUs2anJUMFlEcFpEMDJfTFRwSDZCREp4TzRhN3ItUmk3SkY?oc=5",
+    "published_utc": "2026-11-23T04:17:18+00:00",
+    "published_kabul": "2026-11-23 08:47 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-23T06:31:25.948276+00:00"
   }
 ]
