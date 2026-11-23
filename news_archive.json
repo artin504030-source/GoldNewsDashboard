@@ -5586,7 +5586,8 @@
     "relevance_score": 12,
     "relevance": "ارتباط محدود",
     "category": "انرژی",
-    "archived_at_utc": "2026-11-23T09:51:23.647790+00:00"
+    "archived_at_utc": "2026-11-23T09:51:23.647790+00:00",
+    "last_confirmation_utc": "2026-11-23T17:30:54.259314+00:00"
   },
   {
     "source": "Gold Market",
@@ -6180,7 +6181,7 @@
     "relevance": "ارتباط محدود",
     "category": "انرژی",
     "archived_at_utc": "2026-11-23T15:00:48.018732+00:00",
-    "last_confirmation_utc": "2026-11-23T15:00:59.516756+00:00"
+    "last_confirmation_utc": "2026-11-23T17:30:55.065116+00:00"
   },
   {
     "source": "Oil Trade and Supply",
