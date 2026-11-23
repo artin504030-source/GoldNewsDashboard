@@ -6639,5 +6639,43 @@
     "relevance": "ارتباط محدود",
     "category": "انرژی",
     "archived_at_utc": "2026-11-23T19:01:08.471969+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "EU and Indonesia agree free trade deal to cut tariffs on cars - electrive.com",
+    "summary": "EU and Indonesia agree free trade deal to cut tariffs on cars electrive.com",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWWFUYXctMVNzcGN2TGIxUXh1Q0w1VmZ5RUhROHpYYXZJTmFxSVJNWVFUeFJVbV9oUV9PTnFZeTh2MU5kV3h3MUZsYmRfVE9BdXNtTFkybWdneVNQcmVudFc0ejROSmpEd0lfN3NQSnp1RGk0bTNIMmxXOEVYYWhCWEd0czBQWGxyZkhCZ2FjbTBIci1LTHIxNUxwTFNYUWVj?oc=5",
+    "published_utc": "2026-11-23T13:30:00+00:00",
+    "published_kabul": "2026-11-23 18:00 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-23T19:30:38.523287+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Fact-check: Is more oil going through the Strait of Hormuz than before the Iran war? - WRAL",
+    "summary": "Fact-check: Is more oil going through the Strait of Hormuz than before the Iran war? WRAL",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPN21Mc0c2Y3hHY1F5RUNWbTRVZGlfTEsxR09kVnl1cjRKMTRGLVg1TngyQWRRSG5NUUxDbmJES2ZpZ21kUVlYcWhhaTZTOVpkLTZDY0szSXBpYWNPRXhYbzRidG5jTXZueElFb1JjN1pZbkRXSGZydHRmeHA3aUxKMG9TV1FDRmV5Rmc?oc=5",
+    "published_utc": "2026-11-23T19:18:45+00:00",
+    "published_kabul": "2026-11-23 23:48 (کابل)",
+    "importance": "کم",
+    "relevance_score": 28,
+    "relevance": "مرتبط",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-23T19:30:47.072533+00:00"
   }
 ]
