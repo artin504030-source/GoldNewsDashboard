@@ -1561,7 +1561,7 @@
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-20T14:45:57.212925+00:00",
-    "last_confirmation_utc": "2026-11-23T11:30:52.913698+00:00"
+    "last_confirmation_utc": "2026-11-23T13:16:02.358118+00:00"
   },
   {
     "source": "Geopolitical News",
@@ -5874,5 +5874,62 @@
     "relevance": "بسیار مرتبط",
     "category": "طلا و فلزات گران‌بها",
     "archived_at_utc": "2026-11-23T12:45:56.078682+00:00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Gold rises 1.2%, recovering its weekly losses; precious metals see broad gains - صوت الإمارات",
+    "summary": "Gold rises 1.2%, recovering its weekly losses; precious metals see broad gains صوت الإمارات",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSlpkTEpEWGNiaUxxc09Mbnl1NFdyclF3UnNxd3dDUjVTZ2lncExSa3dKcWRTR3ZZMWJfZ3BpQm9kU080SzRydnRaX1k1MHFYWUtUWkxOd1Zha3ZGT3lvbFF0ZXN0LWJ1N2ZudDEybDhxczFoSXhxRlZSVTg5dWYtUkxIcGQ1RVV1MmxIM2hCQzdUbkpRWEthcGZHZGtKM1I2VUVuNVBDcldWYjJvUXY3UWwzWkpScTE3ZmpqYjg4MzY3TDRaYm0tQzNiWQ?oc=5",
+    "published_utc": "2026-11-23T07:15:43+00:00",
+    "published_kabul": "2026-11-23 11:45 (کابل)",
+    "importance": "کم",
+    "relevance_score": 45,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-23T13:15:49.068461+00:00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "The Changing Role of National Mints in the Global Precious Metals Market - Big News Network.com",
+    "summary": "The Changing Role of National Mints in the Global Precious Metals Market Big News Network.com",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPU21MUy16ZWs3WmUxTDFFQmMweFJZRXczX3ZfeTZhRXU4WUdvZnhtV1NfRlBBSnRBY1pEMzRFQURyM3haLTNJbVR5RFNUR1dlUzBCQjRRRzE4MjMzRUNsaGpfeUJDWmxfeHlWQ2FpNEszcHJHMEFmcWRMY2pBQ25uNTVhNmZqNEFYRVdVVUtVajRHa01oaFJvZXU4cEVuMU1WTzhpNEhaSG0zRFlGZjhqbWQ5TTY5bC1rQVE?oc=5",
+    "published_utc": "2026-11-23T07:48:00+00:00",
+    "published_kabul": "2026-11-23 12:18 (کابل)",
+    "importance": "کم",
+    "relevance_score": 45,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-23T13:15:56.467780+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Oil prices slip as Iran war, Middle East shipping attacks support Brent crude and WTI despite weekly losses | Hindustan Times - Hindustan Times",
+    "summary": "Oil prices slip as Iran war, Middle East shipping attacks support Brent crude and WTI despite weekly losses | Hindustan Times Hindustan Times",
+    "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNT05ZMk9tcFU3SndwTWs5SG54cHYweURESm9DUUpzOVpVcUFoaThfUW16QUJwc2l3ZUVJbmVjc0NNdlEtN3M5bkRScE1acXp5RmpCQTEtZFdCRzhuVkNtUDhuU0FBYktYazc1dnQ4MVM1QUstXzV4Z3l5a3E3dmJRYmxXUlNGY3VuN0Z1WlZqNGp6OFhVRl9weDVmQnBkcGNYTFhuOHJZcU42VjE1UVYwYWpwV0dHM2Y1QzJJQmJ3S0lzX0VfMjlKLUdUUXZscU5LQlZ0UUhwempZV25naUF2aEVwOUJjLVpVWXNUSTdpS3BtVTF6bmtqZUExdGlkcUszTlpheTFRU2nSAY4CQVVfeXFMT3hFZ29SZDhLdjFSRl9yeWljYWJNZVZhZU9Kck8wWFh2VWxxWHhuRWcyZUFTS2JoNjZDX09OTWIyQkMtdko1TmVCMFhkQnNXS3RpclpBblBDcnk2SDVtNU1ldEIwMUpBMmxBZ2E0NHFzdldtTE5SZnNiZzZ5Y2sxdEhwQ2xRR3hSdEFKR2J2ZWxwbkxTNUk0U01HaUY5eEhIV2hWbF9ZLUpIVGc2VnltRzRoR1JCTFdlUzRnTWJpT05rOUhQanR4bUszZGVHN0tJSW1aWTEtNjJGZEtwZkJKaW9NYm9sbm85UzZTWkFqMmh5cnFRVGQweThraENsZnNtUkF4LWVyMXVzcnhvYVlB?oc=5",
+    "published_utc": "2026-11-23T11:24:36+00:00",
+    "published_kabul": "2026-11-23 15:54 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 28,
+    "relevance": "مرتبط",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-23T13:16:07.577966+00:00"
   }
 ]
