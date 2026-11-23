@@ -5758,5 +5758,43 @@
     "relevance": "ارتباط محدود",
     "category": "بانک‌های مرکزی و نرخ بهره",
     "archived_at_utc": "2026-11-23T11:15:31.691207+00:00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Azerbaijan's precious metals market sees weekly price fluctuations - Trend News Agency",
+    "summary": "Azerbaijan's precious metals market sees weekly price fluctuations Trend News Agency",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE13TWd1UDVCTHNlVGpfVHJWZkJCYUVGQlpfc2Jqd0Y2WmFuSkNDaTFwRUhYXzZNRWpGbDJnbmx6ZzJsN1I3REU0MUtEcTFma0cyNG9KRTktSQ?oc=5",
+    "published_utc": "2026-11-22T04:00:00+00:00",
+    "published_kabul": "2026-11-22 08:30 (کابل)",
+    "importance": "کم",
+    "relevance_score": 45,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-23T11:45:45.904566+00:00"
+  },
+  {
+    "source": "Economic Reports",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Economic Reports"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Mortgage arrears in Ontario approaching levels last seen in 2008 financial crisis - The Globe and Mail",
+    "summary": "Mortgage arrears in Ontario approaching levels last seen in 2008 financial crisis The Globe and Mail",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWlRLYkc2Vko4M01iUGMtc3NrMjBjUVFYX0p2bjZBTkdCTWdoUDRfdHBEcnhuZllkcUNlV0FmVHZoako0NExWT3VMWjBaZThXdlY0UDBDSUN3d2FOdVY0TzF2NmJfZWg5MjlhY1BtZVpPNHBvNHpGeVR0dENER1A5aElCVi1yeUJNMG5TUFg1d25xQzRzS1RFOHgza29hcUZfQUpsWW9ZcExYT2xpS1g1dXd0dVdMenZMUTdWY1djQ2RkZUlHSDJVZlRCaFZqdw?oc=5",
+    "published_utc": "2026-11-23T11:00:00+00:00",
+    "published_kabul": "2026-11-23 15:30 (کابل)",
+    "importance": "زیاد",
+    "relevance_score": 10,
+    "relevance": "ارتباط محدود",
+    "category": "بازارهای جهانی",
+    "archived_at_utc": "2026-11-23T11:45:54.411250+00:00"
   }
 ]
