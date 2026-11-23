@@ -6849,5 +6849,43 @@
     "relevance": "مرتبط",
     "category": "اقتصاد آمریکا و دلار",
     "archived_at_utc": "2026-11-23T21:01:25.709581+00:00"
+  },
+  {
+    "source": "Forex and Central Banks",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Forex and Central Banks"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Japanese Yen weakens as Nvidia-led stock rally boosts risk appetite | FXStreet - شبكة تواصل الإخبارية",
+    "summary": "Japanese Yen weakens as Nvidia-led stock rally boosts risk appetite | FXStreet شبكة تواصل الإخبارية",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9OLUNybjBxdmJXc2wyNHNaTXN2YTM4Q2hSQW9pUGhjSDIzbkV3MkVHTG9BQTVpTXpDUXA1M3I3MXJHaXhRTWxSSjBoOG03SFcwTkxF?oc=5",
+    "published_utc": "2026-11-23T18:24:54+00:00",
+    "published_kabul": "2026-11-23 22:54 (کابل)",
+    "importance": "کم",
+    "relevance_score": 0,
+    "relevance": "ارتباط محدود",
+    "category": "اقتصاد جهانی",
+    "archived_at_utc": "2026-11-23T21:45:29.029852+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "In Harlem, The Trade War Reaches The Dance Floor - Harlem World Magazine",
+    "summary": "In Harlem, The Trade War Reaches The Dance Floor Harlem World Magazine",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMl9OVG0ta2hOcEJXeUlvajFuTE9RcVY3ZkRUQm1ObTJHUTdUY1FNMTR1alhZUkZJZ0RfTzJ4cWRtc0dkV1RaR0ROc0RNNEZ4VWJTZC1UM3VTQTBFWnJ4ZUp0dGFkQWVEVndhUVdRSElRRWs5NmdSSzVzMlpfcy0yUlFLbThwSHU4eVExVg?oc=5",
+    "published_utc": "2026-11-23T21:31:36+00:00",
+    "published_kabul": "2026-11-24 02:01 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-23T21:45:37.477552+00:00"
   }
 ]
