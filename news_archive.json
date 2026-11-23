@@ -6715,5 +6715,24 @@
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-23T19:46:09.663901+00:00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Leeuwin Metals Announces Acquisition of WA Gold - TradingView",
+    "summary": "Leeuwin Metals Announces Acquisition of WA Gold TradingView",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMm1jeUF2OUtJaXZ5WU9lOG5fSkRBZGJVa2ZxUUs1VVZDSnJlZF82bnl0OVplTVVicktVclpQbmIzRWU0UW51dEtNdDR3VElkUnN2bS1teVR6VUk3YzQ0SXdVUEw2S3RlN0RBaXpUV1hKakhmZWl2dzV3a1I1T3lZNGplbjdlazYtS28ya3lrbjBVQ3dhRGhSemNCaUN0ZzhjQmFXZHZnaGhNOFgzMGNTQW1MNFljVE9M?oc=5",
+    "published_utc": "2026-11-22T22:45:02+00:00",
+    "published_kabul": "2026-11-23 03:15 (کابل)",
+    "importance": "کم",
+    "relevance_score": 45,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-23T20:00:49.014522+00:00"
   }
 ]
