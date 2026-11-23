@@ -6237,5 +6237,43 @@
     "relevance": "مرتبط",
     "category": "انرژی",
     "archived_at_utc": "2026-11-23T15:15:58.049339+00:00"
+  },
+  {
+    "source": "Economic Reports",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Economic Reports"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Australia’s unemployment rate hits five-year high as economists warn of recession risk - 联合早报",
+    "summary": "Australia’s unemployment rate hits five-year high as economists warn of recession risk 联合早报",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQU9Ta1NsaDhkVTREcDJaV3lDSTQ1Y3ZlU29Ha1NlYk5GWW5VUF9EOVdOYmZJcEM3QllKdU5tTVBPVWRwb05qTkU1ZmxoVXh0OXozREowUThscUVHeWZILU1aQzI1N0JVY1JLUlptZUZtS3REU05PNmI4OFpVNVpNLWhNNUlYaDBXTFdDS0FtRXBFWlQwdGJEcmlEUnJfUlpHVHloTG5lSnl2S042TVNKVmgyVElLc0F1c1BB?oc=5",
+    "published_utc": "2026-11-23T15:19:01+00:00",
+    "published_kabul": "2026-11-23 19:49 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-23T15:31:02.840708+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "El Paso Korean War veteran William Slobojan seeks 100th birthday cards from Texans - KFOX",
+    "summary": "El Paso Korean War veteran William Slobojan seeks 100th birthday cards from Texans KFOX",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX2dGMWxkZWJnaERYUUpkSjVpaGhEaVdLekhENG5HQmxaYjJUbXBkb3dQYWdMV252cFRMNGRNSTJ6al9Zb2xNYUZFMERKVGVZXzVJZHM5T3FlYmxLNUU0YkRaUFVuZDhkcjlWNkF6UFFqaHAtRUFtekdCVXZCWkF0TnNfNVVnazE3alk1QkhLZG1oWFFVTS1icFZDalp0Mm1qUzJJZFBRRXRuZ2dST3o2UjB3?oc=5",
+    "published_utc": "2026-11-23T15:28:04+00:00",
+    "published_kabul": "2026-11-23 19:58 (کابل)",
+    "importance": "کم",
+    "relevance_score": 38,
+    "relevance": "مرتبط",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-23T15:31:12.292336+00:00"
   }
 ]
