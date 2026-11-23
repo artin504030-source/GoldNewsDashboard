@@ -6944,5 +6944,24 @@
     "relevance": "مرتبط",
     "category": "انرژی",
     "archived_at_utc": "2026-11-23T22:00:49.144469+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "PolitiFact: The impact of the Iran war on oil exports - WRAL",
+    "summary": "PolitiFact: The impact of the Iran war on oil exports WRAL",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZTl3ZV9uLXFzaG1hbGxYYWFjRTRseFVtWmVkanJQVTVhdDRjb3pRV1RGU010REhsSUo5dVBXWjF1eGZranlabWxENGZ6MHpsV1ZhOWRfaTAzeUNjY0NRQnhZTzJnRVM5eHJwemIyQ2pqZ005VFpXeGhldzcybXoxNGFfZG1ZN1BxNndHck9xdw?oc=5",
+    "published_utc": "2026-11-23T22:14:08+00:00",
+    "published_kabul": "2026-11-24 02:44 (کابل)",
+    "importance": "کم",
+    "relevance_score": 28,
+    "relevance": "مرتبط",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-23T22:30:55.352086+00:00"
   }
 ]
