@@ -6906,5 +6906,43 @@
     "relevance": "بسیار مرتبط",
     "category": "طلا و فلزات گران‌بها",
     "archived_at_utc": "2026-11-23T21:53:42.901785+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Strait of Hormuz shipping attacks reach highest level since Iran war began - Beinsure",
+    "summary": "Strait of Hormuz shipping attacks reach highest level since Iran war began Beinsure",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMmtmQXp4TVJzT1VHd3ktNUNVRVBCV0JweUhtSlhuaHZ4RVJNSExNT2k1YVV4VmkyaTRISFhYb29aMnpMMUdCS3NJei04dndMSmVyU1Q0ZmtIWEszaDVGakJpeXh4N0RxeWJDVEVKdmxLOFV2blpuU3lILUQ3V2VnMjJObmpUSFk?oc=5",
+    "published_utc": "2026-11-23T21:54:06+00:00",
+    "published_kabul": "2026-11-24 02:24 (کابل)",
+    "importance": "کم",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-23T22:00:41.260148+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Washington's Iran Strategy Risks Strengthening Its Biggest Rivals - Crude Oil Prices Today | OilPrice.com",
+    "summary": "Washington's Iran Strategy Risks Strengthening Its Biggest Rivals Crude Oil Prices Today | OilPrice.com",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUXdvcmNKMlliTVdOYU9HSHFyWFQwdUtWdTJkaGowUjlUdTdCdnFCaHdTX0tJbzU3czVNUXZFSHh2NWRWZUdzSWtBWHBQX21iMEltWkJLX3d0UHhEWEtBeGl5TDkyOW45VWYxR2owNjVUMkd0TWdtTXJEQVRRRmYyeHZGUUZtbXZ5UnJ6c2dxWDNBMlMzdVQ1TmY5SHZEdVVfSVBVMlRjcmYyWXFoQ3ltazRB0gG3AUFVX3lxTE0xVVgyN0JSd3pwVHdGQnYyR1h1bkx6Y0IxcmFaVWR5ejVjREZPMFI4QzhNX2VNN1VpanR0amlMdVhnQW8xbHNPd2QtZjhvSkVCSFdxWUlPNHhxOHFtWkgyYlpxOThOVzM5WUg2bTBRRkZsSXl6enJmZFJnblduZFVJTkpVRkNWOE9nVHVEZlRHNy1vUE9qeFd3RjRWbkNVazNmNG9kSmZBV1FNNkRQQW54ZmhEcFgxMA?oc=5",
+    "published_utc": "2026-11-23T20:00:00+00:00",
+    "published_kabul": "2026-11-24 00:30 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 28,
+    "relevance": "مرتبط",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-23T22:00:49.144469+00:00"
   }
 ]
