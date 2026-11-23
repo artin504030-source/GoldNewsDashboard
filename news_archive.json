@@ -7020,5 +7020,24 @@
     "relevance": "بسیار مرتبط",
     "category": "طلا و فلزات گران‌بها",
     "archived_at_utc": "2026-11-23T23:00:42.393176+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "BofA sees $80 Brent in 2027 despite growing oil supply - Oil & Gas 360",
+    "summary": "BofA sees $80 Brent in 2027 despite growing oil supply Oil & Gas 360",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbWo4eGpJbWVlZGI1UFlOc1g2N0JyUnJHbU5BcV9GOFBfeTlQejRsYXRuS3o0S0U5V0NSTHYtZ0ZUcjNRNDlxN0FiSFpvSTdRMi1EZjMtcTNmMndWMnM2ZXZNZ1ZmdUR0NGpvUENkTzZjenZMNEdhNWtHUFZwekVpMUlkQUVEVGFEZlpB?oc=5",
+    "published_utc": "2026-11-23T20:38:07+00:00",
+    "published_kabul": "2026-11-24 01:08 (کابل)",
+    "importance": "کم",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-23T23:15:31.942893+00:00"
   }
 ]
