@@ -6199,5 +6199,43 @@
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-23T15:00:56.417646+00:00"
+  },
+  {
+    "source": "Economic Reports",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Economic Reports"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "COMMENTARY: AI bubble burst could put Fed rate cuts on the table - Reuters",
+    "summary": "COMMENTARY: AI bubble burst could put Fed rate cuts on the table Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeUxld0JxUDNGX2hDTXg0REFBSFoyWWRXbWcwdUtLMTJmOEJMbl94TG1zSHIwN2hKUUxOWWVFUy12dnlYNGpCVnBoejVLbTRZY1RrdjVCT2UyczA5WkUwUnRJQWZHOHU0ZjFHT1JBWHJSbGZkNmJEaWN5ODViNW5JYm02ekhBNDlXRzB2TG1yWVRHWGdma3F3SmRXU1BVWVVRZ3JDNTVfOThnWnVGdzMzdzA1bXI?oc=5",
+    "published_utc": "2026-11-23T14:08:27+00:00",
+    "published_kabul": "2026-11-23 18:38 (کابل)",
+    "importance": "کم",
+    "relevance_score": 30,
+    "relevance": "مرتبط",
+    "category": "اقتصاد آمریکا و دلار",
+    "archived_at_utc": "2026-11-23T15:15:49.455566+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Oil prices fall amid equity selloff though Iran war attacks limit losses, Money News - AsiaOne.com",
+    "summary": "Oil prices fall amid equity selloff though Iran war attacks limit losses, Money News AsiaOne.com",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRExzMXJ4cGpwdnh3UkhIVHdkY01MVlZGVFhoOE1pTGoyZHRMWVZQT0hhR1NvTDVfZ2ZMVElhMlpMQl80aWhCeDdvNWh1cGRFRDAzMkJBMXpUWGFFelJkWklObm5yNmZtZlU1a2JTVDVSNk1jMVktRF9Rb3BLMWxZcUVGYzBmRDU4cjAyNHhpb2xWNVM1N285YjVfTmtsOC15bkduQQ?oc=5",
+    "published_utc": "2026-11-23T02:59:09+00:00",
+    "published_kabul": "2026-11-23 07:29 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 28,
+    "relevance": "مرتبط",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-23T15:15:58.049339+00:00"
   }
 ]
