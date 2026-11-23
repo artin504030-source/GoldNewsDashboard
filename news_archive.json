@@ -3845,7 +3845,7 @@
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-21T11:45:32.006720+00:00",
-    "last_confirmation_utc": "2026-11-21T18:15:45.096340+00:00"
+    "last_confirmation_utc": "2026-11-23T09:00:39.159082+00:00"
   },
   {
     "source": "Oil Trade and Supply",
@@ -4500,10 +4500,11 @@
     "source": "Geopolitical News",
     "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
     "confirmed_sources": [
-      "Geopolitical News"
+      "Geopolitical News",
+      "Oil Trade and Supply"
     ],
-    "source_count": 1,
-    "confirmation_status": "یک منبع ثبت‌شده",
+    "source_count": 2,
+    "confirmation_status": "تأیید چند منبع",
     "title": "Iranian attacks in the Strait of Hormuz are at the highest levels since the conflict began - CNN",
     "summary": "Iranian attacks in the Strait of Hormuz are at the highest levels since the conflict began CNN",
     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPazIzNmZVck5Udmx0UjFsVV9LQjJsSDhlUm95QjhZalplRUNIa1QyNXh0Z0lPYXVEblBmOWpWN3p3b0pXWXhyZko4cmlzSl92b19UbjNqS3NZUHJwWFZiZnZiRWJHSTVKMjBkNGFmdWJWcGpBcEJfSzROU0VjZHEyVXdOWWFkb2gxN1FaZ0N3?oc=5",
@@ -4513,7 +4514,8 @@
     "relevance_score": 16,
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
-    "archived_at_utc": "2026-11-23T05:15:37.328649+00:00"
+    "archived_at_utc": "2026-11-23T05:15:37.328649+00:00",
+    "last_confirmation_utc": "2026-11-23T09:01:10.925008+00:00"
   },
   {
     "source": "Geopolitical News",
@@ -5296,5 +5298,62 @@
     "relevance": "ارتباط محدود",
     "category": "انرژی",
     "archived_at_utc": "2026-11-23T08:45:41.826898+00:00"
+  },
+  {
+    "source": "Oil Trade and Supply",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil Trade and Supply"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "The Petrotel-Lukoil refinery in Ploiești has crude oil reserves for at most three more days, after the pumping of the raw material from Oil Terminal’s storage facilities was halted on Saturday morning - Informat.ro",
+    "summary": "The Petrotel-Lukoil refinery in Ploiești has crude oil reserves for at most three more days, after the pumping of the raw material from Oil Terminal’s storage facilities was halted on Saturday morning Informat.ro",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNY3NLalVxSngwbk56R2lVNnRwbDdINmhUeHNJTTR2RDdFX1J2NzNRTEctblE0TXFlY29pUG02ZlRCaGQya1Rwak9lTWR0am40U1h6RWtreG9IdGJRbng5QjhBNWFlV0YwS1Z5Q1NlLVZkX1lpTnRJUWlSR1pkSEs4cXh2WUgyc1dway0wYXNnV3JtUHRVQmppZDlFSms2eHdqOHIwWUMycUNWczcwSmNFR0Vn?oc=5",
+    "published_utc": "2026-11-22T15:00:47+00:00",
+    "published_kabul": "2026-11-22 19:30 (کابل)",
+    "importance": "کم",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-23T09:00:55.353623+00:00"
+  },
+  {
+    "source": "Oil Trade and Supply",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil Trade and Supply"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "US Strikes Iranian Oil Tanker In Gulf Of Oman As Tehran Vows To Challenge Naval Blockade | Report - The Times of India",
+    "summary": "US Strikes Iranian Oil Tanker In Gulf Of Oman As Tehran Vows To Challenge Naval Blockade | Report The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPTS1wWWhubXRyRW9LZ1VrbVAzZTYwcUROcTc1XzZlTWV6ZTF0Um1Gby1QeG9ta21UcEtuMU8xdVNXY3lrazFEUjlORVkwbHlqQWVTNVliMFRGWFJidjVHcTExS0w4aklWZDd6NW8yZ1Y0MkNObWJSUUhONXg3ZHpmbWZvXzVkTWdXdVNqbnlxd0tlc3JMLUFibkhZU3NwQnEwb0NQX0NYZDVTanBPd0Y3ZU9YVEhjbEtkWVNKRkowUF9peFctQnFsUnpmMFpweWpfbHNQNGlfZGxoY2ZCcHYyczdLM2VHTzlfY2dJLUNtc1E1RzZ3WnNUVG5qNHZLX0VGVXRmYmRNRdIBjAJBVV95cUxNSEpvZU5KRVBvcWZ4UHVINm9iU0hYRlNrMS1sa1g2NTlXcEwzTmZ6cE1WZUZXRFRLR2pxeE1UZ1BzeGZRQkY4REsxMjVnT3lrcTVkRzBEdHgwWmZIVWU5YjBEOVVIbnNTQ3R5NzRTT0lHbzFHakphcmxPMDJwRUFkVFRwRVY4Z1QtOUN1R0tKZG05RVdrNnNqa0xULUNiaUxFeEw0d0xfQkE5WlhaQ1Z6b1R2X210Z21IenZ2SnhCV092Y3k0dDlOU1Z3OFk3V3RQZnllTGhHMVNCQXRGNmgtdk54NlZVLWxQejR5bW5LTmViZEUxU25hZGV2OEVqSkdZaFgxTFBkV0pOXzlU?oc=5",
+    "published_utc": "2026-11-22T20:34:06+00:00",
+    "published_kabul": "2026-11-23 01:04 (کابل)",
+    "importance": "کم",
+    "relevance_score": 28,
+    "relevance": "مرتبط",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-23T09:01:07.830595+00:00"
+  },
+  {
+    "source": "Oil Trade and Supply",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil Trade and Supply"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "California's Wildfire Crisis Is Threatening Its Energy Future - Crude Oil Prices Today | OilPrice.com",
+    "summary": "California's Wildfire Crisis Is Threatening Its Energy Future Crude Oil Prices Today | OilPrice.com",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeVhIdEhnOWc5LVZSWHRjbUxpandYeEZNR1JwbHJrajBscUFPQjUtTlFZSjBWRENUN3ZqOF91VkZwRHA3OU9CYk5SQ3FvQTVqU0dkN0xhMXAzNHc1UUtDSzNRRmt1dVJBZWxrR2VaWlNmYVpIY0Z4MnNIUnhOanlVYUlxV0piWTZYMkNZUGVaUmNZUEdMOHRXOEt1UmNhTjB2cm9EY25VX1hzRnMy0gGyAUFVX3lxTE1uNUdxRWdNdGkxOUd6dFN2dzZDOUF2RnNWSnBMcnhlYmVWNmZTZktTS203RWtnNWZrRlc2bTcxUFlYcmdkZG05blhjQWpKOVZOTHIwYWFabmx3WjUycVJMb21wd1pqQmhPTExFVWZrVUZYWWtBbHRLNFRJaU15WFA5VUJZX1F3MHZkaTQ2SlJES3h0bFhjTTF0SHV4aGllSEhWQzg0YkxTUFpuMlRrMDR6TkE?oc=5",
+    "published_utc": "2026-11-22T20:00:00+00:00",
+    "published_kabul": "2026-11-23 00:30 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-23T09:01:23.398804+00:00"
   }
 ]
