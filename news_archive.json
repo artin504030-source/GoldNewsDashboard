@@ -3845,7 +3845,7 @@
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-21T11:45:32.006720+00:00",
-    "last_confirmation_utc": "2026-11-23T09:30:32.613056+00:00"
+    "last_confirmation_utc": "2026-11-23T10:30:43.630667+00:00"
   },
   {
     "source": "Oil Trade and Supply",
@@ -5682,5 +5682,24 @@
     "relevance": "ارتباط محدود",
     "category": "انرژی",
     "archived_at_utc": "2026-11-23T10:16:10.545640+00:00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Apollo Silver Corp. (TSXV:APGO) Climbs as Calico Silver Ambitions and Precious Metals Sentiment Draw Fresh Buying - kalkine.ca",
+    "summary": "Apollo Silver Corp. (TSXV:APGO) Climbs as Calico Silver Ambitions and Precious Metals Sentiment Draw Fresh Buying kalkine.ca",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSFNfTEVfbVU3Q1doS2E0TEJ4Z3JZeGxPTVB3d1p1LWhwVWRMb2NxTzRuR0xudGpCZWtpclZhOG9tWC0ta0lsRkh3ZzZGUXlyQU4wZjloWEJVRDdESnljSGFGQzNxY2h2Ukx6YVVxX3hjWVRwaXh0WTRkZTlBb3dDblg1UU1vOFRzcnpleDNER1psX1NjMEFlRWRLRlZ2ZmNMam16N0lMcWJSWGJUYjN5REE4TWI1VkJZdGNTM3ZXQXR6b3hnZlcySWMtNjdHdVpZUWVYcnN3NA?oc=5",
+    "published_utc": "2026-11-23T10:14:00+00:00",
+    "published_kabul": "2026-11-23 14:44 (کابل)",
+    "importance": "کم",
+    "relevance_score": 45,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-23T10:30:39.453385+00:00"
   }
 ]
