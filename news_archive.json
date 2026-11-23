@@ -5931,5 +5931,62 @@
     "relevance": "مرتبط",
     "category": "انرژی",
     "archived_at_utc": "2026-11-23T13:16:07.577966+00:00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Gold price today jumps 2.8% as Treasury yields ease: can the rally last? - Invezz",
+    "summary": "Gold price today jumps 2.8% as Treasury yields ease: can the rally last? Invezz",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMWtNdTZMTXZoMjRkaktWREhXZTMybUFZQnpmb3VQc2RoMGRhWVl5TzAtdm5FSEg3QUFqRDhab1JvWElabE1CZVpvOWdVLUhRai1GTDZUVEpFdEZMN1ZzS1J2cEJ3cm5ZZW5udEZfbUdnTWVFR192MGp0b2VCWGtWUWhFZk1MZw?oc=5",
+    "published_utc": "2026-11-23T09:57:08+00:00",
+    "published_kabul": "2026-11-23 14:27 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 75,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-23T13:30:51.671588+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "IEA Estimates 4bn People Faces Energy Shock Over Global Oil Supply Disruptions - LEADERSHIP Newspapers",
+    "summary": "IEA Estimates 4bn People Faces Energy Shock Over Global Oil Supply Disruptions LEADERSHIP Newspapers",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRjNLT2VacElwYnpfWnc2NG1LbFRROFd6OFVsUWJMNmcxeE82elpfZ0hyZkpkeWw5WVBmVnZDMGFCb1licjhJVmpfTW1ULTE0SHZGcnEyOHIyU0JCQWNsQWN6eHluX2tvTzdQeTJxSVhNUUtsUE5ybm5PY3JHbTNiNFA1c3BkMjJXR1ZaSFdFS3NpQXBENmR3VmFNSGRrQnlkaVJr?oc=5",
+    "published_utc": "2026-11-23T13:07:26+00:00",
+    "published_kabul": "2026-11-23 17:37 (کابل)",
+    "importance": "کم",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-23T13:31:00.818356+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Oil Prices Fall Amid Equity Selloff Though Iran War Attacks Limit Losses - US News Money",
+    "summary": "Oil Prices Fall Amid Equity Selloff Though Iran War Attacks Limit Losses US News Money",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQWwxSE5SZWh6RVp6b3pTYjNpMTg5b2VZU1EyVGR1TTV0N1g0NFZheUtENlQ0T2UwYk90bFpMTkh6dXd1WG1KSTFvYWdFenFFNVJzX1ptR3AtN3lnWmVFYllqNkpNQXNJd0dCQkJUR01raF95OVFSRkRfQ0JHWlIzbUV3SElaSVdQbFg4cVN5akJYZnYweEl0UEZuUVZYMWpmOC1YNU9PNTR4R2tld1R5MVB1MWJPcVMxQnkzeEx1Wi1FM1c0VndPREVMbjg?oc=5",
+    "published_utc": "2026-11-23T02:24:00+00:00",
+    "published_kabul": "2026-11-23 06:54 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 28,
+    "relevance": "مرتبط",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-23T13:31:07.903344+00:00"
   }
 ]
