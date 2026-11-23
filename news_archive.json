@@ -6677,5 +6677,43 @@
     "relevance": "مرتبط",
     "category": "انرژی",
     "archived_at_utc": "2026-11-23T19:30:47.072533+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Oil Prices Edge Higher as Gulf Attacks Support Supply Risks - SuaraGarut.ID",
+    "summary": "Oil Prices Edge Higher as Gulf Attacks Support Supply Risks SuaraGarut.ID",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBlZGs5T19CaG5hOXNmempudXNPWklocUZhUi1pQ2xLM3ZDSUxBRlNrRng5c2laOUpPYVk4ektTYmYycFpxb1FFM1NqbDB1LXFBYWV3TlBOeS1ZQXBr?oc=5",
+    "published_utc": "2026-11-23T19:02:00+00:00",
+    "published_kabul": "2026-11-23 23:32 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-23T19:46:02.439413+00:00"
+  },
+  {
+    "source": "Oil Trade and Supply",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil Trade and Supply"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "The Strait of Hormuz is heating up amid Iran's latest moves. - Vietnam.vn",
+    "summary": "The Strait of Hormuz is heating up amid Iran's latest moves. Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVklDLVdndUZOSTJnWjkweFNfVEQ3LVhlRmlheDR4T0FiWjlBbFRlVklxaFlvTjJfYk5MSjR5OHY2azg3MUlqUzZLYlJlSzRPR3R4ZkNpYzRnQ01vaTFISVNxQTNuY0UwbndJRUNYUWVnc2QzS3VvWTlOc3NrME9xczBCUE0?oc=5",
+    "published_utc": "2026-11-23T19:43:33+00:00",
+    "published_kabul": "2026-11-24 00:13 (کابل)",
+    "importance": "کم",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-23T19:46:09.663901+00:00"
   }
 ]
