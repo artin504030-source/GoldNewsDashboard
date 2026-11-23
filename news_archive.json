@@ -5530,5 +5530,62 @@
     "relevance": "مرتبط",
     "category": "انرژی",
     "archived_at_utc": "2026-11-23T09:46:15.256106+00:00"
+  },
+  {
+    "source": "Forex and Central Banks",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Forex and Central Banks"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Dollar rally lifts DXY towards 104 as markets brace for Fed data and holiday thinning - VT Markets",
+    "summary": "Dollar rally lifts DXY towards 104 as markets brace for Fed data and holiday thinning VT Markets",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPU2djUk1uaTdzZHpmaGs2Q2cxNFRvMnFaVWxVcjFKUHNHUUxTdmpjMGNmRXJwZUp5VUpudjB0UDdYenphVGI1T2ZZV3gxcTBWMFR6aVhYN2Q1MWxsRWFRWHVuR2FYeklZX2szY1dvTTV4NXJJVDRKdmFPUzVWQWZ2dFZ6WEtPRlBGZHlZR0ZmMEZuY0JvTWllNWZVbC1sdXNqTVVqdVVOanI3V1lhbnY1enhKTnd6dnl1d2lUTFlLNkdCQVkta3Y3TUpLUQ?oc=5",
+    "published_utc": "2026-11-23T07:41:56+00:00",
+    "published_kabul": "2026-11-23 12:11 (کابل)",
+    "importance": "کم",
+    "relevance_score": 46,
+    "relevance": "بسیار مرتبط",
+    "category": "اقتصاد آمریکا و دلار",
+    "archived_at_utc": "2026-11-23T09:51:08.052736+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Russia Ukraine War - Springfield News-Sun",
+    "summary": "Russia Ukraine War Springfield News-Sun",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVlZJOEI1ZEpKX1NoMEY2ck5ZWHF1RTlaVVVDRG1GU0s0MXAzMndtSmN6Y2tNMDROdS1uSE1ycThTX0dmSzBQOXU5bVZFSzYtQ3UwS1VrM1QxZ0I2R1ZwTVNSdDB0WXpUemlOUjJINlVtMk54cDlUTXhHeDdfWjBLOWFraW9jNEhFTDNVRGZTTUxuTnN4NVBrZGpJTUpaM1o0MHZ6YmZkdTI4QncyM21DYWpUSFU?oc=5",
+    "published_utc": "2026-11-23T09:49:09+00:00",
+    "published_kabul": "2026-11-23 14:19 (کابل)",
+    "importance": "کم",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-23T09:51:16.159106+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "WTI and Brent Crude Oil Prices Fall as Bessent Challenges Fed's Hawkish Rate Expectations - FXLeaders",
+    "summary": "WTI and Brent Crude Oil Prices Fall as Bessent Challenges Fed's Hawkish Rate Expectations FXLeaders",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZEdWMFFlU3JoOWZ1V0hOWFBILVBrRFE3a3I0TUNGV01DYkp4VXEwTkxEOHlLUGEyeWNpUFlsMTRBR3hFVDBOYTJSY25QV29UOWw5Y0otM3BzN0ZvaXNmLUN1dm9DN1hkNDB2YzB5ZkN2aTNvQzhZZlBYSHpfT0NQMjI0MElydURES3BUX01tWlFwbHpsNHFwS1BOdlBYY2NNYXVMZDk1UkdXN3ZfRUVmaHRPcEQxSmRZNUQ3VG95dTNjVmt2ejRTTV9MSQ?oc=5",
+    "published_utc": "2026-11-23T05:19:44+00:00",
+    "published_kabul": "2026-11-23 09:49 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-23T09:51:23.647790+00:00"
   }
 ]
