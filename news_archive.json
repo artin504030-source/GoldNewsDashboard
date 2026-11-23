@@ -4248,5 +4248,62 @@
     "relevance": "ارتباط محدود",
     "category": "انرژی",
     "archived_at_utc": "2026-11-22T00:15:41.791499+00:00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Precious metals week: platinum and palladium join gold and silver in a broad rout - CEO Economy",
+    "summary": "Precious metals week: platinum and palladium join gold and silver in a broad rout CEO Economy",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbWlHOFQ4aXlJcVo2eDFlOVMtNlJyY3k3eEg4RjVBZXJSSjNJcUZBSnpsNTZMOExsTk11b3BmUHZhaC1mWGRBb3BtelpmWGpZeDJTbTdNVUl3ODBVbEZTVEpkcTFqeDVwNFNLNDFwbGp4YlNVNGc2NEt1NktTdk9TOGVCWXhVb1hXMThENkJCZjNJWGIzZTd1LXBB?oc=5",
+    "published_utc": "2026-11-21T19:00:00+00:00",
+    "published_kabul": "2026-11-21 23:30 (کابل)",
+    "importance": "کم",
+    "relevance_score": 45,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-23T04:40:13.797356+00:00"
+  },
+  {
+    "source": "Forex and Central Banks",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Forex and Central Banks"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "ECB Plans Broader Swap Line Access to Protect Euro Area and Strengthen Euro - News and Statistics - IndexBox",
+    "summary": "ECB Plans Broader Swap Line Access to Protect Euro Area and Strengthen Euro - News and Statistics IndexBox",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRGpCckhyd1E3eHI4TjV3YkRSY2RFOHpXd0NjUURqcEhpTzg5QURoTTFrRnQ2ek42SWNlZFJmM2tZdV95clF5VnlYVEpOc3dDWUlaQ0tGd0xvU0I3SS1RUVhOaFhWbHRYWHFrNmFKdDlhclhQQjdwd1JmVDQ5aEk0cWt6UWlSM0ZvaEc3OEZ3d3dBdU5JMlQ0Vi0wWS05aFM1dlJJSzlQY2VaWXVXbkxaTw?oc=5",
+    "published_utc": "2026-11-22T18:40:45+00:00",
+    "published_kabul": "2026-11-22 23:10 (کابل)",
+    "importance": "کم",
+    "relevance_score": 22,
+    "relevance": "ارتباط محدود",
+    "category": "بانک‌های مرکزی و نرخ بهره",
+    "archived_at_utc": "2026-11-23T04:40:21.531867+00:00"
+  },
+  {
+    "source": "Forex and Central Banks",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Forex and Central Banks"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "US Dollar Forecast: Can the Japanese Yen End Its 19-Month Rally? - Coinpaper",
+    "summary": "US Dollar Forecast: Can the Japanese Yen End Its 19-Month Rally? Coinpaper",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZlVuNXEzdV8tUGRZSFRuY1lYWEx1M2hodmF3QmVBQjM1YkhIanhCQll6Y0lmSjMxN1hLTmpOamxpU2FWSnRZTzlncnUxX2hCV3Q3ZEZOTTRpVHF2SFNmekZSNE1ENkxuUC04TTBnU3ZPa0lhRlJUNld4ZXRodG9VUE1Xdk9pbS10X2hrQVR1cnRSd0t6?oc=5",
+    "published_utc": "2026-11-22T14:07:38+00:00",
+    "published_kabul": "2026-11-22 18:37 (کابل)",
+    "importance": "کم",
+    "relevance_score": 0,
+    "relevance": "ارتباط محدود",
+    "category": "اقتصاد جهانی",
+    "archived_at_utc": "2026-11-23T04:40:28.352090+00:00"
   }
 ]
