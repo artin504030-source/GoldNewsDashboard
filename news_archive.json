@@ -6963,5 +6963,43 @@
     "relevance": "مرتبط",
     "category": "انرژی",
     "archived_at_utc": "2026-11-23T22:30:55.352086+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Market Talk: Natural Gas And Crude Oil Prices Sharply Declined - TalkMarkets - Howl.Link",
+    "summary": "Market Talk: Natural Gas And Crude Oil Prices Sharply Declined - TalkMarkets Howl.Link",
+    "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBTTGZXbjMtdUV6WGZubDkyczF6ZzVRLURFOC1QRG1OdTFwMVFOOU1TUDVPX2dFRTJmV0NJ?oc=5",
+    "published_utc": "2026-11-23T21:48:00+00:00",
+    "published_kabul": "2026-11-24 02:18 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-23T22:46:17.782276+00:00"
+  },
+  {
+    "source": "China and Global Markets",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "China and Global Markets"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Wall Street soars on Huang's return to Nvidia, Treasury yields rise - Yahoo Finance",
+    "summary": "Wall Street soars on Huang's return to Nvidia, Treasury yields rise Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUV8xQS1Xa09sWUwzZlR6YzZyQTBlRk1jRWJNNWFROHY1ZDdicFNhLXkwRWIyV3YtM2NJSXRJY05mTHhyU3JHTFRndEdmQlZEYXJlMVJzMmhmTGdXOFAzZERRdmduRjZXSmpBLWVWQjBxUWNIVDdHZ0M0VXdja3EyZ2xzWGhSVXc0d0VIczl5Y2UyMDlzTzdBbw?oc=5",
+    "published_utc": "2026-11-23T22:25:16+00:00",
+    "published_kabul": "2026-11-24 02:55 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 40,
+    "relevance": "مرتبط",
+    "category": "بازارهای جهانی",
+    "archived_at_utc": "2026-11-23T22:46:27.679863+00:00"
   }
 ]
