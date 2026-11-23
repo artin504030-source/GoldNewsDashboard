@@ -5587,5 +5587,43 @@
     "relevance": "ارتباط محدود",
     "category": "انرژی",
     "archived_at_utc": "2026-11-23T09:51:23.647790+00:00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Fresnillo and Pan African Resources lead gold miners' comeback as precious metals bounce back - Yahoo Finance UK",
+    "summary": "Fresnillo and Pan African Resources lead gold miners' comeback as precious metals bounce back Yahoo Finance UK",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdzVWbURxaFh1bFVoc0ZnWWJ1V0FEUlktU2MxMEVKOHBrekNKcThURTNva3VmWVZMVGxJVE9kdDhHZTQwTmVRbDNpVWNaVHpfVDZpcGhnczJ4WmUteEJhbnpXVFdzZm9rMTkwdmx3aEVxbWtPeVp2dnRDZVRsWWRUSkVpYU9zQTBIc01CX3Z3?oc=5",
+    "published_utc": "2026-11-23T09:34:00+00:00",
+    "published_kabul": "2026-11-23 14:04 (کابل)",
+    "importance": "کم",
+    "relevance_score": 45,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-23T10:01:11.509255+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "UK Markets Brief: Why Supermarket Stocks Are Rising and Where Oil Prices Go Next - Morningstar",
+    "summary": "UK Markets Brief: Why Supermarket Stocks Are Rising and Where Oil Prices Go Next Morningstar",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQTZvLV9kZlJ4dnRUcXctX3hnVmJWcDloOGxuTE56bW9jWGY0bGtQZUNoU2JpVGNMeUJRT0Q2RE4tdmdtUVdjTC1nMVAtSFg2Sm1TMjlORnE5Zm11QXlDZGJLNktUcUJLTTVwdENTTWVVUFNrdC1NaFdvMU5JeHNpVlNvU3hzck84c1hPZ0tOWGRiNDlpekF0QVliX3RZZGhNSHd0cFRlNWxDMEV5NmdHWGRCTFhHb284Tk1WWA?oc=5",
+    "published_utc": "2026-11-23T09:42:38+00:00",
+    "published_kabul": "2026-11-23 14:12 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-23T10:01:24.700763+00:00"
   }
 ]
