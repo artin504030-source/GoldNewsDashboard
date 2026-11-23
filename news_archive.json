@@ -5026,7 +5026,8 @@
     "relevance_score": 45,
     "relevance": "بسیار مرتبط",
     "category": "طلا و فلزات گران‌بها",
-    "archived_at_utc": "2026-11-23T07:45:46.168954+00:00"
+    "archived_at_utc": "2026-11-23T07:45:46.168954+00:00",
+    "last_confirmation_utc": "2026-11-23T08:30:40.031668+00:00"
   },
   {
     "source": "Oil and Energy",
@@ -5179,5 +5180,62 @@
     "relevance": "ارتباط محدود",
     "category": "انرژی",
     "archived_at_utc": "2026-11-23T08:15:46.849538+00:00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Andean Precious Metals Corp (APM): Mapping the Market Sensitivity Behind Its High-Beta Reading - kalkine.ca",
+    "summary": "Andean Precious Metals Corp (APM): Mapping the Market Sensitivity Behind Its High-Beta Reading kalkine.ca",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVzVsZFRtdU5OanRoWmdVQWhQdG1seHNwX1ZNOG50V0tuZmpNYkhuU2RqMlk4UlRlSjZoSTBNMkx5RWRCNTBYcFJpdk9FRDV0a1lUOEJUTHJNNHNKOVNZbjRWdUhoZ0oyOFAxZU5MeG1YeHBtVFFpY2Z3STQ5ZzJFbkREUlA2Z254SGlXbFpPekJCNVQ3Z1BuLWktWUJWNnctR2hMc1RIeHp1NHhmaVZlOUlPZzNEWmxjMWdKdXhkdw?oc=5",
+    "published_utc": "2026-11-23T08:15:00+00:00",
+    "published_kabul": "2026-11-23 12:45 (کابل)",
+    "importance": "کم",
+    "relevance_score": 45,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-23T08:30:36.935560+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Why Is Diesel Still Expensive Despite Falling Oil Prices? - Modern Diplomacy",
+    "summary": "Why Is Diesel Still Expensive Despite Falling Oil Prices? Modern Diplomacy",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQa1dUYlNoQTVfc2JGXzJES3RTUDlhbmV1YjNHaFBSLXIzTzJZZHRKZ0pVWG5jbTNKa2tib1Z3a3V4WjAzOFpXY21CdjZQRm9sMVRvTTJKRGRXZG9vMU1YLXFxWTdfWXhkV3ZzMnhHanhMWm45Z3psbG9HSFloSmRVM3FLMGNPNjhYS3Z2bmtya2FIR2ZleDk2OXc3dw?oc=5",
+    "published_utc": "2026-11-23T07:10:41+00:00",
+    "published_kabul": "2026-11-23 11:40 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-23T08:30:46.453453+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Oil Prices Slide as AI Bubble Fears Rattle Global Markets - Crude Oil Prices Today | OilPrice.com",
+    "summary": "Oil Prices Slide as AI Bubble Fears Rattle Global Markets Crude Oil Prices Today | OilPrice.com",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWHFpaDhkd0NXUHA1MWpDSzVZZzUtN3A5Xy1sMXZBNEZ3TGdSUklBTlgxR1o3YVgzM2pRbjRKcmdqSmlyX2pvYVJzUHhqRVczN29oUGo3Y0hCRkl3ZTFHSXNPVDNjNkZIVXJpcUNTTDBNYl9oTzV6em1QT0FaVFpDZG1UTlJsTUpEcHlPNFZxRVY5NndyT3dKMDJLa3lBUnZqQUxzc3IzMGZ1ck1mUHc1bGFEUdIBuAFBVV95cUxNU29rRW1Nakh1b3FCXzViX1JYTXFlcGVpekFsVXdvQTVhejRDcklGMElENHFDYVFXeHBlS2czdzJhWmpKZU5fVlE3MVZZOHFYcGt5aTlINlpEdlY5bVQ4Si10Rm1ZT1ViZmNCQ0luQkFvT3pvOE92eUU1NUZEWVd0Smd5M01SWmZFTTBTdE94ajl0NU9aQ1pyY3ZyVmFRUnItUlpHOGJzR1o5dm16b3AzRzNSYm5VZ09S?oc=5",
+    "published_utc": "2026-11-23T05:50:00+00:00",
+    "published_kabul": "2026-11-23 10:20 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-23T08:30:53.648128+00:00"
   }
 ]
