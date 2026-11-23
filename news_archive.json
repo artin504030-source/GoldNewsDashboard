@@ -6025,7 +6025,8 @@
     "relevance_score": 12,
     "relevance": "ارتباط محدود",
     "category": "انرژی",
-    "archived_at_utc": "2026-11-23T14:01:01.460265+00:00"
+    "archived_at_utc": "2026-11-23T14:01:01.460265+00:00",
+    "last_confirmation_utc": "2026-11-23T16:01:09.115542+00:00"
   },
   {
     "source": "Gold Market",
@@ -6294,5 +6295,43 @@
     "relevance": "بسیار مرتبط",
     "category": "طلا و فلزات گران‌بها",
     "archived_at_utc": "2026-11-23T15:45:33.232515+00:00"
+  },
+  {
+    "source": "Economic Reports",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Economic Reports"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Flash PMI Slips to a 4-Month Low, Signals 3% GDP Growth - RealMoney Pro",
+    "summary": "Flash PMI Slips to a 4-Month Low, Signals 3% GDP Growth RealMoney Pro",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVmF6NUhtdEp0WWhCdUVpcU9xNUVVdHRDbWZCd2lERnI4dDI1WDh2VmV0ajlObjJjYzNqU1IzSXhBdEN0U0QybnhfTWdRN3NyUTBIWjcxVmVFM1dMQUZtcnpIcndtaHFRT1VTRVBqS1cyX21EbDBoM2hzVzlKb2c4QkVFanY4V0VnVFZFd2xKTEJ0WFBGeHRMN0ZnbDBoZGRuZDZNSnNR?oc=5",
+    "published_utc": "2026-11-23T15:45:00+00:00",
+    "published_kabul": "2026-11-23 20:15 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 0,
+    "relevance": "ارتباط محدود",
+    "category": "اقتصاد جهانی",
+    "archived_at_utc": "2026-11-23T16:01:04.975421+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Libya's Oil Output Plunges as Armed Groups Shut Key Pipelines - Crude Oil Prices Today | OilPrice.com",
+    "summary": "Libya's Oil Output Plunges as Armed Groups Shut Key Pipelines Crude Oil Prices Today | OilPrice.com",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVnpkMkp5LU9BeHRZaXhXdTY1ZHluTkpvOWk3SDMyLTRYeEZBMVRjTHdvMFphcE9ONldBeEtWakdXWHNRaG1LOTBTR2dYLXo4ZE85OFpKUldpZ1luR1NhSjFZS2hLRGtxOVk0a1JIRU9KSnIzaG9TWGhnSmduU2tRMlhDVG1kSWxjTVRxd3RZV2dxOEs3WWhhcmExUVBIRVA0cmVUdVQ3LWVUMHludzd5ay1CWk0xbUnSAbwBQVVfeXFMUEN1T2wyNUFvdzVkY1pQczdJV2drSzZoLS1BSFROdHVzTThjTWdWX0QtR0w5U1dfTTliSkZEWG02ckFzMmtaRkFlMTQxM1RyUXNzRlAteS1rMVdoeW1QenUya09Fb3Jnc2gyWThHNTdNcjZmME5SN0h1UFp5UkUwNmZzVi1wNk14cVRVUTVVRkRlVEhCdGpEX3d1bGhGR1ZPRXpCUzBmVGZQdkNaRWVEVkNlNDcxazdMNUlYRmY?oc=5",
+    "published_utc": "2026-11-23T09:45:00+00:00",
+    "published_kabul": "2026-11-23 14:15 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-23T16:01:13.279148+00:00"
   }
 ]
