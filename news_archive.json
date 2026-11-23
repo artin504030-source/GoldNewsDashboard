@@ -6525,5 +6525,62 @@
     "relevance": "ارتباط محدود",
     "category": "انرژی",
     "archived_at_utc": "2026-11-23T18:00:59.498380+00:00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Why Is Silver Price Surging Today? Silver Jumps 7% as Precious Metals Rebound - Coinpaper",
+    "summary": "Why Is Silver Price Surging Today? Silver Jumps 7% as Precious Metals Rebound Coinpaper",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUlRLOXVZVFVtUE9ZNDhMWUc2dmZpajVzOXpiMzJuNTlVM1F2UU5GTTJrdEdxUk5zXzVtbGFHcUtwV012M3FsWDJGeG4tNE9BZnNlcEVnLXRYNzN6a3JMUkFJWEppYlhsZF9zYWJnbm1nWmxZSFd6UE5VOWxjclFIaVJSSjJpdDlxam1QdFYxZC1vNWdZQnFBY2NYTXlDTjl2ay0zQjJ3?oc=5",
+    "published_utc": "2026-11-23T18:18:24+00:00",
+    "published_kabul": "2026-11-23 22:48 (کابل)",
+    "importance": "کم",
+    "relevance_score": 45,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-23T18:30:37.218939+00:00"
+  },
+  {
+    "source": "Forex and Central Banks",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Forex and Central Banks"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Japanese Yen weakens as Nvidia-led stock rally boosts risk appetite - www.tmgm.com",
+    "summary": "Japanese Yen weakens as Nvidia-led stock rally boosts risk appetite www.tmgm.com",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZ0lZaUd0OVdqVGF6VXBYUW1BeVRYQklJS2RrajdiOE0zZ3Jiby1OVXZkQXRuT0lVaTFYeS03X0pEQlZGd1U5Yzh5QkZTWkRMNHJsNll6Tlh6ZTJ0SjVIWlYtOUJwRUJlb3R1ZWVTd01DVXljMW13cVoxVHVRbXNTYWR0ejRKVTRqRnpaWmdfdG0tUkFqcVd0cUg4YW9wOG55amV4dEw5d1JrNkg4WTl1emVxRlZ1cXdkTlBWSzFYSGlicmpaN3BoOVFmY2J2dw?oc=5",
+    "published_utc": "2026-11-23T18:19:16+00:00",
+    "published_kabul": "2026-11-23 22:49 (کابل)",
+    "importance": "کم",
+    "relevance_score": 0,
+    "relevance": "ارتباط محدود",
+    "category": "اقتصاد جهانی",
+    "archived_at_utc": "2026-11-23T18:30:45.033483+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Oil Prices Edge Higher as Gulf Attacks Support Markets - Demokratis.co.id",
+    "summary": "Oil Prices Edge Higher as Gulf Attacks Support Markets Demokratis.co.id",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE14MFJxYllLREN6OHlETzE2N1FhaVdsZ2F3QWViN0J6MVFaeFVhTWJEUlRyclhnQ1NZZUN3cVYtY1hoT0lNV19tV0VrbnJDdjg0cjI1OFpKc3hGTUtWOXR3eQ?oc=5",
+    "published_utc": "2026-11-23T18:20:00+00:00",
+    "published_kabul": "2026-11-23 22:50 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-23T18:30:54.154290+00:00"
   }
 ]
