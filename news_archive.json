@@ -6121,5 +6121,43 @@
     "relevance": "ارتباط محدود",
     "category": "انرژی",
     "archived_at_utc": "2026-11-23T14:30:46.939095+00:00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Gold price rallies above $3,600 as AI selloff reshapes Fed outlook - Kitco AM Report - Kitco",
+    "summary": "Gold price rallies above $3,600 as AI selloff reshapes Fed outlook - Kitco AM Report Kitco",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPenF6LTV0TWdncXg5WDBQNS1Dc2lSVEUwNmpsRzR0UGg4a0VOM21NN2hTNnN1Mk1fZDhmcWs1WU41UW9qcUFieEJnemYyRTdhZy1hakhLbHRXemltSTFVTnBFaEhLdDR5LTYyeElnTjBKdEVNeUFXRnFEQlh5bWllNU1vOEw3eHlaRXZBZzV1WlNXUWd6R3BHdmlTajdyZUJueU5vNTlCUmhvclZtLVRlamJyel9USGM?oc=5",
+    "published_utc": "2026-11-23T14:18:04+00:00",
+    "published_kabul": "2026-11-23 18:48 (کابل)",
+    "importance": "کم",
+    "relevance_score": 45,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-23T14:45:48.875680+00:00"
+  },
+  {
+    "source": "Forex and Central Banks",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Forex and Central Banks"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Japanese Yen pares gains as investors ponder BoJ’s tightening scope - www.tmgm.com",
+    "summary": "Japanese Yen pares gains as investors ponder BoJ’s tightening scope www.tmgm.com",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMk1iMGtObjZOd0RVdi1iWDY5SWtSTHBWZkdBUlNwWExIYTFQQXcwclBLenFrWlVwbmNtX2lTb01qV29rVHU0Q2xxNFBPYW9JSXM5eXcxLU1GQmdjSjdFTkFfTmJqNmFLaXdxTVItMjdrbHg4enRDR2dNa1JzSzhfNDJtOUdqX1hvRlRsQVFzYWlEQXluTlFBcjZsVGhNdUlVdFlTT19WUDJYeHF5T1RvNG03NldDT0t5cGQ5Y2pfTkpiWi1rbWQzOU5xQlI?oc=5",
+    "published_utc": "2026-11-23T11:23:00+00:00",
+    "published_kabul": "2026-11-23 15:53 (کابل)",
+    "importance": "کم",
+    "relevance_score": 22,
+    "relevance": "ارتباط محدود",
+    "category": "بانک‌های مرکزی و نرخ بهره",
+    "archived_at_utc": "2026-11-23T14:45:57.828385+00:00"
   }
 ]
