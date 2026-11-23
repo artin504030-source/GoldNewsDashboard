@@ -5065,5 +5065,62 @@
     "relevance": "ارتباط محدود",
     "category": "انرژی",
     "archived_at_utc": "2026-11-23T07:46:02.208283+00:00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "[SMM Nickel Morning Meeting Summary] Expectations for US Fed interest rate hikes continue to strengthen, gold prices plunge, the most-traded SHFE nickel contract continues to decline in early trading - Shanghai Metals Market",
+    "summary": "[SMM Nickel Morning Meeting Summary] Expectations for US Fed interest rate hikes continue to strengthen, gold prices plunge, the most-traded SHFE nickel contract continues to decline in early trading Shanghai Metals Market",
+    "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxONTR3cmxkbkdZVTFVdi1VMElVSnktdThHR2d1eEtVWVhTdTF4YjIyZ1Q5Y0JBSi1vcXlUbkJYeEJpaGIyT3kwMHZ2RDNVU3Y3ZVFOZ05NRWliZzRwdnN1NG9YRnFUWC01SUgxUHM4SXpBUDhFWXR5aWVuTkMxNHB1VlIxbkZsbkVaZzRsOWdneGktVExUWU1kNzJLMjg0eEhDUl80bDJ0Z2pJQUo4ZEFOSzhZWHdTUWNYLTQwN2piN2ludTBsbjdXZ3B6R1UyNzVSSUJTakR3d3l1MWNtR0lRYW5qcEFJUWUySkdfU2hWb0dQTnd1YW1xRjJ2bWE5TU1IWnJvUkowVlMzRnVyaHJtRjNKYlhUMFV3Q3lCYW1DbWV0TFY2MTAzdUItcEdaLU1DcTJJdUpxbmlTUzBvS19SR2Z1aFo5TUpSbWFHSTV5RV9ldmFTWkQ4TUo0cTdRbUZFaGE5c1NQNnlfUXZYeEVRNHZPd1pyaDQ5UEZNUU5iYnBCOW5E?oc=5",
+    "published_utc": "2026-11-23T01:24:00+00:00",
+    "published_kabul": "2026-11-23 05:54 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 67,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-23T08:01:02.489887+00:00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Precious metals gain as US Treasury yields retreat - AzerNews",
+    "summary": "Precious metals gain as US Treasury yields retreat AzerNews",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9aRjdPdmd1UTNFS25iNENYNGVCcElhZnYyWWN1RVQ0YzAtdEtnVVo1MFp6cndMMjZZc3poRzc3WnBOcXRYX29aTGo0Q2wzNl9LdmZIWV9maw?oc=5",
+    "published_utc": "2026-11-23T07:45:00+00:00",
+    "published_kabul": "2026-11-23 12:15 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 75,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-23T08:01:10.425969+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "India boosts Venezuelan oil imports, strengthens US energy ties - Crypto Briefing",
+    "summary": "India boosts Venezuelan oil imports, strengthens US energy ties Crypto Briefing",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRnlzblcyejJ6OFVmMXdtQ1M3V2loQVBVNWFva2x5c3hSdjZpVll1dXFRaG84REJWZFlXcTBic3lraTVfcXlLX2NUQlpHN21qdVpEZ3VmWnZBZm81Y0htb1J3WURTb3pQMWNiNGlDODdKVldvVW9qRlBtY0VIR0RpUjhzaVBISHVsSTRiQjBrTWtOMk1F?oc=5",
+    "published_utc": "2026-11-23T02:47:48+00:00",
+    "published_kabul": "2026-11-23 07:17 (کابل)",
+    "importance": "کم",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-23T08:01:20.431748+00:00"
   }
 ]
