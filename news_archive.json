@@ -4837,5 +4837,62 @@
     "relevance": "ارتباط محدود",
     "category": "انرژی",
     "archived_at_utc": "2026-11-23T06:46:04.240899+00:00"
+  },
+  {
+    "source": "Economic Reports",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Economic Reports"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Experts predict the Bank of Japan will raise interest rates in December and March of next year. - Vietnam.vn",
+    "summary": "Experts predict the Bank of Japan will raise interest rates in December and March of next year. Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWjJXZmFFaFdWU1JmWFRVY2NhMEphejVnazRYTE0tZG1JanRzN2dueVVYU1lkalVwX21VLXozUjJ4VHZPMFRUUHhJSkhOcEhlVHB4a1ZzQUQ1Mm5IWUdvb01OVWtUeWFoN2RfM3k2UERsSHFmZmlSY1E3T2ktWWJxT3ZLYUZ0MV8xZEFReUtkNkdCNjA2Uk1qdVg2NA?oc=5",
+    "published_utc": "2026-11-23T06:53:06+00:00",
+    "published_kabul": "2026-11-23 11:23 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 22,
+    "relevance": "ارتباط محدود",
+    "category": "بانک‌های مرکزی و نرخ بهره",
+    "archived_at_utc": "2026-11-23T07:00:41.714743+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Oil prices start week with gains - Apa.az",
+    "summary": "Oil prices start week with gains Apa.az",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9wVXU0YnJmbVZONWRYengzZElvajh6c0ZoQTE4SUs3b0VtcGpFc1l0QzF6QjlodlktVGhjMWdjZVBDRGRMNkNWbVZEb2lNVndUV3hzMzUxRllaZDZjVmpRenFOZGdOWjJFV0pIS1ZUaTNQUQ?oc=5",
+    "published_utc": "2026-11-23T05:31:00+00:00",
+    "published_kabul": "2026-11-23 10:01 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-23T07:00:49.575044+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Crude Oil Prices Slip as Growth Concerns Clash With Middle East Supply Risks - kalkine.co.uk",
+    "summary": "Crude Oil Prices Slip as Growth Concerns Clash With Middle East Supply Risks kalkine.co.uk",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbTd2VDNxYlRlRFdZYkVJLWN4U3k1bllORzVUaXI0SDFScDRPOXZsNF83dGlTcE16bTlUa3ZmUzB1YzJ0VkU0b09DXzM2T01UYXJvMnpEdXZTRXZjcEsyTlRlbGJpMlI5UFg2bEd0dHVoQkMwT0s4Qy16cDJtaWVtYzBlVGQ4SnROWkxYYk13TTQtWWRtaWw3dXhjaVlHbVBoSjYzeGhjVVgzb2dydzN6R2Z6aUZGWlk?oc=5",
+    "published_utc": "2026-11-23T05:15:00+00:00",
+    "published_kabul": "2026-11-23 09:45 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-23T07:00:57.108847+00:00"
   }
 ]
