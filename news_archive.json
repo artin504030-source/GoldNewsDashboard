@@ -4536,7 +4536,7 @@
     "relevance": "مرتبط",
     "category": "انرژی",
     "archived_at_utc": "2026-11-23T05:15:45.081659+00:00",
-    "last_confirmation_utc": "2026-11-23T08:45:37.637923+00:00"
+    "last_confirmation_utc": "2026-11-23T10:16:04.048576+00:00"
   },
   {
     "source": "Geopolitical News",
@@ -5625,5 +5625,62 @@
     "relevance": "ارتباط محدود",
     "category": "انرژی",
     "archived_at_utc": "2026-11-23T10:01:24.700763+00:00"
+  },
+  {
+    "source": "European Central Bank",
+    "source_status": "منبع رسمی",
+    "confirmed_sources": [
+      "European Central Bank"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "ECB expands acceptance of DLT-based assets as eligible Eurosystem collateral",
+    "summary": "",
+    "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261123~76b6f57b74.en.html",
+    "published_utc": "2026-11-23T10:00:00+00:00",
+    "published_kabul": "2026-11-23 14:30 (کابل)",
+    "importance": "کم",
+    "relevance_score": 22,
+    "relevance": "ارتباط محدود",
+    "category": "بانک‌های مرکزی و نرخ بهره",
+    "archived_at_utc": "2026-11-23T10:15:50.398314+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Russia Ukraine War - Dayton Daily News",
+    "summary": "Russia Ukraine War Dayton Daily News",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTnF6dHRCbXVfSUNncU56amttSjVEbVRJOGJCSlZjdG1VYlR5X1B4NGRhNGZWOHVlV2twQWdnc0c3Q3NPWmw3NE9EWDFZR0RRVk9YWUFmdmpSWlBfakVxRXYxTzA4cHAxcXRCMWFSTXAzcDBmYzVoUUJlT0l5cFdheDNaeG54Q3RHaHVORk0xVXdzQXlPa3dlUVV6NE1JNVg0UlJrNjJyS0ZOeVVCQXEzaA?oc=5",
+    "published_utc": "2026-11-23T10:11:48+00:00",
+    "published_kabul": "2026-11-23 14:41 (کابل)",
+    "importance": "کم",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-23T10:16:00.982964+00:00"
+  },
+  {
+    "source": "Oil Trade and Supply",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil Trade and Supply"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Six years after Baghjan, another crude oil leak chokes Tinsukia’s Maguri-Motapung Beel - Hub News",
+    "summary": "Six years after Baghjan, another crude oil leak chokes Tinsukia’s Maguri-Motapung Beel Hub News",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNd0FjbGROcWpKcUZ1RDZNZExYOGJrcnJrSFlBLXViaTQ3X0RXRWJTMXlfU3JvVmNOZHlYbkZyOHROMHRRcmdXSVJubjgtUGR1MnpyTC1VLXhHaEl3d05DTmYxWTJ6enhPWHlvUG9SbmpmT1FNWGRLY0w1cnd3NTJXeFRXaV9ULXBmaEN3eXlWNFRjWDJGTVczVTJub3FKZHc4NEFIa0F5TzYwNkk?oc=5",
+    "published_utc": "2026-11-23T10:03:06+00:00",
+    "published_kabul": "2026-11-23 14:33 (کابل)",
+    "importance": "کم",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-23T10:16:10.545640+00:00"
   }
 ]
