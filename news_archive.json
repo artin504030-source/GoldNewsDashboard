@@ -5739,5 +5739,24 @@
     "relevance": "بسیار مرتبط",
     "category": "طلا و فلزات گران‌بها",
     "archived_at_utc": "2026-11-23T11:01:08.996766+00:00"
+  },
+  {
+    "source": "Forex and Central Banks",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Forex and Central Banks"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Japanese Yen pares gains as investors ponder BoJ’s tightening scope - FXStreet",
+    "summary": "Japanese Yen pares gains as investors ponder BoJ’s tightening scope FXStreet",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMmNhdFB6WXdFUXlIeDBXYllxNjJmOTdpVUw0dW54TXllZnRxTHQ3ZXF6R1BfTTU0UHBmUHFBWk5USHRMY3BfbWRvNmxBVXBOWjN4QTJjN1UwUEc3VzRzSjRubWZTYzZOd2hnazNadVhlaGNJUjBobWRHaGYtNzdIaWlkZ2VWUmRVWjZibnliVjBSV1oyWlZZX19WclJPeWMtTU80LUtjNmp2eXJUTWc?oc=5",
+    "published_utc": "2026-11-23T11:10:28+00:00",
+    "published_kabul": "2026-11-23 15:40 (کابل)",
+    "importance": "کم",
+    "relevance_score": 22,
+    "relevance": "ارتباط محدود",
+    "category": "بانک‌های مرکزی و نرخ بهره",
+    "archived_at_utc": "2026-11-23T11:15:31.691207+00:00"
   }
 ]
