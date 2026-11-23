@@ -4519,10 +4519,11 @@
     "source": "Geopolitical News",
     "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
     "confirmed_sources": [
-      "Geopolitical News"
+      "Geopolitical News",
+      "Oil and Energy"
     ],
-    "source_count": 1,
-    "confirmation_status": "یک منبع ثبت‌شده",
+    "source_count": 2,
+    "confirmation_status": "تأیید چند منبع",
     "title": "Oil prices fall amid equity selloff though Iran war attacks limit losses - Reuters",
     "summary": "Oil prices fall amid equity selloff though Iran war attacks limit losses Reuters",
     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQb016TW1Rc3N2Q0h6TVJZUFBSeXZqWklRWXgwZ2QyUnRCa0tnWnI4b0Z2YkVVZlVGWTJwa0E3SEVqNnotSE4zOFpOdjJUSE5GcjB5RHJxaklsM0I2U1owemZ4aUJmYkRhUUM2VjVFd09paWhIWHhFUWxmcmhzT3Y5RWhCTENfNE00a3RaYnhnOGgweEJoNEVtNTVKS0pLTWNiY2ZfM1pvbFNieG5DbWpGcUdOM19xZFF5QXl5LWZXNVRrZw?oc=5",
@@ -4532,7 +4533,8 @@
     "relevance_score": 28,
     "relevance": "مرتبط",
     "category": "انرژی",
-    "archived_at_utc": "2026-11-23T05:15:45.081659+00:00"
+    "archived_at_utc": "2026-11-23T05:15:45.081659+00:00",
+    "last_confirmation_utc": "2026-11-23T08:45:37.637923+00:00"
   },
   {
     "source": "Geopolitical News",
@@ -5237,5 +5239,62 @@
     "relevance": "ارتباط محدود",
     "category": "انرژی",
     "archived_at_utc": "2026-11-23T08:30:53.648128+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Oil prices stabilize amid persistent geopolitical risk premium in the Gulf - صوت الإمارات",
+    "summary": "Oil prices stabilize amid persistent geopolitical risk premium in the Gulf صوت الإمارات",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQd0UxbXVneGNKVlA2Z3Zxd1lTXy1oVHZ0Qnp0UDJrN3A0WVJIQkoxQU1KUjJhUU9JTWVkY1Z4anFlMVdtLW1rUFgxSnAzbHFfb1RheVpBb21DcFRIdFBxWC14bndsTEtTMGJ5T3Y5M0t3QzRNcDVPQ2l1UHhNTGduNDV4cEpfRWVJUEs3V240YUZaNXg2Ri1zbVY3QkJPUndOcUJaYXBheFRBeVFwTmtsM0ZxNm9GbWYzSklEbWk0X2pGWERvSFpVTEpB?oc=5",
+    "published_utc": "2026-11-23T08:35:44+00:00",
+    "published_kabul": "2026-11-23 13:05 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 28,
+    "relevance": "مرتبط",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-23T08:45:27.202722+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Oil prices fall as global market selloff weighs on sentiment; Gulf attacks limit losses - The Times of India",
+    "summary": "Oil prices fall as global market selloff weighs on sentiment; Gulf attacks limit losses The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQTU5YQWlmZzBFeFVvNjFqTEJuaGV4NWp2OUxqQzJJLXM3RXUtY0VpeTdpZkpaZ25HOTJlekZhSlJHODNYNG9iSk5hcWZ3VUo1RU9ORFdoRnIxcE5OcnR4YVJ2TjIwTnZ3cENjVDlKV3BtcTdCejY4Wi1vOVJ3ZUFXNDZZUDdpRGxRREFFN2hzZHBLenVfMGM2Zy0walExM3Fqa2xoOGUwQ3pKNXVtZkFLbWV2T01JME9INl9SYlVqN0l2a3V2V3pybDhnOU1TTVpYVzViSTI2WThqQjRkX3BySXdsVjBnWjF1OUxvVFB1a1hJX1pEN1I0YlpXc3Z3NU9SNW9vQ1k1aEt0TmxV0gGSAkFVX3lxTE1fQWR6NlFpendyQjA2a0NJVUdxanlVeV91b2VPOUtYLWxPN3ZMNXhFVUJTRXZGS3ZyLXRrajd6YkdnSXlXNG5tN0huOEpVazRzcW5MeGFheWQxLTJMYVlqOEpjV3MzaHNtN0Z3RnEwS1VNY1hzQm93V1cxbW13N0M0QU1hNEZTWnRCbTQ4SDN0OGlPa0swQzNoU0xxRl9mSDgxZXh4R2RHajQza0lDdDJrdUM2UnZNcVlWVWRuaExQckxvaWUzYUNPX096M2g3elNxUEM1cVJIMnZjYjlwd1BYd3pHd2kwOXBFaTdKby01T0V0VHhERjY3ZVFKajJkVmtZTlN3V0xMZHBXU2FmVDhacEE?oc=5",
+    "published_utc": "2026-11-23T03:28:00+00:00",
+    "published_kabul": "2026-11-23 07:58 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-23T08:45:34.549935+00:00"
+  },
+  {
+    "source": "Oil Trade and Supply",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil Trade and Supply"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "The Strait of Hormuz is heating up again, threatening global oil supplies. - Vietnam.vn",
+    "summary": "The Strait of Hormuz is heating up again, threatening global oil supplies. Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQ3lsQUxQNkhVb25ST2VpWlUtTFBJWXdWdGRwbzhaZ2RGRnJpQnRsZjJBckhQNG5vbi1HR3lYLWlPMFNwVHlhN2tTY0RSTXJYV2Q3dUFPVHU5MmZnb3NQaGdBb3lUV21tenVpTl8xelhLSVlHeUo0aTNCNDNUeTh3OUpvcnprVnZhVHJHeg?oc=5",
+    "published_utc": "2026-11-23T06:38:42+00:00",
+    "published_kabul": "2026-11-23 11:08 (کابل)",
+    "importance": "کم",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-23T08:45:41.826898+00:00"
   }
 ]
