@@ -6275,5 +6275,24 @@
     "relevance": "مرتبط",
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-23T15:31:12.292336+00:00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "COT data is flashing bullish signals across precious metals - but patience may still be required - Kitco",
+    "summary": "COT data is flashing bullish signals across precious metals - but patience may still be required Kitco",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaHJURk1xYWhicVJWek5qWUk2WkJkdzZiWVJGUE1fUGU4aG9JeXhhazdsdXdkVFFHZl81UU9pQnZhWWpXUmNGV1VGZmN4bnJNUm1OVjJyZWh5SUxUMHRmQ3QwdDNDMFQ1OF9YclpXakQtb1JESGxUY2dYeGptUVBzekdEaTR2SjJseG1KaWx0VFlXYVFVcWxiRklRN2dlZ3I1RDFkdjNPZS00NnNkWXJ2dzF1RnBmYWc5RTlj?oc=5",
+    "published_utc": "2026-11-23T15:22:39+00:00",
+    "published_kabul": "2026-11-23 19:52 (کابل)",
+    "importance": "کم",
+    "relevance_score": 45,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-23T15:45:33.232515+00:00"
   }
 ]
