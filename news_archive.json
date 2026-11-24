@@ -9249,5 +9249,24 @@
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-24T18:01:11.333964+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Trump poised to raise tariffs on EU and China - Yahoo",
+    "summary": "Trump poised to raise tariffs on EU and China Yahoo",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcXJGUHdlbmtYNzVqTkx0Y3FRN2wwdWUxNjRHZHhLOUdGelFBRExSalF2eEJ1U0NDbkNOUkpYUnZKSWg1eURGWVA1X1hkNXlOVTJEWWJBcTZPVWhwRUZKUnh5OWtnanNxeWh3SlROR0VBY0JzakozX05VQ28yMlptYmNobnJqZzF2LVk0ZHJfUkFPLWM?oc=5",
+    "published_utc": "2026-11-24T16:47:40+00:00",
+    "published_kabul": "2026-11-24 21:17 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-24T18:15:59.316821+00:00"
   }
 ]
