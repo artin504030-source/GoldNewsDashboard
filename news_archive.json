@@ -9503,5 +9503,43 @@
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-24T21:20:46.273405+00:00"
+  },
+  {
+    "source": "Oil Trade and Supply",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil Trade and Supply"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Russian Oil Exports by Arctic Route Jump Amid World Freight Crisis, Data Shows - EnergyNow.com",
+    "summary": "Russian Oil Exports by Arctic Route Jump Amid World Freight Crisis, Data Shows EnergyNow.com",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOGliTEFnUU5XbE1MOFk1blQ4QjUwQW9WcVdtUWQwN1dSTkNZMVdkYklLYTNYakUxdFk5OVdfeDFLMkh3eWJtaHQ1U1o2RXUyQkdDTHp5dE1DMV9NcGFwNUVxUEFZc2pVYnZsMzVoaXJCNHdLWVZ1N2ktRl9EanUxbFlSZ09lbXBRRTJFWHRCZHdlbGs1VXo3Y0dfSGlPWkJsQ1F0MUNpakRUdS1Y?oc=5",
+    "published_utc": "2026-11-24T15:44:50+00:00",
+    "published_kabul": "2026-11-24 20:14 (کابل)",
+    "importance": "کم",
+    "relevance_score": 28,
+    "relevance": "مرتبط",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-24T21:30:38.697501+00:00"
+  },
+  {
+    "source": "Energy Shipping Routes",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Energy Shipping Routes"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Iran says 3 oil tankers hit underwater mines despite US naval escort - The Hill",
+    "summary": "Iran says 3 oil tankers hit underwater mines despite US naval escort The Hill",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPT0NqVElpRjVXNE1Wdm9KaUxvWGgwRmh4SWpGSy1oT2poQ29jNldCSnVidkMxREZTQktsUVRNY3NvT0RuVTFuWHpuWExiVEctR25YVWFtRzJDUE9MODNHRXV3dXVRVHhzdWd5Sl9rTVZpa3NkYUxNT0twUWlSaHdtZzd5SnJ5R0xTWF9v0gGQAUFVX3lxTE1OWUZjM1pXczRsdXlUWHJWWlVQLTU1NVBRRFYtVnhUeERwWnpUc3F5a1FpRy1jWmFQdkJmenVLQkRtSXBlVUtlNmxFNTlVRmk2UGtXOFJjVmM5cG53c3VUMWpVWTRod1E0SHJrMEhsc2hSOWR3N0dYTFpNTDlvZ3FuZWZncDVMYWJHdE1HbnVyeA?oc=5",
+    "published_utc": "2026-11-24T20:49:00+00:00",
+    "published_kabul": "2026-11-25 01:19 (کابل)",
+    "importance": "کم",
+    "relevance_score": 28,
+    "relevance": "مرتبط",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-24T21:30:46.856904+00:00"
   }
 ]
