@@ -9560,5 +9560,43 @@
     "relevance": "بسیار مرتبط",
     "category": "طلا و فلزات گران‌بها",
     "archived_at_utc": "2026-11-24T21:45:49.570278+00:00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Precious Metals & Critical Minerals Virtual Investor Conference Agenda Announced for December 1-3 - Investing News Network",
+    "summary": "Precious Metals & Critical Minerals Virtual Investor Conference Agenda Announced for December 1-3 Investing News Network",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbmU2Q1RCcjMzNmFXLTh2bF85U3IzcjhKdmFPSG9BTVNSWU1VQm1hY2d4dnV6dG9yeDlIQlNEbW52VXFYcmtMaGh3Tm84MG1oeUdpZW1mQ0syUkNMYXhCYTllUWluQlVpZFBCSGN2bnl5ZUVUSHB5VERzMUxWejFhX3ZTN0xxQmZzWGIybE02Y00wZ1h3eTNkNFo1LV9Hek9ncDNVbzdJN090Njl5NmJhcE9LVnZfT21PbjBVajZXVjRLMXdNZ1NxbDRwaS1XZw?oc=5",
+    "published_utc": "2026-11-24T21:55:02+00:00",
+    "published_kabul": "2026-11-25 02:25 (کابل)",
+    "importance": "کم",
+    "relevance_score": 45,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-24T22:00:57.294877+00:00"
+  },
+  {
+    "source": "China and Global Markets",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "China and Global Markets"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Trump Is Bringing Tariffs Back, and China Will Likely Get Hit Hardest: WSJ - Yahoo Finance",
+    "summary": "Trump Is Bringing Tariffs Back, and China Will Likely Get Hit Hardest: WSJ Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMTkwck9aVXRkSFRvWlVoM1NSVjlXTlcwc2pmOGRZb0xwVXVQV1dZUTFpdlhibjJVRnpXUkpzYW9fUU4xbklFY3VYbUgyZHlJZ2R3ekd3bTQtRGdXYy0tZ0w4V0JBVHg4STFmVWZKVXBHemo1WGJMamp2TGFEYjRNZl9Gam9mbWZ0eGtfLXRobm5yVlN0cWZjS3NqR0dLVXc?oc=5",
+    "published_utc": "2026-11-24T13:47:52+00:00",
+    "published_kabul": "2026-11-24 18:17 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-24T22:01:16.222236+00:00"
   }
 ]
