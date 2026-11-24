@@ -8923,5 +8923,62 @@
     "relevance": "مرتبط",
     "category": "انرژی",
     "archived_at_utc": "2026-11-24T16:30:47.514425+00:00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Gold Futures - CME Group",
+    "summary": "Gold Futures CME Group",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBQZE1xS1lpN29RNGg5aTVpZDg3aUNRY2JneWhWb092Ympzbk11X1hKX25XcmFzY0tKb3M5RlJPc05GbWpjSkMtMUM0TDBxWmdHMnJGOTNGOXVqc2M3b0pPZUVuOA?oc=5",
+    "published_utc": "2026-11-24T13:26:02+00:00",
+    "published_kabul": "2026-11-24 17:56 (کابل)",
+    "importance": "کم",
+    "relevance_score": 45,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-24T16:45:50.292268+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "White House readies new Section 301 tariffs on China, the EU and others - Startup Fortune",
+    "summary": "White House readies new Section 301 tariffs on China, the EU and others Startup Fortune",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQREtDMkhRMUpYdlVkTTNTNjh5MmhjSWZ2ZVhkRmhTRW9HZkU0Q3I5Mlp4VGktc0xZczhNLTNjNHI1OTYtWjFqaEV1MjdZT2N4cWJHc1oxWjRrbzgwT3hVNElBUlZUZlo5bHpHeDc1dUM5TzcyUFQ0LWF2VDVwM3Fhb2E5Zm5nQ3lTWW1vVTdxTVNGbnMxclZJWTh3ZHJVM2s?oc=5",
+    "published_utc": "2026-11-24T16:25:48+00:00",
+    "published_kabul": "2026-11-24 20:55 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-24T16:45:58.983764+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Trump administration set to unveil new tariffs after probe on excess factory capacity, sources say - Reuters",
+    "summary": "Trump administration set to unveil new tariffs after probe on excess factory capacity, sources say Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNklFaE54bEV6OGdKT29ScUxHUlZwRDNyREJ0MzBSZzZGdnptTkVxaXNHeWx2WjFWYVMzMzdMeU92dC1PVmYyZ1BTT3lCTWVRVnJ5ODFEb0NXYWpDd1ZQUlg4bkZ5QVAyck9KQUhMbldjY2FqMmtsZGs3MTFUY0xLZm9wMWRRTFAyS3VvZUZ6Wnk0VzlxTjR3VS1GSkJ1S3VCU2xmZ09FX1E5dUVjTUhfR21wMG1pcktxdGc?oc=5",
+    "published_utc": "2026-11-24T16:20:20+00:00",
+    "published_kabul": "2026-11-24 20:50 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-24T16:46:06.502526+00:00"
   }
 ]
