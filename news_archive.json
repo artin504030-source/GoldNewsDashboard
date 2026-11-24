@@ -1561,7 +1561,7 @@
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-20T14:45:57.212925+00:00",
-    "last_confirmation_utc": "2026-11-23T13:16:02.358118+00:00"
+    "last_confirmation_utc": "2026-11-24T08:45:35.411991+00:00"
   },
   {
     "source": "Geopolitical News",
@@ -7924,5 +7924,24 @@
     "relevance": "بسیار مرتبط",
     "category": "طلا و فلزات گران‌بها",
     "archived_at_utc": "2026-11-24T08:30:41.970653+00:00"
+  },
+  {
+    "source": "Economic Reports",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Economic Reports"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "BOJ to keep hiking rates but soft spending muddies path, ex-central bank policymaker says - 1470 & 100.3 WMBD",
+    "summary": "BOJ to keep hiking rates but soft spending muddies path, ex-central bank policymaker says 1470 & 100.3 WMBD",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWHZXS09rTWl1TlpzTXJnSjVmM05teTV5OUh3VVRNajctUXBhRG54aDZITFRQc2R3bmFLdXFiTUxnV3d6TndmZXRUODl0QlJPUHdOYTBqZUpsUEpOTF96SHFMTTFXdENZT3NLeTVqM1RGcFVrd2NiMHhhMGQySnc5S2tYb3hmSTdWay0yVEJZbFdqdmNHLXdhZ3dsZnZFdE5lVENJYl9vVDVqYTJWWVFyM2hKWmtubURRNlF4NzhOSQ?oc=5",
+    "published_utc": "2026-11-24T08:30:11+00:00",
+    "published_kabul": "2026-11-24 13:00 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 22,
+    "relevance": "ارتباط محدود",
+    "category": "بانک‌های مرکزی و نرخ بهره",
+    "archived_at_utc": "2026-11-24T08:45:31.802919+00:00"
   }
 ]
