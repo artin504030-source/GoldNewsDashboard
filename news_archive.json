@@ -7404,5 +7404,24 @@
     "relevance": "ارتباط محدود",
     "category": "بازارهای جهانی",
     "archived_at_utc": "2026-11-24T03:02:03.486828+00:00"
+  },
+  {
+    "source": "Trade and Sanctions",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Trade and Sanctions"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Trump Administration Unveils New Wave of Iran Sanctions - JFeed",
+    "summary": "Trump Administration Unveils New Wave of Iran Sanctions JFeed",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9hWDJvWmVVXzVuYkdNMXRHbmdlSFJyYldvZXk5WWpIMU9ORThCLWh2YXdOQndNQjh4QWlkcWhYMWFBaTJzODVfdVViekJvMEZSU0wyQTAtZ0E0eURhdzBVY3JfUWVveXJIMHh4NFFkRmZBaGFk?oc=5",
+    "published_utc": "2026-11-23T18:38:00+00:00",
+    "published_kabul": "2026-11-23 23:08 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-24T03:31:24.255268+00:00"
   }
 ]
