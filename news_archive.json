@@ -8452,10 +8452,11 @@
     "source": "Oil Trade and Supply",
     "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
     "confirmed_sources": [
-      "Oil Trade and Supply"
+      "Oil Trade and Supply",
+      "Oil and Energy"
     ],
-    "source_count": 1,
-    "confirmation_status": "یک منبع ثبت‌شده",
+    "source_count": 2,
+    "confirmation_status": "تأیید چند منبع",
     "title": "South Korea Says Its Crude Supply Is Stable Through the Winter - Crude Oil Prices Today | OilPrice.com",
     "summary": "South Korea Says Its Crude Supply Is Stable Through the Winter Crude Oil Prices Today | OilPrice.com",
     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaUNSQWRkZmZPZUQ5UVlzZXlYQ3l0RmJjN256VUlnRHp1RWlFT3dxdUZseVVfQURrUlo4cTFuUFpNUnNMOE1NZUJyVWQxaXUtNlVGVmt2MFRiQUN2R3lQOHRudFFUWjlKV3liQkdENzVTb0lUSFJqMkJMbnpSNTYyb3NWV3otS2pBNkhLdWJkaldsVjhHNnBfT2ZYVzNnTngwU2JQdkpUSnlKNmlsZ3pzUFd2eGNTb2habHfSAb8BQVVfeXFMUGh1OFpZUm1LN1RoUTlUZ3FUbUYzSFNEd25zYTRMaVpZLWtGQk5zT1o4VGNfVkJHZzFDYnhnUmhmU2VHUVRycnhVdmNscUJERkZCbG5NeEl0dWhSTlZlQUR4bUs3ajVXNDNVZ1lQWXZxNm1xMnZsbnppWFZ3eWQyUEFaV0pMMXR6a0pZeW1ZTXhUNlFxOGRVeHdlNkJLYjZXUTdtMmM2REhYMEsxR0pNdjNOall1VHk0bUFXcGdOblE?oc=5",
@@ -8465,7 +8466,8 @@
     "relevance_score": 12,
     "relevance": "ارتباط محدود",
     "category": "انرژی",
-    "archived_at_utc": "2026-11-24T13:15:42.439139+00:00"
+    "archived_at_utc": "2026-11-24T13:15:42.439139+00:00",
+    "last_confirmation_utc": "2026-11-24T20:15:27.839413+00:00"
   },
   {
     "source": "Geopolitical News",
