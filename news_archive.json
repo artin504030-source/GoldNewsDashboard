@@ -7268,5 +7268,24 @@
     "relevance": "ارتباط محدود",
     "category": "بانک‌های مرکزی و نرخ بهره",
     "archived_at_utc": "2026-11-24T01:02:25.267820+00:00"
+  },
+  {
+    "source": "Oil Trade and Supply",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil Trade and Supply"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Japan's Electricity Prices Surge to 2022 High as Cold Weather Arrives - Crude Oil Prices Today | OilPrice.com",
+    "summary": "Japan's Electricity Prices Surge to 2022 High as Cold Weather Arrives Crude Oil Prices Today | OilPrice.com",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUElrc3Z1TnlRb1QtSk81N19iZ0dsOTJMWUh1cHRjOFA0SGt0SkNOM1YzNUVqb21VcHBZRFFZSHZDZnVqQ1JBYllXN0JkZWFINHU2cTRzbmM5NkdBRG1xa29jRHUxWjQ2ZjVpbGxBTUM4WVA5N3dYam53QkRJZVJkR040Nkw3QXljX181RWlfdy1MU0JWVFp0NWNsbUtBSWJJUnNWM2R3S1dzaWlLT0h6V0JmdWkwSllCY0pFc1pTTUhBZ9IBxwFBVV95cUxNdHpQUHh6UEwzWi1SU3NEVGZKalFmczVlU3p6REFObFJsNUtBVmlvVnFhcExYQ1NwYmg5d2tteWswbW1MVTRIanh1Z3dUV0J1R1V6aGdDaTFUVms0RHI5anZ3UXJJc19QRkFpOG5McGd3ZUhhbGVGc3RSWS1GeVRScTRaUXE4WVJWOHVQOF9JaGduT0g1S2pjbWxYa1hhRzFTMldBMmhtZ1RPZEFUemdxWG1BcGhjTXVhNEtxdzZyMEh3YmcyR3NV?oc=5",
+    "published_utc": "2026-11-23T17:30:00+00:00",
+    "published_kabul": "2026-11-23 22:00 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-24T01:32:13.889636+00:00"
   }
 ]
