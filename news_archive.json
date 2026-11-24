@@ -7652,7 +7652,8 @@
     "relevance_score": 12,
     "relevance": "ارتباط محدود",
     "category": "انرژی",
-    "archived_at_utc": "2026-11-24T06:15:51.334501+00:00"
+    "archived_at_utc": "2026-11-24T06:15:51.334501+00:00",
+    "last_confirmation_utc": "2026-11-24T07:15:41.235199+00:00"
   },
   {
     "source": "Gold Market",
@@ -7710,5 +7711,43 @@
     "relevance": "ارتباط محدود",
     "category": "انرژی",
     "archived_at_utc": "2026-11-24T06:45:39.216596+00:00"
+  },
+  {
+    "source": "Economic Reports",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Economic Reports"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Gold ticks up on bargain buying; U.S. inflation data awaited - CNBC",
+    "summary": "Gold ticks up on bargain buying; U.S. inflation data awaited CNBC",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE01bWhmbU4xZ1hKTVZnTGh3R2tubjZ5SlE0OFVjaGJDcGRzUHIzWnI1RmhuZzBDUkE3R2RIQ3ZDNU9xV282X3QxTFdvZVpIUUhWRnJEWXFCbDJ4QTNiLTNkRWtzYy16S3VWdFY2OS1rS1N1LXo4Z2JBcTNKb0FZNWPSAYQBQVVfeXFMTXd0ckxjMUlfaXVYbFFieDlSbWs1OWZWRkljX0VHM1ZJeE1wRWhNbFJFbmIwZXR4WmR5UC13NGpDaTVMNkw3Vk1EdG43S3c1VWx0WERuM0htTVpHRjFieV9VeVhfN3p2ZUgzQndxT0gxaFZDbE9NRW96VFV0eU4xU0owcWhf?oc=5",
+    "published_utc": "2026-11-24T04:32:00+00:00",
+    "published_kabul": "2026-11-24 09:02 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 75,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-24T07:15:37.292098+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Oil Prices Hold Near Three-Month Lows Despite Hormuz Mine Claims - Crude Oil Prices Today | OilPrice.com",
+    "summary": "Oil Prices Hold Near Three-Month Lows Despite Hormuz Mine Claims Crude Oil Prices Today | OilPrice.com",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQc2NvTThLLVhDLVpZZ1ZKdXVNbXRoVWZiQzVhSjFUWE5kS0NTYTdGNmg4dzZrcXY2aXZMQWpuX0EtQm5fYS1zaC1CdGR6UDBiMlhoUGZUaGFlSmNZcU9TaVkyYnBaV1R5eXI4Q19LTEpabmVRd3ZFdUNEaktDMVpFWllaZ1JoUkxpRnVFSlJCazdNT2ZXZzRWdWRCbTJCTUE1TlNLWUx0QV9qX2NTd1h3aEhjS3RIZ2V4eGJrY9IBwgFBVV95cUxNRmRfR2xJOWNjT2hPdHhRZ1JaS2Y0NDhiNWN1cDBLdFhaRk02OU9EVGZtbkJuYTZnZmN5SzBoVW1pc0hkQ3hlVWw0dmJDczJ2aHJvWjhzV0FsUzhJRldCYmNzLXBvYUp1eHRoMEhfc216UWVESmNCQXJ2ZW9QN0s0bHFDQ3VwaWRaN0VuWjZ2d3haMzFaSjRFc0doYXZjSU9wVm9rcnF6SDEtVl9EaEdQeE5YMzduekVicUtteko3ZS1DZw?oc=5",
+    "published_utc": "2026-11-24T07:05:00+00:00",
+    "published_kabul": "2026-11-24 11:35 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-24T07:15:46.234391+00:00"
   }
 ]
