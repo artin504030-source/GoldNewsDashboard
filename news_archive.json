@@ -8487,10 +8487,11 @@
     "source": "Geopolitical News",
     "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
     "confirmed_sources": [
-      "Geopolitical News"
+      "Geopolitical News",
+      "Oil and Energy"
     ],
-    "source_count": 1,
-    "confirmation_status": "یک منبع ثبت‌شده",
+    "source_count": 2,
+    "confirmation_status": "تأیید چند منبع",
     "title": "Oil prices swing with focus on Iran war diplomacy - Transport Topics",
     "summary": "Oil prices swing with focus on Iran war diplomacy Transport Topics",
     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBDR2d2TGotdnpxSEhyMmp3X2MydzFUcVFxRmIzWENEWTdhYVVfWE5ZSDJSN2trMEhRT1ZLMVFuNW9GN3VZV3ZES3dNWXRGNFU0M1U2ZkZYaDVsVmRJQTVVT2V0ZkhOeTJ1?oc=5",
@@ -8500,7 +8501,8 @@
     "relevance_score": 28,
     "relevance": "مرتبط",
     "category": "انرژی",
-    "archived_at_utc": "2026-11-24T13:45:49.566152+00:00"
+    "archived_at_utc": "2026-11-24T13:45:49.566152+00:00",
+    "last_confirmation_utc": "2026-11-24T14:15:57.255464+00:00"
   },
   {
     "source": "Oil Trade and Supply",
@@ -8577,5 +8579,24 @@
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-24T14:01:35.400069+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "America Readies New Tariffs on China. Will Bitcoin and Stocks Sink Again? - Yahoo Finance",
+    "summary": "America Readies New Tariffs on China. Will Bitcoin and Stocks Sink Again? Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVHpybUl5dlI1U2NvZTQ3aktLUkF3dTNISXVUWTduc195TlJVeTk3S0pILVR1QTg3dG42aVZBTnZnTzJUcGtmYkwwUmhUb01PZDE3QnlIUXk1cFdsaTlnNUxDakt1TGRJQjQ2YU9kWWpxQzVER3lQZlNhSXlPM09obnNOSWNwTzJIS3RHOEJwVEhCOUxWY0gxUlJGM1dnVjdlNjJwdQ?oc=5",
+    "published_utc": "2026-11-24T13:19:55+00:00",
+    "published_kabul": "2026-11-24 17:49 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-24T14:15:53.540975+00:00"
   }
 ]
