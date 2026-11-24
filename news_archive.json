@@ -8268,5 +8268,24 @@
     "relevance": "ارتباط محدود",
     "category": "انرژی",
     "archived_at_utc": "2026-11-24T12:00:44.078881+00:00"
+  },
+  {
+    "source": "Economic Reports",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Economic Reports"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "ECB's Kazaks: Rates should be raised to curb inflation - Breakingthenews.net",
+    "summary": "ECB's Kazaks: Rates should be raised to curb inflation Breakingthenews.net",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNXzRadGppbDNSNGswYWdZTWVGRGZoYm9fT3J3RU8yWG9iUnhqTDNIckpZa3JzTkhLTDZoY1NyV0pCZXJ1T0xSUmVKMjhQRE9HUHdpN2VkQ29kT20ydk1oaHhEcmZqVW1QNlZhLW9WY3hNbnc3RzZybmpQTXVfdnY5cWJxcEdQcjV0SjA5WTlVY2YteUQwUFNfU1hvaVk2dmdF?oc=5",
+    "published_utc": "2026-11-24T11:59:00+00:00",
+    "published_kabul": "2026-11-24 16:29 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 22,
+    "relevance": "ارتباط محدود",
+    "category": "بانک‌های مرکزی و نرخ بهره",
+    "archived_at_utc": "2026-11-24T12:10:38.017524+00:00"
   }
 ]
