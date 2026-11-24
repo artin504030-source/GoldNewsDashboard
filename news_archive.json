@@ -7230,5 +7230,43 @@
     "relevance": "بسیار مرتبط",
     "category": "طلا و فلزات گران‌بها",
     "archived_at_utc": "2026-11-24T00:47:05.796891+00:00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "PRECIOUS METALS | Gold Holds Advance as Jensen Huang Returns to Nvidia Helm - TradingView",
+    "summary": "PRECIOUS METALS | Gold Holds Advance as Jensen Huang Returns to Nvidia Helm TradingView",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPR1Nsc3FnZmswaHJtUkhpY05nZ0hfNy1icmlPbTR4dm1TV1drblpJTjJXektOR3ZNWG9HQkt4c1Fnd2ppcnNjdkROX1VKdzZRV2gzdGU2UGlkZ3ZRbUczUlowYWVqcUZ1YXhsWFFuSV9LNGIzdUhPMkVTZU1tTlNwQzhOMDBxTXFBR0Z3NkpTcldORHc5cmR0enpJRGFEeUFtV1VVeHQtVzZSb3ZiVTN5cUQtR3ZZdzd4Y2RDUVpyNVNJZ0ZMQUpVVmdMMnhVcEtXSUE?oc=5",
+    "published_utc": "2026-11-24T00:26:00+00:00",
+    "published_kabul": "2026-11-24 04:56 (کابل)",
+    "importance": "کم",
+    "relevance_score": 45,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-24T01:02:16.975755+00:00"
+  },
+  {
+    "source": "Economic Reports",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Economic Reports"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "The US dollar strengthened amid expectations that the Fed would raise interest rates again. - Vietnam.vn",
+    "summary": "The US dollar strengthened amid expectations that the Fed would raise interest rates again. Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTnF5NzI0X2RyRU8zUXN1YU9vLWEwWjJTMjMtM0dqY2dSTTc4V1Nyc2FBNnQ3MFdDcXdtQkV0SURKcGhJMEpRdlFOaU15RmRDVFBxNmFUME9XMHlNQ0JGS1otYUJzRTVXZDhfWk1QclNqZEQ4NmotcjVuSnVNRzRrc29razRObEZZ?oc=5",
+    "published_utc": "2026-11-24T00:40:18+00:00",
+    "published_kabul": "2026-11-24 05:10 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 22,
+    "relevance": "ارتباط محدود",
+    "category": "بانک‌های مرکزی و نرخ بهره",
+    "archived_at_utc": "2026-11-24T01:02:25.267820+00:00"
   }
 ]
