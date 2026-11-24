@@ -8192,5 +8192,43 @@
     "relevance": "مرتبط",
     "category": "انرژی",
     "archived_at_utc": "2026-11-24T10:45:57.097621+00:00"
+  },
+  {
+    "source": "Economic Reports",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Economic Reports"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Middle East conflict could force interest rates higher, Bailey warns - FT Adviser",
+    "summary": "Middle East conflict could force interest rates higher, Bailey warns FT Adviser",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ybzZSZEZhazQwMVVCeTh1N2h5X2JTaE5aNFJJVDRrNVpuSWh4ZkZHT0s5eURyd3pxUkpDVjRxdWVacUdET3ZjNGVtbzV1S0k2bnd2SUNua0VLb01OdWxOUklCSWtNU2tXQUx6U0labEZqZkJLWjZUUlBn?oc=5",
+    "published_utc": "2026-11-23T15:35:06+00:00",
+    "published_kabul": "2026-11-23 20:05 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 38,
+    "relevance": "مرتبط",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-24T11:15:50.821847+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "As heating oil prices hit new highs, RI customers are 'scared' for winter - The Providence Journal",
+    "summary": "As heating oil prices hit new highs, RI customers are 'scared' for winter The Providence Journal",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQS1dVSU9QcTlyajd0a0hVVTI0cFoycl9yNjlqYUFmcHd5Tl90X3RxNzJLLVFPT0VMWDlhTjdaOTAyV3pqWXFkc2VMM1pOLTZ2aWRjSHItUWhMeExGMHdDY05PYnFoZzY2aEZ3WmJsU3VZcDNTR2E5NENQVFl3NG9HVGJsM2w2VjV5UXg5RXZMZWo1LTNUeHlONTJ4UUJNd25PX3dyT09WMng0dTBQc3E0VDR2LVNxRWt1OFZYUVZmVkNBOG5NOWNQWEF6THdTei1oVURtV3pSdVp5OXVDamQxWl93?oc=5",
+    "published_utc": "2026-11-24T11:01:00+00:00",
+    "published_kabul": "2026-11-24 15:31 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-24T11:15:59.917909+00:00"
   }
 ]
