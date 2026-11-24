@@ -3903,7 +3903,7 @@
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-21T12:30:56.832685+00:00",
-    "last_confirmation_utc": "2026-11-23T09:16:06.251859+00:00"
+    "last_confirmation_utc": "2026-11-24T08:01:03.692264+00:00"
   },
   {
     "source": "Trade and Sanctions",
@@ -7828,5 +7828,24 @@
     "category": "انرژی",
     "archived_at_utc": "2026-11-24T07:45:43.023924+00:00",
     "last_confirmation_utc": "2026-11-24T07:45:46.604802+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Crude Oil Price Forecast: Supply Surplus Pressures WTI - Equiti Global",
+    "summary": "Crude Oil Price Forecast: Supply Surplus Pressures WTI Equiti Global",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNV3lfalB0eUZqZVg1LW1oQjVOR1U0S3c1cy1qRGFYekZtampJdkZnR3JBb0w0TzJkMWpuQ3hOaThycjkyZGczVUZobWVHdktHUzFhUk4xWEpUcDVwdmQxNEM0dlRucEl1MHpxTEMxSUpLUk94ci1jbG5IcXQweEd6RWt4bXYyYUZXaHBjclN0Tm9Bb0ZLaFVZ?oc=5",
+    "published_utc": "2026-11-24T07:57:59+00:00",
+    "published_kabul": "2026-11-24 12:27 (کابل)",
+    "importance": "کم",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-24T08:01:07.746849+00:00"
   }
 ]
