@@ -9598,5 +9598,24 @@
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-24T22:01:16.222236+00:00"
+  },
+  {
+    "source": "Forex and Central Banks",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Forex and Central Banks"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "ECB expands euro liquidity lifelines in push to challenge dollar dominance - megaproject.com",
+    "summary": "ECB expands euro liquidity lifelines in push to challenge dollar dominance megaproject.com",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbWlQOUpvSWdJR3FUUHhuWjltWndIU0RFVHE2VkJjREtGc1dFdWVnajBsd29qa2RDWmxaOV83aElKU1JsSEtKWkpQZjU5X1NZVmE3QXNnRktqelFWV1JGVUdSelhDdm4zVWFtMmtxX002d0VadXdtTU9xWEs4ejB2NjZJM1NpVGpVU0xfQXBaVHdrV0tjaFBDZW9RRjJuS3lvOE9rQkxCMXN3cnBkdGcxUEpR?oc=5",
+    "published_utc": "2026-11-24T22:05:11+00:00",
+    "published_kabul": "2026-11-25 02:35 (کابل)",
+    "importance": "کم",
+    "relevance_score": 22,
+    "relevance": "ارتباط محدود",
+    "category": "بانک‌های مرکزی و نرخ بهره",
+    "archived_at_utc": "2026-11-24T22:30:35.571504+00:00"
   }
 ]
