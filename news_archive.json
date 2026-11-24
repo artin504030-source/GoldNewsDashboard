@@ -7558,5 +7558,43 @@
     "relevance": "ارتباط محدود",
     "category": "بانک‌های مرکزی و نرخ بهره",
     "archived_at_utc": "2026-11-24T05:30:58.331301+00:00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "NYMEX: Precious Metals Prices Up - 23-11-26 - Armenpress",
+    "summary": "NYMEX: Precious Metals Prices Up - 23-11-26 Armenpress",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oa3FLa3RhcFF6Nlkwem9JUFdRbFBwT1hDUHJFcFVnM3JSQzhCd0QzRlI3ZFFIQ2xnNzNLdVFLb1hQcm1sU1Z0YW5wZUpCRTktVWfSAVdBVV95cUxQemRaVkhIM0NDS1k5REoxUkVPTXl5WHEzMGgxaXNveHlETE5VWER0RG02V2F0dWFBeUlqTms1bkZFR0QzeDR6YjVneFhxSzN4MVdsWmlxdnM?oc=5",
+    "published_utc": "2026-11-24T05:21:00+00:00",
+    "published_kabul": "2026-11-24 09:51 (کابل)",
+    "importance": "کم",
+    "relevance_score": 45,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-24T05:45:38.371582+00:00"
+  },
+  {
+    "source": "Energy Shipping Routes",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Energy Shipping Routes"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Tanker incident “involving military forces” reported in Strait of Hormuz - Euronews.com",
+    "summary": "Tanker incident “involving military forces” reported in Strait of Hormuz Euronews.com",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQm96RExBbGw0OERZX1lMWGxhczRYS00yOXR6Rlg0XzJ0VHk2bEhZVHVFNmFRYllVUjZvZUhqYzFQSnNULTNhRjNhcE5IOXFNQmFOU2RlZlRZYWxrUnVZbWJrWGEyQWF6T1Z4MUUweHVKTmsyNnMtSS1KeHhxeWdoUWlZYU03eUR0X242RVdjNUp5dnU1R3hXRmNwOV94Nkx5UGtySXZMVnV2QQ?oc=5",
+    "published_utc": "2026-11-22T18:07:13+00:00",
+    "published_kabul": "2026-11-22 22:37 (کابل)",
+    "importance": "کم",
+    "relevance_score": 0,
+    "relevance": "ارتباط محدود",
+    "category": "اقتصاد جهانی",
+    "archived_at_utc": "2026-11-24T05:45:49.170124+00:00"
   }
 ]
