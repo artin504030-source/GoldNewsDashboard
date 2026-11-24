@@ -3941,7 +3941,8 @@
     "relevance_score": 16,
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
-    "archived_at_utc": "2026-11-21T13:15:48.131375+00:00"
+    "archived_at_utc": "2026-11-21T13:15:48.131375+00:00",
+    "last_confirmation_utc": "2026-11-24T08:15:49.981371+00:00"
   },
   {
     "source": "Economic Reports",
@@ -7847,5 +7848,43 @@
     "relevance": "ارتباط محدود",
     "category": "انرژی",
     "archived_at_utc": "2026-11-24T08:01:07.746849+00:00"
+  },
+  {
+    "source": "Economic Reports",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Economic Reports"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Worst since the financial crisis in Norway – now interest rates are rising in Sweden too - Metro Mode",
+    "summary": "Worst since the financial crisis in Norway – now interest rates are rising in Sweden too Metro Mode",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPLVZuc3FyblNOMVdUZHZocmNWZkxsaXZrUWlaYlBRNnZacEtFUHNUTWkwM3NpMTVuZmxtb0hZNUxKTVJfWUF3MkxYcG9sTm85UEFxaVlWRHZ4aXhyUWFuNlFWODBSQnZCSmhXd0MxN2NZNUh0OHFIWTYtTDAxMk9ZV2k4TFVERUZZZzA4UU1JVHgxLW8zM21SbW1YVThYUQ?oc=5",
+    "published_utc": "2026-11-24T07:53:14+00:00",
+    "published_kabul": "2026-11-24 12:23 (کابل)",
+    "importance": "زیاد",
+    "relevance_score": 32,
+    "relevance": "مرتبط",
+    "category": "بازارهای جهانی",
+    "archived_at_utc": "2026-11-24T08:15:39.235416+00:00"
+  },
+  {
+    "source": "Economic Reports",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Economic Reports"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "BOJ to keep hiking rates but soft spending muddies path, ex-central bank policymaker says - Yahoo Finance",
+    "summary": "BOJ to keep hiking rates but soft spending muddies path, ex-central bank policymaker says Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNLXZFWm9jYWRHVHhoRUMwUjdERjBNakV6ZVdjT2tYdEFRX2tOMUNydnY0VG1obkpwRHZ4TjdQT2o5QlEzelQ2QVBiV3lqTnpsMlVSYUJrT1VGUnRWVzJORmJnWndETXdwLW5yYUJIc3cyRTF4WlozOG12MjlRTi1HTEhuZHRnRzVpOEMtWmNnZ3ZmUTdMYmc?oc=5",
+    "published_utc": "2026-11-24T08:01:09+00:00",
+    "published_kabul": "2026-11-24 12:31 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 22,
+    "relevance": "ارتباط محدود",
+    "category": "بانک‌های مرکزی و نرخ بهره",
+    "archived_at_utc": "2026-11-24T08:15:46.427285+00:00"
   }
 ]
