@@ -7691,5 +7691,24 @@
     "relevance": "ارتباط محدود",
     "category": "انرژی",
     "archived_at_utc": "2026-11-24T06:30:46.997288+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Oil prices drop to three-month low of Sh11,568 as diplomatic efforts ease supply fears - The Eastleigh Voice",
+    "summary": "Oil prices drop to three-month low of Sh11,568 as diplomatic efforts ease supply fears The Eastleigh Voice",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRW1qTEd2UmxyOWptSjYtTW1MQ09RdURqcGhmN1RnUDJxM0hNaW4tU2EyaUhZSmpmRnZ3aWEzOFlQWXl4a183akJfWVFWa3VvLTI2ZGpYUG5vNjU4LVlwcEI0bXhjT3AyNEFEZ3Jhd1RaemtSa2swLVB4OVZ6QXA4SEpzeklaYnFxOGRXMkZFZHByUXpDNTJ4RXg2UG9MRE5LajBhbXpoMVc5MkRVblo0b09MVVlRamRmOUxFV3MwMjdSTWIyU3FlTkt3?oc=5",
+    "published_utc": "2026-11-24T05:52:44+00:00",
+    "published_kabul": "2026-11-24 10:22 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-24T06:45:39.216596+00:00"
   }
 ]
