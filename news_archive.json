@@ -9693,5 +9693,24 @@
     "relevance": "مرتبط",
     "category": "انرژی",
     "archived_at_utc": "2026-11-24T23:15:45.210225+00:00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Public market insider selling at Andean Precious Metals (APM) - The Globe and Mail",
+    "summary": "Public market insider selling at Andean Precious Metals (APM) The Globe and Mail",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNc1I3Z1ZJMllwTkxxZXExck5aT055M0ZpbGhBeEYwNjNmOGlJbWloSUpucy0ySWlkUm1ZWEx0YUJqTGctVFNtbzIzT2tOYmV1T2FEOWJFalNQX1Z5V1hnblBNSTBJam9LRlJsQkMwN3RSS2tCd0J0NWktT2N2ZkM3b2VTWVluTG9aR1hCcDF4bFlyLWstU2R6OHBvYjg2SURoMXpSc3I2VklLQ3hHUzZKaktPSWxCYkMwanhXTU5pMlVpTmFXTVNjU2EyWkpZbVU4U0FtREliQWliOFU2emc?oc=5",
+    "published_utc": "2026-11-24T23:15:00+00:00",
+    "published_kabul": "2026-11-25 03:45 (کابل)",
+    "importance": "کم",
+    "relevance_score": 45,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-24T23:30:57.454360+00:00"
   }
 ]
