@@ -8636,5 +8636,43 @@
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-24T14:31:16.739063+00:00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "DNCA enters active ETF market with precious metals product - Citywire",
+    "summary": "DNCA enters active ETF market with precious metals product Citywire",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNklBSS1BOEZTWEZSdWlhNFFhN3NqX1kzbWk5ZEVzQnpFYkFkd2pTTlhEdVNqZGRkeG1vdE83Rnc1RGxNdU9ndkJPWURiRnItbnJoY2hqRE1ZOWdLMVowTG14aGs3NWpRN0VKam0tSlFKRktDZm9TRk5CYU9ucU5IaVhjdUREWjRLb1B2NDJCalBURHpXa0phTVNlZmQ4Vm5BeWU3YQ?oc=5",
+    "published_utc": "2026-11-24T14:40:51+00:00",
+    "published_kabul": "2026-11-24 19:10 (کابل)",
+    "importance": "کم",
+    "relevance_score": 45,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-24T14:45:28.370319+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Oil Slides Below $90 to Three-Month Low as Rising Supply Tests OPEC+ Before Sunday Vote - TipRanks",
+    "summary": "Oil Slides Below $90 to Three-Month Low as Rising Supply Tests OPEC+ Before Sunday Vote TipRanks",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOHZ4RC1od3dsb216VXRFSU5zeFdONktBX1hnMnZqY3c0TUFEakR6SnQ5QVF1dXBvWlFWeVEtLV9IT3hsa05YLWZ4NTVxMWxVYk1ORG85bzVJd1BSR0c1X0RCelZJc21tc3o0LWRrbWZ1Rk1CNmVmM2s3V1F6WkFXLWZDWU9DXzcyZ1FLMTEyZnhsZDdoQkFZWG13LVdSN3dJcGs2R2p1WER0WjA4VnJSUzBQa1JmZw?oc=5",
+    "published_utc": "2026-11-24T14:42:46+00:00",
+    "published_kabul": "2026-11-24 19:12 (کابل)",
+    "importance": "کم",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-24T14:45:38.711302+00:00"
   }
 ]
