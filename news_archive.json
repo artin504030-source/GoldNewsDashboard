@@ -7653,5 +7653,43 @@
     "relevance": "ارتباط محدود",
     "category": "انرژی",
     "archived_at_utc": "2026-11-24T06:15:51.334501+00:00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Lukashenko approved amendments to intergovernmental agreement with Russia on precious metals and stones - СБ. Беларусь сегодня",
+    "summary": "Lukashenko approved amendments to intergovernmental agreement with Russia on precious metals and stones СБ. Беларусь сегодня",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcVZKZWNPcUZ4Y3NTbVJ4Uk1lRXRyRktTeHR6TjZKLXVNTmZCSWlYVFEtZXRMdHVQb3FDV3ZHaGJvVW0xWHNVSXVQdGRQQjZVdkpVa1h1VnlScm5sa2lTeGdGV25acXVHNWkzQ3RmWTl1WFlFaTdWOEtROFNsbGdjSEQ0TlA2VHhDVUk5WjdmaUZXcUlFZVdzdmhUZGl1WlZPdFF5d2tWeG56YS1xMDl1N0c2WUhoWHNuVjRLTElQZmNYcEFv?oc=5",
+    "published_utc": "2026-11-24T06:22:36+00:00",
+    "published_kabul": "2026-11-24 10:52 (کابل)",
+    "importance": "کم",
+    "relevance_score": 61,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-24T06:30:37.126247+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Ministry of Industry: \"Over 75% of Crude Oil for January of Next Year Secured\" - news.sbs.co.kr",
+    "summary": "Ministry of Industry: \"Over 75% of Crude Oil for January of Next Year Secured\" news.sbs.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1nTm43NnlldEhLcXJWY05rbWpTc0d2MEljZHNHRzlzVjN4MHR6d1F1T0c4NGRObng4c1FVLWlRX0xxZVRjNXhWWGg4UEtqN0hDOGZ1RU5qVHlWb2xEcmhLaXpGZHhNRzhTTS01cTRR?oc=5",
+    "published_utc": "2026-11-24T06:11:23+00:00",
+    "published_kabul": "2026-11-24 10:41 (کابل)",
+    "importance": "کم",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-24T06:30:46.997288+00:00"
   }
 ]
