@@ -8135,5 +8135,24 @@
     "relevance": "ارتباط محدود",
     "category": "انرژی",
     "archived_at_utc": "2026-11-24T10:15:50.145989+00:00"
+  },
+  {
+    "source": "Trade and Sanctions",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Trade and Sanctions"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Shipping risks rise in Strait of Hormuz after three oil tankers hit mines - Traders Union",
+    "summary": "Shipping risks rise in Strait of Hormuz after three oil tankers hit mines Traders Union",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbHVHbGg4UW9DRW5xVlpKQ2VFbWhtck1jeVExdFlxS0oxUk5MbjdyZHBzM0I5TU1hSzVXS2E0Z19CUVRFenVuRHIyVy1NdjlFbGNiLWpWbEd2VTFQbUVYNjRUQ0JjV2dNN2U5NE1tQk1hbVNpcUVEREEzYldMN2VKSE9LYjhpQlpu?oc=5",
+    "published_utc": "2026-11-24T07:22:40+00:00",
+    "published_kabul": "2026-11-24 11:52 (کابل)",
+    "importance": "کم",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-24T10:30:42.369561+00:00"
   }
 ]
