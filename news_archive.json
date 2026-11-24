@@ -9000,7 +9000,8 @@
     "relevance_score": 45,
     "relevance": "بسیار مرتبط",
     "category": "طلا و فلزات گران‌بها",
-    "archived_at_utc": "2026-11-24T16:54:45.574325+00:00"
+    "archived_at_utc": "2026-11-24T16:54:45.574325+00:00",
+    "last_confirmation_utc": "2026-11-24T17:15:45.985666+00:00"
   },
   {
     "source": "Gold Market",
@@ -9096,5 +9097,43 @@
     "relevance": "مرتبط",
     "category": "انرژی",
     "archived_at_utc": "2026-11-24T17:01:26.498521+00:00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "VanGold Opens Gold and Precious Metals Store in Vienna With Live Online Pricing - EIN Presswire",
+    "summary": "VanGold Opens Gold and Precious Metals Store in Vienna With Live Online Pricing EIN Presswire",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPd3I3U0NJNEpwYWpDTWF0eWZUWWFGMloxR3dsdzNDSjlJRG9Ra080QVhYczE0VWNmM3ZkU3VGSXRzbHJJQ0pGWFFSOW1yc0ViUm8xNUMySV9wdC1ESVB2d3RzakJuQlRlOVJWOW9obkxMZnlfdmVkbjNJUFpPT3pFSjVGd1NOSXlZYkdSazZETUxVcUZpaW00R0lhNTN3WmhJWUFncDAyQm9qcXlSTGJJZGF2WklmOEtvUThoUTIzcWZFeEh5?oc=5",
+    "published_utc": "2026-11-24T17:00:00+00:00",
+    "published_kabul": "2026-11-24 21:30 (کابل)",
+    "importance": "کم",
+    "relevance_score": 45,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-24T17:15:50.917743+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Grains Mixed Sorting Through New China Trade Deal vs. New Tariffs - AgWeb",
+    "summary": "Grains Mixed Sorting Through New China Trade Deal vs. New Tariffs AgWeb",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdjM2LUwxdG5SaFNJaHA2VzFqcGhxaXd0U00xc0Y3TzVnamFRMjJCOTdKVkVLTnV4YXlKQTNmNUp6amdQdjhnQmhnc2d4aUhqY1dJRkFxbW1YZHpWS1laQ0hESWE0Y29RMkVPRTJ0TUZEUTV3UjE1SjE4eFVoYS1kZVo3RnNoTFJfb21uMmlvNm1pbUx5RnpIdUhn?oc=5",
+    "published_utc": "2026-11-24T17:04:00+00:00",
+    "published_kabul": "2026-11-24 21:34 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-24T17:16:00.130863+00:00"
   }
 ]
