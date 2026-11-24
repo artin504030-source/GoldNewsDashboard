@@ -6322,10 +6322,11 @@
     "source": "Oil and Energy",
     "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
     "confirmed_sources": [
-      "Oil and Energy"
+      "Oil and Energy",
+      "Oil Trade and Supply"
     ],
-    "source_count": 1,
-    "confirmation_status": "یک منبع ثبت‌شده",
+    "source_count": 2,
+    "confirmation_status": "تأیید چند منبع",
     "title": "Libya's Oil Output Plunges as Armed Groups Shut Key Pipelines - Crude Oil Prices Today | OilPrice.com",
     "summary": "Libya's Oil Output Plunges as Armed Groups Shut Key Pipelines Crude Oil Prices Today | OilPrice.com",
     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVnpkMkp5LU9BeHRZaXhXdTY1ZHluTkpvOWk3SDMyLTRYeEZBMVRjTHdvMFphcE9ONldBeEtWakdXWHNRaG1LOTBTR2dYLXo4ZE85OFpKUldpZ1luR1NhSjFZS2hLRGtxOVk0a1JIRU9KSnIzaG9TWGhnSmduU2tRMlhDVG1kSWxjTVRxd3RZV2dxOEs3WWhhcmExUVBIRVA0cmVUdVQ3LWVUMHludzd5ay1CWk0xbUnSAbwBQVVfeXFMUEN1T2wyNUFvdzVkY1pQczdJV2drSzZoLS1BSFROdHVzTThjTWdWX0QtR0w5U1dfTTliSkZEWG02ckFzMmtaRkFlMTQxM1RyUXNzRlAteS1rMVdoeW1QenUya09Fb3Jnc2gyWThHNTdNcjZmME5SN0h1UFp5UkUwNmZzVi1wNk14cVRVUTVVRkRlVEhCdGpEX3d1bGhGR1ZPRXpCUzBmVGZQdkNaRWVEVkNlNDcxazdMNUlYRmY?oc=5",
@@ -6335,7 +6336,8 @@
     "relevance_score": 12,
     "relevance": "ارتباط محدود",
     "category": "انرژی",
-    "archived_at_utc": "2026-11-23T16:01:13.279148+00:00"
+    "archived_at_utc": "2026-11-23T16:01:13.279148+00:00",
+    "last_confirmation_utc": "2026-11-24T03:02:07.117201+00:00"
   },
   {
     "source": "Gold Market",
@@ -7383,5 +7385,24 @@
     "relevance": "ارتباط محدود",
     "category": "انرژی",
     "archived_at_utc": "2026-11-24T02:45:49.026627+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Brent Drops Below $90 as Wall Street Splits on 2027 Oil Outlook - Crude Oil Prices Today | OilPrice.com",
+    "summary": "Brent Drops Below $90 as Wall Street Splits on 2027 Oil Outlook Crude Oil Prices Today | OilPrice.com",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeHpwLTYwQnctTFJGT2Q1cGRxTklyZnZnT1EzWVo5WDBSX1o3djNoMzR0N1FVWUlJYXpEYmh6SUZ4WEowdmVxeEF6cE9xRlN2dV9oQ2E1NndHRks2MTRkS2Z5YmFkbVlWdERpT1NFTXdyVnlfTl9hVW1NcFlsUC1kbG1KOE5WODE0RGRJckxyaER1N1pFeExkNnZ0cnhJYVFBTkdibXRTOFVuSzloNVpZLUExQTJKNzA4OEHSAb8BQVVfeXFMT01qakNVd3lvVFYwT2pxSkRfdk9HbUQ5RTlLcTRHazFfSkU1dndUeWJZT2c2ZGd5a2NQREpFRzh1YzhjOUQ2RjZYY2UzbUtWUW5qUWh4ejF1TkNzTDc2T1lrOGhZend0Zm1aZF9ITklQdGg0T1AzMlFya2FnVG14ZlFEQmx6dWh4SHF0SFNTbElMbE82cXVhWmpQX2Vka1Izbjc2Tjhjc3NqYVgxYmRCazg0N3hadVJoRjJFSjV0SXc?oc=5",
+    "published_utc": "2026-11-23T14:30:00+00:00",
+    "published_kabul": "2026-11-23 19:00 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 22,
+    "relevance": "ارتباط محدود",
+    "category": "بازارهای جهانی",
+    "archived_at_utc": "2026-11-24T03:02:03.486828+00:00"
   }
 ]
