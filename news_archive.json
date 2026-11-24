@@ -8826,5 +8826,62 @@
     "relevance": "ارتباط محدود",
     "category": "بانک‌های مرکزی و نرخ بهره",
     "archived_at_utc": "2026-11-24T16:01:26.833747+00:00"
+  },
+  {
+    "source": "Economic Reports",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Economic Reports"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Global Gold Prices Plunge 36% From Peak, Fed Interest Rates Blamed - BigGo Finance",
+    "summary": "Global Gold Prices Plunge 36% From Peak, Fed Interest Rates Blamed BigGo Finance",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kbklkSWE4N3FCaEd5TGVNQUo2WEdxRDlhZFp0ejAya2g1YTJPMjY5VXVuQlN3MDYxNzRBcFpydVl3OGl2NUxEZ2VRQ3VaclRVTFQ3UmpTOEZCX1p3WWVRNngyd2NhSDFYbHhTeHF2UDE1eUFodHc?oc=5",
+    "published_utc": "2026-11-24T16:05:00+00:00",
+    "published_kabul": "2026-11-24 20:35 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 67,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-24T16:15:59.745198+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "New Trump Tariffs Won’t Top Trade Deal Levels, Will Be Targeted - Bloomberg Government News",
+    "summary": "New Trump Tariffs Won’t Top Trade Deal Levels, Will Be Targeted Bloomberg Government News",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWnMxZmRpSWF2a0RzeTVPcTdYRy1qS05mRVdpaVJEQ1RmTDFIeWJJSFY0b0NpczdoSzZ2ZlZ2bjZ4c2RzMXJ6Q2NKQ0hMWUlncmN2UG1fVHRqMmVneGhWLUlEWWJzVFUweDdXbWdKbGVnc2J1V3NBZmZHSFBnYWlfLWcwWkdIXzZLTE1XV2I5WWVPbmd0czBYVjJKTEZDd3dsaUd1MGNsRHBOZFhiMWc?oc=5",
+    "published_utc": "2026-11-24T15:45:00+00:00",
+    "published_kabul": "2026-11-24 20:15 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-24T16:16:07.599115+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "New Trump Tariffs Won’t Top Trade Deal Levels, Will Be Targeted - Bloomberg",
+    "summary": "New Trump Tariffs Won’t Top Trade Deal Levels, Will Be Targeted Bloomberg",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRk9ydWRwa1d2aXFHT0FvQW16SWMyemgzS1VCc1g3MVRlb2hhM21HTl9RdWMzTUVQcnNJbVpRMzFQellZZVBCbG44RXhpekczWkg0TnRwaVJVT3didFhjc2oySHpxUFFheC05NVB4a0Y1dnVXM2tmSjE0YVhwYjNHVnI4WmhTS2dna2dmeDA1ZVRwV0oyS1pmZG9BeXI0SEVIMjh5QVE0YkRRTW1xR2R5Z3ZfRQ?oc=5",
+    "published_utc": "2026-11-24T15:45:27+00:00",
+    "published_kabul": "2026-11-24 20:15 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-24T16:16:14.751320+00:00"
   }
 ]
