@@ -8154,5 +8154,43 @@
     "relevance": "ارتباط محدود",
     "category": "انرژی",
     "archived_at_utc": "2026-11-24T10:30:42.369561+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Oil prices near three-month lows as rising supply offsets Hormuz threat - Yahoo Finance",
+    "summary": "Oil prices near three-month lows as rising supply offsets Hormuz threat Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOR184MFAyM2tCU0RsVVp3YW9hMU8zM3pxUWVWTnl5aGZfRHdUUzVjQ2NmQ1Q2NG1VV3F4ZWxlTkJmMl9lU3lkcTd4cWIzdWpuQ21zRkpBMFQwbld2RmFCV0k2elhEb2lkSGRVRWp0N2lXdTlFbXFWeEd3OF9KQ3RPX1IxX1JSVUlFa1p1cw?oc=5",
+    "published_utc": "2026-11-24T07:09:00+00:00",
+    "published_kabul": "2026-11-24 11:39 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-24T10:45:51.478274+00:00"
+  },
+  {
+    "source": "Oil Trade and Supply",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil Trade and Supply"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "China, India set for record Russian oil imports in 2026, but demand seen peaking - شبكة تواصل الإخبارية",
+    "summary": "China, India set for record Russian oil imports in 2026, but demand seen peaking شبكة تواصل الإخبارية",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5hNllqRFdVaVlXeEFkN2pzNS1BaUhldTBnVjl1STQzQUtfSkdZQ3dnckNSV3RHbFFZRmxuVmdTZElMZUNmUjJ2N1dYTGd6bWFlMEQ0?oc=5",
+    "published_utc": "2026-11-24T09:18:52+00:00",
+    "published_kabul": "2026-11-24 13:48 (کابل)",
+    "importance": "کم",
+    "relevance_score": 28,
+    "relevance": "مرتبط",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-24T10:45:57.097621+00:00"
   }
 ]
