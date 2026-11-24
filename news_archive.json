@@ -7481,7 +7481,8 @@
     "relevance_score": 30,
     "relevance": "مرتبط",
     "category": "اقتصاد آمریکا و دلار",
-    "archived_at_utc": "2026-11-24T04:15:36.624246+00:00"
+    "archived_at_utc": "2026-11-24T04:15:36.624246+00:00",
+    "last_confirmation_utc": "2026-11-24T07:30:46.468920+00:00"
   },
   {
     "source": "Economic Reports",
@@ -7749,5 +7750,43 @@
     "relevance": "ارتباط محدود",
     "category": "انرژی",
     "archived_at_utc": "2026-11-24T07:15:46.234391+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Electric and Hybrid Cars Capture Three-Quarters of Europe's Auto Market - Crude Oil Prices Today | OilPrice.com",
+    "summary": "Electric and Hybrid Cars Capture Three-Quarters of Europe's Auto Market Crude Oil Prices Today | OilPrice.com",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOHV0VmhmUDVyaUloWGJ2NmlLWXU0WThQaWVhTl9qbWFOZF82bkVVc1hrM2FoWlRRZlFkV2NDT0xUcVNsNmZ0S1FYU3ZQNDZYR1NMRWRUcHFxMFVkRUh6V0JwY18zMlFTOThOa0RfWVRZTTdDcFVJRDJweUQwa1lCdWR2RVhEZ2xlSTM5RkoyUWE5WG1lbDVfTGVjbnRleThOZWtNSzFZdmZ5TGZ4V0RmVzhpNnRJc3d2OGFBeFpLWWhjNFN40gHKAUFVX3lxTE8xc2s4S3FhRWJnX3BkS2NoZWpsYzJFVTdsMEhUY3JDMDZKWk81TXdVT1VXRzd5Q2JZZVkteVFHUHNUTHZpcjhrUVJRdkh1YW5RVHp2VzNua0dhRDlVTDNyV2ZVc0h1clBmZ3VzWFhTMVF3VzBoX2Q2dDAyME5qWHRoeUlJSFZYMEhXa2p5ME1mZ056a3ZLenlWa3NkMmNpQXJ3QkpBTmwxdC13blB5eFJnc28tX3JKV3ZnRmZ4ay1lZFU3QW51cUsyQXc?oc=5",
+    "published_utc": "2026-11-24T06:30:00+00:00",
+    "published_kabul": "2026-11-24 11:00 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-24T07:30:53.409559+00:00"
+  },
+  {
+    "source": "Oil Trade and Supply",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil Trade and Supply"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "IRGC claims three oil tankers hit naval mines in Strait of Hormuz - The Business Standard",
+    "summary": "IRGC claims three oil tankers hit naval mines in Strait of Hormuz The Business Standard",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxON2dyUS1OYW9hT1NfVzVTQWJDaW5LY3NIOWRVNlBHV2NLT2xObFl2MlI2eFVTazN6YW1GTldSWldHWGZWZnR3bkJtN3BjbHI1MXFuSjhTbmJ1LUcybk5TdGRJN2szMWlQZ2hwTy1RSmNrRmpCSGUwdl9VVnRBWVVPUVlrZXV1OVktUUVZNzZaaWxKNGQtVUgwdHJOTVRUU3U4ajJwV2poSXAyZHp2WDBQMmln?oc=5",
+    "published_utc": "2026-11-24T07:26:38+00:00",
+    "published_kabul": "2026-11-24 11:56 (کابل)",
+    "importance": "کم",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-24T07:31:01.498773+00:00"
   }
 ]
