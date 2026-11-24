@@ -9192,5 +9192,43 @@
     "relevance": "ارتباط محدود",
     "category": "انرژی",
     "archived_at_utc": "2026-11-24T17:31:19.629987+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Russia Ukraine War Hungary - Goshen News",
+    "summary": "Russia Ukraine War Hungary Goshen News",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSkl5M0huQWZGWm5QbFctNnBQZmFDaWYyRjNrOVZaeXFLUUR1ZmREUTJSMmlkdEt1OHBsanV0WnhKdXdZSnhUNHUtaC1RU1IxNmRzM2c5bWxOQUJzejJWVU9lZXBOLUFKc0hoWm5Feno0VHNqUnBTMzFfZHhXMXBFX25JS1BVWEU1ZTJvS001Z09yZzk5M1B4Y01vZzFNOFdLMGFkeDlFSVktQXZ6MHNCb05feDd2Y1BmY2tEeg?oc=5",
+    "published_utc": "2026-11-24T16:58:54+00:00",
+    "published_kabul": "2026-11-24 21:28 (کابل)",
+    "importance": "کم",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-24T17:46:02.391967+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Can Elevated Oil Prices Drive Equinor's Upstream Profitability Higher? - Yahoo Finance",
+    "summary": "Can Elevated Oil Prices Drive Equinor's Upstream Profitability Higher? Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSlhRNWdkLUNrM2kzcGY1VF9kQlN6cUluQlFLczlSQWhCREZRQkpQcEt4d0hwQk91b3NoUmllRk9PQS1iNnZoWWVDdm02SEJ5SHZCMWFweEN2MjV1cW5GbW9hVFdvZ3dhamVmbzR3WEI5Q3V1OEJjUmhVeF9TVHlHd1dkS0JXbld6bThEbk5oMF9oZXJvRnc?oc=5",
+    "published_utc": "2026-11-24T16:28:00+00:00",
+    "published_kabul": "2026-11-24 20:58 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-24T17:46:10.589227+00:00"
   }
 ]
