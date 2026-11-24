@@ -7849,7 +7849,8 @@
     "relevance_score": 12,
     "relevance": "ارتباط محدود",
     "category": "انرژی",
-    "archived_at_utc": "2026-11-24T08:01:07.746849+00:00"
+    "archived_at_utc": "2026-11-24T08:01:07.746849+00:00",
+    "last_confirmation_utc": "2026-11-24T20:00:57.732962+00:00"
   },
   {
     "source": "Economic Reports",
@@ -8294,10 +8295,11 @@
     "source": "Oil and Energy",
     "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
     "confirmed_sources": [
-      "Oil and Energy"
+      "Oil and Energy",
+      "Oil Trade and Supply"
     ],
-    "source_count": 1,
-    "confirmation_status": "یک منبع ثبت‌شده",
+    "source_count": 2,
+    "confirmation_status": "تأیید چند منبع",
     "title": "Japan Poised to Ramp Up LNG Buying as Power Prices Surge - Crude Oil Prices Today | OilPrice.com",
     "summary": "Japan Poised to Ramp Up LNG Buying as Power Prices Surge Crude Oil Prices Today | OilPrice.com",
     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcXBoMG5XVXl2UVd3UTVibU9nbHJfOGFBYlJEQjd5N3Q5WGZVNHpOSTdnZEJaaXFkZ0VJS1dhMXJvUXdKWnNJQ053eEZoVlVBN01kYW5Ua09yTU9zOHY2Skw1X2EwdC0wdUtnSjJ2RzQxLWhBTktnT1F3M2kwSTFsYXZEZ09ZUVR3OU5yN2xSaTlOX2o3Z3ZjaXBBVjdWVTRPaTRyOFNsdTYzOHY1V0pXUVNn0gG3AUFVX3lxTFBxeEh6TmpCZGVaUldGTTNSTTlSSmhhc2xOT2IzOUJhYmU3QW4wZGRkOF94TnRtemthN085bG5HdDE4TWpuZ09UbDhfNnRZTGN1eEVBU0U2RkhYenFYNjRDRzhYRWQ1c3Vac2Z3WFI0ZmhDRVpzZEJTeFg5WUxHTklrSjdFalpfS2NkN0hWT3RfX1BRWjZCMG1Qdml1SVBSUTdraWZhU2N3bVk0dXktR19BMWVzdjlOWQ?oc=5",
@@ -8307,7 +8309,8 @@
     "relevance_score": 12,
     "relevance": "ارتباط محدود",
     "category": "انرژی",
-    "archived_at_utc": "2026-11-24T12:15:53.389017+00:00"
+    "archived_at_utc": "2026-11-24T12:15:53.389017+00:00",
+    "last_confirmation_utc": "2026-11-24T20:01:06.100947+00:00"
   },
   {
     "source": "Gold Market",
@@ -8403,7 +8406,7 @@
     "relevance": "بسیار مرتبط",
     "category": "طلا و فلزات گران‌بها",
     "archived_at_utc": "2026-11-24T13:01:10.911590+00:00",
-    "last_confirmation_utc": "2026-11-24T19:30:31.336189+00:00"
+    "last_confirmation_utc": "2026-11-24T20:00:54.944740+00:00"
   },
   {
     "source": "Forex and Central Banks",
@@ -9422,5 +9425,24 @@
     "relevance": "ارتباط محدود",
     "category": "انرژی",
     "archived_at_utc": "2026-11-24T19:45:57.405349+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Europe's Gas Prices Jumped 163% in a Year - Crude Oil Prices Today | OilPrice.com",
+    "summary": "Europe's Gas Prices Jumped 163% in a Year Crude Oil Prices Today | OilPrice.com",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRmdiQ2ZWcHJtTE1vM1pZQTI4c2d6VkdNclh1Ymh2ZU5NS2poV1RWTC1FTHRoT21tcjR1M0ZfZ2RzY1Q2UDlXbDVhLXRyZ1Fydzdkc1E0Nk5MOHhGdTNUNTRBQjlXV3p3QXdkSmh6cTJBZmxYQVFlbXlrak5qdVE5eDJ6MnlWLUxNNFh2edIBkgFBVV95cUxQLUltaHlrc1QwWUdQMlNlSjZKTlk1WnM2bmNLQlFTdC1EVWNPRlBOTGgyY2ppdzAySm9KdlBkQXBjbjdnTG95c2N3R1VMLTI4UXFmbzdqYlNEelhtQTg1QWV2UER5QkRienUzOFZ2QXphZDdrc01vUTNKdUx3cmp5UUJtelBDMjJwVGdzcUZJVzZLZw?oc=5",
+    "published_utc": "2026-11-24T17:00:00+00:00",
+    "published_kabul": "2026-11-24 21:30 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-24T20:01:02.405869+00:00"
   }
 ]
