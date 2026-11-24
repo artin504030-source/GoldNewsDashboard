@@ -7615,5 +7615,43 @@
     "relevance": "بسیار مرتبط",
     "category": "طلا و فلزات گران‌بها",
     "archived_at_utc": "2026-11-24T06:01:56.797371+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Oil prices fall as Qatar backs diplomacy to end Iran war - Arabian Gulf Business Insight | AGBI",
+    "summary": "Oil prices fall as Qatar backs diplomacy to end Iran war Arabian Gulf Business Insight | AGBI",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaThLSXJpYzhoaHM1N3ZybTU2TzVvdjE1bjNrOTlMa1BkVkFja2VsTVRNVEQ1RzZOMnFBTnJvbjVJMUhJUzBZS0V5LTBTRFdlSEZYT3h3R2lJUnZVdUhUOGRTNUxmbUJFN2JTc3UzS1REZnZrMGJCLXJjZ3FkeGlET05TQURJcGpjYzZNTHZuTEd0aGt6TFJFY1Q4c0VpZE0?oc=5",
+    "published_utc": "2026-11-24T05:50:13+00:00",
+    "published_kabul": "2026-11-24 10:20 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 28,
+    "relevance": "مرتبط",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-24T06:15:42.858816+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Oil prices near three-month lows as rising supply offsets Hormuz threat - Reuters",
+    "summary": "Oil prices near three-month lows as rising supply offsets Hormuz threat Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMDQ4RU9qMFd6TWl0WkFDUGVsdk5Gb3Q1dURMcjcwbGxUV3ItdjhZUGdQUTBZOVUyZEZlRzdmSEtjM3EwQTNUam1nRVZNdXFRbmNfeHhpUnNVQjNPbjNyOGtSZHVnNEZmbnpJdC1VdVA5X25rWndhMnZqemNGVWdVU1Y5OE8ybExyT2xLelF6dnZsNkM0OU55b1dKc1NuNF9sWkVGSGZJaUNxLXc4eEdGZTl3LUtFTDFuUUE?oc=5",
+    "published_utc": "2026-11-24T02:56:00+00:00",
+    "published_kabul": "2026-11-24 07:26 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-24T06:15:51.334501+00:00"
   }
 ]
