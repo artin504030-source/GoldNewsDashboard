@@ -8769,5 +8769,43 @@
     "relevance": "ارتباط محدود",
     "category": "انرژی",
     "archived_at_utc": "2026-11-24T15:31:19.762021+00:00"
+  },
+  {
+    "source": "Economic Reports",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Economic Reports"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "ECB policy direction clear for December but uncertain after, Sleijpen says - Yahoo Finance",
+    "summary": "ECB policy direction clear for December but uncertain after, Sleijpen says Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUWdXdU1ZRG1wRGxua1RwbjJSelVSTUV3emhjMnhwckl2WWlQc3lpb2hkMnRuNGRDbzd1UG9xVTAyOTk5QzhDM2JpRnZjYmh2Yy0waWE4U0FGRTVmSS1HWS02RGdBaUNna2lkMzBBajFaaTNTVHFZRVN1cXo3UnlNQXVFQWItUkswVno5ME13YUY2MDBITHNOSlZRcnB5ZlBEY2c?oc=5",
+    "published_utc": "2026-11-24T15:08:10+00:00",
+    "published_kabul": "2026-11-24 19:38 (کابل)",
+    "importance": "کم",
+    "relevance_score": 22,
+    "relevance": "ارتباط محدود",
+    "category": "بانک‌های مرکزی و نرخ بهره",
+    "archived_at_utc": "2026-11-24T15:45:31.685585+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Oil prices near three-month lows as rising supply offsets Hormuz threat - The Daily Star",
+    "summary": "Oil prices near three-month lows as rising supply offsets Hormuz threat The Daily Star",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYVdUYlVtZ0J5T0FXVGJ2eVBLMzdfOTJwaVJYWlhVNlJCTjdKa0k4RFhzX1hBbS0yXzFRMzRsQkpEZFF3LTZ4ay02M01BM0FXOF8tTEh6bGxWdzRvLTBiazZvbXRkOWx3X01VQjFaTnFZaHF2cHI0OWVnTFNtTWt1SkF6SEpJSHJUclNXVEt6R1dBNkV3am9wN3FmbkJDNmMzM3lteWk5eFhPVGhId2oxU1R4cTE2UUJUQnln?oc=5",
+    "published_utc": "2026-11-24T05:39:40+00:00",
+    "published_kabul": "2026-11-24 10:09 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-24T15:45:40.425070+00:00"
   }
 ]
