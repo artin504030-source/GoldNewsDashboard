@@ -7324,6 +7324,64 @@
     "relevance_score": 61,
     "relevance": "بسیار مرتبط",
     "category": "طلا و فلزات گران‌بها",
-    "archived_at_utc": "2026-11-24T02:15:30.244713+00:00"
+    "archived_at_utc": "2026-11-24T02:15:30.244713+00:00",
+    "last_confirmation_utc": "2026-11-24T02:45:28.174830+00:00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Wheaton Precious Metals Corp. stock rises Monday, outperforms market - MarketWatch",
+    "summary": "Wheaton Precious Metals Corp. stock rises Monday, outperforms market MarketWatch",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSGY2bTBhMk53S1BxcTY0YS1BTjJPNmRRUkVETExsczJrYWhvbzBoNjV1ZGJYaEQxVkRvbk1tLVB1TlhBSC0xd3ltSElLY3lKcHRTbjMzSmMzV1hwaVlVTnFFZ3lWRVd5MXpUNEh4a0F4UnF4dzZzMklwa2stVmk1Q0txWXFZZ1RETjhYZHBvZFBfYUFWbGhFLVc4bmprcXF2TnpvOUdHbnZsejV6NTF5b0x0RUNmSUlEdzJhUmVBTFZKRXo3MHBRaHVxRk9YdFlKVEUyTmF3VGNUUFpE?oc=5",
+    "published_utc": "2026-11-23T21:36:00+00:00",
+    "published_kabul": "2026-11-24 02:06 (کابل)",
+    "importance": "کم",
+    "relevance_score": 45,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-24T02:45:32.342292+00:00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Is Triple Flag Precious Metals (TSX:TFPM) Undervalued Following Its 5% Share Buyback Plan? - Yahoo Finance",
+    "summary": "Is Triple Flag Precious Metals (TSX:TFPM) Undervalued Following Its 5% Share Buyback Plan? Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOX0lhcVlNOENEWkI4SGNZcTVHblBTeUhTTjgtb0MtamFJandrVVJLV2NDaE1XNl85Z0dPZVh6OW94WU5LVGJHbDN1bE92UVJwZkl4MzV2UldSZ3I5cVY1TFlyekRmRFZ0OEo5aVlud0FJY1AyZ0Y1NFVocU91NUlsU2w2RGtxQUszRXFTV0owcE9wOGctamtFVmE4dEQ?oc=5",
+    "published_utc": "2026-11-23T23:17:14+00:00",
+    "published_kabul": "2026-11-24 03:47 (کابل)",
+    "importance": "کم",
+    "relevance_score": 45,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-24T02:45:39.980001+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Oil prices rise on global market - Operativ Media",
+    "summary": "Oil prices rise on global market Operativ Media",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5nYWV1NXlKZXBrVjVFUW1uMGZxXzhXM1NZTXZfMFZPdk85R3laU0hmSEstMVVvM1pUUmh0MlRqRjlvdDhwSkJMc09SOWFWeno4aDFxRzJuOGpWc1lwWHlDZE81eWZuRW03U3ZMTTZuYWozSl8xQlY5MVBtYWk?oc=5",
+    "published_utc": "2026-11-23T05:20:00+00:00",
+    "published_kabul": "2026-11-23 09:50 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-24T02:45:49.026627+00:00"
   }
 ]
