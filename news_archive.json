@@ -5058,10 +5058,11 @@
     "source": "Oil and Energy",
     "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
     "confirmed_sources": [
-      "Oil and Energy"
+      "Oil and Energy",
+      "Oil Trade and Supply"
     ],
-    "source_count": 1,
-    "confirmation_status": "یک منبع ثبت‌شده",
+    "source_count": 2,
+    "confirmation_status": "تأیید چند منبع",
     "title": "Oil Markets Are Betting on a Surplus That Hasn't Arrived Yet - Crude Oil Prices Today | OilPrice.com",
     "summary": "Oil Markets Are Betting on a Surplus That Hasn't Arrived Yet Crude Oil Prices Today | OilPrice.com",
     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOVp2dGdrck4zdEVLVGNQaUFSUHpuT0NxdUFKdzRob0JQQXZHRTcyYTVIdjd1b216cTBocDJDb0JhVVhSY3RGXzQtNVFqWlRpU3BGUVg4NGhaM1lnN0ZoNXowbXZpTzF5ME9PeWxrVkpORGpIOWViYWpIOXNBZUVLc1ZCSFg3U1hVd3Jya2Fmdm02Z3E1cFNfX0tkSElRbkVJcjI3bnJn0gGrAUFVX3lxTFAxZ2xzZmJBY19mbUFwMUpFenRfUmFGZEF3SHJNZFo2MFdyZEpsckVhMnBsSGY2eHMzTk1UVVZpVU9PdkVzbXpLSUhzV2F6bGxzdTJVX1RKdkh4Y2pzR3ZMYVA4Wi1sSUh3WlFvZmpxQk9vWnZuX0lvY010V0dQZ2dMVDg0UGNBOXhTa1FwamtFcFZRS3JvLWxla2VBVThTWUhiVkpVaUYwdDI5RQ?oc=5",
@@ -5071,7 +5072,8 @@
     "relevance_score": 12,
     "relevance": "ارتباط محدود",
     "category": "انرژی",
-    "archived_at_utc": "2026-11-23T07:46:02.208283+00:00"
+    "archived_at_utc": "2026-11-23T07:46:02.208283+00:00",
+    "last_confirmation_utc": "2026-11-24T04:00:47.325245+00:00"
   },
   {
     "source": "Gold Market",
@@ -7423,5 +7425,24 @@
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-24T03:31:24.255268+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Middle East latest: IRGC says three tankers ablaze in Strait of Hormuz - thenationalnews.com",
+    "summary": "Middle East latest: IRGC says three tankers ablaze in Strait of Hormuz thenationalnews.com",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNW14YjRmMTY1a0preF9JQmJVaDFGVmZWUlNJbmRNelFCQjFqYVpfbzJMSFJPN2hwQ1diRDZYdkh3Z09LalBnb3hBZ0k1LUtZNWVpZnprZDlzMzAtVnZZZzAxNTlQYXZYcHNHdjJEZkE5Y3Nfall1Vnk0YkQ5NUpTZDctU3BLbXhz?oc=5",
+    "published_utc": "2026-11-24T03:39:21+00:00",
+    "published_kabul": "2026-11-24 08:09 (کابل)",
+    "importance": "کم",
+    "relevance_score": 0,
+    "relevance": "ارتباط محدود",
+    "category": "اقتصاد جهانی",
+    "archived_at_utc": "2026-11-24T04:00:43.210538+00:00"
   }
 ]
