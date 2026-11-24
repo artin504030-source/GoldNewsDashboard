@@ -8403,7 +8403,7 @@
     "relevance": "بسیار مرتبط",
     "category": "طلا و فلزات گران‌بها",
     "archived_at_utc": "2026-11-24T13:01:10.911590+00:00",
-    "last_confirmation_utc": "2026-11-24T13:30:52.831781+00:00"
+    "last_confirmation_utc": "2026-11-24T13:45:42.729888+00:00"
   },
   {
     "source": "Forex and Central Banks",
@@ -8482,5 +8482,43 @@
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-24T13:30:59.425252+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Oil prices swing with focus on Iran war diplomacy - Transport Topics",
+    "summary": "Oil prices swing with focus on Iran war diplomacy Transport Topics",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBDR2d2TGotdnpxSEhyMmp3X2MydzFUcVFxRmIzWENEWTdhYVVfWE5ZSDJSN2trMEhRT1ZLMVFuNW9GN3VZV3ZES3dNWXRGNFU0M1U2ZkZYaDVsVmRJQTVVT2V0ZkhOeTJ1?oc=5",
+    "published_utc": "2026-11-24T13:19:43+00:00",
+    "published_kabul": "2026-11-24 17:49 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 28,
+    "relevance": "مرتبط",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-24T13:45:49.566152+00:00"
+  },
+  {
+    "source": "Oil Trade and Supply",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil Trade and Supply"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Why Are Oil Prices Falling to 3-Month Lows? - BeInCrypto",
+    "summary": "Why Are Oil Prices Falling to 3-Month Lows? BeInCrypto",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1SZFJYOGprRWlpeWRla1luN0hqMktTTzdUVzFobERsN0YxbExGMDRteEZHR0xObEh5LTlsYzBnWkR3SUsxdWlST2V4d1Bua3JvMVJCTlMzeVdnQm1mQnhxbTBxanBKTUR4ZmtXMDBTSQ?oc=5",
+    "published_utc": "2026-11-24T13:33:00+00:00",
+    "published_kabul": "2026-11-24 18:03 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-24T13:45:58.297851+00:00"
   }
 ]
