@@ -188,7 +188,7 @@
     "relevance": "بسیار مرتبط",
     "category": "طلا و فلزات گران‌بها",
     "archived_at_utc": "2026-11-17T23:54:51.218193+00:00",
-    "last_confirmation_utc": "2026-11-23T12:45:59.131798+00:00"
+    "last_confirmation_utc": "2026-11-24T13:30:52.673978+00:00"
   },
   {
     "source": "Gold Market",
@@ -8402,7 +8402,8 @@
     "relevance_score": 45,
     "relevance": "بسیار مرتبط",
     "category": "طلا و فلزات گران‌بها",
-    "archived_at_utc": "2026-11-24T13:01:10.911590+00:00"
+    "archived_at_utc": "2026-11-24T13:01:10.911590+00:00",
+    "last_confirmation_utc": "2026-11-24T13:30:52.831781+00:00"
   },
   {
     "source": "Forex and Central Banks",
@@ -8427,10 +8428,11 @@
     "source": "Geopolitical News",
     "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
     "confirmed_sources": [
-      "Geopolitical News"
+      "Geopolitical News",
+      "China and Global Markets"
     ],
-    "source_count": 1,
-    "confirmation_status": "یک منبع ثبت‌شده",
+    "source_count": 2,
+    "confirmation_status": "تأیید چند منبع",
     "title": "Exclusive | U.S. Prepares to Raise Tariffs on China and Other Countries - WSJ",
     "summary": "Exclusive | U.S. Prepares to Raise Tariffs on China and Other Countries WSJ",
     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPblRKZFY1SDBYYTNwNWlxcjFqNFdGMmpQdXc3RzEyb0NoWHE3MmZoX3hBMmdnR0doa3JUUmhoN2xaUTR6dUVuajlkX19tZmN3ZHFOTUNkWnJmV3RVaThzRXVWbXZlNWVpb3k1WmNzOFRYUDRCTjg1S1g3YTRaMDZMT3lhVm8wM3VHdG1BaWlvTTZNY2JNMlR1aHNzV3RyQVk5MW44?oc=5",
@@ -8440,7 +8442,8 @@
     "relevance_score": 16,
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
-    "archived_at_utc": "2026-11-24T13:15:32.744846+00:00"
+    "archived_at_utc": "2026-11-24T13:15:32.744846+00:00",
+    "last_confirmation_utc": "2026-11-24T13:31:06.868192+00:00"
   },
   {
     "source": "Oil Trade and Supply",
@@ -8460,5 +8463,24 @@
     "relevance": "ارتباط محدود",
     "category": "انرژی",
     "archived_at_utc": "2026-11-24T13:15:42.439139+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "US Readies New Tariffs on China and 15 Other Economies: Will Stocks Sink Again? - BeInCrypto",
+    "summary": "US Readies New Tariffs on China and 15 Other Economies: Will Stocks Sink Again? BeInCrypto",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LRjBGRjdyanBPZEczcHpOdGFmazNpN0poYnJ4MGZpZE9UU242VXkzc09WaTFLSmY3SmJyS1NXbG9uS2FXc3Z1clcwOVVHMmw3Y2ZCU3pBckFZc0pvNVlDbVZ4bUVVVVE?oc=5",
+    "published_utc": "2026-11-24T12:35:23+00:00",
+    "published_kabul": "2026-11-24 17:05 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-24T13:30:59.425252+00:00"
   }
 ]
