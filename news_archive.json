@@ -9465,5 +9465,24 @@
     "relevance": "ارتباط محدود",
     "category": "بانک‌های مرکزی و نرخ بهره",
     "archived_at_utc": "2026-11-24T20:45:32.588182+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Oil Prices Reportedly Rise Over 2% As Brent Settles At $91.40 - Forbes Middle East",
+    "summary": "Oil Prices Reportedly Rise Over 2% As Brent Settles At $91.40 Forbes Middle East",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVFNzZjBvRVE2cHJDcUVwX3ktc1RWeklzbnQ4TDM3dUFadTc0R1FGS1BwSG4tTFMzNDRaRlk4X2RaaktYMFNjOG1rX3hEaEgxOFY5NFJxVWl5ZTYtaU1uSzNoVUhjQkFKajRxSlZORmN3VkJxNi10d2pMd1l2QjFnR2V4dDNxeGtqU2VuR0pfYlhVXzhwWFU4XzJXWlJEWHRFMnc?oc=5",
+    "published_utc": "2026-11-24T20:46:50+00:00",
+    "published_kabul": "2026-11-25 01:16 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-24T21:00:51.285434+00:00"
   }
 ]
