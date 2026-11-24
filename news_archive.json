@@ -7943,7 +7943,8 @@
     "relevance_score": 22,
     "relevance": "ارتباط محدود",
     "category": "بانک‌های مرکزی و نرخ بهره",
-    "archived_at_utc": "2026-11-24T08:45:31.802919+00:00"
+    "archived_at_utc": "2026-11-24T08:45:31.802919+00:00",
+    "last_confirmation_utc": "2026-11-24T09:31:10.832879+00:00"
   },
   {
     "source": "Oil and Energy",
@@ -8001,5 +8002,62 @@
     "relevance": "مرتبط",
     "category": "انرژی",
     "archived_at_utc": "2026-11-24T09:15:37.576011+00:00"
+  },
+  {
+    "source": "Economic Reports",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Economic Reports"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "US dollar to Israeli shekel rate keeps interest rates unchanged: Can USD/ILS sustain recent gains? - Traders Union",
+    "summary": "US dollar to Israeli shekel rate keeps interest rates unchanged: Can USD/ILS sustain recent gains? Traders Union",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZmFvc24wS2NQMDYxR3BvSlR1LTM5amd2bVk4dUh6QlRlNER4TmFMSExzeGVJOGF4OEE2T3FnclZBZjctSFhsMkxkVzU5eXZFaEk5WlJrc2pDdXVJMzZZYjV6NDdKU2NmV3BmUTlOSmhNNW9DQzR3UHpNYzFoM0VfTTZmYw?oc=5",
+    "published_utc": "2026-11-24T09:14:24+00:00",
+    "published_kabul": "2026-11-24 13:44 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 38,
+    "relevance": "مرتبط",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-24T09:31:07.742539+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "China, India set for record Russian oil imports in 2026, but demand seen peaking - Yahoo! Finance Canada",
+    "summary": "China, India set for record Russian oil imports in 2026, but demand seen peaking Yahoo! Finance Canada",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZVU4RjRzMEtQRGxaZXlHUFFuVzhSOVVwM1pCMEUya05FSU5iWElBOXJNOEl1a1NCWGZ5OHcxTG5LMVJBYXhpR1FJemVpT0dTVlVyZTBPYW0waW9SU21EcEVtb3FWZ041eTZEWE1YOFAyU0xZM3lYWmU0RGdqbE5kWkJSTVp2Zw?oc=5",
+    "published_utc": "2026-11-24T09:04:54+00:00",
+    "published_kabul": "2026-11-24 13:34 (کابل)",
+    "importance": "کم",
+    "relevance_score": 28,
+    "relevance": "مرتبط",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-24T09:31:16.661147+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Equinor Locks In Longest Gas Supply Deal in 40 Years - Crude Oil Prices Today | OilPrice.com",
+    "summary": "Equinor Locks In Longest Gas Supply Deal in 40 Years Crude Oil Prices Today | OilPrice.com",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTEI4QlBVeVhwV3dveWxNSE9RTURBSTY5QTRkVVgza2FTQWd0eDYwekh6QS10VDlGMUlfbTg3OVVvMGl3WjN3TEg5MWxmRnF0UUlhbU9QdHdtWDBIb09yZzAxLVQwTGM2a1BIWDJsQXRCMUFIeXRub3BuSmdPSkFMMmp6eXhOWE4xcTY3MUNXbFlFdnFZVFlRWTN2UUM1UmhFTUotWjJNdUx4NWoy0gGyAUFVX3lxTE1LbzEzVXhBM055dFlHQ04ySzJnU3dTanBoYVZUSHFmV2xFQU9Oa3BsbXJkYkNfMjU1RHVoRGptZUZheTY2YkxEWG1KM1hxQVRXYXVHbkRLRXZRLW9ILUFRX0pieEJLSFZudGpxb0tvbmhqUl9ZSUNKaWFqVmxVX25fclJ0TFU0SHJ4bzJucno1c1MzZFZtOHZTYWhCZVotNThucVZ3MUdfay1VTWlWQkFua2c?oc=5",
+    "published_utc": "2026-11-24T09:25:00+00:00",
+    "published_kabul": "2026-11-24 13:55 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-24T09:31:25.516889+00:00"
   }
 ]
