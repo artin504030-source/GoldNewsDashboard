@@ -7501,5 +7501,24 @@
     "relevance": "بسیار مرتبط",
     "category": "طلا و فلزات گران‌بها",
     "archived_at_utc": "2026-11-24T04:15:45.231279+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Oil prices fall further as supply glut fears overshadow M.East disruptions - Investing.com",
+    "summary": "Oil prices fall further as supply glut fears overshadow M.East disruptions Investing.com",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcklFVWk4NXA4TVJwZ2FBV1FsZ2d3VWFmWlpYLU5mYTkwXzdDVDM4QlU3U082cjEzTXF2bW5jMFk5Q05HM0dCM1dtMTFvSUpTOXhneFMzdzZIdkd0Q1hoQkxuUEpSMjl1TEJhbWwxRFdTWG84bUp6dTZBUTB5LWZwOG94emtYNkI0aE5zR29kdHZCQ2U0c19MSk9ndDJsQk1LZUEzZmZiTDdGa3FOWGJXR1pCQWRMTFhQY1pTMg?oc=5",
+    "published_utc": "2026-11-24T01:47:14+00:00",
+    "published_kabul": "2026-11-24 06:17 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-24T05:02:37.060649+00:00"
   }
 ]
