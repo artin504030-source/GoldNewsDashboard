@@ -9292,10 +9292,11 @@
     "source": "Geopolitical News",
     "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
     "confirmed_sources": [
-      "Geopolitical News"
+      "Geopolitical News",
+      "China and Global Markets"
     ],
-    "source_count": 1,
-    "confirmation_status": "یک منبع ثبت‌شده",
+    "source_count": 2,
+    "confirmation_status": "تأیید چند منبع",
     "title": "US preparing to raise tariffs on China, EU and a dozen other countries - EL PAÍS English",
     "summary": "US preparing to raise tariffs on China, EU and a dozen other countries EL PAÍS English",
     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPb1hGZllMX3hJd0QyV3k3aVJ1eVhYMnY4M3JLQzN4blkwdDM0YzJGRjRfNENEdlc3akt5dDdFSk1ZTVczNjlxdGtyNkJ5QmZidFFLbDM2OWs3QzdrbDZJVmthNkZQRS03di0tYlJ1dVVsYmNkeW1jVEp2d0doN0IzTTJVYVVjakVQYXBoNzUwQUhKeEROWlVvOEtFVm53MV9STUZkSHVuUFdNeE5aWlZpODBRRHg3UnNheVVqbjhTVVowNDBNUzhodjlKRVJDd9IB4gFBVV95cUxQX1VXTW5NVHdydjFTb3BEVzNtVWlNNW9HUGJYTHhSVjhsQzFnRmVNS0JqUTJuTUxBVk5mQkZhV2NMOG5BX3Fiek82X0VHQlFDbUVjOFR3OEVhWXRMZEN0YVIzWEJ3QU9ySmNZSTZkV3I2TTF1Z2J1eV9iSWFMbENUWkhfLW4xcHpaeU9sbjVsYnBGOFRka29iZjRfa21EWEZVdFpnUVJfclAyWWsxNi1LWG50dmJqVFR4S2ZRdmdUdmVWNk9PM3czZ3VzcTJlOU9OWTZHekZFZGRJSF9VTENHbjhn?oc=5",
@@ -9305,7 +9306,8 @@
     "relevance_score": 16,
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
-    "archived_at_utc": "2026-11-24T18:45:55.136931+00:00"
+    "archived_at_utc": "2026-11-24T18:45:55.136931+00:00",
+    "last_confirmation_utc": "2026-11-24T19:46:03.256294+00:00"
   },
   {
     "source": "Geopolitical News",
@@ -9382,5 +9384,43 @@
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-24T19:15:40.413735+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "In the News: Tariffs and Trade Deals - Sandler, Travis & Rosenberg, P.A.",
+    "summary": "In the News: Tariffs and Trade Deals Sandler, Travis & Rosenberg, P.A.",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNemUyVG1qTFZob2tvaXZfQUJ3bHRlTVQ1WjlSamg5a1E3RWxBTG5mYTB4em9LU3U5dUxXbmlLa0RFdjdPVWR5X2RiMl92MnRGNkNTOVdQWC1HcmNKQWJKTEpydFlJdW1Tb0FPZzl4Z1VUVEtKS1JaTVFvMDhpRTBMWUU5VV83ZnlvQVIzQ0RTUEFtX3l0TEh0VTBrUGVuazNuVml6cHZLbFJ1ek0?oc=5",
+    "published_utc": "2026-11-24T19:35:03+00:00",
+    "published_kabul": "2026-11-25 00:05 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-24T19:45:49.578625+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Can Sky Quarry (NASDAQ:SKYQ) Ride Oil Prices To New Highs? - Kalkine Media",
+    "summary": "Can Sky Quarry (NASDAQ:SKYQ) Ride Oil Prices To New Highs? Kalkine Media",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcFllNFk5UW9WM3B3aGtpN1JTTkFueE00akpST2xDd3VzWmlTRkd1RVZaTi1lSlU2Skx2U250WjBzRVJGSjJ0N2FTMm1qbUZMOFZfdy1EQjBYRF9PU1ljd3I4VFFBUERQWmdlU2hVTHlOWnJEWUpsWGdfbjBGZzMzUkZiV3dOTVh6WlJPd0I0cmtEZzUtTnlGSEE2QVNqUQ?oc=5",
+    "published_utc": "2026-11-24T18:58:00+00:00",
+    "published_kabul": "2026-11-24 23:28 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-24T19:45:57.405349+00:00"
   }
 ]
