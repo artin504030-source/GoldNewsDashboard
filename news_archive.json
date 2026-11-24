@@ -7115,5 +7115,43 @@
     "relevance": "ارتباط محدود",
     "category": "انرژی",
     "archived_at_utc": "2026-11-24T00:02:10.464920+00:00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Wheaton Precious Metals (TSX:WPM) Stock Could Be Overvalued Following Its 231% Run - Yahoo Finance",
+    "summary": "Wheaton Precious Metals (TSX:WPM) Stock Could Be Overvalued Following Its 231% Run Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUExwcVlxTVFSZS1QOWNLblJSUE83Z04xUWJNTzhFYTZKU2VwUWNfMHBEWG02MHJ0dnltX1lQSkkyanNNMHpsSUViZ1FHdlpadllKNUtuby0zcGtUWUJCSE5KNXhtQW13QXpiWF80bS15MEx5SnUwaktfNHNpMWpYQXFPTXlQT0EyMW1nQjNQSnNIRkZmSEQ4XzM4REM?oc=5",
+    "published_utc": "2026-11-23T23:22:05+00:00",
+    "published_kabul": "2026-11-24 03:52 (کابل)",
+    "importance": "کم",
+    "relevance_score": 45,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-24T00:16:06.995132+00:00"
+  },
+  {
+    "source": "Conflict and Security",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Conflict and Security"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Iran war live: Oil prices fall despite attacks in Strait of Hormuz - Arabian Business",
+    "summary": "Iran war live: Oil prices fall despite attacks in Strait of Hormuz Arabian Business",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5",
+    "published_utc": "2026-11-23T04:13:07+00:00",
+    "published_kabul": "2026-11-23 08:43 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 28,
+    "relevance": "مرتبط",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-24T00:16:18.450749+00:00"
   }
 ]
