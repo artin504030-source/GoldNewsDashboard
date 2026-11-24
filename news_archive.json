@@ -8807,5 +8807,24 @@
     "relevance": "ارتباط محدود",
     "category": "انرژی",
     "archived_at_utc": "2026-11-24T15:45:40.425070+00:00"
+  },
+  {
+    "source": "Bank of England",
+    "source_status": "منبع رسمی",
+    "confirmed_sources": [
+      "Bank of England"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Daniel E. Pinto appointed to the Bank of England’s Financial Policy Committee",
+    "summary": "Daniel E. Pinto has been appointed as an external member of the Financial Policy Committee.",
+    "link": "https://www.bankofengland.co.uk/news/2026/november/daniel-pinto-appointment-fpc",
+    "published_utc": "2026-11-24T16:00:00+00:00",
+    "published_kabul": "2026-11-24 20:30 (کابل)",
+    "importance": "کم",
+    "relevance_score": 22,
+    "relevance": "ارتباط محدود",
+    "category": "بانک‌های مرکزی و نرخ بهره",
+    "archived_at_utc": "2026-11-24T16:01:26.833747+00:00"
   }
 ]
