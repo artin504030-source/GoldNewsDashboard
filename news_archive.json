@@ -9446,5 +9446,24 @@
     "relevance": "ارتباط محدود",
     "category": "انرژی",
     "archived_at_utc": "2026-11-24T20:01:02.405869+00:00"
+  },
+  {
+    "source": "Economic Reports",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Economic Reports"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "ECB may raise rates in December as inflation pressures mount - Traders Union",
+    "summary": "ECB may raise rates in December as inflation pressures mount Traders Union",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOR1B0bU02YnFuU3Foc0hUcGY0YTNXNlVaNXhGLWkwcXBoT3kyTkplZld5NDlzVFl1akw2ZGVZTDNEY19sVHA3ZmozQ0hieVI4UGRlWE40cUxHNjNwaTBhcTJNX1RRU2Y5Z3NyTXowdFA3NlA3RHhNVV9wVGt2dlpadzFtTnhWN2kzSlE5R3oxRk9kcmM?oc=5",
+    "published_utc": "2026-11-24T14:34:02+00:00",
+    "published_kabul": "2026-11-24 19:04 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 22,
+    "relevance": "ارتباط محدود",
+    "category": "بانک‌های مرکزی و نرخ بهره",
+    "archived_at_utc": "2026-11-24T20:45:32.588182+00:00"
   }
 ]
