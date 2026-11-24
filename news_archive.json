@@ -7943,5 +7943,43 @@
     "relevance": "ارتباط محدود",
     "category": "بانک‌های مرکزی و نرخ بهره",
     "archived_at_utc": "2026-11-24T08:45:31.802919+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Oil Prices Fall as Traders Weigh Supply Outlook, Shipping Risks - WSJ",
+    "summary": "Oil Prices Fall as Traders Weigh Supply Outlook, Shipping Risks WSJ",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMkpRNmtac0F4dkZ2QTRqVEhSc2piS0Vpd1JNaHVScnZZYmRfdzBEbWZXOUFjb0dhR29XZURYZnRUcTVkQW41Y3pOT1plS0ZDOU5NTm1Qel9OUWRMNU53Y2ZoUjBWU045YUczZFRfZGswa0UtY2hVMVJMS2g0b29qUmw3YjN4VHF0aGVTYjVZdl94WjcwdXkxZ3diaVNXSWZwcE9tM2V3b3JLcTRTU0o0aw?oc=5",
+    "published_utc": "2026-11-24T08:27:00+00:00",
+    "published_kabul": "2026-11-24 12:57 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-24T09:00:57.029793+00:00"
+  },
+  {
+    "source": "Energy Shipping Routes",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Energy Shipping Routes"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "IRGC: Three oil tankers hit mines, caught fire while transiting Hormuz with US support - report - The Jerusalem Post",
+    "summary": "IRGC: Three oil tankers hit mines, caught fire while transiting Hormuz with US support - report The Jerusalem Post",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XWExsME9tRlJLdnpnRmdYX2gwVmVoa2p6eEVYWEtTaHVPaDNJTGw3SVp5WS1vQlNaX2xHb2tWeE5LTW9IVjRyVDlzWFFNRzZOUWc3MWtjSFczM3JpTkk3TGdTYzc4YzFmN0E?oc=5",
+    "published_utc": "2026-11-23T22:23:40+00:00",
+    "published_kabul": "2026-11-24 02:53 (کابل)",
+    "importance": "کم",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-24T09:01:21.971840+00:00"
   }
 ]
