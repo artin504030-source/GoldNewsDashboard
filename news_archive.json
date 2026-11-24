@@ -7886,5 +7886,43 @@
     "relevance": "ارتباط محدود",
     "category": "بانک‌های مرکزی و نرخ بهره",
     "archived_at_utc": "2026-11-24T08:15:46.427285+00:00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Silver Surge: Is Kingsgate (ASX:KCN) Benefiting From Precious Metals? - Kalkine Media",
+    "summary": "Silver Surge: Is Kingsgate (ASX:KCN) Benefiting From Precious Metals? Kalkine Media",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOXZlR3JZOTJJbXM2VHdwb0UxUTNBd2pzRjRjbFZMSlJaNXVRNXA1MDU2QTFxSVE2dHZZMUV2RGFjeml1Z1pkVFBKbWZvbWxqZ0FOcGpVMVJVZ0RPa0ZnY2czU2dkREFWYVJMYklmYlBJdE9rMWNsdFFubEpHZkRBWkktWko0dzJ6S0JJam9sY2JZYUV5WjFjWDNQZVVMNlBWaDhOOHQ2WUdKTlpVQmF3Y1o2X3BtaFk?oc=5",
+    "published_utc": "2026-11-24T07:53:00+00:00",
+    "published_kabul": "2026-11-24 12:23 (کابل)",
+    "importance": "کم",
+    "relevance_score": 45,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-24T08:30:34.071355+00:00"
+  },
+  {
+    "source": "Economic Reports",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Economic Reports"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Gold prices drop as higher interest rates weigh on market - AzerNews",
+    "summary": "Gold prices drop as higher interest rates weigh on market AzerNews",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5mZzRvZWJMVzVIWmVZc3BmeU92eTc2WVY0OWgtMWFpRmI1aUpwd19TcDlwVmZzaU0zdXNzdmZDRmZ2bnNaU2x4V1VaNTc3QXlBZ2pqVWdDRQ?oc=5",
+    "published_utc": "2026-11-24T08:04:00+00:00",
+    "published_kabul": "2026-11-24 12:34 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 67,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-24T08:30:41.970653+00:00"
   }
 ]
