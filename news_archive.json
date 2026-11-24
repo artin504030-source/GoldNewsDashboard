@@ -8230,5 +8230,24 @@
     "relevance": "ارتباط محدود",
     "category": "انرژی",
     "archived_at_utc": "2026-11-24T11:15:59.917909+00:00"
+  },
+  {
+    "source": "Forex and Central Banks",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Forex and Central Banks"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "How the Federal Reserve Bank stays connected to you - The Commercial Appeal",
+    "summary": "How the Federal Reserve Bank stays connected to you The Commercial Appeal",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcmo0S19pN1Fmb0pUc0NrM0g2ekFEV1lmNFhwbUVrSVVqY0hhRjJDcHo4SE0zSW5YR3lSaGZLcnFhMGdMZ2ZXMlA4WUR0Z3BHdUY2eURodjVUYkpuaUhXdW5IemZkS21NTHZ0STJnRUMtNzZXY1RRY193TW94WDZNb2VxUDE3cnhpM0x0Zl9XMHBMM0M4cU1xZkRubXhZMGdGbkpTWlhmNjA1Nk1yN3U0MVU3RUh6dEZHd2JzV0o0T1M5LWlVdzNN?oc=5",
+    "published_utc": "2026-11-24T11:09:00+00:00",
+    "published_kabul": "2026-11-24 15:39 (کابل)",
+    "importance": "کم",
+    "relevance_score": 30,
+    "relevance": "مرتبط",
+    "category": "اقتصاد آمریکا و دلار",
+    "archived_at_utc": "2026-11-24T11:30:39.885711+00:00"
   }
 ]
