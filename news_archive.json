@@ -7096,5 +7096,24 @@
     "relevance": "ارتباط محدود",
     "category": "انرژی",
     "archived_at_utc": "2026-11-23T23:46:11.425796+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Oil prices extend losses, Brent hits near 13-week low while WTI slips below $80 - Investing.com",
+    "summary": "Oil prices extend losses, Brent hits near 13-week low while WTI slips below $80 Investing.com",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQY2dUaE1zbTZjS19zVGRXZ2FLQ2Qxb2ZhbzJINGYyQjJyWThSbnEtVTJDODlLeWx0MUxvMUxFZ2lsVDV1Q2tycnBsYV9qTGxMckdsWFpmMURfT3M1VHFiV21BU2R6aUZJX2xLTXo3RENDTG1lZEdSZXF1bUtnUUtGMzlzd01GYjMyMjhfZ09QS2l1ODZNb0EtTzltaTM0SjdlUm05T1dRSE9HOHZRX2E5eW15YmJUdXdIMzV3NEZYRTRkOWs0SjBKYQ?oc=5",
+    "published_utc": "2026-11-23T01:19:25+00:00",
+    "published_kabul": "2026-11-23 05:49 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-24T00:02:10.464920+00:00"
   }
 ]
