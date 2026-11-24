@@ -8520,5 +8520,62 @@
     "relevance": "ارتباط محدود",
     "category": "انرژی",
     "archived_at_utc": "2026-11-24T13:45:58.297851+00:00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Wheaton Precious Metals stock slips to EUR 107.58, down 0.98% - ad-hoc-news.de",
+    "summary": "Wheaton Precious Metals stock slips to EUR 107.58, down 0.98% ad-hoc-news.de",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxON0xpS3ZrU1IxMmJRSVRrOVdkOWtWd245Ykx5OUZqbndRY0xXWjVQRkt0ZDRUbmotUDZ6MUlxM2tBX1JyR2FkWUhLWEozaTVXWXFaSjR5c1M0cjhVeUpKZkRwSzEtX2JNRkFkaXdkYXZUUk5peFNPY05wUVVXYi1QQTlTN1lLblg1WFozU01tYVNMaVEtdEkzX0V0SFVacmZUcXlKWmdfLU42Wmp0V0gtakRWMkp0RE93?oc=5",
+    "published_utc": "2026-11-24T07:52:09+00:00",
+    "published_kabul": "2026-11-24 12:22 (کابل)",
+    "importance": "کم",
+    "relevance_score": 45,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-24T14:01:18.930628+00:00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Johnson County man gets 31 months for securities fraud related to precious metals business - The Business Journals",
+    "summary": "Johnson County man gets 31 months for securities fraud related to precious metals business The Business Journals",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcHVPb2tRYW5ZZGhocXd6UXZFZW1PY1NYUlZyUjYwdEVDSHVmOW5KVjZ5WnM4X3NvQmpqQW1VcE12QUtRZWpUSUlYTHVkRmNTNXh5c1N5N0ZvYjBUYjNDZEY4bXZHaW9YQlBWOV9pdVZTcE1wWnRsMy1fdUFCcVByc0tqZXVKaDY3QzNtc2hKblRfTUNTSi1RMTNGNFBRR2FUYVFWNg?oc=5",
+    "published_utc": "2026-11-24T13:50:00+00:00",
+    "published_kabul": "2026-11-24 18:20 (کابل)",
+    "importance": "کم",
+    "relevance_score": 45,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-24T14:01:26.041308+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Trump Tariffs Return, China Could Be Hit Hardest: WSJ - NVIDIA (NASDAQ:NVDA) - Benzinga",
+    "summary": "Trump Tariffs Return, China Could Be Hit Hardest: WSJ - NVIDIA (NASDAQ:NVDA) Benzinga",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeXBoRDAxaUZXSjNUUXZPcFdfeVhrWU8zcElJaHRwWTFHOXJXWHZvMTl5SkpsQmNQdnZ1LTFsbkwtZV9vcnpzQWo2dTFYdW5sd0xKbzZId1I5OWhIYVNTWEVXeHZUUjRZSExNdEktY0VUZVlZLTc4TXAzSVVwUWlmWWN3aExyS1BtNFhrZ0NSeG1odFZMS0pPVA?oc=5",
+    "published_utc": "2026-11-24T13:47:52+00:00",
+    "published_kabul": "2026-11-24 18:17 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-24T14:01:35.400069+00:00"
   }
 ]
