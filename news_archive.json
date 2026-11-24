@@ -9268,5 +9268,43 @@
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-24T18:15:59.316821+00:00"
+  },
+  {
+    "source": "Economic Reports",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Economic Reports"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "BOJ: BankSmartJa to give public opportunity to negotiate interest rates - nationwideradiojm.com",
+    "summary": "BOJ: BankSmartJa to give public opportunity to negotiate interest rates nationwideradiojm.com",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZTdHRkpFczhCOTBxcU5ucTBMRnFETFUyVER4T3hGWEVBb2NsRVppSmlmeW9pRlZZTWhQR1dHUXVpNGplNHU1eWZtNVpBaDJsWlFvTDZ5SGl1ckE2cGZVWEk1UzdUanVTRmRsQ25qU0tBR1kwS0pwX0pCbEppUE1VX2owZzhiRi02UTJJOXhtSVFiRlBQaFhIVElNSkktckR1aUNz?oc=5",
+    "published_utc": "2026-11-24T18:26:52+00:00",
+    "published_kabul": "2026-11-24 22:56 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 22,
+    "relevance": "ارتباط محدود",
+    "category": "بانک‌های مرکزی و نرخ بهره",
+    "archived_at_utc": "2026-11-24T18:45:47.301593+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "US preparing to raise tariffs on China, EU and a dozen other countries - EL PAÍS English",
+    "summary": "US preparing to raise tariffs on China, EU and a dozen other countries EL PAÍS English",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPb1hGZllMX3hJd0QyV3k3aVJ1eVhYMnY4M3JLQzN4blkwdDM0YzJGRjRfNENEdlc3akt5dDdFSk1ZTVczNjlxdGtyNkJ5QmZidFFLbDM2OWs3QzdrbDZJVmthNkZQRS03di0tYlJ1dVVsYmNkeW1jVEp2d0doN0IzTTJVYVVjakVQYXBoNzUwQUhKeEROWlVvOEtFVm53MV9STUZkSHVuUFdNeE5aWlZpODBRRHg3UnNheVVqbjhTVVowNDBNUzhodjlKRVJDd9IB4gFBVV95cUxQX1VXTW5NVHdydjFTb3BEVzNtVWlNNW9HUGJYTHhSVjhsQzFnRmVNS0JqUTJuTUxBVk5mQkZhV2NMOG5BX3Fiek82X0VHQlFDbUVjOFR3OEVhWXRMZEN0YVIzWEJ3QU9ySmNZSTZkV3I2TTF1Z2J1eV9iSWFMbENUWkhfLW4xcHpaeU9sbjVsYnBGOFRka29iZjRfa21EWEZVdFpnUVJfclAyWWsxNi1LWG50dmJqVFR4S2ZRdmdUdmVWNk9PM3czZ3VzcTJlOU9OWTZHekZFZGRJSF9VTENHbjhn?oc=5",
+    "published_utc": "2026-11-24T18:33:06+00:00",
+    "published_kabul": "2026-11-24 23:03 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-24T18:45:55.136931+00:00"
   }
 ]
