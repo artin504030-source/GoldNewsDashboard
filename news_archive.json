@@ -6772,7 +6772,8 @@
     "relevance_score": 16,
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
-    "archived_at_utc": "2026-11-23T20:16:14.752958+00:00"
+    "archived_at_utc": "2026-11-23T20:16:14.752958+00:00",
+    "last_confirmation_utc": "2026-11-24T00:32:03.668065+00:00"
   },
   {
     "source": "Oil Trade and Supply",
@@ -7153,5 +7154,62 @@
     "relevance": "مرتبط",
     "category": "انرژی",
     "archived_at_utc": "2026-11-24T00:16:18.450749+00:00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Peter Schiff Issues Urgent Banking Crisis Warning - SilverTrade",
+    "summary": "Peter Schiff Issues Urgent Banking Crisis Warning SilverTrade",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQkNaNngtWXZXNkYwZEdLc3lFWVVyTFQ4Rkl1aXE4OC00WWhpR0RJa0d3YzBVZnVxQ29CWTBJZkdwZDlHREpHNXRQbEFqODQtQlNrMjlLaXdJaW1GbnRkWU9rZ3k3UWFQeElTVlZyYzBzb3c3WkhGVl9SOUU1UXowc2Q0MEVOR2d4ZXNqaEo3YWZieHJxTDg2a0lncVRWVFhaRDZqLWdNbUVrYzA?oc=5",
+    "published_utc": "2026-11-23T16:37:14+00:00",
+    "published_kabul": "2026-11-23 21:07 (کابل)",
+    "importance": "زیاد",
+    "relevance_score": 26,
+    "relevance": "مرتبط",
+    "category": "بازارهای جهانی",
+    "archived_at_utc": "2026-11-24T00:31:52.212795+00:00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "A Look at Wheaton Precious Metals Corp (WPM) After 7.1% Gain -- GF Value $187.26 vs Price $117.73 - GuruFocus",
+    "summary": "A Look at Wheaton Precious Metals Corp (WPM) After 7.1% Gain -- GF Value $187.26 vs Price $117.73 GuruFocus",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUDFjUXJoUnF2ZlRzSEU4bnB5NWwyTTFQUTZIeXM2X3pFSjVTNE5SeHJFRjJ4MG1uQXI1TUZ4eGViQXZCaEs4a1ZLV05YZWYwdEJxNlBoVFNyb1hpX2VoLUgxM2tBM0E2Q01hUkFyUnlmTi1zdEJ2d1J4ZF9pN1h2VUgxTnlBYXBpMTlMWThScW5TU3Rfc2E2VG5JZ3RNekpsMWN2MDI3M0VmcnViTkFoblZpdG5DeFJHUEdzaHg0NUdtek0?oc=5",
+    "published_utc": "2026-11-24T00:03:45+00:00",
+    "published_kabul": "2026-11-24 04:33 (کابل)",
+    "importance": "کم",
+    "relevance_score": 45,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-24T00:31:59.289653+00:00"
+  },
+  {
+    "source": "Trade and Sanctions",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Trade and Sanctions"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "DR Congo reimposes cobalt export ban as prices come under pressure - Traders Union",
+    "summary": "DR Congo reimposes cobalt export ban as prices come under pressure Traders Union",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeFNRVzFQYU5TWWhRZEZxdHpNdkZRYTN1d0N1ZzJHYW1sTDNyS0JKUGdrR3UzV3lrVFduTlVDUWEzcG1KUVpvUlRqSkdiUk52QnEtNmlZTUdWMGxNRnNoWmdhUnFkUmNpZmNUd3RxbzdxT2FwTmg3ZmxQdFpPaUtPNjJfVXZEUmxyVmdGRElrNkpsUQ?oc=5",
+    "published_utc": "2026-11-23T16:29:19+00:00",
+    "published_kabul": "2026-11-23 20:59 (کابل)",
+    "importance": "کم",
+    "relevance_score": 0,
+    "relevance": "ارتباط محدود",
+    "category": "اقتصاد جهانی",
+    "archived_at_utc": "2026-11-24T00:32:10.428980+00:00"
   }
 ]
