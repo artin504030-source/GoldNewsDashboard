@@ -7946,7 +7946,7 @@
     "relevance": "ارتباط محدود",
     "category": "بانک‌های مرکزی و نرخ بهره",
     "archived_at_utc": "2026-11-24T08:45:31.802919+00:00",
-    "last_confirmation_utc": "2026-11-24T09:31:10.832879+00:00"
+    "last_confirmation_utc": "2026-11-24T14:30:59.268974+00:00"
   },
   {
     "source": "Oil and Energy",
@@ -8598,5 +8598,43 @@
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-24T14:15:53.540975+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "U.S. prepares to raise tariffs on China, EU, other nations - WSJ (SPY:NYSEARCA) - Seeking Alpha",
+    "summary": "U.S. prepares to raise tariffs on China, EU, other nations - WSJ (SPY:NYSEARCA) Seeking Alpha",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcVV3WUdQRDNOWVJUcGtlUnBRTXNBVW85S1AxYlRjLXN6bVVxMXBlaTd0Wm5oU2M3MzhXUjF6ZzFkN0Rhd0ZUbW9taC0tRmx3N2tOcGZtdEpVZU5mT1Q0N1ZfVllzWllfcjZpR2JabU5hZ0I2cU90WndGdkdRdXhxRWxNUTctZE1zYm0zQm1UXzFkbElrLUItTmV2SUI?oc=5",
+    "published_utc": "2026-11-24T13:18:44+00:00",
+    "published_kabul": "2026-11-24 17:48 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-24T14:31:04.306061+00:00"
+  },
+  {
+    "source": "China and Global Markets",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "China and Global Markets"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "US set to raise tariffs on India, China and dozens of other economies over industrial subsidies: WSJ - The Economic Times",
+    "summary": "US set to raise tariffs on India, China and dozens of other economies over industrial subsidies: WSJ The Economic Times",
+    "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOaUgtS3FhU2M5MWh6RWd1V09JNXNDZEJaY055WU5scDZtSlluQmV4ampvdHJfckZmOVo0VzZKNDZMam44TldJZkc5OWdZNGVLMDBwb1g5MVpIVDV0T2dfaU1jRmVsVllUUWFRUkFhQTN1ZEE1MUFfUkJWQjJsY1VVRzBVeVZSaXFodTJrREVGNXZFczY3YmFlQ1hRWWpSQ05sS19LZlVqYkdMak1TMWhrTkpqdTU2WTRFZzJsREFsYlZuN0kxYUktb0RQLUktRjRiQWZVM3dNZWVXMmRIZU44R2t5dGdEWXh4OXhJMjE3MDJPbEdJR0Rzc1BlcmtwaDk4aVpuVTd4OG5UNWvSAZACQVVfeXFMT01aOTdrWHQ3ZVI5N2dkaG1PQVFEeFpoLWJMQ1dtM1BRU0swMFJCQWFhSkdpODg1eE9JZ1Q5U3JsZ1hNLXl6eDdTdWhjdnBlM3pxamVVSWxzVk1FTkNHWWNmZ3V4aS1Sc0FZOEJZNDlrVnJFdzl0bExueGE3T3VhLWhoSWxJQ3B2WUdSeVpHaWctZWE3UHJmVnNaMjZkQTZmLTl2TXZLbU01bUZqQzJ1MFIzNU5GbkdMVXNSREpCQmEyMVJmZUVfQU1JN0FJclY4d0ZOa2szSU9lOFRETmRXWl8xV0FiazhWNnBRaFFGMEJBM1FWbk1GQ09ySFBMa0x0aUdYT25BeDRiX2N1QmVzeFA?oc=5",
+    "published_utc": "2026-11-24T13:39:04+00:00",
+    "published_kabul": "2026-11-24 18:09 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-24T14:31:16.739063+00:00"
   }
 ]
