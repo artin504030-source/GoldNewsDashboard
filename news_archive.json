@@ -8757,10 +8757,11 @@
     "source": "Oil and Energy",
     "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
     "confirmed_sources": [
-      "Oil and Energy"
+      "Oil and Energy",
+      "Oil Trade and Supply"
     ],
-    "source_count": 1,
-    "confirmation_status": "یک منبع ثبت‌شده",
+    "source_count": 2,
+    "confirmation_status": "تأیید چند منبع",
     "title": "Libya and Iraq Could Be the Next Big Headache for Oil Markets - Crude Oil Prices Today | OilPrice.com",
     "summary": "Libya and Iraq Could Be the Next Big Headache for Oil Markets Crude Oil Prices Today | OilPrice.com",
     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeDdCWjQzTnJIb3NSV0I5R2V3WHl3OGxFLWo5VlVWb1E0RW1kOWJsZUJZWUhiZEtKWGZvTnRvNXpldm9CNlNzVkFvZnBYVktzUTVVWm1TOWx5VXNOd2txWFZaSEJWd1cwRnpnNmlUYnNWVVhuN3VoUGdfQVROelVidkNKTVY5U3ZpZmF2RGU0UjRhRUJiLUFWOUVuYnJMVm5lSlNSdFNWM1JGNmty0gGsAUFVX3lxTE54N0JaNDNOckhvc1JXQjlHZXdYeXc4bEUtajlWVVZvUTRFbWQ5YmxlQllZSGJkS0pYZm9OdG81emV2b0I2U3NWQW9mcFhWS3NRNVVabVM5bHlVc053a3FYVlpIQlZ3VzBGemc2aVRic1ZVWG43dWhQZ19BVE56VWJ2Q0pNVjlTdmlmYXZEZTRSNGFFQmItQVY5RW5ickxWbmVKU1J0U1YzUkY2a3I?oc=5",
@@ -8770,7 +8771,8 @@
     "relevance_score": 12,
     "relevance": "ارتباط محدود",
     "category": "انرژی",
-    "archived_at_utc": "2026-11-24T15:31:19.762021+00:00"
+    "archived_at_utc": "2026-11-24T15:31:19.762021+00:00",
+    "last_confirmation_utc": "2026-11-24T17:01:19.636911+00:00"
   },
   {
     "source": "Economic Reports",
@@ -9037,5 +9039,62 @@
     "relevance": "ارتباط محدود",
     "category": "انرژی",
     "archived_at_utc": "2026-11-24T16:55:05.991253+00:00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Silver price crashes over 5% to $40.73 as hawkish Fed outlook deepens precious metals selloff - Business Upturn",
+    "summary": "Silver price crashes over 5% to $40.73 as hawkish Fed outlook deepens precious metals selloff Business Upturn",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTDBkMDNpc1FRWXhDWnhLdUU5akVyWVJFUHRDSEJna3AzOVZxUjdMODVCVTdkVl82Qlc5cEhURS1aUG9HV19SbEVyNFBhdG5mUzVYbWFzX1dubXk4cnlkSDhEbTVfNGV0NHpySUVTazlERnZJRS0xVG1CajJrdm9CaFN5dFF3NEJRbEJPczlZbW9aNHQ3ZjNBRzFMSG9LNUdjeGotSnRNR3Z0Ri1TNmRyanFVSHNneDU0OTEycExWXzZrWHVnVW5scmhxM3JRMUhMSy1scDB3Zw?oc=5",
+    "published_utc": "2026-11-24T16:37:00+00:00",
+    "published_kabul": "2026-11-24 21:07 (کابل)",
+    "importance": "کم",
+    "relevance_score": 45,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-24T17:01:04.285014+00:00"
+  },
+  {
+    "source": "Forex and Central Banks",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Forex and Central Banks"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Japanese Yen attracts safe-haven flows as US tariff concerns resurface - www.tmgm.com",
+    "summary": "Japanese Yen attracts safe-haven flows as US tariff concerns resurface www.tmgm.com",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOS21uVEI3YVlqeWx0MXdfbUhfZy15TEtMNDVkMjNCNmlLZ2lQbmZ4NmFhN0tfTHY5N0lJeTh1M256S005Ul8tRHd4QmloMmtyTzZWSXhXeVVoMi10eWZwTlJ2TlZmYXN4YjVXMXlaOGM0MEhvRVMxRDhwZGVrWVFPamhKVWVRaTgxaHRVelI1SjNJSXQwdHk3ajVaZ0prNVBLd0p4VUQ5dHVnak1CTHcwSGQtQWkzYlR4d2ZCUWxsSFc0My1kbHBLQ2lMU3RiMEhPbkE?oc=5",
+    "published_utc": "2026-11-24T16:34:04+00:00",
+    "published_kabul": "2026-11-24 21:04 (کابل)",
+    "importance": "کم",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-24T17:01:14.348822+00:00"
+  },
+  {
+    "source": "Trade and Sanctions",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Trade and Sanctions"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "India, China Boost Russian Oil Imports in 2026 - News Karnataka",
+    "summary": "India, China Boost Russian Oil Imports in 2026 News Karnataka",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbWVEcHBjaWg0dkUxLWlydzZvZGIyblVCa0s1Y09MeEE5UG5ucFZQdDVxWDR5UTJNZ282OEpFVGwzTm80QUZyU0M1Yl81NHp6cEplaW1sOXEtSDdvWnhmajdlYm95Mnh3bEd5Y2hiR181a1NhVXQxTDU1cXZZcVUwWGE1OEFLeWtDbVV0MDdqN1p5U1lS?oc=5",
+    "published_utc": "2026-11-24T16:21:36+00:00",
+    "published_kabul": "2026-11-24 20:51 (کابل)",
+    "importance": "کم",
+    "relevance_score": 28,
+    "relevance": "مرتبط",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-24T17:01:26.498521+00:00"
   }
 ]
