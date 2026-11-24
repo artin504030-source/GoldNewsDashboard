@@ -7788,5 +7788,45 @@
     "relevance": "ارتباط محدود",
     "category": "انرژی",
     "archived_at_utc": "2026-11-24T07:31:01.498773+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Oil Prices Extend Losses on Supply Glut Concerns - Business Post Nigeria",
+    "summary": "Oil Prices Extend Losses on Supply Glut Concerns Business Post Nigeria",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQY1NGX09iV1dMUkVuSFEyc2xwN2NXakJtLTc3OWtxYllRRjJMNUJTY3BRLXg1ak4wMjdJTDhmRmVvdzJpNWNTWldBQ2loWDRJMFYxY1VEbkpsV0g4OEM0cXIwejM3OU9yZUdEdHZWdGtEMnYtcEZlenNab0JBZEsxNnRnWjhQVFRv?oc=5",
+    "published_utc": "2026-11-24T07:39:35+00:00",
+    "published_kabul": "2026-11-24 12:09 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-24T07:45:35.262664+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy",
+      "Oil Trade and Supply"
+    ],
+    "source_count": 2,
+    "confirmation_status": "تأیید چند منبع",
+    "title": "Oil prices fall on supply surplus expectations, Libya pipeline reopening - Anadolu Ajansı",
+    "summary": "Oil prices fall on supply surplus expectations, Libya pipeline reopening Anadolu Ajansı",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUGx6T09TVWkzWXJvMG5oVnpkTWU4M0xqMVRZVzBWQlFZRlVRd2VIWWdwN011ZWdmVUxsdGQ5eXhaZXh3R2hXbEJGOEhaNkdHTWhOUWthTm5NeFdCa0tUNXpwV29DbjkydFV3ekJXZFpkcVNUQktXWEp0dEZrcl9RN0dUeHh0OUI4V05ZeUtUdDFULVA3UnAycHRROXlVeDIwREpoSWhQeWNHS01zUlJzTy1KSQ?oc=5",
+    "published_utc": "2026-11-24T07:16:42+00:00",
+    "published_kabul": "2026-11-24 11:46 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-24T07:45:43.023924+00:00",
+    "last_confirmation_utc": "2026-11-24T07:45:46.604802+00:00"
   }
 ]
