@@ -10547,7 +10547,8 @@
     "relevance_score": 22,
     "relevance": "ارتباط محدود",
     "category": "بانک‌های مرکزی و نرخ بهره",
-    "archived_at_utc": "2026-11-25T08:01:07.612685+00:00"
+    "archived_at_utc": "2026-11-25T08:01:07.612685+00:00",
+    "last_confirmation_utc": "2026-11-25T10:45:56.842433+00:00"
   },
   {
     "source": "Gold Market",
@@ -10890,5 +10891,24 @@
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-25T10:30:41.123300+00:00"
+  },
+  {
+    "source": "Economic Reports",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Economic Reports"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "U.S. Treasury Yields Fall Ahead of PCE Inflation Data - WSJ",
+    "summary": "U.S. Treasury Yields Fall Ahead of PCE Inflation Data WSJ",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWGhuNzRQQ2Z2ZWMwOFZPOTk4UXFxNWg4R09KdWVyVXItRnRQMnFJYkxvM3Flb1ktS2pJMFFqZXJodXM1ZXhpZ2hiOUoxTmRXMzZXVEtqZUF2emgyb0dfZm9xbVktNGJrSkZCTjdvZkVmQVItODZmZXdkX3lydHV2SUY4NzFWY3V6RnBlREg1RFhXa0hLaGt4MGRRbmhpQVpm?oc=5",
+    "published_utc": "2026-11-25T07:44:00+00:00",
+    "published_kabul": "2026-11-25 12:14 (کابل)",
+    "importance": "زیاد",
+    "relevance_score": 30,
+    "relevance": "مرتبط",
+    "category": "اقتصاد آمریکا و دلار",
+    "archived_at_utc": "2026-11-25T10:46:04.364039+00:00"
   }
 ]
