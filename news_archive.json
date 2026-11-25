@@ -12415,7 +12415,8 @@
     "relevance_score": 16,
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
-    "archived_at_utc": "2026-11-25T19:56:42.792982+00:00"
+    "archived_at_utc": "2026-11-25T19:56:42.792982+00:00",
+    "last_confirmation_utc": "2026-11-25T23:31:01.207017+00:00"
   },
   {
     "source": "Geopolitical News",
@@ -13252,5 +13253,62 @@
     "relevance": "ارتباط محدود",
     "category": "انرژی",
     "archived_at_utc": "2026-11-25T23:16:07.695846+00:00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Triple Flag Precious Metals Corp (TFPM) Stock Up 3.6% and Still Undervalued -- GF Score: 88/100 - GuruFocus",
+    "summary": "Triple Flag Precious Metals Corp (TFPM) Stock Up 3.6% and Still Undervalued -- GF Score: 88/100 GuruFocus",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdmRnN3M1RmJPUXlDRHJKRHZTNW8wOE8tM1ZiaEhWaE84Zmp6MmI5eVJhMVZCSkJLWkVuUzFVanVPUXBURE0yTVdtYmtQMHNEQmhrSlpVUjZPbF9oQkFQaFpJekIzdGdkRXRmRnJScTB2VGlZdlJtZ2lPN1Jma1NjbjFSZnlWbkFLeUhwX2FWNlhtRHozY1RfY0NmSFB5WTNjUVl2RFhjeFdHSjZLUU05UmZpbFhVNTQ1MGFNUExnelB0UWc?oc=5",
+    "published_utc": "2026-11-25T23:24:43+00:00",
+    "published_kabul": "2026-11-26 03:54 (کابل)",
+    "importance": "کم",
+    "relevance_score": 45,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-25T23:30:49.597792+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Trump administration proposes new tariffs on China, other trading partners - CBS News",
+    "summary": "Trump administration proposes new tariffs on China, other trading partners CBS News",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZzdpU0pCSU1GZG9MSlhWbktMaThuSEE4SEg5TWVTN0hraXZSMld4V2ZkUTRBbUZ1cFcxUDY1cFlaQTlKTGVVTk5TT0NqRy1yMkpyUWNCdDJjM1NMSzE0b19qUmNHdk44UmJMd2xFaDRkZWVWT0VKQ0lXVGU5RjdBLU1zOTJEZlR4SHVwV244a0Q5TVZMMWF1TDBXVUN5eU9HYVlMZGQybWtjSXJRY1Aw?oc=5",
+    "published_utc": "2026-11-25T22:48:00+00:00",
+    "published_kabul": "2026-11-26 03:18 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-25T23:30:58.085811+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "U.S. Diplomatic Push Revives Hopes for Trans-Caspian Gas Pipeline - Crude Oil Prices Today | OilPrice.com",
+    "summary": "U.S. Diplomatic Push Revives Hopes for Trans-Caspian Gas Pipeline Crude Oil Prices Today | OilPrice.com",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZTNQZmZwaWQ4QXlsc0dtOFRCdzBUNzVxNWQ3UU9BbjQ2MzhhM2tDZFl4U0dLcy1lcUtZdWdXUW1HdXZRd042Ri1nVGE2UG1VVzE2cHlVNTNsMTRJa3hoVXdoNVl3TDR0S1dnY2RENnRjamtVN2FZM0JSaWJSZEVwRnZMcmVyVS1VMmRQR3hLRDd0RnlXZjZYRkY3dmt4YkdRNWdnUTN2cDQtdWxtU29rQ9IBtgFBVV95cUxPcnRTeDlabEtUM0lXOTgtYnQwaGVja3V0WUVXLUNIblB4Q0pLZkNKMFNRc0dFaWtkeWNvY2hSdUtudk1uNkpsT1ljYVFlSHhoVnItZ01MVDEtT3U5QV9wNGV6bXVUOXVpaFRJNkhqaFdSWWl1RzNmYmdvMldRejcxdFlUUWhQeUdFWVFsVXdlVlJRY3A3LW0xUlN3Y2ZsVzBuMXBHTHNxcVFhN2tPYXVXQUR5WHdfQQ?oc=5",
+    "published_utc": "2026-11-25T17:00:00+00:00",
+    "published_kabul": "2026-11-25 21:30 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-25T23:31:06.160895+00:00"
   }
 ]
