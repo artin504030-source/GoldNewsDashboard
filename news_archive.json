@@ -11385,7 +11385,8 @@
     "relevance_score": 45,
     "relevance": "بسیار مرتبط",
     "category": "طلا و فلزات گران‌بها",
-    "archived_at_utc": "2026-11-25T14:30:55.089416+00:00"
+    "archived_at_utc": "2026-11-25T14:30:55.089416+00:00",
+    "last_confirmation_utc": "2026-11-25T15:00:55.028688+00:00"
   },
   {
     "source": "Gold Market",
@@ -11481,5 +11482,62 @@
     "relevance": "بسیار مرتبط",
     "category": "طلا و فلزات گران‌بها",
     "archived_at_utc": "2026-11-25T14:46:14.133792+00:00"
+  },
+  {
+    "source": "Economic Reports",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Economic Reports"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "What would a December Fed rate hike mean for my credit card, mortgage and savings? - Nacionale",
+    "summary": "What would a December Fed rate hike mean for my credit card, mortgage and savings? Nacionale",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSk43WVR3aXhXYXRNRG15YjR1b0tCTko4ZTBua0FaWUxrT2ttSlZSZUJ3c09IS00yNnpIaV8ya2tCd1p1YmpmNUxkcTN1ei05eGlPSHNmaGdPOW52elpodEV5R1dZb2t6ZWNKMS1wSnVDWmJubjlsM0tfajJDSDlSTXA1LXl2bHdCcWpucURUUzZNS2d2c3ljTmVrdjUtRUw0Yms0Z3RSczg?oc=5",
+    "published_utc": "2026-11-25T14:26:47+00:00",
+    "published_kabul": "2026-11-25 18:56 (کابل)",
+    "importance": "کم",
+    "relevance_score": 30,
+    "relevance": "مرتبط",
+    "category": "اقتصاد آمریکا و دلار",
+    "archived_at_utc": "2026-11-25T15:01:00.594068+00:00"
+  },
+  {
+    "source": "Economic Reports",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Economic Reports"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "US inflation rises further in October - Reuters",
+    "summary": "US inflation rises further in October Reuters",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNalBrRjhRWHdhRDduMzduLU1kN1lGVFpzNFllX0RzdjJXMjdtajRZS1l1dms2MFJFbkhJQmx3Qzgydi1nTTJnQ1JPLUtoa1R5LWZjWjItUXJhXzhoZG51NU9ENzVBQjVSZWFpdHlqbV9PSkVncWtjUlptdXhjd0ZKRXZ6d2Y1dw?oc=5",
+    "published_utc": "2026-11-25T13:53:02+00:00",
+    "published_kabul": "2026-11-25 18:23 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 30,
+    "relevance": "مرتبط",
+    "category": "اقتصاد آمریکا و دلار",
+    "archived_at_utc": "2026-11-25T15:01:07.797279+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Trump proposes new tariffs on China, European Union - Yahoo",
+    "summary": "Trump proposes new tariffs on China, European Union Yahoo",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaUZXTlRwX2FJeWJFZDJHWU5tRlZVQUxxVXlta2tQTkxvbEMxM2pBWnJzR2tuTzA1Ykk5RklTa1BaUHBIS3ZzWEwxb2Q2ejN0anN0bWJHbjdOVUEtdEl0NWh0X01CUkl0V3FkV2RRclFkQ09pZW9NdG1tZ3h0ckJVblA3Q195REFGLXhRRmpVVU51c2x2WGw3eFM4a3g3dw?oc=5",
+    "published_utc": "2026-11-25T14:41:33+00:00",
+    "published_kabul": "2026-11-25 19:11 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-25T15:01:15.344603+00:00"
   }
 ]
