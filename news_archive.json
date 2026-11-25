@@ -9188,10 +9188,11 @@
     "source": "Oil and Energy",
     "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
     "confirmed_sources": [
-      "Oil and Energy"
+      "Oil and Energy",
+      "Oil Trade and Supply"
     ],
-    "source_count": 1,
-    "confirmation_status": "یک منبع ثبت‌شده",
+    "source_count": 2,
+    "confirmation_status": "تأیید چند منبع",
     "title": "Saudi Arabia Sees Smaller Economic Slump as More Oil Reaches Market - Crude Oil Prices Today | OilPrice.com",
     "summary": "Saudi Arabia Sees Smaller Economic Slump as More Oil Reaches Market Crude Oil Prices Today | OilPrice.com",
     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdmo5V3NORHRyN3Q1TjRQMDFzVUNqTy1tZjJqOHZ2amg3c0M2TGVxZW8xandUZVFlOXV1SlRmc1RLNExZOVhlM1BDeEIycm1SaHptb2VEQTRVTmJhRmF2NE9RZ085U0xLSDcxcGVqOUxYbFB0YUl4MkN1d05vTWx1ek1OREZEaGp4RGVCUlFDbjg2bXNmQllzRmx1TjlNY1RWOGRqTm4tWWh5c3NRd3o0YnFFSnVuVi1JZUc1WDV0UFbSAcYBQVVfeXFMTXVYbDRMdm9ORXdrZHFRTk9DMFdzYkpPSzc1dU8waTdqaHhfOXM0bTdGTmFHY1hwV3Q3ZjJsLTNXZzQ1bGlxQVliTHlycmpwRlg1b01ScUprYksxZjVlVVRsOXBya2tUZmtRYkRWMk80c1RhRGV4Z0RLYTZicGw2dzZUdWZqcDVkWTNHc0o5bHpodjZFUVhqOEFOc05YTDVuZmRuNUJpR2R5RUNZMmM1NGZGVmhKcEF4VWZKNUZOU2ZaT21JM01n?oc=5",
@@ -9201,7 +9202,8 @@
     "relevance_score": 12,
     "relevance": "ارتباط محدود",
     "category": "انرژی",
-    "archived_at_utc": "2026-11-24T17:31:19.629987+00:00"
+    "archived_at_utc": "2026-11-24T17:31:19.629987+00:00",
+    "last_confirmation_utc": "2026-11-25T09:30:54.546744+00:00"
   },
   {
     "source": "Geopolitical News",
@@ -10736,5 +10738,43 @@
     "relevance": "بسیار مرتبط",
     "category": "طلا و فلزات گران‌بها",
     "archived_at_utc": "2026-11-25T09:15:37.066837+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Oil Prices Today: Brent Crude Falls to $87.54 as Rising Global Supplies Offset Middle East Supply Disruption Fears - Kotak Neo",
+    "summary": "Oil Prices Today: Brent Crude Falls to $87.54 as Rising Global Supplies Offset Middle East Supply Disruption Fears Kotak Neo",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPN2cxeVVncWlBZS1ZYUVpUHdZaXZmOWw0U2tial9wSHdNbGxkMWJvNVphZTlDRzFNd0Q3RVBDV3NJaXlvUVdLamxwZEFRTHNFWEZISWd1QlVnYXJ6MHJiTml4V0I3ekdnZnBCQm5jVW5uS3F0cmtYRFBBSGlCRU8tNVFLMGpmalhtOG5tZzJCWFdqZ3Q3b3N2TzVydFU0bDEzRmlzNmRWV2hXZDlscjNPMC01MW1sWGF4SGx2RnZXMDJlbXFoemV4eFI2SVg?oc=5",
+    "published_utc": "2026-11-25T05:14:23+00:00",
+    "published_kabul": "2026-11-25 09:44 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-25T09:30:41.664128+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Oil falls on supply glut concerns; eyes on 29 Nov OPEC+ meeting - ICIS",
+    "summary": "Oil falls on supply glut concerns; eyes on 29 Nov OPEC+ meeting ICIS",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQ0ZJZ0hpTzUyX2U1M2ZfOHJ3Y3lyNDJXNXh6Q3Y0SVJ1N1dMNkRkeURyUVY1NXc3UE1Vek9IbGoxck04c3BkOE9na1V6bW9DMXk2Wlc5b3ZUcHJvZW5Sak9ydEVHaEhmUFMzZFpQazFXY3gteTZFNW9GaThSdG5QcVN0NGNlMFhiR05yZExrcGxXSUwtS3NxRVN2ZXJVT2M0WVBieWhEdG9OUHZwbHl4SDMyVGlBeHdIMTlQa0VVWFRmSjA?oc=5",
+    "published_utc": "2026-11-25T08:23:33+00:00",
+    "published_kabul": "2026-11-25 12:53 (کابل)",
+    "importance": "کم",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-25T09:30:50.929838+00:00"
   }
 ]
