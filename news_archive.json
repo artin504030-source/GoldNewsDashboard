@@ -9866,7 +9866,8 @@
     "relevance_score": 16,
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
-    "archived_at_utc": "2026-11-25T01:30:40.406225+00:00"
+    "archived_at_utc": "2026-11-25T01:30:40.406225+00:00",
+    "last_confirmation_utc": "2026-11-25T01:45:29.401345+00:00"
   },
   {
     "source": "Geopolitical News",
@@ -9905,5 +9906,24 @@
     "relevance": "ارتباط محدود",
     "category": "انرژی",
     "archived_at_utc": "2026-11-25T01:30:56.508556+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Oil Prices Fall Despite Hormuz Tensions as Supply Glut Fears Overwhelm Geopolitical Risk - BigGo Finance",
+    "summary": "Oil Prices Fall Despite Hormuz Tensions as Supply Glut Fears Overwhelm Geopolitical Risk BigGo Finance",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBqdlVCMWZRTGdzSW9Ta3R6V2ZnejQwOTN6Wl96LWZYdkpyVlI3c2pxbW9xc3hnMk9wVVVVcWkyUHJWUi1ZWHFtWUk5U3NzMFNhOXB1Y3lrOTNOUzU0Z19KVFhxV0c0QUQxUVVvbEItclFLeUhUZ3c?oc=5",
+    "published_utc": "2026-11-25T01:25:00+00:00",
+    "published_kabul": "2026-11-25 05:55 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 28,
+    "relevance": "مرتبط",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-25T01:45:35.205843+00:00"
   }
 ]
