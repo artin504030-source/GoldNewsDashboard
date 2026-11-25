@@ -9683,10 +9683,11 @@
     "source": "Oil Trade and Supply",
     "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
     "confirmed_sources": [
-      "Oil Trade and Supply"
+      "Oil Trade and Supply",
+      "Energy Shipping Routes"
     ],
-    "source_count": 1,
-    "confirmation_status": "یک منبع ثبت‌شده",
+    "source_count": 2,
+    "confirmation_status": "تأیید چند منبع",
     "title": "Persian Gulf oil exports near prewar levels despite Hormuz attacks - Iran International",
     "summary": "Persian Gulf oil exports near prewar levels despite Hormuz attacks Iran International",
     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBnNlZUcmZ2ZnVwSEtHRzZ3VVpybUUtbTlJUVpZcWRkcTN0eWYxNkpBSFRYUnJJM3ZVcDl4VmdJQ0l5bDFmeUZfQ0RneTU5ZGtZQ2c?oc=5",
@@ -9696,7 +9697,8 @@
     "relevance_score": 28,
     "relevance": "مرتبط",
     "category": "انرژی",
-    "archived_at_utc": "2026-11-24T23:15:45.210225+00:00"
+    "archived_at_utc": "2026-11-24T23:15:45.210225+00:00",
+    "last_confirmation_utc": "2026-11-25T03:15:34.559854+00:00"
   },
   {
     "source": "Gold Market",
@@ -10063,5 +10065,24 @@
     "relevance": "بسیار مرتبط",
     "category": "طلا و فلزات گران‌بها",
     "archived_at_utc": "2026-11-25T03:00:44.699891+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Who Owns the Strait of Hormuz Now? How the Iran War Turned a Chokepoint into a Customs House - Modern Diplomacy",
+    "summary": "Who Owns the Strait of Hormuz Now? How the Iran War Turned a Chokepoint into a Customs House Modern Diplomacy",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMnhfUEVPU0FoY2lJSFJyQ3dETWJfeWRpYVZyS21BLXVxSHdLRkRaUmhfY01MZW1YRVpJX1IyRU5nNjBGWUd4MFdwSk5oOXhWX2VnWWZTNFl6bHZfZUx5N2tTUTlQaDBZeFNZZTY4dXRfdWhVZC1iamN4ZkFfcDkyMFJlS19wQnJlTlVTWko0MEJCN1o3TjduUmdIM0dyR2Q3Rk1QZHI0XzJUaVFjQlFTcGgtNTQwUkE0dDhlZDhsYWo5Z2ZrSlVkbmVn?oc=5",
+    "published_utc": "2026-11-25T03:00:29+00:00",
+    "published_kabul": "2026-11-25 07:30 (کابل)",
+    "importance": "کم",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-25T03:15:29.621157+00:00"
   }
 ]
