@@ -11539,5 +11539,62 @@
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-25T15:01:15.344603+00:00"
+  },
+  {
+    "source": "Economic Reports",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Economic Reports"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "US inflation rises further in October - The Standard (HK)",
+    "summary": "US inflation rises further in October The Standard (HK)",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQb29rZXhmZjdIQzBwakNKSWJjaWZ6c25jRUwxMV9xMEhkMkx6elZGRzN3amYxUUctaFNlMXhIcy02dEFiWExvOHlWMVkzYW1qQ1N6NkQ3aHZHcnFmblNsZVBrTkJ2SEFhSW43eUxyTDd4by1TbW82cE9DS0xLZTVfOTJWV3FNMU43Sy0zeGU4YXgtRkpVQ2c?oc=5",
+    "published_utc": "2026-11-25T13:53:30+00:00",
+    "published_kabul": "2026-11-25 18:23 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 30,
+    "relevance": "مرتبط",
+    "category": "اقتصاد آمریکا و دلار",
+    "archived_at_utc": "2026-11-25T15:15:34.834811+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "US proposes tariffs on trade partners including China, India and EU - The National",
+    "summary": "US proposes tariffs on trade partners including China, India and EU The National",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNTBlTFg3aXp2bWFvT0k2SXlCMV9fdml4dFd6Ujl5QWh0ZXRwTTN5bW9xMmpwM2owMTRmRHZNeG5rZWZWcTFyaXFKeUk0ZWtKNk9tZW5SMmFyb3ZGSE1qc0owbzhJX0lnRTc4LThsY0tHN2pqRW5aNzRtT25zX0pONnJHdWtUa0g1aFFSNTZQZ2VzYlNvWF9CZ0lyeWlfVWZkVENGWmxYT3BlZnM0WlRIZFB6TnBxYU9xMVE?oc=5",
+    "published_utc": "2026-11-25T14:48:45+00:00",
+    "published_kabul": "2026-11-25 19:18 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-25T15:15:42.950755+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Trump announces new tariffs on China, EU and other trading partners - The Times",
+    "summary": "Trump announces new tariffs on China, EU and other trading partners The Times",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNM0xNcmZrWEVhZHlQc1ZiUFhOMnhYUDRxRmNLTDlGYTZKWkZyTExKVUhCa3FKbDVEcko0MFFXLTMtamxsTGFBUlRVOXFfVTFoeXVjNThYNHJzeEZTaWRzQ1NrSW5mSkt6MDBzek5PZ0puMmd3RFVJZ3BLa2pQSC1mZUdJYTdrRkFTSEs5aklhdlFSa1Zvdm9tZFplU2JSZw?oc=5",
+    "published_utc": "2026-11-25T14:30:00+00:00",
+    "published_kabul": "2026-11-25 19:00 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-25T15:15:50.736089+00:00"
   }
 ]
