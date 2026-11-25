@@ -11881,5 +11881,62 @@
     "relevance": "مرتبط",
     "category": "انرژی",
     "archived_at_utc": "2026-11-25T17:31:22.355516+00:00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Why Is Gold Falling Today? Gold Drops Below $3,500 for First Time Since 2025 - Around Prague",
+    "summary": "Why Is Gold Falling Today? Gold Drops Below $3,500 for First Time Since 2025 Around Prague",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSV9fS1FPWHRva1lTSEtpRXZVUXV0WDBjLUFMN3ZVRHN3eVJSbzAyZlJwNnZDNms1azh1Qkl6TTJoV3Q4NlM1R3VsYnd6U0F0ODB2dzJFcmVJNlNDOEdkdEhyOGs1M3NRdHFaUHNGWXVHRWJEWThnWGVER2VEQkRjQVd5VWI4OEZ4QVVtU0R0MmlrdUFYVFBfRDN5MHhmekhKdm5CQ2NPdmEtdHBBcHc?oc=5",
+    "published_utc": "2026-11-25T13:15:29+00:00",
+    "published_kabul": "2026-11-25 17:45 (کابل)",
+    "importance": "کم",
+    "relevance_score": 45,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-25T17:45:55.918739+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Trump Administration Proposes New Tariffs on China, EU, India and 11 Other Partners: 15 outlets compared - NewsCord",
+    "summary": "Trump Administration Proposes New Tariffs on China, EU, India and 11 Other Partners: 15 outlets compared NewsCord",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQMjYyS01EWGpMNWxNT1JIVFlKcS1fdlNxVk1aNEM5R1p5QjNxUVV2MC13YmZQVDZGRl9sbmJvemFkUDd4NmZENTlOYVhoU0xiWU5xY1VlcnNuWDVDMFQ1Q0xkWXlfZjAyYkVCV3MxSmVCS1NJZmVLRXZUTk1TOTEyZk5yLWJjSExYY25qNDZCNVBORVNRMXM5Q0xlM19JWEFoaWppaUFySERPVFdGeFc4Z1dSOFZrUlFsOU5wLTdNZk50Mk5qMU1VaklRUXlFZEtzX1I3U3Y1Zzd6TlVNMkVGaUNkVUQ0UEJ5V0E?oc=5",
+    "published_utc": "2026-11-25T17:19:47+00:00",
+    "published_kabul": "2026-11-25 21:49 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-25T17:46:04.909797+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "US Unveils Proposed Tariffs on Major Partners, Including EU and China - ASHARQ AL-AWSAT English",
+    "summary": "US Unveils Proposed Tariffs on Major Partners, Including EU and China ASHARQ AL-AWSAT English",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNb3p2VzdVMDFSVVhDZlI4aFBMclJPRWprNXhCQl9QN1g0djhUUXRqVmpPWHdCNmFhNDBiMlg4TXBjSXVUZFE1UVhKNlNzT1ZQSXMtTnZ6UXU4U05OVjRKeTFDaXNTZkNQQVZyQ295dTZJSi1SOEFRNi1ib1FiTndoYmtZUUd0RWRSdFpfdGFtYl9nbW9LRXNDZVRldDVXN1h3SVBfX0hMU28wMml3eEE?oc=5",
+    "published_utc": "2026-11-25T17:32:46+00:00",
+    "published_kabul": "2026-11-25 22:02 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-25T17:46:12.524473+00:00"
   }
 ]
