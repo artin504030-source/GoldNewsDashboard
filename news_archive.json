@@ -11824,5 +11824,62 @@
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-25T17:16:16.583991+00:00"
+  },
+  {
+    "source": "European Central Bank",
+    "source_status": "منبع رسمی",
+    "confirmed_sources": [
+      "European Central Bank"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "ECB and Sveriges Riksbank conclude agreement for Sweden to join T2",
+    "summary": "",
+    "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261125_1~6333a90f3a.en.html",
+    "published_utc": "2026-11-25T17:30:00+00:00",
+    "published_kabul": "2026-11-25 22:00 (کابل)",
+    "importance": "کم",
+    "relevance_score": 22,
+    "relevance": "ارتباط محدود",
+    "category": "بانک‌های مرکزی و نرخ بهره",
+    "archived_at_utc": "2026-11-25T17:31:03.416226+00:00"
+  },
+  {
+    "source": "Forex and Central Banks",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Forex and Central Banks"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Japanese Yen holds steady despite upbeat US economic data - www.tmgm.com",
+    "summary": "Japanese Yen holds steady despite upbeat US economic data www.tmgm.com",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOUZBd3FrLWpLRzhPT2tqelJaX3BTVnhYeldyR2d6a3hGNVVrS295REF2RTNyRmNyX3ZhbGZJWnc4eGxqRmV3ZUtkV19TQU5ZdERPb0FEU0UteFktOG44ZjVkdkV5R0l1T2JhTVpDN21ZVlhxMHlDcUpfMGhYS2pCOXZEel9YLUt2M3VuWE5NaW50WHVGVXk0Wk5lX2N3LXNqM19hdUdrUGJ3LXR6NmZGSnlibU5VemI2NHROSzFlay0?oc=5",
+    "published_utc": "2026-11-25T16:52:41+00:00",
+    "published_kabul": "2026-11-25 21:22 (کابل)",
+    "importance": "کم",
+    "relevance_score": 0,
+    "relevance": "ارتباط محدود",
+    "category": "اقتصاد جهانی",
+    "archived_at_utc": "2026-11-25T17:31:13.382329+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "UK Energy Bills Set to Soar 26% as Iran War Drives Up Gas Prices - Crude Oil Prices Today | OilPrice.com",
+    "summary": "UK Energy Bills Set to Soar 26% as Iran War Drives Up Gas Prices Crude Oil Prices Today | OilPrice.com",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYWNfU0Fkby02ZXVxQ3ptbW1mQmpNclpYcVdyUHVoV2FBWTg5RURmYnpMZVYwZ0dpYUtnd3drMEJyWk93RUlxNmlBQjNzQ1hKRDloTWlDa1B0UTMyOUdhdkhQd1BxRzkxaGlRSWtCbDlNVDFoRWhQZzNuNktSSUhBWlU4blRubUk5ZklXamRlVDZaZWQ3ck9mVW92NktzUlMxTHd0dW02Z1Vlem5KazdMStIBtgFBVV95cUxOLXYzVHk2RF9rdnhaT3BDb0prMGF3c21QUWtKQmxCSkl2YlgwRjJ2Skw2WnNDQzlUT2xMdVNMb0NSUjdzWC1oYVpHdnBwOXZpczFHdzlLZkhINTllVEczZ2pjUV9WQ2xOUGNIX1RpOEhyNDJKQUVHR0kxUkVaMzZzYmVPNDJUbUw2UktwaTg0T20xc3UtZzJBT3JtVW5feWRVdERZeHJlcVRvXzB4ZzBDRTltWThpZw?oc=5",
+    "published_utc": "2026-11-25T15:00:00+00:00",
+    "published_kabul": "2026-11-25 19:30 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 28,
+    "relevance": "مرتبط",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-25T17:31:22.355516+00:00"
   }
 ]
