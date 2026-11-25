@@ -10141,5 +10141,43 @@
     "relevance": "ارتباط محدود",
     "category": "انرژی",
     "archived_at_utc": "2026-11-25T04:45:56.271179+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Trump's next Section 301 tariffs raise stakes for US-China trade truce deadline - digitimes",
+    "summary": "Trump's next Section 301 tariffs raise stakes for US-China trade truce deadline digitimes",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSFl2TS1hRF8tTkRJT1VrZlZ5STIxeE1kVmRvQzQzNWFtcDNDdmdUX2NGM1ZqY2p5Z203S3U4bEc2MDVPQmtmUjRmMkF0MldWSl8weDQxck9LWVdxTUwxQnNPVnJSTDFPS0hCTDBXTHlpVzNKWWd2dlpwTzJvdDl2VzNXT1lsb3VKbWlLTDJSc0oxLTdnTWZZbXB3?oc=5",
+    "published_utc": "2026-11-25T03:35:31+00:00",
+    "published_kabul": "2026-11-25 08:05 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-25T05:01:00.239906+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "India news: Trump administration set to unveil new tariffs after probe - DW.com",
+    "summary": "India news: Trump administration set to unveil new tariffs after probe DW.com",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOb2dTWUpPVTVVZXE2QUVrQTRXcEtOM05qNFlpRXhWQVBpR0h0aDRUREdVdjlaNTRRS0hGR2dIYnVxWlZicU1ZTEFvMlpoZl9GZ2tvaVpxb3J1bkhNSHQ1NDJFcTNMZGpSbXNkQVJZNTNSNlliUnhvenlPOWk1bUsxNWJ1eHk5UHZXTkRwUFpKcXNwdw?oc=5",
+    "published_utc": "2026-11-25T04:48:03+00:00",
+    "published_kabul": "2026-11-25 09:18 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-25T05:01:07.937046+00:00"
   }
 ]
