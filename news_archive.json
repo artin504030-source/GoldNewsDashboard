@@ -3943,7 +3943,7 @@
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-21T13:15:48.131375+00:00",
-    "last_confirmation_utc": "2026-11-25T08:30:51.048081+00:00"
+    "last_confirmation_utc": "2026-11-25T10:30:34.699995+00:00"
   },
   {
     "source": "Economic Reports",
@@ -10871,5 +10871,24 @@
     "relevance": "مرتبط",
     "category": "انرژی",
     "archived_at_utc": "2026-11-25T10:15:54.116566+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "World stocks fall as new US tariffs loom, AI rebound fizzles - Reuters",
+    "summary": "World stocks fall as new US tariffs loom, AI rebound fizzles Reuters",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRFVsTjFROGtER0loSkZOcnF2NDRLUWFmcjBHZ01ybE51N19idjFFMXI1dnFqZ21JYS1HVVpicTJ1V1RfVU4zd3pkVEZMWHdqMUJWRENOQWJ2VjFqT1Y3WS0xYTV3bzd2RnRraFhtOVpzVE9yYThzdV9tdWxJbUpjNzFraw?oc=5",
+    "published_utc": "2026-11-25T01:50:00+00:00",
+    "published_kabul": "2026-11-25 06:20 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-25T10:30:41.123300+00:00"
   }
 ]
