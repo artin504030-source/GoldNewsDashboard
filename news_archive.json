@@ -10621,5 +10621,43 @@
     "relevance": "مرتبط",
     "category": "انرژی",
     "archived_at_utc": "2026-11-25T08:30:58.126690+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Global LNG Supply Crunch Set to Spill Into 2027 - Crude Oil Prices Today | OilPrice.com",
+    "summary": "Global LNG Supply Crunch Set to Spill Into 2027 Crude Oil Prices Today | OilPrice.com",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcDN4VFpWcVVVT2pvX0plMUlYa0tBZkhsaTVCenF1ZHRKcEFDajBNYmw2TDVOa0owd2toUkdFUTlELXUxcVFsb1VHanJfV2tVSlRDbGZVS3EzZnp3ZlhzOHhpWXJDaEJCTzBiSm1MU3ZJVEVNRzJMcU5HWF9UbUN0OFJDTlY4ei1Ia3RQX2s3OFJOeVhDS3lOWmIyQXBTbnR5TUZjdEZn0gGrAUFVX3lxTE9yVUwyNzVMUUk4WGZEbm5pYXZGU0lSUDEtRmVsZW5jZGZYY0daZDN4NGR3bV94b2t1NmM0QlprX2pmR2V0UUhxYWdhU0lyMVNOSjhaQXZUT200eWlnaEEwQUxscUIyQ21jdTFoNm1xdVhVSEgwWnlsWm83ZHZLQmdNVXhHMGJLQTd1cTE0SjNjUWpmWFMzQ3dESzhRWUEtd040dElPZUNPa0dfRQ?oc=5",
+    "published_utc": "2026-11-25T08:30:00+00:00",
+    "published_kabul": "2026-11-25 13:00 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-25T08:45:34.805075+00:00"
+  },
+  {
+    "source": "Energy Shipping Routes",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Energy Shipping Routes"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Three Tankers Hit Within Minutes in Strait of Hormuz - The Maritime Executive",
+    "summary": "Three Tankers Hit Within Minutes in Strait of Hormuz The Maritime Executive",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSmJUcDVLUnFJUDYtTlNnWDZOLUFTLXVnaXd5VFliRUZveGZVNEx3TVlQb1FtUDd4ZTdoY0NtbzE2dzJCbTVOSDUwSTExaW1WR0JiRFQ3XzBaNkp1S3pINHNQNGJiMVNUc1JZcXB3OEtFM1pFVXc1dVNzd3J4NEdIS2Zlbm15VHZvWFJ5cFlQcmZkYzNMZ0E?oc=5",
+    "published_utc": "2026-11-24T19:42:00+00:00",
+    "published_kabul": "2026-11-25 00:12 (کابل)",
+    "importance": "کم",
+    "relevance_score": 0,
+    "relevance": "ارتباط محدود",
+    "category": "اقتصاد جهانی",
+    "archived_at_utc": "2026-11-25T08:45:44.919795+00:00"
   }
 ]
