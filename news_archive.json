@@ -1121,7 +1121,8 @@
     "relevance_score": 61,
     "relevance": "بسیار مرتبط",
     "category": "طلا و فلزات گران‌بها",
-    "archived_at_utc": "2026-11-20T12:45:39.078503+00:00"
+    "archived_at_utc": "2026-11-20T12:45:39.078503+00:00",
+    "last_confirmation_utc": "2026-11-25T01:30:33.635727+00:00"
   },
   {
     "source": "Gold Market",
@@ -9847,5 +9848,62 @@
     "relevance": "ارتباط محدود",
     "category": "انرژی",
     "archived_at_utc": "2026-11-25T01:18:07.691054+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "US ready to slap tariffs on China, EU and others over subsidized production, AP sources say - Durango Herald",
+    "summary": "US ready to slap tariffs on China, EU and others over subsidized production, AP sources say Durango Herald",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPM2RoeGZaVjI4TVZKQS1xdlZNMzRBeVlLd0V1MjF3YVRqMF9HSEViN3Bfa0xJYkp2YTFLemVtZW15UmJZN0xFT195OWlfSEhrQlVNZXVtZ2o5UDlueWhSc2Y4MVhBdGQ4YlJ2aVBSakl1R25LWG1ENzhoU0tSYThmUzhNMGlPWWRuWmhYU3VNTFhWRlVYbnZCUjItUkJUX2c3WkRNY1FfTjN5bzVwZlpBV2llbW9sTTE2Yy1kQVdIdVZxdnU3eTRJZllZMWN3OGE5NEpIZFNJSzRvelY3YUxn?oc=5",
+    "published_utc": "2026-11-25T01:17:02+00:00",
+    "published_kabul": "2026-11-25 05:47 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-25T01:30:40.406225+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "US preparing to unveil new tariffs on global trading partners - BBC",
+    "summary": "US preparing to unveil new tariffs on global trading partners BBC",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IQkloM185eWdfMGhXTkZBYmdEWHM2cy1CQjNpODYzQTRRV0V1VzU4akFoUkdsLTJucFZKTlF2MlZtMTgxMV9xZTRoZjdnTjdkRmMtTnd3Y3pZV28?oc=5",
+    "published_utc": "2026-11-25T00:38:01+00:00",
+    "published_kabul": "2026-11-25 05:08 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-25T01:30:47.864936+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "US Crude Oil Inventories Inches Up as Gasoline Holds Steady - Crude Oil Prices Today | OilPrice.com",
+    "summary": "US Crude Oil Inventories Inches Up as Gasoline Holds Steady Crude Oil Prices Today | OilPrice.com",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVnNNVGU2SGUtaGd3LU5UX3J4bmVQZzJGNUJjQ05zUFNLaTg3TXZ3MGZTQ1dMa3hsb1hiOUV5UndHdFhQWjk3UUFqOGlYXzhMZDdkcUo3OFJqejd3T2VzWW1oTUxqbkdOUnJqTHU1dmMyVE1Ya21LU25qcjJRc2d2eXltRkVnWlM4RC02bXhDdjZtWGo4WUk3c2o4OE9NNTBzNnlYWUdMVlpFSHRBY2xJellLV0NlZ9IBuwFBVV95cUxOVG5icThDNjJDR0xZYWlzYmp3cEZhbzB0dElLeGxLN2tIcU1rLXZPRnllOFdkVUJxTGQtOC1keXVwcEx3eDVjYVN6N3BtR2FMaUctc0d6MjVaVzBoNGpfLU95VDZUYUY3Q2VDOGtsbWNPVXVSQUdtb3hTdnlEbGVzV2x1X0txdEVBRWpBWWlmd0hQbFVONGdxT1JESFV6OWtfSmdwcVF6M19YS0RIVWNzQXhIQXVjdU4yLXNB?oc=5",
+    "published_utc": "2026-11-24T22:00:00+00:00",
+    "published_kabul": "2026-11-25 02:30 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-25T01:30:56.508556+00:00"
   }
 ]
