@@ -9564,7 +9564,8 @@
     "relevance_score": 45,
     "relevance": "بسیار مرتبط",
     "category": "طلا و فلزات گران‌بها",
-    "archived_at_utc": "2026-11-24T21:45:49.570278+00:00"
+    "archived_at_utc": "2026-11-24T21:45:49.570278+00:00",
+    "last_confirmation_utc": "2026-11-25T06:18:18.537579+00:00"
   },
   {
     "source": "Gold Market",
@@ -10333,5 +10334,62 @@
     "relevance": "ارتباط محدود",
     "category": "انرژی",
     "archived_at_utc": "2026-11-25T06:00:58.416048+00:00"
+  },
+  {
+    "source": "Economic Reports",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Economic Reports"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Further tightening to come from the ECB to prevent inflation persistence - Financial Times",
+    "summary": "Further tightening to come from the ECB to prevent inflation persistence Financial Times",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jUkE1QngwTG1tRGpaOTdWcFhWMV9sMWFrOFpxWEozLWdLaDZzRlphdERpbFRCM3U1Y1BQcUtXcVM4c1hRYk5aUkd6Y1dSUmg4TFhfZEJLYXNOOGc3OWwzTjVoUnNCS2d2ekt6eTIxNXQ?oc=5",
+    "published_utc": "2026-11-25T05:30:02+00:00",
+    "published_kabul": "2026-11-25 10:00 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 22,
+    "relevance": "ارتباط محدود",
+    "category": "بانک‌های مرکزی و نرخ بهره",
+    "archived_at_utc": "2026-11-25T06:18:24.280088+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Russia Ukraine War - The Messenger",
+    "summary": "Russia Ukraine War The Messenger",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLXB3bGlacUYtM05jNEZEaVhfM1BHc3BYYXFFcnI2eFA5UHNJOXJjWlhBNllaMDBGNVd0dmZUaWVYQnZraXpCOVhwLTgxX3pRMDVlSFU3cGlSU2I0VTVscDhvbUhWWFF1QjhLTnZnOGNmMnRsOE00c2tmNHlVLTIyN2ZEdXpIZDRwVFdkVGw5Q2Rvdw?oc=5",
+    "published_utc": "2026-11-25T06:04:04+00:00",
+    "published_kabul": "2026-11-25 10:34 (کابل)",
+    "importance": "کم",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-25T06:18:32.173193+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Crude Oil Prices Rise as Shipping Risks Persist in the Key Strait of Hormuz By Kedia Advisory - Investing.com India",
+    "summary": "Crude Oil Prices Rise as Shipping Risks Persist in the Key Strait of Hormuz By Kedia Advisory Investing.com India",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeHRqWTF4UEI3cXRyVFlwZFJIX3ZoQThraWFYRWI3Nk9qY09GenZ2SUxGMmN2VDhIUUdUOWhSREdPaXlEb2wtMmhWbzdnS01ZX2E0dWd3TzJtb2llc1gxZFBVdzlzYmZYMXRYV1ljODR5U3J3QTJ0TjYxaTZYbkx3N3haVGJIbW4yVGtETC04ZE9wam1tbjg5dm9EaGVFdEs2VVFSMlljMzBYMUZRWHFVVTdVeVd4dDBpUVpEa05LRjBwdlNNS1FpdWt3?oc=5",
+    "published_utc": "2026-11-25T05:21:26+00:00",
+    "published_kabul": "2026-11-25 09:51 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-25T06:18:40.754334+00:00"
   }
 ]
