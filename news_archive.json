@@ -3846,7 +3846,7 @@
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-21T11:45:32.006720+00:00",
-    "last_confirmation_utc": "2026-11-23T10:30:43.630667+00:00"
+    "last_confirmation_utc": "2026-11-25T08:30:51.225404+00:00"
   },
   {
     "source": "Oil Trade and Supply",
@@ -3943,7 +3943,7 @@
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-21T13:15:48.131375+00:00",
-    "last_confirmation_utc": "2026-11-24T08:15:49.981371+00:00"
+    "last_confirmation_utc": "2026-11-25T08:30:51.048081+00:00"
   },
   {
     "source": "Economic Reports",
@@ -10602,5 +10602,24 @@
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-25T08:15:30.355840+00:00"
+  },
+  {
+    "source": "Energy Shipping Routes",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Energy Shipping Routes"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Iran’s IRGC Navy says 2 oil tankers hit mines, caught fire in Strait of Hormuz - The Times of Israel",
+    "summary": "Iran’s IRGC Navy says 2 oil tankers hit mines, caught fire in Strait of Hormuz The Times of Israel",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYWRPS1VNWW0yaS05OW8tR3luTVBFcVBFX2N0RzNMNklaWTZYdmFSNUU1RzJyUGlrc0NyZTlYbDJ5b05fNXlMcDdBdWtlQjNaM3N6ZGtmaHFVQ1hzYXRhaVpCdU9sWm1nV3BWMDBMczdPbFE5RldWRzRydGhoTl9UdDhSbS1sY256N1B1bWlRS3ZXSGpna05TODJUZUs4RHVSSkJVUmlYb25pMmpEdG1tRzVKQVdxOXA4ME5tVmtDTQ?oc=5",
+    "published_utc": "2026-11-25T04:55:30+00:00",
+    "published_kabul": "2026-11-25 09:25 (کابل)",
+    "importance": "کم",
+    "relevance_score": 28,
+    "relevance": "مرتبط",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-25T08:30:58.126690+00:00"
   }
 ]
