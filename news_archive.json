@@ -9771,5 +9771,24 @@
     "relevance": "ارتباط محدود",
     "category": "انرژی",
     "archived_at_utc": "2026-11-25T00:30:56.396539+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Soybeans, Corn Lean Higher as New China Deal Trumps Tariffs - AgWeb",
+    "summary": "Soybeans, Corn Lean Higher as New China Deal Trumps Tariffs AgWeb",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNb212ZDhjWTVuanFuSV92Z0hZMy1HMlZkYnBFT1h6YXgtRmkyanR2S3hYSHh5cFFzOS1RYkxhc01mNERjbUd5dlpDdXFETU5XcHBxYTZsWEp5YUMxYVhuM2N2eFJyeWE5SzdtN0otZWtDQTlJbXR5azdFa1dNWWJzbzFkVE9NTE5odEVybnBn?oc=5",
+    "published_utc": "2026-11-25T00:23:00+00:00",
+    "published_kabul": "2026-11-25 04:53 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-25T00:45:30.807641+00:00"
   }
 ]
