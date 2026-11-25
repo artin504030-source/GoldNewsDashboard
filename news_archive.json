@@ -9790,5 +9790,24 @@
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-25T00:45:30.807641+00:00"
+  },
+  {
+    "source": "Bank of Japan",
+    "source_status": "منبع رسمی",
+    "confirmed_sources": [
+      "Bank of Japan"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Bank of Japan Accounts (November 20)",
+    "summary": "",
+    "link": "http://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac261120.htm",
+    "published_utc": "2026-11-25T01:00:00+00:00",
+    "published_kabul": "2026-11-25 05:30 (کابل)",
+    "importance": "کم",
+    "relevance_score": 22,
+    "relevance": "ارتباط محدود",
+    "category": "بانک‌های مرکزی و نرخ بهره",
+    "archived_at_utc": "2026-11-25T01:00:53.850673+00:00"
   }
 ]
