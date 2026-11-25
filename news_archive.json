@@ -11081,5 +11081,43 @@
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-25T13:01:05.120428+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Iran War Is Pushing Record Numbers of Fuel Tankers Into Crude Trade - Crude Oil Prices Today | OilPrice.com",
+    "summary": "Iran War Is Pushing Record Numbers of Fuel Tankers Into Crude Trade Crude Oil Prices Today | OilPrice.com",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPd0xrRjNXRkJIMlI1MkRZdUZ3YmdwS2dhSHA1dVFfbE1DWHdzR09vV19qb2lObWp3eDRxTUlJSDhCMWttSHZVSjF5VGx3OXRXYXBwNVIyU1F3a28xRkFsRXFYWHpJbTVLZXhQbVQySS0wYklfSVNIaFV6S25DOVRUNjJWWHVIZTdaTjJ3UXc0N3ZRVjlwdU9EcjZ1WDYzVDlvQmNQc3FvYUF1OGc5d3lSZzZkalJGVFlJM0Nmd3lubHTSAcYBQVVfeXFMTnl6bTVmRzQ4TDRKOFpvMkZBYUpQUTR6QTZLdmU5S0xqejFnWjJxZW9ERUYyRVlLaEo4NEdKaS1IYU9hSk0xaEtTQnE5aGwwMXh6SkFFLU5nWng1V2s0SFczbUVmNmk4cEphX09fSnd1aUctUi1xa2hJN2tVd1ZfTnJJMkNKdEtxWENXZ3JtdHhSc0cxRTVHcHJTczdJZTJ2QjJYYlY2a1Mwak8tOTJReDV1Z3o5X2tRNzNpRHYwRFVvSXpoNGVn?oc=5",
+    "published_utc": "2026-11-25T13:00:00+00:00",
+    "published_kabul": "2026-11-25 17:30 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 28,
+    "relevance": "مرتبط",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-25T13:15:47.711863+00:00"
+  },
+  {
+    "source": "Oil Trade and Supply",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil Trade and Supply"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "China, India set for record Russian oil imports in 2026 but Middle East supply recovery may curb demand in 2027 | World News - Hindustan Times",
+    "summary": "China, India set for record Russian oil imports in 2026 but Middle East supply recovery may curb demand in 2027 | World News Hindustan Times",
+    "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOQjVycExLN2lScjcwTlVWMks1cFM5b1RkN01LZ2dVX2RpWkkzZmpLRENTSWc5Yk5tSEVDcGl1WXB0NEhwOFN1anZQZTRmbjFNWWdyUk9NQnpGaHpVYmNxX3hoNV9YRThYcFFJQWlCT2VWZjFpM3dKeEFfTWN5NjBWYmE0bXotZXZWWkJCc3JNV283dnBKSTBzczFlWmlRWlMzVXFERWRZTGRwMjgtdWJ3VUNkZy1NVFZHczJZbXhJcmNhZ1dUMDBiWlU5algxVGhQTURLeUtKZ2xKU0RTNm81RzZ4bUhrRGlfNjFJQ1hWeFM4Q0szQXNQNlE2WWdRa0xZVkxZ0gGIAkFVX3lxTE5VQW91WEFXZzdFZGFDRE92MU1XTE1wRjl0b2s1dnkwSUIxOXE5ek5XZFBMaG04eVVpcUxoTlBhTVJFZWZsZUlPWmdzMng5Wm9uMWhZazJ4UUF2bVNkdG4xQkh4Wm5hQndMSk53TUh3eHFPS01xdWJja0I4VFdzX0lwNF9TV2pVbEF5WHA4bEJuQmVzM3NFOTRVX1lUbHRCUkdVSnJnZGZjMXp6QkxPYUdiMjQ1SGc2VTBkeTNScUlhUkR5M1UyT2dnTG9WNEhhMU1sdDRmSTIxdG5IV3FKNVpadUY1U0FlY3RjWHpXNTVpMEoxX3k0Wi1tRzBud1ZXaVM2cF9BS3pQUA?oc=5",
+    "published_utc": "2026-11-24T09:19:05+00:00",
+    "published_kabul": "2026-11-24 13:49 (کابل)",
+    "importance": "کم",
+    "relevance_score": 28,
+    "relevance": "مرتبط",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-25T13:15:56.670442+00:00"
   }
 ]
