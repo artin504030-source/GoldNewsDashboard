@@ -13195,5 +13195,62 @@
     "relevance": "ارتباط محدود",
     "category": "انرژی",
     "archived_at_utc": "2026-11-25T23:01:02.484221+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Trump introduces new tariffs on China, EU and major trading partners - CBS News",
+    "summary": "Trump introduces new tariffs on China, EU and major trading partners CBS News",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOT1pMZnVWenQwTm1ibFBMSzVvX1JtS3BpeE01ODJfVlM5THZ0cXE4clc5V1pLQ1JZS0xBU1lxYTkzcHVuZWFuWnZoMlpZa1FJeHU0VzZGMWo2WnViWE42MHpGMHFiWXFBNWtEY2lBa0YwM1d4YmE1LXprVFpqeF9rZFlMSkJHYWlONlltYWxUTk5MZkUzbl8yYTREWVhnNG8?oc=5",
+    "published_utc": "2026-11-25T22:11:00+00:00",
+    "published_kabul": "2026-11-26 02:41 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-25T23:15:52.001319+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Can Elevated Oil Prices Drive Equinor's Upstream Profitability Higher? - TradingView",
+    "summary": "Can Elevated Oil Prices Drive Equinor's Upstream Profitability Higher? TradingView",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRDVCWjhERGpYZ3phRHpFTjJuTFp6Z2t1blZSeWhyNlRkcThCM3RYcFVYeEtHZlY0bWxKR19NZXIwTzQ0VVcyZHNGY2hpb3pSU2RBUkJfX3UydThpZm5NUGVhZDUyTlRFLUdpbnFZODd3MC0tWnRFQ0todGRoa3ZFNHFXV1pQMUNsT2U3alFmam5LMVlpMWpzU1BaN053eGpzNEpER3RYaXBaWlhiODVRbWNQdm9PRXJZLWtTWjBBa2xESWc?oc=5",
+    "published_utc": "2026-11-24T16:28:00+00:00",
+    "published_kabul": "2026-11-24 20:58 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-25T23:16:00.084909+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Aramco Opens $7 Billion Petrochemical Complex in South Korea - Crude Oil Prices Today | OilPrice.com",
+    "summary": "Aramco Opens $7 Billion Petrochemical Complex in South Korea Crude Oil Prices Today | OilPrice.com",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSlRuZmxiR0JabXhYXzhRamMzSU85M2Fnc1NSaEtyWVVFS0p6UFNKbzh0dTZyVnhoNi15VUVUbHRzTUdoXzlqTzlvWjJwWXdtQnpXMHZYZ1puUTBNaDd1NWRaUHVUa3hpc3NoVDIwZ3FXYVdybVdKSXRZSHE5ZjlxZFJ5RU9mbXItcnBnbTFvQTJ1Z2lTS1N5ZXZtT0lPRl9PcENFektFMVlMOUdJLWtNQV9yNFdjQdIBuwFBVV95cUxQdW80TC1XWkp4UFRreDFfenlfSTFtVWRaWDVXaFFtODFMekVBUDBqQzV1T2hEMEkxUWtNZlpSempDcXhNenp5V2cydzNWTTl5V0VZSWZyRmVTWUtZQmFwcTNGa2lTTGtMQ2xDb3ZlbmdXZ2tBakQxbXZmRFFTeUkwdkQ1Y0hSdlRVbmZxcWV1LUNESE13RDNlSXFiZmx6Q2xQZkR0cGgzRm0tYTllLVhrQjlJMTVyWWpJTXdv?oc=5",
+    "published_utc": "2026-11-25T16:31:00+00:00",
+    "published_kabul": "2026-11-25 21:01 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-25T23:16:07.695846+00:00"
   }
 ]
