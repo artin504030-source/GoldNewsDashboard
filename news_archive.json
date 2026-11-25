@@ -10526,5 +10526,62 @@
     "relevance": "ارتباط محدود",
     "category": "انرژی",
     "archived_at_utc": "2026-11-25T07:31:18.535743+00:00"
+  },
+  {
+    "source": "Bank of Japan",
+    "source_status": "منبع رسمی",
+    "confirmed_sources": [
+      "Bank of Japan"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Japanese Government Bonds Held by the Bank of Japan",
+    "summary": "",
+    "link": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei261120.xlsx",
+    "published_utc": "2026-11-25T08:00:00+00:00",
+    "published_kabul": "2026-11-25 12:30 (کابل)",
+    "importance": "کم",
+    "relevance_score": 22,
+    "relevance": "ارتباط محدود",
+    "category": "بانک‌های مرکزی و نرخ بهره",
+    "archived_at_utc": "2026-11-25T08:01:07.612685+00:00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "MCX rates: Gold crashes 13%, silver plunges 20% in Nov 2026; is worst over? What should precious metals investors do? - Livemint",
+    "summary": "MCX rates: Gold crashes 13%, silver plunges 20% in Nov 2026; is worst over? What should precious metals investors do? Livemint",
+    "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPdmd4RnY2b0ZxcWJPWk9pMjZrWERhdER6Zk5wZW1sX251ekM4MUZrTWhoMlZ0bG81RmJsWERvSDUxSjN3RlBKeHhuVFk0V18zU01TSmxpUTdXci13Y1h0aEd1N0loOW5iSnZaNXpaZnFSSGZvVFVadV8zeTZtdDRpSUxMakFHWnBtLUFydzZKbUJEM2ExdElDOXY1bWdZb0UxbnFWU3FOZTVnV3ZQWjN6YzhEcW9tUld4ZVlXMmtUcFdhb2hIRDU2U0FHamNLclVoYVc1c0VKNlQ3VDJvRDdScGcxQzZmMlNvTWc0dVE2SmJRSnBrcnhjRDR6SVlCcGhJWi14RNIBigJBVV95cUxQTjJGcmpLaWZTd29CWVZ0MGRMRXZtQUNrMzgzZHNRdHo1a0xXUGdyQ1JrVHlQazRZUWxKX3MyYXhNOFNyMEN6WllqU202LXo2N29XTlZMbUtxRDFuS1U1MGtxUTA5WDVKMnVBNnBJUWU0aHZndzZwOVZ1RWZkQ1RBNzFpT2VQd1JWTHlpcXhVMXZkeUNqQUY5bnBaV3dLRkNpdUZVWUlka2UzM2NUQmNoVmQyR3huQUdtZzJFM0M4MmxzQ3ZRbDA3YW84TC0ySkZTVmthNGxZV043WnBjT2dZNG1FclVXZWhielJoNzJLWlJTX25mN2lVdUpFVjh5bm4tblZiYzZOeVJPQQ?oc=5",
+    "published_utc": "2026-11-25T07:48:52+00:00",
+    "published_kabul": "2026-11-25 12:18 (کابل)",
+    "importance": "کم",
+    "relevance_score": 45,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-25T08:01:16.331389+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Japanese Yen bears lose steam amid hot services inflation and trade tariffs - FXStreet",
+    "summary": "Japanese Yen bears lose steam amid hot services inflation and trade tariffs FXStreet",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdmtaTkx2anJFOHd3cWpNa3BES2FMeHplQ3loeWdrZEdSb003bm1XSEVwZTdDbnNyc21xN0ZWYTJUXzd1cTljQWcxY1dDaWpBUFZmbFlKaDFMamVGVDlCSVAxcW5oU0Y2Y3ZHOWUzZ1FtV3Q4MmpqQktMcUZRS0pidmhXRDZ1Z3JacGphMS15OHVWdTBaZGk5b25BQUkwbzhtUEJ0VDM5RWpoQ1NDc1YwNHdCRGlDRnl1N1E?oc=5",
+    "published_utc": "2026-11-25T07:36:05+00:00",
+    "published_kabul": "2026-11-25 12:06 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-25T08:01:25.725202+00:00"
   }
 ]
