@@ -10583,5 +10583,24 @@
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-25T08:01:25.725202+00:00"
+  },
+  {
+    "source": "Trade and Sanctions",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Trade and Sanctions"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "US Prepares New Tariffs on 14 Trading Partners - Demokratis.co.id",
+    "summary": "US Prepares New Tariffs on 14 Trading Partners Demokratis.co.id",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBaTU5xYUZ5STlSeEdzeWk2bzd6WEdhM2dGdWJQRU81Z0RCZXVCaGJ6RXdfbXJGM3NIQVh3Tnhwc0FrUmxLckhRYW1VaGk4T3o1VXVNaHNUZTE5b2gxWjAtNnhmWmtPUQ?oc=5",
+    "published_utc": "2026-11-25T07:19:52+00:00",
+    "published_kabul": "2026-11-25 11:49 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-25T08:15:30.355840+00:00"
   }
 ]
