@@ -13310,5 +13310,62 @@
     "relevance": "ارتباط محدود",
     "category": "انرژی",
     "archived_at_utc": "2026-11-25T23:31:06.160895+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "US trading partners’ patience wears thin as Trump slaps on new tariffs - South China Morning Post",
+    "summary": "US trading partners’ patience wears thin as Trump slaps on new tariffs South China Morning Post",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNOXZ3Q2pWZFhFN0xaV0RTcmpzSnRJdzM1UGFNY01jTFpIUkxuQ1dRNnNqY1k2aXpRM29SVXZaS1ZFMFVuNUl2a1Zma0VielRPZGc5d3ZIREpUcmNkUVhodlY0QUtZaUVWLVRuR19lMGFLWDJVc3hvTmIyRE1HYmh3ZjhoTXAtdEZKZU1qOVBfc0RIam9JNk8wcENwVVByX0o3NDJWTklXRG10V3ZpTGJUbzQ5WEc2bEV1Tndsd05wblVSZFltbGt6Mk1zMA?oc=5",
+    "published_utc": "2026-11-25T23:30:23+00:00",
+    "published_kabul": "2026-11-26 04:00 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-25T23:45:31.753230+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Oil prices reverse losses as Hormuz disruption fears outweigh improving supply outlook - Oil & Gas 360",
+    "summary": "Oil prices reverse losses as Hormuz disruption fears outweigh improving supply outlook Oil & Gas 360",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNN1Z2ODV2RS1xVWs1ZDJ3c3FBeS1PUHJFNjVwazhQR19CVm8yUFg3ZDc5MVAwc3FoTVZVcTh3cm9aLUpMamtWdmdxay1BOTVHaEw3WXJzdFh2eFFmMWo1ZDhyeUQzUklGN3ZSZ3JBQ3p2SHdfX1RZT255bGVCRjZkSTN3YnFraUlCVlpkOVZOZzVXRWtVY3ZGdXZXUmdzcnU3UHhEVW1IeExibkFCMHZ2cUdGUURCRlE?oc=5",
+    "published_utc": "2026-11-25T18:09:23+00:00",
+    "published_kabul": "2026-11-25 22:39 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-25T23:45:40.447121+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Oil prices rise after Houthis claim attack on Saudi refinery - Yahoo Finance",
+    "summary": "Oil prices rise after Houthis claim attack on Saudi refinery Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUDVWb29kX0t0eEprd3VCQWtJTVU4ZmRDWmZ4bW84dGgwbnlLNzFlanZqdW40NVl6ajhFZjQ4VHJIZzlXVWtFSTZqRUxVX0J4bkdjUGppSDhpVjRYQ0ZEQ2ZSd2hnUnZZOXN5ejdVWmZKWTNYZHZHRjE2T2NJeHNwTWdvQ0tKNUlEeU1IYQ?oc=5",
+    "published_utc": "2026-11-25T20:23:17+00:00",
+    "published_kabul": "2026-11-26 00:53 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-25T23:45:48.529157+00:00"
   }
 ]
