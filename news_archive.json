@@ -10776,5 +10776,62 @@
     "relevance": "ارتباط محدود",
     "category": "انرژی",
     "archived_at_utc": "2026-11-25T09:30:50.929838+00:00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Why Wheaton Precious Metals Corp. (TSX:WPM) rallied on the S&P/TSX Composite: gold and silver strength lifted the streamer (23 Nov 2026) - kalkine.ca",
+    "summary": "Why Wheaton Precious Metals Corp. (TSX:WPM) rallied on the S&P/TSX Composite: gold and silver strength lifted the streamer (23 Nov 2026) kalkine.ca",
+    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOWmJxVHU1TGVLT0hLSG9vSW9uS003NTB2cXgyOXNEczJzVkdvUWh2eUtoQnNoMXBtcXh4bGVuZVdKVFNGRHJ5NXh4aUVlTUhNVkpyQ2ZfbzJmVGNmd1RjZnZ4dncwLXc4YkQ4OHFHSUU5YThPclM3Y0J4TWJmQldVcl9qakxIeTQtd1R5cHJIVVNqOVktQUNNWUF4aXEyMTJHNzc5cGhMSkVhY2pGT1E2RnlHejkzdEI1M3V1VnRRM3J0eTV2S3ZQSThQUkxYU3VsRG1MeHNOYmUtU1RZMER6TF92Ykh4YUtuWVduaGV5Zw?oc=5",
+    "published_utc": "2026-11-25T09:33:00+00:00",
+    "published_kabul": "2026-11-25 14:03 (کابل)",
+    "importance": "کم",
+    "relevance_score": 45,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-25T09:45:30.390785+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "China Warns US Against Imposing New Tariffs - ASHARQ AL-AWSAT English",
+    "summary": "China Warns US Against Imposing New Tariffs ASHARQ AL-AWSAT English",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVnRYMHhSSEFQTDRwTlRrVkRVVDRrUWxua3ViaHVaZ0RnYlA0dDdiRmZXbXRka3NwaDZxQWJuYU4wNkRrZlJkd2E0elNRTXpudUpsTmhHV2xhcktLQWNvQm9JMVlINU9xaDF3Y1V5QTZCNWV3WGdILTljbXBhTzJ6VlNMdlI1VHVzU2pzRFhqS2s?oc=5",
+    "published_utc": "2026-11-25T09:40:30+00:00",
+    "published_kabul": "2026-11-25 14:10 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-25T09:45:38.925949+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "China, US hold farm trade talks as Beijing decries any new tariffs - Anadolu Ajansı",
+    "summary": "China, US hold farm trade talks as Beijing decries any new tariffs Anadolu Ajansı",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObEJvNVVWT2dYYWxqSGxJMEFtWWlrVDRhbGxGcnBvQVhBN1k1Y0NpSVpBbkEyQkQwMUZ2czNEQm9aTmFabHZLSVBZTElpMEVlRDhZa3ZkWG01V1VMbEd1LUJ0X2dWdVUxZDZmSWRlNTNuOGpMR3QzTElsNTVoS3I0bkFyTHRSczkyejBsNUFDeDdQR3g2YTJyeDJnU1MwVFU4cThpTVFQOTBxM3VuZXNCbQ?oc=5",
+    "published_utc": "2026-11-25T09:28:15+00:00",
+    "published_kabul": "2026-11-25 13:58 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-25T09:45:46.497008+00:00"
   }
 ]
