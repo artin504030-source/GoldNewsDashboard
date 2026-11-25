@@ -11232,7 +11232,8 @@
     "relevance_score": 45,
     "relevance": "بسیار مرتبط",
     "category": "طلا و فلزات گران‌بها",
-    "archived_at_utc": "2026-11-25T13:45:52.801608+00:00"
+    "archived_at_utc": "2026-11-25T13:45:52.801608+00:00",
+    "last_confirmation_utc": "2026-11-25T14:00:56.895157+00:00"
   },
   {
     "source": "Geopolitical News",
@@ -11252,5 +11253,62 @@
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-25T13:46:03.103484+00:00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "DPM Metals Inc. (TSX:DPM) Stock Declines 2.20%: Gold Price Volatility and Mineral Development Risks Weigh on Investor Sentiment - kalkine.ca",
+    "summary": "DPM Metals Inc. (TSX:DPM) Stock Declines 2.20%: Gold Price Volatility and Mineral Development Risks Weigh on Investor Sentiment kalkine.ca",
+    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSG1SOEZFMGxHMFBpRTRIcWtCRVNiMmVKRnVjZ1J1Z2hPZDBqWTJMSFpSMnpwTU1wT2M2M1ZLZkx0QjJoVjVfYnUtb1JfU3F5NktJeDVQUTNDQ01NSXlTbXZyS3dSSXpldVBlc3pVNXRQbnVhY1h0NUtudndrcno0LVNVYVRaRU1xQVBUcC1HT2NTN1Zscjd5Y25BRGFkRkZFZHU3TTNETWNneTZJejA3TE91b2tVY1NzZ0JWSWFLNWVmNi1xQmlsSm5LY3lrMm5qLU9GanVFNEdFVzVWSU4tVEt4VW5lUQ?oc=5",
+    "published_utc": "2026-11-25T13:33:00+00:00",
+    "published_kabul": "2026-11-25 18:03 (کابل)",
+    "importance": "کم",
+    "relevance_score": 45,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-25T14:00:45.212987+00:00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Andean Precious Metals Corp. (TSX:APM) Stock Declines 0.24%: Precious Metal Price Volatility and Processing Costs Raise Investor Concerns - kalkine.ca",
+    "summary": "Andean Precious Metals Corp. (TSX:APM) Stock Declines 0.24%: Precious Metal Price Volatility and Processing Costs Raise Investor Concerns kalkine.ca",
+    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPLVhJeGFKbngyU2VjZ1BJbjhOV0p6NmVfaTN1Q2hYWU82c2xONGVLaG9sMlBiOHRranIzNlpub3VqMUpYcGtZOXdTRFdpVlZ1RF9hQ0x0b1lGbElGcE40MTN4N1ZRdTRqN1Jibmx5X09IbzM2clMxSDhHLWJUYk11Z0NLNl9pMXJsRjJuVlhWTmxtYXpVWG1rZUZsOG1HVzhjXzNKRmR1RWs2RDBVbHhYWXJoRnFBRm1NM1NaYjZmam9IWFdSQXdPQ1R6MGJLUlY1NHktbTI1R09kUDBsNHdtaTBoQXZVcUd1Z1hjR0otYTBWWXc?oc=5",
+    "published_utc": "2026-11-25T13:32:00+00:00",
+    "published_kabul": "2026-11-25 18:02 (کابل)",
+    "importance": "کم",
+    "relevance_score": 45,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-25T14:00:53.738873+00:00"
+  },
+  {
+    "source": "Economic Reports",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Economic Reports"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "US inflation rises further in October - Yahoo Finance",
+    "summary": "US inflation rises further in October Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS0pMenpBcnd0Umw2aENCSkVyS0t2b0RUak43NWY1UHRMMnlaQmd3U1B4RG5nejJfMDI1N2haVWYxd1RZQk1tb25seTFZbS11aE55U3dUN3hPenNtdWVNQmp5UVg1M0VoSkxPcmRIVkVXSG95TndsbHlPX0I4ZVg4SGQ1WWtmOTQzTjdzTGxjdXd3X21RSXFfZ25VZ3drWVNv?oc=5",
+    "published_utc": "2026-11-25T13:47:51+00:00",
+    "published_kabul": "2026-11-25 18:17 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 30,
+    "relevance": "مرتبط",
+    "category": "اقتصاد آمریکا و دلار",
+    "archived_at_utc": "2026-11-25T14:01:01.967333+00:00"
   }
 ]
