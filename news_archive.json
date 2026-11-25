@@ -9339,10 +9339,11 @@
     "source": "Geopolitical News",
     "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
     "confirmed_sources": [
-      "Geopolitical News"
+      "Geopolitical News",
+      "China and Global Markets"
     ],
-    "source_count": 1,
-    "confirmation_status": "یک منبع ثبت‌شده",
+    "source_count": 2,
+    "confirmation_status": "تأیید چند منبع",
     "title": "Trump prepares a new round of targeted tariffs - Axios",
     "summary": "Trump prepares a new round of targeted tariffs Axios",
     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9IOXZTRnJTd1pRNzd0dUhFN0pGM3p5Vmcyc2kzT1BmZDMyNmxNWUV5RWFYUmNMdE5OblIxRFZyODdiaFdmWnFBWTdjYzMwX2c0d0NSSXNsSlhlTDl4S2xXTXJON1hkbDczcEw2RXFTZjROdGxO?oc=5",
@@ -9352,7 +9353,8 @@
     "relevance_score": 16,
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
-    "archived_at_utc": "2026-11-24T19:01:17.354945+00:00"
+    "archived_at_utc": "2026-11-24T19:01:17.354945+00:00",
+    "last_confirmation_utc": "2026-11-25T02:16:07.619750+00:00"
   },
   {
     "source": "Gold Market",
@@ -9848,7 +9850,8 @@
     "relevance_score": 12,
     "relevance": "ارتباط محدود",
     "category": "انرژی",
-    "archived_at_utc": "2026-11-25T01:18:07.691054+00:00"
+    "archived_at_utc": "2026-11-25T01:18:07.691054+00:00",
+    "last_confirmation_utc": "2026-11-25T02:15:57.002052+00:00"
   },
   {
     "source": "Geopolitical News",
@@ -9945,5 +9948,43 @@
     "relevance": "ارتباط محدود",
     "category": "انرژی",
     "archived_at_utc": "2026-11-25T02:01:00.257833+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Intertwined — How Renewable Fuels Policy Helps Connect Diesel and Soybean Oil Prices - RBN Energy",
+    "summary": "Intertwined — How Renewable Fuels Policy Helps Connect Diesel and Soybean Oil Prices RBN Energy",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNX3hfZjhtaG9peVlLVkR1d1U0WVgyLWtocTJfZnM4MVRRTEN5WU5xVjVJSkZNS0YzX1BseGdkR19EYmpIc0xzckpCc19meXN2a2E0dklid2RDbEQzMEgyYVRrN1NyeFQxSS1XeWVmd2V4eGloR284M0hZVUd4UHYxaUFiMWY5SVFWUW1hLV9HYzZZems5R2FrclFzdnVBQVlOaDItMExKTjNuNDZDZGc?oc=5",
+    "published_utc": "2026-11-25T02:04:08+00:00",
+    "published_kabul": "2026-11-25 06:34 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-25T02:15:53.875411+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Oil prices fall as supply glut concerns offset Middle East disruption fears - Sacramento Bee",
+    "summary": "Oil prices fall as supply glut concerns offset Middle East disruption fears Sacramento Bee",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9FWHZMRlFPQUlQV1hvazJ0M2pSeVlRR3ktRmZPYXBfX0NnVEU0cWtNbG5ob3huOFJzVWVhQ0xwWVlfY0VpUmlnblMwb3VZajFwLXV5TVQyYzQ0OHZTSGZDRnJEenVSTEt2clprODJrZ3NKVU9OS3B6TWljOA?oc=5",
+    "published_utc": "2026-11-25T02:07:09+00:00",
+    "published_kabul": "2026-11-25 06:37 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-25T02:16:01.612662+00:00"
   }
 ]
