@@ -10140,7 +10140,8 @@
     "relevance_score": 12,
     "relevance": "ارتباط محدود",
     "category": "انرژی",
-    "archived_at_utc": "2026-11-25T04:45:56.271179+00:00"
+    "archived_at_utc": "2026-11-25T04:45:56.271179+00:00",
+    "last_confirmation_utc": "2026-11-25T05:30:45.354486+00:00"
   },
   {
     "source": "Geopolitical News",
@@ -10236,5 +10237,43 @@
     "relevance": "ارتباط محدود",
     "category": "انرژی",
     "archived_at_utc": "2026-11-25T05:16:11.102642+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Democrats target Trump tariffs as midterms cloud manufacturing trade agenda - Plastics News",
+    "summary": "Democrats target Trump tariffs as midterms cloud manufacturing trade agenda Plastics News",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWmJqQWtraWRUR18yazZqczY2NVdUalFReUQtS04zQS0zLWQyT2RuSVNUVC0yVW1NSFgtTWxzZ1JtcG9aLUp1VktRNmhfekVjbFBfVXA0S3oyNmJVdFVYR0Z6TnBndC1zR3NadVI3ZkNLZDNSb3NYUk5aVHJVMlc1OVdEWnM1d204alRZSlB1QTNaTkQ2cG5udDJn?oc=5",
+    "published_utc": "2026-11-24T17:12:00+00:00",
+    "published_kabul": "2026-11-24 21:42 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-25T05:30:34.617940+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "China Goes on Oil Buying Spree as Crude Prices Slide - Crude Oil Prices Today | OilPrice.com",
+    "summary": "China Goes on Oil Buying Spree as Crude Prices Slide Crude Oil Prices Today | OilPrice.com",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSXhSeFBjSWpsZi1YcEVXZkpVZV9MSzJ2YnpKTXlSNGdCZlVyUGlqd2xBMVVOZjlTNzB5Z0dmQ2xtWDRfLXpWSDRiVFpFYmxhcGl6ZzlSWTVKVUk0RXlaNXdfMXg0RTMwWVJyWnc5UjBYLWpBbEFIdTBWc3pBV04zYzlLR2Z2MVRuOHpzYVJpcENOZ3BnWHhWZUktSTU5UmtiVkd2ZWpxREZKS25K0gGyAUFVX3lxTE90dEhOR1FscEdsSUstUzB4dFNhdDgxTFFsby1wVmJoTlJRcUt3RlB4elpMb3pfNVB1NV9GazAyNDRDVjRjak1uVDJlM2FlMHVOT01LcWVIazBVbnNZMjBfbmlpUF81OEMxVjRLMWxnWTVmRzd0T1VnR0hfelpyZXpvTTFnYS04X0gtVkRjOWtxLTBIMkw5c25pUTVaYW5vd1I5Z0Q1OEd2RkFJNnFhdzBfUFE?oc=5",
+    "published_utc": "2026-11-25T05:25:00+00:00",
+    "published_kabul": "2026-11-25 09:55 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-25T05:30:42.211305+00:00"
   }
 ]
