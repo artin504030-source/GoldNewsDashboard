@@ -8918,10 +8918,11 @@
     "source": "Oil Trade and Supply",
     "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
     "confirmed_sources": [
-      "Oil Trade and Supply"
+      "Oil Trade and Supply",
+      "Oil and Energy"
     ],
-    "source_count": 1,
-    "confirmation_status": "یک منبع ثبت‌شده",
+    "source_count": 2,
+    "confirmation_status": "تأیید چند منبع",
     "title": "Iran Faces a Deepening Natural Gas Crisis Ahead of Winter - Crude Oil Prices Today | OilPrice.com",
     "summary": "Iran Faces a Deepening Natural Gas Crisis Ahead of Winter Crude Oil Prices Today | OilPrice.com",
     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaGNCbzFGMHpQbzdqVVFPWFFINlVZRXZnNTdUME01QXpyWE5kNTc5NkRSeTRjcUJpMWVDOEwzMloxdlBkQ05EaUxFQnRadUFLcFJZV0VUNlRwNmM2b3NKMGpkNjVPMTVvdXdEajRrdGtvZ04tSGM1NnN0d1ZSaDNNVXE5LVY0TEVTay1JeFZESFZxVTF5YVBoam1QM2h4dDIwYzRqbzFKMnjSAa4BQVVfeXFMUDFuT2Raek5zU1dTNERKamxoanVKbmhQQXp4Y3VIMTlsTUdGM1VhRG9GWkJzWVdKX2dXN1F0UjZ4MzQtNjkwNlQyNTQwTktjcURVaTlLa0c0RTMtU3dzOW1Iay01MllSVmQ3RGNoRzNKSjUzX2tOaHJCanpFZ2hmRlg2UlotWnhvWHhRdk91NFFDTTl2MkI0OGVoc3pIMEdCbmcwaDBhTXY3eGkzOUpR?oc=5",
@@ -8931,7 +8932,8 @@
     "relevance_score": 28,
     "relevance": "مرتبط",
     "category": "انرژی",
-    "archived_at_utc": "2026-11-24T16:30:47.514425+00:00"
+    "archived_at_utc": "2026-11-24T16:30:47.514425+00:00",
+    "last_confirmation_utc": "2026-11-25T07:45:48.222928+00:00"
   },
   {
     "source": "Gold Market",
