@@ -3846,7 +3846,7 @@
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-21T11:45:32.006720+00:00",
-    "last_confirmation_utc": "2026-11-25T09:15:41.689951+00:00"
+    "last_confirmation_utc": "2026-11-25T21:01:15.062665+00:00"
   },
   {
     "source": "Oil Trade and Supply",
@@ -8408,7 +8408,7 @@
     "relevance": "بسیار مرتبط",
     "category": "طلا و فلزات گران‌بها",
     "archived_at_utc": "2026-11-24T13:01:10.911590+00:00",
-    "last_confirmation_utc": "2026-11-24T20:00:54.944740+00:00"
+    "last_confirmation_utc": "2026-11-25T21:00:55.614169+00:00"
   },
   {
     "source": "Forex and Central Banks",
@@ -12680,5 +12680,62 @@
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-25T20:46:18.877969+00:00"
+  },
+  {
+    "source": "Economic Reports",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Economic Reports"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Newly proposed tariffs raise chances of the Fed keeping interest rates higher for longer - Yahoo Finance",
+    "summary": "Newly proposed tariffs raise chances of the Fed keeping interest rates higher for longer Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUVBPbUFTb1h0MEdxOXBWX1N0V0V3MXFNSktwOTJKc25xOWdpczFIbHFSZ0JYalM1QUNGdUtnUVZRSkFOdURVLTROQndxYlZnZUJaaUdpdURidXRtYUF3VnJtS21yQ2ZQd1BzeE9DSjh3X0w4aWZOVFJ1ZVp0VFNyUkVuOHlkWFd5NUlCYmZUc3VXQkd6Rnp3U01kT1Z1cTlSZnhMZ1VFZkFTcm01MDI1TDNuc08zMk1JeDB4NTJiaEU5OEpBQWR2NllWUmxDenB2emFpR2Q5R3k5dno3ODBxVGs0UndyeU0?oc=5",
+    "published_utc": "2026-11-25T20:39:42+00:00",
+    "published_kabul": "2026-11-26 01:09 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 38,
+    "relevance": "مرتبط",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-25T21:01:02.253721+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "US weighs sweeping tariffs on 14 'major trade partners' including EU, China - thecradle.co",
+    "summary": "US weighs sweeping tariffs on 14 'major trade partners' including EU, China thecradle.co",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1VRXViMGUwYllJZ2NoSDVnVWg2SDBBLTJ3UlVVYm5JLVJKQ1U5UWpXamFqRXNxTFZ2Q2dYX2lOU0Zkd3I1azBUMWtWOU5rVFE?oc=5",
+    "published_utc": "2026-11-25T18:08:08+00:00",
+    "published_kabul": "2026-11-25 22:38 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-25T21:01:11.987099+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Trump proposes new tariffs on China, Europe and other trade partners - The Washington Post",
+    "summary": "Trump proposes new tariffs on China, Europe and other trade partners The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRG9IZXZjbjBEQ2tzam5pT0FPZWNFc2hac3ZURjRUaTJITlQwQmt4RElZVGlnM0luQndHeXdRaGRwTUVVbHVqQlcyZC01OC1adzBLT3JWWlNadmw2N01zR3JZT1VwWG1mVVNaSkNUSWExNTlYRWtCejNRUE1KSXk0TFpjaUt5X0Z4LUFLMzB1c3QtRXNpUVc5UzNMeHY4d2paMjVEVGpveFlpM1BvZWRlZzFR?oc=5",
+    "published_utc": "2026-11-25T20:25:16+00:00",
+    "published_kabul": "2026-11-26 00:55 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-25T21:01:20.394648+00:00"
   }
 ]
