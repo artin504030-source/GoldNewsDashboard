@@ -13022,5 +13022,62 @@
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-25T22:16:02.371437+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Trump proposing new tariffs on 14 partners including China and EU - The Guardian",
+    "summary": "Trump proposing new tariffs on 14 partners including China and EU The Guardian",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNzJkNEt0SmxFczJuc25uRFpYRjc1bDBVZ191T1p5TnFTbjRxeHA0QTk2TE1VM0FJMlI1ems4N1ItOGRFcHhma3ZLdEJKT01NSF9yVjFTaTc4SmlpQk5iSnRfdjRBZ2VCdDlLM0JEbFAtYkVjNXF1a0NqTG9OazJPaWFmamQ?oc=5",
+    "published_utc": "2026-11-25T21:15:00+00:00",
+    "published_kabul": "2026-11-26 01:45 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-25T22:30:36.107990+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Trump Administration Unveils New Tariffs for China, the European Union, and More - Time Magazine",
+    "summary": "Trump Administration Unveils New Tariffs for China, the European Union, and More Time Magazine",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcFhtMHlCRmo0RXBTdk9ObEE1X3RickdBOUwydnhxN25sbjBubGM4eE9qZlBaTTBmOW5IbWVQNUw5MXBvVlg0TlduTmJuR1lrLW1zRV9NaXRzcXBaRGlxMHUxS1luN1htcndZaGpBNl9yZU8tU1ptbjA0WG1yV2wwRW03M0ViODMzRHZ2WEY5RnpaTUJYSWk3T0lOdU4?oc=5",
+    "published_utc": "2026-11-25T19:02:40+00:00",
+    "published_kabul": "2026-11-25 23:32 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-25T22:30:44.781117+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Favorable Crude Oil Outlook: What Lies Ahead for COP, EOG & FANG? - TradingView",
+    "summary": "Favorable Crude Oil Outlook: What Lies Ahead for COP, EOG & FANG? TradingView",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOY0VBMkZ2ZGJyRG93ZG9Hd1NwMnEzYnNVSm5Dak9ZTmlSTnZKR2tEYmJqNjEzeURDbmR6b0drcTNtN1N3WDh1ZEcyQjFSQXVmVXRQSnJqNGxJTUl0blFCaUlHLXhZT1BfZ1NWTkx3QXVtWTQyVHZNcDhMTzhQWmthdWsxT0l4bFI1aGNubUdDY09CbVQtRFp1OHhKdWxjenlPeHZ4OHozUTBvY2JKQ3dTaVg0SWlLNE0?oc=5",
+    "published_utc": "2026-11-25T11:35:00+00:00",
+    "published_kabul": "2026-11-25 16:05 (کابل)",
+    "importance": "کم",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-25T22:30:52.877422+00:00"
   }
 ]
