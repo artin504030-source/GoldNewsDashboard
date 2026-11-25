@@ -11867,10 +11867,11 @@
     "source": "Geopolitical News",
     "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
     "confirmed_sources": [
-      "Geopolitical News"
+      "Geopolitical News",
+      "Oil and Energy"
     ],
-    "source_count": 1,
-    "confirmation_status": "یک منبع ثبت‌شده",
+    "source_count": 2,
+    "confirmation_status": "تأیید چند منبع",
     "title": "UK Energy Bills Set to Soar 26% as Iran War Drives Up Gas Prices - Crude Oil Prices Today | OilPrice.com",
     "summary": "UK Energy Bills Set to Soar 26% as Iran War Drives Up Gas Prices Crude Oil Prices Today | OilPrice.com",
     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYWNfU0Fkby02ZXVxQ3ptbW1mQmpNclpYcVdyUHVoV2FBWTg5RURmYnpMZVYwZ0dpYUtnd3drMEJyWk93RUlxNmlBQjNzQ1hKRDloTWlDa1B0UTMyOUdhdkhQd1BxRzkxaGlRSWtCbDlNVDFoRWhQZzNuNktSSUhBWlU4blRubUk5ZklXamRlVDZaZWQ3ck9mVW92NktzUlMxTHd0dW02Z1Vlem5KazdMStIBtgFBVV95cUxOLXYzVHk2RF9rdnhaT3BDb0prMGF3c21QUWtKQmxCSkl2YlgwRjJ2Skw2WnNDQzlUT2xMdVNMb0NSUjdzWC1oYVpHdnBwOXZpczFHdzlLZkhINTllVEczZ2pjUV9WQ2xOUGNIX1RpOEhyNDJKQUVHR0kxUkVaMzZzYmVPNDJUbUw2UktwaTg0T20xc3UtZzJBT3JtVW5feWRVdERZeHJlcVRvXzB4ZzBDRTltWThpZw?oc=5",
@@ -11880,7 +11881,8 @@
     "relevance_score": 28,
     "relevance": "مرتبط",
     "category": "انرژی",
-    "archived_at_utc": "2026-11-25T17:31:22.355516+00:00"
+    "archived_at_utc": "2026-11-25T17:31:22.355516+00:00",
+    "last_confirmation_utc": "2026-11-25T23:00:57.505194+00:00"
   },
   {
     "source": "Gold Market",
@@ -13136,5 +13138,62 @@
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-25T22:46:17.644316+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Map shows countries hit by new Trump tariffs - Newsweek",
+    "summary": "Map shows countries hit by new Trump tariffs Newsweek",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZk5fUkdiTWUxTDBpOHJqZDZVU25VVXlKc2dzcF9VWktjX1V2bURGcHBGVzFXR0dGbDFzWjBzdmlTeGpORkhtandlWXRsMmgxbVF4OFA3bUljMHowVDBpRkRvUTk2aDcwTGtlM2xRZGNxT09ZcUV1djlvdkxIVU1zWEY0OTRSemg1WlVV?oc=5",
+    "published_utc": "2026-11-25T14:22:00+00:00",
+    "published_kabul": "2026-11-25 18:52 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-25T23:00:45.886530+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "World reacts to Trump’s new tariffs as US stocks tumble - Al Jazeera",
+    "summary": "World reacts to Trump’s new tariffs as US stocks tumble Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQ2xwNlNFeVhicVplSG9FSUZVd2xjOUxCcHd6QjFfeV9PV0VNTkNmOEVQWkN1S2JRbGd6WXBlZ2czdlRWT3hDcWlWclMzeVA0c09QZzVzRTY0VWhxZEJOMU1BNVhpRTNVLThIczAwODJjSzBka1lXVkFRc1pBWGZjRHRhakwxUTdhdllTYVJXUGg1cE9tbWg2clBQZXFBcWl00gGmAUFVX3lxTE1ManFzV2ItczJsaU1wc2t3Tkc3OXdMTlhsdF9tZVh2c29Ld2lLakRybW1sZEhzOXMwNUh5ZUVLd2prWTFSUFZpbm40alhZcEcxVFBIM1NTUzljU1dzdS1oZ2RxTlp6cGNSUzRTOGlxbE5GNGZORy1Da3diOS1NWExyM1RNQVZrZkJEMkhZREdZY1BickkyNE1pbWIzOHdhRFk3Zng2TWc?oc=5",
+    "published_utc": "2026-11-25T19:31:28+00:00",
+    "published_kabul": "2026-11-26 00:01 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-25T23:00:53.676219+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Cheaper Gasoline Won't Fix the Diesel Squeeze Hitting Freight Costs - Crude Oil Prices Today | OilPrice.com",
+    "summary": "Cheaper Gasoline Won't Fix the Diesel Squeeze Hitting Freight Costs Crude Oil Prices Today | OilPrice.com",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQanZGMm8zTnJLVmNwOUt5VTlJcTZvUV9DSTExd1N4TE8xV1l2LWZuem5DdVNYSFpPRXhxenF1aG10YWVFaHloU3hlV3RHb0lGT0R3c2dXQ0d3bkU0QkVqZWptRWlRRUVab0U3TW8yY2JUbFJKLXZqcWV0Y05MZDFaWVNDS3JNZjZYNTM4dDRDZ045Q0pYb0lhOUs2MkFTRVNYUnI0M1lHSlg1Sy04SlpV0gG0AUFVX3lxTE1Gb2IwX2psTy00MGRkSEhqM3FVbV9GdkRhZjk5dnRFOXJfeFJPSEVWZ0xadGZ1QnowYkNXbmdYRVhWNnBQVTJvcVUyRnBMcmxPUWVReGZYaDhQdTZZUU55M1VJUXBjRVdXQmNGSjBiVzdROFpZc19TakZJRmtFUHpYY0IwVFJuMHdZSmlPd0hPMmU4WjlvWUVCY092YzdFVHB2WjNhRUJObV94c3I4Z2FETWZtWA?oc=5",
+    "published_utc": "2026-11-25T20:00:00+00:00",
+    "published_kabul": "2026-11-26 00:30 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-25T23:01:02.484221+00:00"
   }
 ]
