@@ -9120,7 +9120,8 @@
     "relevance_score": 45,
     "relevance": "بسیار مرتبط",
     "category": "طلا و فلزات گران‌بها",
-    "archived_at_utc": "2026-11-24T17:15:50.917743+00:00"
+    "archived_at_utc": "2026-11-24T17:15:50.917743+00:00",
+    "last_confirmation_utc": "2026-11-25T00:30:48.296935+00:00"
   },
   {
     "source": "Geopolitical News",
@@ -9751,5 +9752,24 @@
     "relevance": "ارتباط محدود",
     "category": "انرژی",
     "archived_at_utc": "2026-11-25T00:15:49.900761+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Is This Tiny Oil Giant The Real Crown Jewel Of Trump's New World Order - Crude Oil Prices Today | OilPrice.com",
+    "summary": "Is This Tiny Oil Giant The Real Crown Jewel Of Trump's New World Order Crude Oil Prices Today | OilPrice.com",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVFhsdzhkM3FXZzZEZ0s1M1E3cHZYQjdZVjJJVE9nelV4M29jVEpCcTJpUGo3R0hacGMxZXdwdndLYzZvOVhzOHdYdVRPTktnUTNtYkZlbzEtVC1Jb0tmNmUtbm9aSm9Sc3RCLTZzS2FGdWVWeHh5cWJGMGViaEIxODlWS2o2U0ZlbFVYRE41NU5qR2YzWHFLc0VlanBBNWt1V1A1YklNSlp4OS0yYk1paWZ30gG3AUFVX3lxTE5XSDFIdVJveVFCQnl6Y3VFTzhOOUY5UncxeUVPRE9Hd0w2WmUyZDFka2thWExnY2VCQjYzY3YwWjZkRzA0X1VWdWdmWGtrQjZnRzg4b0hIRzMwRVVGbE0xNHBGYjI0NzEyMTVnc21sZ29JWHJUczNiNGl1MEEtYlFDQVk3dEVSSDlhY2JjQnRXbHFGLTZZUkR1UDBrU29neUhhdkFCS21qaGhOQ1I5TElBSXdtcXlvZw?oc=5",
+    "published_utc": "2026-11-24T20:00:00+00:00",
+    "published_kabul": "2026-11-25 00:30 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-25T00:30:56.396539+00:00"
   }
 ]
