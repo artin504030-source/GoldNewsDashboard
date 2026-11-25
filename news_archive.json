@@ -10852,5 +10852,24 @@
     "relevance": "بسیار مرتبط",
     "category": "طلا و فلزات گران‌بها",
     "archived_at_utc": "2026-11-25T10:00:43.763510+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Oil Prices Fall to Three-Month Lows as Supply Outlook Eases, Treasury Yields Ease - Tekedia",
+    "summary": "Oil Prices Fall to Three-Month Lows as Supply Outlook Eases, Treasury Yields Ease Tekedia",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdGpoNDZjOERRci1XODhKZU1oR3VaMnJTV0k5MW1XT1JYOFZFSzM1UG1FRWNxQmpBSEhBd2dIMXZoeFJEVWk5TFQtNllyY1hEQ2UwVHd5T1NxbWVMOWVUUnk1aWR1QUh5Smh5cUs2aXU3OVV2WHc3TVRoNjlMSHlKZE1FTUtaemoyVDJ1MS12VUR3UEtrZnNBNDNuaWxfckw2MFlXTDlkSHQ?oc=5",
+    "published_utc": "2026-11-25T05:03:50+00:00",
+    "published_kabul": "2026-11-25 09:33 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 42,
+    "relevance": "مرتبط",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-25T10:15:54.116566+00:00"
   }
 ]
