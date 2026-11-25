@@ -12623,5 +12623,62 @@
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-25T20:31:09.013578+00:00"
+  },
+  {
+    "source": "Economic Reports",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Economic Reports"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Eric Criscuolo on what Oct. PCE data means for Fed rates - qz.com",
+    "summary": "Eric Criscuolo on what Oct. PCE data means for Fed rates qz.com",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PcFF5UUVCWTlWV3dHc3N3RDlpWnJDdkZHUER4TWktaHByR3puWkZrQzRJenF5WXJLaGhZZjBFczAzMjlSc0Z0TDAxYm9IcEtmdzcyamo0OFI5WExZR05rOERMQ000d2c?oc=5",
+    "published_utc": "2026-11-25T20:11:51+00:00",
+    "published_kabul": "2026-11-26 00:41 (کابل)",
+    "importance": "کم",
+    "relevance_score": 30,
+    "relevance": "مرتبط",
+    "category": "اقتصاد آمریکا و دلار",
+    "archived_at_utc": "2026-11-25T20:46:04.074558+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "US readies tariffs over manufacturing capacity, production concerns - Supply Chain Dive",
+    "summary": "US readies tariffs over manufacturing capacity, production concerns Supply Chain Dive",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdjN4bkVnb19hOU5ZQTJaU0RPN043TWpLcThYdGIxdndFa0U3SFZOcWhNMl9oVk9YeFBJRy1CbDQwbm9RcnZKZnZKd0MydEhHMWViS0pFbUVFcDJrSFNlcExoV01abjFLUHJkYlpvNDFfczQxTUNLVWtOeTZVdnZYalFJZUFRVGM1b0VNdVd4NGpzYlgwMTg0TG1kbktaeU5tNVFvNkZRelJkVllQNWlwdw?oc=5",
+    "published_utc": "2026-11-25T16:52:04+00:00",
+    "published_kabul": "2026-11-25 21:22 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-25T20:46:11.870650+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Trump proposes a new wave of tariffs on China, E.U. and other trade partners - NBC News",
+    "summary": "Trump proposes a new wave of tariffs on China, E.U. and other trade partners NBC News",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSEhIWkhHU2FmSW5HZm1STUdfNlgzRWF6TXR1Njc2cDZ5SXF0RmVSY2NyS2tIQmJxWHlTZTJxVTg1bmI5YzcxemluVXFFdVZEUW1xUHZuTXhQN2ZaTjVtMzl0bEdwcGFNTFR5aU0wLTY3cDVJbnpXMjVQVWItMUoyOGVQakp1OHpocUlJWmc3ZWxZM1NHUWFiT2NsMXA2TXM?oc=5",
+    "published_utc": "2026-11-25T13:58:10+00:00",
+    "published_kabul": "2026-11-25 18:28 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-25T20:46:18.877969+00:00"
   }
 ]
