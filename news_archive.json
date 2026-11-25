@@ -11596,5 +11596,62 @@
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-25T15:15:50.736089+00:00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Precious metals extend losses, silver down over 6% - Breakingthenews.net",
+    "summary": "Precious metals extend losses, silver down over 6% Breakingthenews.net",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeEFuQWZlT0tMcUZRQkJtVjJJX3F6VGY3UDZLZ0tCcGRMZTR1RzBCS09mTkNNLWxFMlNsUkVuanFMcmg0RHMxT1h1S1NLal91OWdfNGlQYnJHYXlXUUduSnJQOE9rX3pHQ3VENlpjcVdGNmVTMTB0ZHlLTDRmUDFUeXpjUG5yM2FOdVMxZ1NhRWFVZ2JIMDRMeg?oc=5",
+    "published_utc": "2026-11-25T15:25:00+00:00",
+    "published_kabul": "2026-11-25 19:55 (کابل)",
+    "importance": "کم",
+    "relevance_score": 45,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-25T16:30:55.824843+00:00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Precious Metals Extend Sell-Off as Gold and Silver Retreat - Caspian Post",
+    "summary": "Precious Metals Extend Sell-Off as Gold and Silver Retreat Caspian Post",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOGpZdzhHY1gzelFOTllJYWhDdmxzYTkxSjR0NWRTNzNZWTJYQ3dPOHBWSWk2T3FvYkhQUE4ySTFjYkhfTW4ySGxaZmhheVFRY2pNZjNONGVWVmF6dDUxUFRUR041X01EZjBUcWZ3ZzdHUEs1c1lCdFFZQkh2LUVSaTUyYjFlT2dZeTVkcnZVU2MwTVozYlpn?oc=5",
+    "published_utc": "2026-11-25T16:04:59+00:00",
+    "published_kabul": "2026-11-25 20:34 (کابل)",
+    "importance": "کم",
+    "relevance_score": 45,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-25T16:31:03.213206+00:00"
+  },
+  {
+    "source": "Economic Reports",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Economic Reports"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Wall St set for lower open as AI losses deepen; inflation, tariffs weigh - Yahoo Finance",
+    "summary": "Wall St set for lower open as AI losses deepen; inflation, tariffs weigh Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNekxNUWtOR1pxOTJPX2dfTUhyWW4teS1oQUY4V0ZsNHZwV2d4a2NWU280b0hYSWhyNFEydWxhTWdrbXpKendCTUx3RS1FT2V1NmJlRzdPOFIxcG9tdXQwMGN1QWhsanpHUWhCbHl3TFEwQUtmWVZtWGhSVFhjRXh1Vm5GYzVsQVdWSE4tOXNYaFZKQk82TzNB?oc=5",
+    "published_utc": "2026-11-25T14:19:07+00:00",
+    "published_kabul": "2026-11-25 18:49 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-25T16:31:12.137058+00:00"
   }
 ]
