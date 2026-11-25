@@ -10967,5 +10967,24 @@
     "relevance": "ارتباط محدود",
     "category": "بانک‌های مرکزی و نرخ بهره",
     "archived_at_utc": "2026-11-25T11:15:33.198548+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "China warns US against imposing new tariffs - Hong Kong Free Press HKFP",
+    "summary": "China warns US against imposing new tariffs Hong Kong Free Press HKFP",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNmE0ZXBxdEVzZy0wS3NwUjU5RUxjdGtvMVlEVTYtVy1HWXNUS3pUdmtTdXg4ZV9qdHJNZkQ3Z0ZYZTV2TEhMNncxOHk5NkhUMmVsUGhBc05OdXEtZUJ6VWx0clB0U3FYc01STUpKckkzUXBPX2w0NWNNNzNYd1NuUTFhRng?oc=5",
+    "published_utc": "2026-11-25T10:41:06+00:00",
+    "published_kabul": "2026-11-25 15:11 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-25T11:30:51.385017+00:00"
   }
 ]
