@@ -13079,5 +13079,62 @@
     "relevance": "ارتباط محدود",
     "category": "انرژی",
     "archived_at_utc": "2026-11-25T22:30:52.877422+00:00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "$100 Invested In Wheaton Precious Metals 5 Years Ago Would Be Worth This Much Today - Benzinga",
+    "summary": "$100 Invested In Wheaton Precious Metals 5 Years Ago Would Be Worth This Much Today Benzinga",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOU01UbDhEMk1CeWd5UUczM0R5TnU3eGFCOVVuSzY5MjF6a1Jreks5RGlRaG5BR2FUVHhxOWtPX0VhT2VMXzRlbFcwTk9yaTZzbExDc3owVG02TE9CWE9JbHRfNTJMTnpncnVDZHNCdzh1RERYVFJpMzhQZUhQWHd6c1Jja3NXWU1kblY2aWJZSkRJR0tWZ1hzNzBoWkpWSkJVMzI3MkRNV1pueGhTVUV4ZTdkYmhLVnh6aHRZ?oc=5",
+    "published_utc": "2026-11-25T22:30:13+00:00",
+    "published_kabul": "2026-11-26 03:00 (کابل)",
+    "importance": "کم",
+    "relevance_score": 45,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-25T22:46:02.202416+00:00"
+  },
+  {
+    "source": "Forex and Central Banks",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Forex and Central Banks"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Gold Falls to $3,544 Ahead of Inflation Data as Markets Await Fed Rate Decision - BigGo Finance",
+    "summary": "Gold Falls to $3,544 Ahead of Inflation Data as Markets Await Fed Rate Decision BigGo Finance",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE53LUpHS0doTU5yTy1MWGljbFhtcW01XzJLcXFDOXpnaVZpMzk1Mjg0aWRjZGFRTktPUVdqTVVKZFNBbXZ0R2dMRWl0SFdMOWxHeERKUUZDSVZFTFg0OHR0SHlzU05kUFZJR01Pc0FCR3hQUGRoMnc?oc=5",
+    "published_utc": "2026-11-25T04:35:00+00:00",
+    "published_kabul": "2026-11-25 09:05 (کابل)",
+    "importance": "زیاد",
+    "relevance_score": 75,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-25T22:46:10.002822+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Trump just can’t quit tariffs - Vox",
+    "summary": "Trump just can’t quit tariffs Vox",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRC1tMmdMNFlzMWdEZU80WndWSHZ4Q04yQ1RfZ3MtT0tWVzFMYV9DS1ptUEJBQXBCSnNkOF9TVDZmcjNlSkdqZU9GbFZmcEhQa2x5R19kSF9SRFhIQmgxR0dselpGUkV5QXVXNFZEVlFOeEVld2hRZS1oOEQ3b0ZNbklqeGRzV01Ga0hr?oc=5",
+    "published_utc": "2026-11-25T22:35:00+00:00",
+    "published_kabul": "2026-11-26 03:05 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-25T22:46:17.644316+00:00"
   }
 ]
