@@ -12908,5 +12908,62 @@
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-25T21:45:48.578524+00:00"
+  },
+  {
+    "source": "Economic Reports",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Economic Reports"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "PCE Inflation Hits 3.8%. Strong GDP Growth Raises Odds of More Fed Hikes. - Barron's",
+    "summary": "PCE Inflation Hits 3.8%. Strong GDP Growth Raises Odds of More Fed Hikes. Barron's",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDV3l4a1ZBY2w0MVpXQnhtVlJtOHJTNm92X093d0NmMHpVT3NlT0M2bzMxM2FLdjI1a1A1VHpJaktUMHJzdkxQckV4clA0REtxckMzVlMzTU9IalAyckFnREowRVl4UkFXMDlpamNseXR1dGZPTlFxX1UzNDVabWM?oc=5",
+    "published_utc": "2026-11-25T15:07:00+00:00",
+    "published_kabul": "2026-11-25 19:37 (کابل)",
+    "importance": "زیاد",
+    "relevance_score": 30,
+    "relevance": "مرتبط",
+    "category": "اقتصاد آمریکا و دلار",
+    "archived_at_utc": "2026-11-25T22:00:38.898429+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "U.S. unveils proposed tariffs on major partners, including EU and China - Canadian Affairs",
+    "summary": "U.S. unveils proposed tariffs on major partners, including EU and China Canadian Affairs",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORnp3eHdMRlE1bl94RDRQR19iNFJHZktWT1d6WEZ3clQzRmhtaURtWl9iaG9BWERUU2FCblNTejFUTW44d2RHLWFuM2syT3ItZERoaUpLNy1veUJwUjRPTGtjbDk0Qk5sT1JUNDg5YTViSHg0RGxYYUFQLUJybDFHZDlTaDRrblJrOGpJWFFmNnNWSlJEWFB4ZTZmMXJjbnlIVTNyRHFjYmtOd0xJaVdIT2FMQU4?oc=5",
+    "published_utc": "2026-11-25T21:44:16+00:00",
+    "published_kabul": "2026-11-26 02:14 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-25T22:00:46.632500+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "For Shoe Brands, More Tariffs Are on the Way - WWD",
+    "summary": "For Shoe Brands, More Tariffs Are on the Way WWD",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVmNNZlFQNzJzSW1UdzVENm5NazhJOXpYZUt1R1NkNTJDZTdwa1NRNmNqYzZzM3VNUHJPZUdiUzRORjVhSEVHX2pCZ19id2hGMzdUVnAxX1ZpVnZyUjcxV1gxREYtdk5YRXZRNGpvSEEzanhMZFhwQUZTcW5zVWlyLU1rc2w4ZDZlUjFWeHdRQ0VYbXByUnh6eS02RW44aGZzRmlBR1BGQ2U0dTZFYWlrWU41QzV4UHhF?oc=5",
+    "published_utc": "2026-11-25T20:51:38+00:00",
+    "published_kabul": "2026-11-26 01:21 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-25T22:00:53.641416+00:00"
   }
 ]
