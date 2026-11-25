@@ -9809,5 +9809,24 @@
     "relevance": "ارتباط محدود",
     "category": "بانک‌های مرکزی و نرخ بهره",
     "archived_at_utc": "2026-11-25T01:00:53.850673+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Trump administration preparing new tariffs on China, EU, others to replace duties Supreme Court blocked, AP sources say - WTOP News",
+    "summary": "Trump administration preparing new tariffs on China, EU, others to replace duties Supreme Court blocked, AP sources say WTOP News",
+    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMGFNR0RQbFNlUE5acHozc3cxZGNwMU9VNHNtdFMzRWFQUnplR3hPWENFOWJ0X0dJNVE5WGNqaUpWVmFRS2xLWU5meGpkUnRWX21mMWQyRFo5eEFzSHF0bFBfb1M1bGJvcWNyYzlXOF9ob1NXZTVBR3BEVFIxMTI1TVNHamQ0YkFfeFdPT2h1S01MS3ZZLUxHZms4dzF6dTFLY1NDUXp1R19UNjVNTS1oci1raDF5RXV1dXF5d0llWGY4ZkMwWnlsZmxVdXdJSTRUOXE0dlBCaXo1VmZoQXlzWkVsUm96QQ?oc=5",
+    "published_utc": "2026-11-25T00:52:45+00:00",
+    "published_kabul": "2026-11-25 05:22 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-25T01:15:31.493632+00:00"
   }
 ]
