@@ -10103,5 +10103,43 @@
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-25T03:45:32.429009+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Oil prices falls to 3-month low due to supply - Inspenet",
+    "summary": "Oil prices falls to 3-month low due to supply Inspenet",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB4UlpjWTVrMVU1QmxOT2xpNlkwSnRfcjd6Y3dFQ3AwMHZWa0RJRUIwcFhtVWVZeURQSUFmTTI5cTVqV2FjcTJpMEdibFc3SzZlY0xFaGdxNFY4OHlDcWRKUENDdFI1VHZSM2ZKaC0yYTNXY0o3aUpWdw?oc=5",
+    "published_utc": "2026-11-24T15:31:33+00:00",
+    "published_kabul": "2026-11-24 20:01 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-25T04:45:48.528128+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Oil Prices Fall as Supply Glut Concerns Offset Middle East Disruption Fears - US News Money",
+    "summary": "Oil Prices Fall as Supply Glut Concerns Offset Middle East Disruption Fears US News Money",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQS0N3b19XdFhseDRPbUtqTVd0OExRX19ZM0F4V2RWLWNVYlYxaEZBWkl4SHpwV2M3VFZodlVfTUlmTFh5dFlKVDAwdXVxdFNfNDZQMk5FdTg5OEdPcUtjXy1oVFAybzUxNGVNUGdXMWxSb2R6R0cwZWJPR25YTlRzMGhjUlZNZ0VHM2xCcnd3ak5aUXhaTWVfdzV0YVV6eTNxZ0ZyZlRndkRSNkF1WElQWEZVYUhYekNrdm5vV1FiZ2Z1TlVINllaZXFTVVpSVno5?oc=5",
+    "published_utc": "2026-11-25T02:44:57+00:00",
+    "published_kabul": "2026-11-25 07:14 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-25T04:45:56.271179+00:00"
   }
 ]
