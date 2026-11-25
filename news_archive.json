@@ -9828,5 +9828,24 @@
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-25T01:15:31.493632+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "The Diesel Crunch Isn't Over Yet - Crude Oil Prices Today | OilPrice.com",
+    "summary": "The Diesel Crunch Isn't Over Yet Crude Oil Prices Today | OilPrice.com",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWUNXbXVhb0Z4clA0M1dtZkkydzI5VWxmR21weUdoZnZTaDhzVHRYMVdtRUVzMmxyMmx2V3ozSWxVc2lvLXMxY2dkZ2JKWVpBZjhoQlZDR3IzQ3RwNVkwRHZMRDkycFJRaXVvM2dDbDNOZWpnRW1OSUhNcUhGcjZnRTNyXzN3LUJ0Zldz0gGLAUFVX3lxTE5ZQ1dtdWFvRnhyUDQzV21mSTJ3MjlVbGZHbXB5R2hmdlNoOHNUdFgxV21FRXMybHIybHZXejNJbFVzaW8tczFjZ2RnYkpZWkFmOGhCVkNHcjNDdHA1WTBEdkxEOTJwUlFpdW8zZ0NsM05lamdFbU5JSE1xSEZyNmdFM3JfM3ctQnRmV3M?oc=5",
+    "published_utc": "2026-11-25T01:00:00+00:00",
+    "published_kabul": "2026-11-25 05:30 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-25T01:18:07.691054+00:00"
   }
 ]
