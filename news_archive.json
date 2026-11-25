@@ -11710,5 +11710,62 @@
     "relevance": "بسیار مرتبط",
     "category": "طلا و فلزات گران‌بها",
     "archived_at_utc": "2026-11-25T16:45:46.753668+00:00"
+  },
+  {
+    "source": "Economic Reports",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Economic Reports"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "The U.S. economy is ripping - Axios",
+    "summary": "The U.S. economy is ripping Axios",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAyX241T01zaFhDMUxqYUZuYkw0NG01UVItem1KcW1FdUk4QmlDaHV2cUl3YWNEd0V2QVVYSnBWcG5TSjVqLUI4RmJoZGJLUlRVMDY4bERGMXdGemlaeFRCVS1RaW54c29hZjlXVzl3?oc=5",
+    "published_utc": "2026-11-25T16:55:46+00:00",
+    "published_kabul": "2026-11-25 21:25 (کابل)",
+    "importance": "کم",
+    "relevance_score": 0,
+    "relevance": "ارتباط محدود",
+    "category": "اقتصاد جهانی",
+    "archived_at_utc": "2026-11-25T17:00:42.741329+00:00"
+  },
+  {
+    "source": "Economic Reports",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Economic Reports"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Gold falls 3% to more than one-year low after data shows US inflation rose further - Reuters",
+    "summary": "Gold falls 3% to more than one-year low after data shows US inflation rose further Reuters",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOV1p3ZkduX2FrdGJhMEMtbmNXNTgxN05HeDFsX2xxNDBkWXZQVkFWS3NzNFpITzZ2RnRyYXVZQ1k5bmthekYzdG9aSDVxcGZGS1RxMnNTTHNRRkQyQWFoWm1zNXVfd2hVQW96VHQ1ZFd4eU04cXNTRWk0cFJ4LS1PLUd1eUFmN3Y4ZjJQbXZpVkd3UQ?oc=5",
+    "published_utc": "2026-11-25T00:49:00+00:00",
+    "published_kabul": "2026-11-25 05:19 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 75,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-25T17:00:50.577995+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Dems 'gotta hit the ground sprinting' to STOP illegal tariffs, Iran war and more: NJ Gov. Sherrill - Modern Ghana",
+    "summary": "Dems 'gotta hit the ground sprinting' to STOP illegal tariffs, Iran war and more: NJ Gov. Sherrill Modern Ghana",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzeFZ2VkdwVE9pdHFiTnhrNUxwUV9vTjJVNGRKYmg0UTFaNU1veVVpQWFoUnpEY3MyWGY4NWtidkY1RldoS3M2UkZOTDZ2eXlsZTcxbURYcXIyRkpFYXpB0gFcQVVfeXFMT3RBYXQxeHJGZFFSUWhQUkdrVmx0VFRSRWJxZjExZlUydkt3X2Z3ZDk1SHkzbDF6OWJiOWZSVjRWaGRxVDFnYkFPbmdqTDlFNHFSdzc3YlUwcGF3VUE?oc=5",
+    "published_utc": "2026-11-25T15:20:00+00:00",
+    "published_kabul": "2026-11-25 19:50 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-25T17:00:59.035353+00:00"
   }
 ]
