@@ -3846,7 +3846,7 @@
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-21T11:45:32.006720+00:00",
-    "last_confirmation_utc": "2026-11-25T08:30:51.225404+00:00"
+    "last_confirmation_utc": "2026-11-25T09:15:41.689951+00:00"
   },
   {
     "source": "Oil Trade and Supply",
@@ -9586,7 +9586,8 @@
     "relevance_score": 45,
     "relevance": "بسیار مرتبط",
     "category": "طلا و فلزات گران‌بها",
-    "archived_at_utc": "2026-11-24T22:00:57.294877+00:00"
+    "archived_at_utc": "2026-11-24T22:00:57.294877+00:00",
+    "last_confirmation_utc": "2026-11-25T09:15:40.198031+00:00"
   },
   {
     "source": "China and Global Markets",
@@ -10716,5 +10717,24 @@
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-25T09:01:29.729458+00:00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Gold prices fall by Syrian pounds 50 per gram in Syria - سانا",
+    "summary": "Gold prices fall by Syrian pounds 50 per gram in Syria سانا",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9sQ1FVSExncUozS3c2Y2RLb294WVptOFU4WnJJT1Bwd1NPcFhoQy1RQm5fa2FiUTRZYkdUeHN4Q1VOemg0Q3J4VDlfTnU?oc=5",
+    "published_utc": "2026-11-25T09:10:09+00:00",
+    "published_kabul": "2026-11-25 13:40 (کابل)",
+    "importance": "کم",
+    "relevance_score": 45,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-25T09:15:37.066837+00:00"
   }
 ]
