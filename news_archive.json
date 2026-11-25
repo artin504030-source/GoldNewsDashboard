@@ -10391,5 +10391,24 @@
     "relevance": "ارتباط محدود",
     "category": "انرژی",
     "archived_at_utc": "2026-11-25T06:18:40.754334+00:00"
+  },
+  {
+    "source": "Forex and Central Banks",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Forex and Central Banks"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "US dollar steadies ahead of key inflation and growth data - سانا",
+    "summary": "US dollar steadies ahead of key inflation and growth data سانا",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1aMU9JWGhsdDMyRkVjbXhaSWlmNUhYN1JFM3UtOWJib2x6eUU0RGNfRHB5TXprYU5RWTNrU3liTXJ6bWV3OUZUeE5Qc1k?oc=5",
+    "published_utc": "2026-11-25T06:41:58+00:00",
+    "published_kabul": "2026-11-25 11:11 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 0,
+    "relevance": "ارتباط محدود",
+    "category": "اقتصاد جهانی",
+    "archived_at_utc": "2026-11-25T06:45:47.496581+00:00"
   }
 ]
