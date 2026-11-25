@@ -10179,5 +10179,62 @@
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-25T05:01:07.937046+00:00"
+  },
+  {
+    "source": "Economic Reports",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Economic Reports"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "African Markets Look To US Inflation As Tariff Talk Rattles Asia - Finimize",
+    "summary": "African Markets Look To US Inflation As Tariff Talk Rattles Asia Finimize",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcFdpLVJMcTlINXN5dUNXa2xRMDBEWTREWEpweFBNQ05lUHZ6Nm5BTGItNG5kLUtkbl8weGhEdkw3ZjhPZXhpRlhwR0ZVQzhRR0RybVVzZXlRMF9qR01YaWNZendsOW9vWjYtaHdzQVZ3NlNBOEtZY2tsbndIWGpPQ1lGYllDa1p5SmowZkNEQVRVSkUzUWF5dQ?oc=5",
+    "published_utc": "2026-11-25T04:50:35+00:00",
+    "published_kabul": "2026-11-25 09:20 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 46,
+    "relevance": "بسیار مرتبط",
+    "category": "اقتصاد آمریکا و دلار",
+    "archived_at_utc": "2026-11-25T05:15:54.351584+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Oil prices continue to decline on global markets - Apa.az",
+    "summary": "Oil prices continue to decline on global markets Apa.az",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOR09mLXFrMlBZSjVScVZaT1hxRTItU1l0MTNmSmNGVUlTdDlfU3h3cE4xNEhTTmZjZERaRGU5clRZZEtTZHpnRVY4Q0VXSlR2LUtqYURjdmJiOWd1MjdtakZlckhzVlJZWWV0OXViMzBpWGcwSUUxc1otZnREbzNYNWh2dUExMGljRG1kaE55RnZpQXk2WEN1LQ?oc=5",
+    "published_utc": "2026-11-25T05:02:00+00:00",
+    "published_kabul": "2026-11-25 09:32 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-25T05:16:03.737586+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Middle East Oil Exports Help Drive US Gas Prices Lower - cwibc.co.id",
+    "summary": "Middle East Oil Exports Help Drive US Gas Prices Lower cwibc.co.id",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5NNEExLU9nQXdFSWFyczc1LWNhZF9oWFIwTF9DVWVOX3NERnVha1hCNjhsNWV0UW0yakZJcTJGcXNTM1hWUFFPcS1CQnE0Nmdwdjd2SmJGd2k5NXVYcEd6VG1BeTJES0Q1?oc=5",
+    "published_utc": "2026-11-25T05:09:59+00:00",
+    "published_kabul": "2026-11-25 09:39 (کابل)",
+    "importance": "کم",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-25T05:16:11.102642+00:00"
   }
 ]
