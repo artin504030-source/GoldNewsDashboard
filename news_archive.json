@@ -12013,7 +12013,8 @@
     "relevance_score": 16,
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
-    "archived_at_utc": "2026-11-25T18:15:45.419783+00:00"
+    "archived_at_utc": "2026-11-25T18:15:45.419783+00:00",
+    "last_confirmation_utc": "2026-11-25T19:00:47.135271+00:00"
   },
   {
     "source": "Geopolitical News",
@@ -12166,5 +12167,62 @@
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-25T18:45:49.262297+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Federal trade officials propose new sugar tariffs to protect Red River Valley growers - WDAY Radio",
+    "summary": "Federal trade officials propose new sugar tariffs to protect Red River Valley growers WDAY Radio",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQk1aWG54cklqMG9KNEw3YXpVQlFCVjNUQWNDeVJBTTV2TGFtaDFTWllvaDZWYTNpdVdxUkExbFRfRkhvRy1XNGFWTm5MQ05XYTk2aGg5VmJSS05qMFlGREZOaFBEMzU2TUZ1RTlfMnhRV3o2bDVDWFpSU2lENzBzSlVQOUtsY0hTWDltb1BPUjdiT2RWZUdObF9KNTBEVmw5YlNTbW9iRkQydThybTJtemk2bTBkTzNMNlFsdGlaYURZZ0hENXhhV2hZME9wRlk?oc=5",
+    "published_utc": "2026-11-25T18:09:18+00:00",
+    "published_kabul": "2026-11-25 22:39 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-25T19:00:44.009263+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Trump administration proposes new set of tariffs that could hit billions in seafood trade - SeafoodSource",
+    "summary": "Trump administration proposes new set of tariffs that could hit billions in seafood trade SeafoodSource",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRkw0OFI4NU5waEE4TGhYWkt0NFdkeXQyamttYnVJWUxLRk5lWHM5c1pHUkdLUmNvTmJxODBjQnUxV05Ud0ZkMVNYbDUwTTFlTHZiRG4wTWU1Y2gwX0JtZWRObE1rc0stOGVVYXVmSjhXOGlwanctaGtYMVljRGoxZVE4V1VSWlgxNG1tenR4ajlXZW9nRnM3bmZfUThIeTY0aXBrUkZxck02aE8tbzl3ZkpibUF5RmhfdTBxTGtTZFdHQQ?oc=5",
+    "published_utc": "2026-11-25T17:26:26+00:00",
+    "published_kabul": "2026-11-25 21:56 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-25T19:00:51.376599+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "New Section 301 tariffs target China, EU and 12 other trade partners - InvestmentNews",
+    "summary": "New Section 301 tariffs target China, EU and 12 other trade partners InvestmentNews",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOblRrU3dPQkl4LV9FM3NSSk5laGMyU1g0U2xtRGRpMTdkSk5yNC12Y1QwUk5LVENLaDZyV2x3R3pZSW1BSjVPd2RxVkxaTXc2VzBCNmdyWTAtM2xIdDBvVmNYZkJPZXF6SHhZbGFCejZfb2dJaTYtOU5mZW9jYjAtREsybFJ4WnMtbHh1SVNISG9xRFNrT1J5ci1QbHhGMlhBMlNkSW00VGp6dk1BOTRrc2pWS08?oc=5",
+    "published_utc": "2026-11-25T14:06:14+00:00",
+    "published_kabul": "2026-11-25 18:36 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-25T19:00:58.506756+00:00"
   }
 ]
