@@ -12224,5 +12224,62 @@
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-25T19:00:58.506756+00:00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "YX Precious Metals posts third-quarter profit decline to two-year low - Traders Union",
+    "summary": "YX Precious Metals posts third-quarter profit decline to two-year low Traders Union",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMjF5STFZVlBxSEdlN29CRTlndEtYZ1NXN0pNNGc0bkppS1dGcVpmNUs5WDBHZHdaSmxNdXZFbFVjQnE4LVNwbERmTEd2SXhDN2UwWFhFVHhpUTdERGlwYVpCdV9Eek5zYVNCZnRvYkJmSzZrMW1mb0VIUzhIZnZyNXQzY0pIZlY4eDlCU1JuQWU?oc=5",
+    "published_utc": "2026-11-25T12:55:45+00:00",
+    "published_kabul": "2026-11-25 17:25 (کابل)",
+    "importance": "کم",
+    "relevance_score": 45,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-25T19:15:27.883895+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Trump Proposes New Tariffs On Dozens Of Countries - Forbes",
+    "summary": "Trump Proposes New Tariffs On Dozens Of Countries Forbes",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdFlWUnBXeDFWZ1dVX2FNSTRXcENzSzd6WEJrZ1AxVWlYWFE4Q1N2N1VTeUhQdDRNUVBja3JLUUx6RzYwVncyeDJWNU1EQ1cwNjdTYWZGUzBkWkhjMDlZQVB6X0RGTVpzODI1VDhiYXU4VDZudXFTT2p5dVNaOWtuRFVzZWY3VGFPdWNuU01zNzBQS0p2U3NLbFFDM29TVTNUYVhCMFZURlRHdkdUcUplTnNHYXJ4dUZmcHc?oc=5",
+    "published_utc": "2026-11-25T14:37:45+00:00",
+    "published_kabul": "2026-11-25 19:07 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-25T19:15:36.375770+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Could potential US tariffs put the US-China trade truce at risk? - South China Morning Post",
+    "summary": "Could potential US tariffs put the US-China trade truce at risk? South China Morning Post",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOM2c2Y1A4a095TUY0T21rYVAyV3k3a1VkS3Y0TTJEQll1RUxVZUR4MTViaUJZR2gzcUVpQ1NmQklkZnFWakNSMVMtYmpBVXBtdm1GaERwbUdTb0c5dUl1Z3BTWTd6Ny1Ld3ZqOFVVVXZJcW1jVThiSG4wYTZ0SDlFcGRDT295YUlQR2FCUzBfT0hycVZIOXdmbUx3R1hhdXhPcWVmTnEwWFhncVlPdHlLbGtQamdBRknSAbcBQVVfeXFMTUE4aUJvMXROQ2hGMVFRbkt5ZDZuNnBVMXdvdmphc3hWQk1DbjR1cVgtd2VBSWJObnY3OWNGeEVaQ2ZqRGRZbXp2RWpnek8yNFVIcERCMHVVbkdpV2x4OEdMYU9YOVdlYXJDZWZJVFhhaFUzWG5BR2FwR01MdHNyQVN6bEl6UGxmamdIZkFmZjdKdURCSFhtcVRDY053TU9pbWtQOFNXNEtuQjNPaUJreEVXQy1IVGVV?oc=5",
+    "published_utc": "2026-11-25T13:39:44+00:00",
+    "published_kabul": "2026-11-25 18:09 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-25T19:15:43.239866+00:00"
   }
 ]
