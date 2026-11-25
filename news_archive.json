@@ -7579,7 +7579,8 @@
     "relevance_score": 45,
     "relevance": "بسیار مرتبط",
     "category": "طلا و فلزات گران‌بها",
-    "archived_at_utc": "2026-11-24T05:45:38.371582+00:00"
+    "archived_at_utc": "2026-11-24T05:45:38.371582+00:00",
+    "last_confirmation_utc": "2026-11-25T06:00:44.060680+00:00"
   },
   {
     "source": "Energy Shipping Routes",
@@ -10275,5 +10276,62 @@
     "relevance": "ارتباط محدود",
     "category": "انرژی",
     "archived_at_utc": "2026-11-25T05:30:42.211305+00:00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Gold, silver prices: Why are precious metals falling? Expert shares key levels to watch - Business Today",
+    "summary": "Gold, silver prices: Why are precious metals falling? Expert shares key levels to watch Business Today",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZVhMSkxjWXYySWk5eVBRM3lTdkhjc280YWdQLUVkZm5Ib0NVUTJwTy1jbDhLcGw0M29TT01WMHA0WXIzNXFJeUZrbDFQSmJVUG4yaks3MHlxaXJXU2dGbFVHTFB3dENSaVdHN0l6bExiMDNaNnF4NVB4V0NDaVQyaHozSXRQZE0tV0sza1R1ZUpEa1lkX2J0MkZBLXpTUVJXUjU4aUNFOTdfQkdzS3NSVXlTYUtJaFQ0Uzg4X2ZJajMyaUd4SGtmNl84UHRGN0Jzd1FyV3JDbGxlT3hxX3fSAeMBQVVfeXFMTkxqbVVnbWxQb190LVRVQWh0TnVRX2dTeXdkaFNUcFFfc3k4dUVTU3B5M09RTVB6WEw5SlBpNXR4VVFQNkFOZVI4VGJHX2RES1M1T3RHckxGWG5aOWJ6NHdjSmUyM3o1QWdoQktqNld6N2I4TmJpc2xTLTNDLUlQY3IteDFRalYwVmsyTkktci11dmZMY2RzWmhEeVk1b2w3NHJJSnVHaFlKT2RxM2x1d2tRYXhGR0FXa3MyVW55M3haTTFrQjlBdDFiaXhQZTh1TU1vRFNubHBnWW1pbFFtM0U4V1E?oc=5",
+    "published_utc": "2026-11-25T04:45:30+00:00",
+    "published_kabul": "2026-11-25 09:15 (کابل)",
+    "importance": "کم",
+    "relevance_score": 45,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-25T06:00:41.006307+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Azerbaijani oil prices rise on global markets - Apa.az",
+    "summary": "Azerbaijani oil prices rise on global markets Apa.az",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWTdhNU9CNFZiWGRleGRwQy1QY1d5RG9LSkU3b2cyalQ2emRLMUVDTHUtUkZXUmNNLUxjR3k3dWFnRm1IbVowamhZMlJtckZoaFNWRGt5YjBjVmFpN0pEbTV6YmFjWk9QTllyTGtTRFFObnlpTUowNTZrVG1jUnFFRUw3bGZ6cVN1NEQwZVhUczNQN3k3?oc=5",
+    "published_utc": "2026-11-25T05:39:00+00:00",
+    "published_kabul": "2026-11-25 10:09 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-25T06:00:50.681748+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Oil Prices Slide Despite Mounting Threats in the Strait of Hormuz - Crude Oil Prices Today | OilPrice.com",
+    "summary": "Oil Prices Slide Despite Mounting Threats in the Strait of Hormuz Crude Oil Prices Today | OilPrice.com",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTzVja24xOVQyZ3ZCb0dkN2xfUWpJMGQzQWEyeGJxUmVyZDNSU0FoTmhUbnVXajE1LVB2c0VDT2F0M3ktQkpNczJ5RW03ZlF1RE5LQzEzTGUzdEJSZ0RQVE9KTWViSGNPMHUzbWJGSGs5cmlJVGNwMi1rNnUyVWd1a1dRdUZUMi1NUWl5UUVfcTdLazJ4UVBRMzF1bWUtZnh5M01uMXVEbVVaWWZVaXFYUG02MNIBuAFBVV95cUxQLVVobEFZYkg3aDlyY1Fmc3RZYmk5NnpGN00wb3hkUkRQbldmRVZCVG1ORXFRM3FLeGZEQzZDQmFhWUhoRTFXNEZpa21zZ0F5RnVuUXgyMjhYS0gzRl9xNlU1b25jTW5zemg4X0hPRXI5TEI0NnI2MVp6dV9lbTAyUG1GZzZ5a2ZhaWQxWHBrbC1vRy1RcmVsN0dHTW1sZk81dUl1UkI4anctVXh3OXlYbkttcGRPWGcw?oc=5",
+    "published_utc": "2026-11-25T05:50:00+00:00",
+    "published_kabul": "2026-11-25 10:20 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-25T06:00:58.416048+00:00"
   }
 ]
