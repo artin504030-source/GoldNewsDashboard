@@ -15880,5 +15880,26 @@
     "archived_at_utc": "2026-11-26T15:31:09.732782+00:00",
     "telegram_message_id": 1550,
     "telegram_chat_id": "@Gold_Channel_00"
+  },
+  {
+    "source": "Economic Reports",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Economic Reports"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "What to Expect From November’s Eurozone Inflation Data - Morningstar",
+    "summary": "What to Expect From November’s Eurozone Inflation Data Morningstar",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZEh0Zi1nNTJBUmNpSkpQdkdnMGRLVEZvRXFNaXp2WTZKNWxHRDd4MHpxd2ZpeGhBVUJydUg2bXY5eEFDblV5WlB5ZzY4QnQ5R21ZZERDOFlNUlRoMnJlLTBuQlZfRVk3eVFWVldEYjVWTHhxUXM1TGF2OFlBTWVqd281Mms0YWVrR3c1bk1KY1VWU1kx?oc=5",
+    "published_utc": "2026-11-26T15:31:18+00:00",
+    "published_kabul": "2026-11-26 20:01 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 0,
+    "relevance": "ارتباط محدود",
+    "category": "اقتصاد جهانی",
+    "archived_at_utc": "2026-11-26T15:45:31.642710+00:00",
+    "telegram_message_id": 1554,
+    "telegram_chat_id": "@Gold_Channel_00"
   }
 ]
