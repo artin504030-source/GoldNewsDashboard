@@ -11412,7 +11412,8 @@
     "relevance_score": 45,
     "relevance": "بسیار مرتبط",
     "category": "طلا و فلزات گران‌بها",
-    "archived_at_utc": "2026-11-25T14:31:03.325845+00:00"
+    "archived_at_utc": "2026-11-25T14:31:03.325845+00:00",
+    "last_confirmation_utc": "2026-11-26T20:45:49.197283+00:00"
   },
   {
     "source": "Geopolitical News",
@@ -16325,6 +16326,27 @@
     "category": "طلا و فلزات گران‌بها",
     "archived_at_utc": "2026-11-26T20:30:47.816677+00:00",
     "telegram_message_id": 1639,
+    "telegram_chat_id": "@Gold_Channel_00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Major US Trading Partners Respond to Trump’s New Tariffs - Bloomberg.com",
+    "summary": "Major US Trading Partners Respond to Trump’s New Tariffs Bloomberg.com",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdHhkU2VvcmNqQzVQc0ZGYnIzOUUyZ2sxaXY0bThYVF9UbEdnYk9WM0x5SVdQZ3Etc05qbGpFWXFoU0taZUFCeUZKZWpDWEN6OUxBaE4tRFBIbXF5X2c4VFUtT3puVWFYbEFRSm54MTU2YkxST2E1anVJVDRBQ1dmLXdkdklOcG91aFpOXzNPdTA5TWM0QUJKbldQS0lHckF5SzBHSHNacFdTeTczcEpB?oc=5",
+    "published_utc": "2026-11-26T17:38:50+00:00",
+    "published_kabul": "2026-11-26 22:08 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-26T20:45:55.333975+00:00",
+    "telegram_message_id": 1640,
     "telegram_chat_id": "@Gold_Channel_00"
   }
 ]
