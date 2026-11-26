@@ -16348,5 +16348,26 @@
     "archived_at_utc": "2026-11-26T20:45:55.333975+00:00",
     "telegram_message_id": 1640,
     "telegram_chat_id": "@Gold_Channel_00"
+  },
+  {
+    "source": "Energy Shipping Routes",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Energy Shipping Routes"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Iran Claims Two Tankers Hit Mines In Strait Of Hormuz. But Oil Traders Are More Worried About Too Much Crude. - Yahoo Finance",
+    "summary": "Iran Claims Two Tankers Hit Mines In Strait Of Hormuz. But Oil Traders Are More Worried About Too Much Crude. Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMVJhN0RXUFdEUWlzM1EtMDZwRzhNODJOSnRjcng5czA2V0JFNk54ZE1KOHRzdlZ6a05zcHVJYlRuMWNncEd1MTZIdEJJeHZDa0F5NVVuUWxJbzR1V0cwV2dCUDhRaFFnejdsZWRuUVJoaVhmSVp2V3dKLXY5SkIwc0xhTk9uY1A2NS16bg?oc=5",
+    "published_utc": "2026-11-26T12:13:27+00:00",
+    "published_kabul": "2026-11-26 16:43 (کابل)",
+    "importance": "کم",
+    "relevance_score": 28,
+    "relevance": "مرتبط",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-26T20:52:30.722273+00:00",
+    "telegram_message_id": 1642,
+    "telegram_chat_id": "@Gold_Channel_00"
   }
 ]
