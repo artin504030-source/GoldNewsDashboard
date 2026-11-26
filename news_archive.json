@@ -14763,5 +14763,62 @@
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-26T08:31:22.785152+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "New Tariffs on China Could Undermine Trade Truce with U.S. - WSJ",
+    "summary": "New Tariffs on China Could Undermine Trade Truce with U.S. WSJ",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWUcwQ3JjLUlNWjhSZnFuYWMzVEFGd0RMR2lZT2VmWUdBejNHckpxbWFSb0lsTUNuTzktdm9qTk94eTgxMXFRQkplOTdZZkFDSEVaUkVZcWFfb1lEMTNEVzFHd013bXhoRFU4ajZjOTB0UXFhM1FacVliRVdqcFY5dG11UURVYmFZang5ZEpaZEVCazhBMjFz?oc=5",
+    "published_utc": "2026-11-26T08:42:00+00:00",
+    "published_kabul": "2026-11-26 13:12 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-26T08:45:49.006811+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "'Unacceptable': Major economies push back against new US tariffs - France 24",
+    "summary": "'Unacceptable': Major economies push back against new US tariffs France 24",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSzlzNkVzNEdFVU9tanZOU0tVbWJxVW9oV2VueklTWlU5bDNSbFFLNkRzbEZlRGVJVnkzWjk5cGdLZzdmXy1PNmtHTHROU0VPY1ZSdk1QUmVZWVYzQ0xSWXhHUWxtVXd4M0xvSHRpNFNiNkdWMm9sRW16ZjktcEg5dnl6bWx1a0pKRlo2bXl4VE1yNTlqTVpnTFF6WVJhd2dWSlhXQVhMek55Nkk?oc=5",
+    "published_utc": "2026-11-26T07:16:41+00:00",
+    "published_kabul": "2026-11-26 11:46 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-26T08:45:56.276985+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Oil Rebounds as Middle East Supply Risks Return Ahead of a Critical OPEC+ Decision - kalkine.co.uk",
+    "summary": "Oil Rebounds as Middle East Supply Risks Return Ahead of a Critical OPEC+ Decision kalkine.co.uk",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZGtIRUVPN2dVdUVKV2lLclJ4YjBXNlZpU3M4Q0w2eVg0THpoeTM4T294dW81T2RZV0ZhRWJDRWVmNVhPT2xuUUVCZXdRVVdXWjhHQjI1ZWpSdkxDaFNla1BTRlpnUHRFMmF3cnllbzhkQVNsNzgtQnV6SVowallncVhYb1ZSMnp0d0ctcnBNUkYwWFNaeHZLMkp0QVRFcUhpN0JKX2xqZVpzVTAwcDFibjdLY2hVRUxBdEtnWWN3?oc=5",
+    "published_utc": "2026-11-26T07:28:00+00:00",
+    "published_kabul": "2026-11-26 11:58 (کابل)",
+    "importance": "کم",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-26T08:46:05.714824+00:00"
   }
 ]
