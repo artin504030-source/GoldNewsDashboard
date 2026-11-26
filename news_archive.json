@@ -15712,5 +15712,68 @@
     "archived_at_utc": "2026-11-26T14:46:29.302763+00:00",
     "telegram_message_id": 1493,
     "telegram_chat_id": "@Gold_Channel_00"
+  },
+  {
+    "source": "Bank of England",
+    "source_status": "منبع رسمی",
+    "confirmed_sources": [
+      "Bank of England"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Payments systems Memorandum of Understanding",
+    "summary": "We use necessary cookies to make our site work. We’d also like to use some non-essential cookies (including third-party cookies) to help us improve the site. By clicking ‘Accept recommended settings’ on this banner, you accept our use of analytics cookies. For more information on how these cookies work please see our Cookie policy .\n\nThe Bank of England (BoE), the Financial Conduct Authority (FCA), the Prudential Regulation Authority (PRA) and the Payment Systems Regulator (PSR) (together “the Authorities”) have a joint-authority Memorandum of Understanding (MoU). The MoU continues to set out the high-level framework the Authorities use to cooperate in relation to payment systems in the UK. The Financial Services (Banking Reform) Act 2013 requires the Authorities to review the MoU annually. During 2023, the Authorities carried out their eighth such review.\n\nSenior representatives from the BoE, FCA, PRA and PSR have together considered whether co-operation between the Authorities, pursuant to the MoU, is working well. This process has been informed by feedback from industry. Overall, the Authorities have concluded that the MoU continues to work well. The Authorities have exchanged expertise, information and data related to regulated activities. The Authorities continue to work together closely on issues of common regulatory interest and seek to avoid duplication in their requirements and engagement with industry.\n\nThe Authorities have identified areas for future co-operation and co-ordination, including revisions to the MoU regarding proposed stablecoin regulation, embedding the reforms from the Financial Services and Markets Act 2023 (FSMA 2023), as well as further enhancing the sharing of information and data. These will be undertaken during 2024 and beyond. The Authorities will also continue to work, as needed, with the Treasury in its preparation of a National Payments Vision.\n\nBack to top",
+    "link": "https://www.bankofengland.co.uk/news/2024/march/payment-systems-memorandum-of-understanding",
+    "published_utc": "2026-11-26T15:00:00+00:00",
+    "published_kabul": "2026-11-26 19:30 (کابل)",
+    "importance": "کم",
+    "relevance_score": 22,
+    "relevance": "ارتباط محدود",
+    "category": "بانک‌های مرکزی و نرخ بهره",
+    "archived_at_utc": "2026-11-26T15:00:51.257746+00:00",
+    "telegram_message_id": 1528,
+    "telegram_chat_id": "@Gold_Channel_00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "OPEC, Allies Face Tough Choices as Surplus Builds, Hormuz Risks Persist - WSJ",
+    "summary": "OPEC, Allies Face Tough Choices as Surplus Builds, Hormuz Risks Persist WSJ",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ19ETWdNTkIydlFuaDNsSGNHR3R6VmtyT0J5T3VKa0w3Mm9LLVdsd3UtM3hJT3RkWGdiTWlJS29TQzRxLWxjcDdBb2hCS1B6MG4yMU42c2hNSnprdVkxZmY1cU9VLWFCRDFtUUdRZkhqTTc3Ujd1YlpsQXlCdS04TnA2X2xtTjBYR0xhaVVqR0JIUGdWM3I3clBqcXB1OWlCZE5KcnFXWXp3MFVDZGc1OXhoOTJTdVQxZXc?oc=5",
+    "published_utc": "2026-11-26T13:27:00+00:00",
+    "published_kabul": "2026-11-26 17:57 (کابل)",
+    "importance": "کم",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-26T15:01:01.690808+00:00",
+    "telegram_message_id": 1529,
+    "telegram_chat_id": "@Gold_Channel_00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "OPEC+ likely to roll over oil output targets for Q1 as capacity disputes persist, sources say - Reuters",
+    "summary": "OPEC+ likely to roll over oil output targets for Q1 as capacity disputes persist, sources say Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRWNNN09tM1phcUhhRlFRRTlHaW0yYU5fQUxJUVFEZjl5cEdhaHRnOGNwRkl6QUZTWEhNeU16Vnk5bHhNQ3JSd0FXNDlHZkdDVTV4ZkVsbUpQUFV4VWdobEhfdlpHOUt4SEJadFRpNHlYZTZRZFdBaEZKYnUyTHJ0eHlyWjE1a1FjenhuYWtoZHJJSHVPYVhjSlprNF81NkNiMlpQNUpBcy1kcHd3eEFaRjZHczhHV3RIWlJRaHZOQlBXUQ?oc=5",
+    "published_utc": "2026-11-26T14:39:21+00:00",
+    "published_kabul": "2026-11-26 19:09 (کابل)",
+    "importance": "کم",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-26T15:01:09.724028+00:00",
+    "telegram_message_id": 1530,
+    "telegram_chat_id": "@Gold_Channel_00"
   }
 ]
