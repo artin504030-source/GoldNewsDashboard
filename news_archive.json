@@ -7581,7 +7581,7 @@
     "relevance": "بسیار مرتبط",
     "category": "طلا و فلزات گران‌بها",
     "archived_at_utc": "2026-11-24T05:45:38.371582+00:00",
-    "last_confirmation_utc": "2026-11-25T06:00:44.060680+00:00"
+    "last_confirmation_utc": "2026-11-26T05:00:46.448212+00:00"
   },
   {
     "source": "Energy Shipping Routes",
@@ -14149,5 +14149,62 @@
     "relevance": "ارتباط محدود",
     "category": "انرژی",
     "archived_at_utc": "2026-11-26T04:45:49.007272+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Vietnam races to sign US trade deal after Trump unveils new tariffs - Yahoo News New Zealand",
+    "summary": "Vietnam races to sign US trade deal after Trump unveils new tariffs Yahoo News New Zealand",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9CNUpwQktmWFZQVHVfdkFfSXRSM2tIZGpFNnBMZzI0Y3o4eFBUeG1BMGl1RkpDWTZUSmR0LV9ZVlBDMGRJMXh1cktvdVFNbDlCbHhSVU1ubUpHYkV6UklNbUxvZHBtQ0NDMmlacENiOUZFbEpDQzYw?oc=5",
+    "published_utc": "2026-11-26T04:44:00+00:00",
+    "published_kabul": "2026-11-26 09:14 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-26T05:00:52.698406+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Trump Administration Announces New Tariffs Targeting China, EU, and 12 Other Trading Partners: 14 outlets compared - NewsCord",
+    "summary": "Trump Administration Announces New Tariffs Targeting China, EU, and 12 Other Trading Partners: 14 outlets compared NewsCord",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcl94dWtCdmViNUd6QUdWaDcxNU5PUFlab1NGV2lKdUh5NzFHUFBMM2ZobkJGU1B6UTI2NTlQYUZhbDNJVWJQQWwwTDFmRGY2X2pQOXdBbkVyTlc3ZzZEN0xKRWVtMDcwRE5IMzNjbzlDS1hwZW0zQnpxM25lRG9ZdTRFTkEwVkxSOWhnbElDZEJ1al9fU1dBakE2LWdONTV0by1YYU1Uc0lORmtSQno4b0ktYmFLeTlYQkRVTzdKZHZCWE91LUQ1dFlEeFJpWXBuZVZubU1EdWFDZzlTb1FRSVlkdWpOd1Z4N2c?oc=5",
+    "published_utc": "2026-11-26T04:37:17+00:00",
+    "published_kabul": "2026-11-26 09:07 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-26T05:01:00.194090+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "US proposes new tariffs on China, Japan, Taiwan and nations across Asia - Yahoo Finance",
+    "summary": "US proposes new tariffs on China, Japan, Taiwan and nations across Asia Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaUVYZ3lVVk1MSy1vOFVhRmZNTElYbVJPYXh5dVZXajB2c2g1dDRLMVprcWNCQzA3SHVxRTZGMUFQdzdfcVl4Ti1MR2RXOVJiZXJPTU9yUmhHS3o0em44TlQ5MkVOdVpvZzNsSUN2Sm1YWHYxdWFQRkdvS0NraU5RMG9tbjRsd2lyWUZIZzViWi1NSmMzUHpPOHlfd0M?oc=5",
+    "published_utc": "2026-11-26T04:06:00+00:00",
+    "published_kabul": "2026-11-26 08:36 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-26T05:01:07.535530+00:00"
   }
 ]
