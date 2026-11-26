@@ -15901,5 +15901,47 @@
     "archived_at_utc": "2026-11-26T15:45:31.642710+00:00",
     "telegram_message_id": 1554,
     "telegram_chat_id": "@Gold_Channel_00"
+  },
+  {
+    "source": "Economic Reports",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Economic Reports"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "US Inflation Hits 3.8%: Will the Fed Raise Interest Rates Again in December? - TradingView",
+    "summary": "US inflation is putting fresh pressure on financial markets as October’s latest Personal Consumption Expenditures (PCE) report shows price growth accelerating faster than the Federal Reserve would prefer. Headline PCE inflation reached 3.8% annually, while core inflation climbed to 3.3%, its highest level in nearly three years. The data complicates the Fed’s December policy decision, particularly as economic growth remains resilient.\n\nWith investors already reassessing technology valuations and interest-rate expectations, the latest inflation figures raise a bigger question: could the Federal Reserve deliver another rate hike before the end of 2026?\n\nCore PCE Inflation Raises the Biggest Concern\n\nThe latest report shows that inflationary pressure is becoming more persistent rather than fading toward the Fed’s 2% objective. While the monthly headline increase moderated, core PCE accelerated annually, suggesting underlying price pressures remain difficult to contain.\n\nThe Federal Reserve closely monitors PCE inflation when assessing progress toward its 2% target. The latest core reading therefore gives policymakers another reason to remain cautious about easing monetary policy.\n\nStrong US GDP Growth Complicates the Fed’s Decision\n\nInflation is not the only challenge facing policymakers. The U.S. economy expanded at an annualized rate of 4.3% in the third quarter, significantly above the earlier estimate of 3.4%. Consumer spending and business investment contributed to the upward revision. Consumer spending increased 0.3% in October, while stronger investment in equipment and technology continued to support economic activity.\n\n🚨BREAKING: US inflation rises to 3.8%, but underlying inflation comes in lower than expected at 3.1%!\n\nMeanwhile, fewer Americans are claiming unemployment benefits than expected, and personal incomes are rising faster than forecast.\n\nInflation remains stubborn, but the US… pic.twitter.com/HufXIwCUCo\n\nThis combination of resilient growth and elevated inflation gives the Fed less reason to rush toward interest-rate cuts. At the same time, policymakers must consider whether additional tightening could weaken economic activity or intensify pressure on businesses and households.\n\nDecember Fed Rate Decision: Another Hike Is on the Table\n\nThe Federal Reserve’s December 8–9 meeting is becoming increasingly important for investors. The central bank currently maintains its federal funds target range at 3.75%–4.00%. Following the latest inflation report, financial markets have priced in a strong probability of a 25-basis-point increase, potentially taking the range to 4.00%–4.25%.\n\nUPDATE: 🇺🇸 Market expectations for the December Fed decision:\n\n-> 97.8% expect a 25 bps rate hike\n\n-> 2.2% expect no hike pic.twitter.com/SoZGBjxg37\n\nHowever, policymakers remain divided over the appropriate response. Fed Governor Christopher Waller has indicated that a larger increase could be considered, while other officials have advocated a more measured approach. The decision will also include updated economic projections, offering investors a clearer indication of how policymakers view inflation and interest rates heading into 2027.\n\nWhy Rising Inflation Matters for Nasdaq and AI Stocks\n\nThe inflation outlook has direct implications for U.S. equities, particularly high-growth technology and AI stocks. Higher interest rates increase the discount rate applied to future corporate earnings, potentially putting pressure on valuations. Companies whose share prices depend heavily on expectations of future growth can become particularly vulnerable when Treasury yields and borrowing costs rise.\n\nThat creates another challenge for Nvidia, AMD, Micron and other semiconductor companies already facing questions over AI valuations and infrastructure spending.\n\nIf the Fed signals further tightening, technology stocks could face renewed valuation pressure. Conversely, a more cautious policy outlook could provide relief to growth shares, although persistent inflation would remain a concern.\n\nWhat Comes Next for the US Stock Market?\n\nThe December Fed meeting is now the central event for investors assessing the direction of U.S. equities, bond yields and the dollar. The combination of 3.8% inflation and 4.3% economic growth makes an immediate shift toward monetary easing increasingly difficult to justify.\n\nFor Wall Street, the risk is that higher borrowing costs could collide with already elevated technology valuations. The next Fed decision could determine whether the recent pressure on Nasdaq stocks deepens or whether investors find room for another recovery heading into 2027.",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUFhyYVF6clphakpIUWg4aUl3d3p2YnhYek5IZlhLMEQybmpsTUFrazRhUzhYVzJYM3FpVDBRVkV3ZkwyNDIwZDVDdkx6d1ZKQlF4TnpGakxOOE00SEJYbUM0LWxlWk43UGZoUFJQMmFWUmExb19oVXhtZGFUaUJWdzFSdUVkMmtWWURZbXJmMUFoaDFjTW1wcG1zekJvTENIN0hodlV2WG5ubVI1RzROeTFXc0hQNlNYSzQ0REpQa3A5enpxaGZvZ3kxMklJZw?oc=5",
+    "published_utc": "2026-11-26T14:40:01+00:00",
+    "published_kabul": "2026-11-26 19:10 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 78,
+    "relevance": "بسیار مرتبط",
+    "category": "اقتصاد آمریکا و دلار",
+    "archived_at_utc": "2026-11-26T16:15:50.919993+00:00",
+    "telegram_message_id": 1562,
+    "telegram_chat_id": "@Gold_Channel_00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Oil prices rise after mine strikes on ships revive supply concerns - Reuters",
+    "summary": "Oil prices rise after mine strikes on ships revive supply concerns Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWHpfX3p2RFoxU2l0SGZVbVdSejdGYkc0NFpERWlxVEtab0pQbGd1NUtqQ3c0cXprdWItUF9fRmVVVElET3BNbklnbElwaC1UZ0xoNnd4dE9Wb2dFVDFGN2JyQ3YyUVhfTWxsNGFWNFNURG5kX1pMdVBtb2QyLXFMaXZPM0ZPdGdud1hWdHFuTEpNQXBtdUh6RmpWcW1jelhTU0JHdmp3dWphb0hB?oc=5",
+    "published_utc": "2026-11-26T03:08:00+00:00",
+    "published_kabul": "2026-11-26 07:38 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-26T16:15:59.680184+00:00",
+    "telegram_message_id": 1564,
+    "telegram_chat_id": "@Gold_Channel_00"
   }
 ]
