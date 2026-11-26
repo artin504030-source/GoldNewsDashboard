@@ -14304,5 +14304,62 @@
     "relevance": "ارتباط محدود",
     "category": "بانک‌های مرکزی و نرخ بهره",
     "archived_at_utc": "2026-11-26T06:00:52.911875+00:00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Gold prices slipped 2% below support level before bouncing back — Here's why the precious metal remains under pressure - Livemint",
+    "summary": "Gold prices slipped 2% below support level before bouncing back — Here's why the precious metal remains under pressure Livemint",
+    "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOUWZPYkFBNTYxTUZELXRVZ3RvbkdFQVFWY0xrTTByVnFFb2JCM0xlMWVLSm0zYlhOd0h2OFZtdHVweTFTUmpSTFZMN2xGWEg5Qzk2eDhvbjc4Y0NrdUktdDgzSDZzVGcyMVFDRGU4MVJQcEw5LXowNE1YN1FwUG1vdmhwdUtUVVNoRWtRbnF5OHoteDl1bkFCYjQxNVdvU0tXRVdIaDZrWGRpNHhJbGkyUHAzVHhqS1VxdjNaa0RqcTNZbktQS1Z6dFlDUlM3a2xVR0xHOVBxZ0VrQnhkVGdQSUhiMk9LRGUzOWdrYWhVRDZxejdZalR3TzBzMG5pQdIBgwJBVV95cUxPLUVXeHR0aVdMUXQtTkJmTGdzRklWVXgxNUExSi04bXFCdHdobGNtUXM3S1VESEVyV3NsTWpaaWNNajRhWldBanBfVGNGNFd0Y29OaFV6clpKNzVUMDFRRFVWVTBxWjNGemZWdEd3aWtKWTNJRXhpdFZRajZ6bG9Za1ZjUmFoTGxEMmNVbWJzaXo5X05WUGJtcHgzZy05cGV6U1pkOXhMNDNiYTRiWWY4dWhEcmMzdUktM1JyRGJ6SnFZUDRLUDgzQk9uNzZBRnFwTU5oZ0oyMEo3c1RfTmRlT01xNkZha3dkM19tQ09GQWZBZXpBV0RoVER3R2EyYmdQWk9z?oc=5",
+    "published_utc": "2026-11-26T05:49:43+00:00",
+    "published_kabul": "2026-11-26 10:19 (کابل)",
+    "importance": "کم",
+    "relevance_score": 45,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-26T06:15:51.878343+00:00"
+  },
+  {
+    "source": "Economic Reports",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Economic Reports"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "BoJ’s Tamura says must keep raising rates, as long as underlying inflation is around 2% - FXStreet",
+    "summary": "BoJ’s Tamura says must keep raising rates, as long as underlying inflation is around 2% FXStreet",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPalh4U2RKN3BOR2s4UVNNU0VHWjBYOHI1V1Z3UDc3cjZQRURYaHdzUlVLVFVyVHBCVzJVWC16ZXF3U0ljQmYxbUIxaS1TQlJsZkRJcVBnMmtkVDBSdGlIeVNxRWo1RUdIMU1mbWttNnF1WWtkUWVMNHVXSEJlWDJRRTRWdnhQeVg2NEJpd29paE9kRDFadjFESDlOR1hBSmNFN21lWGRUeG12a0RiYmJwb2lBc0xTRHNJOURTM2dGUHY3Y0htZEE?oc=5",
+    "published_utc": "2026-11-26T05:59:21+00:00",
+    "published_kabul": "2026-11-26 10:29 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 22,
+    "relevance": "ارتباط محدود",
+    "category": "بانک‌های مرکزی و نرخ بهره",
+    "archived_at_utc": "2026-11-26T06:16:00.546531+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "U.S. to hike tariffs on China, EU, Brazil and others over subsidized factories - Santa Fe New Mexican",
+    "summary": "U.S. to hike tariffs on China, EU, Brazil and others over subsidized factories Santa Fe New Mexican",
+    "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQZVZqTnY1UE9TLWNyNGlUaHltb3pKX21WaU1SVkRSLWVTVzFKZWktNC0xaDNqdmtjam9WTzZRTUpQQlV5WnpSY0hQbWZiLU44V3pBRFFZUHpwUThlS2VlWjU5TFhOampna3RPNW91Z3VJMVBIaF9sQlB2aW1aZ3daLU16YnYzUHVlUkcyYnBSYUVNSDJpQ3VHdHhzZXJzSmNsN0xHem1nZnU5ZGg0aERyUlJiLXlib21MRGUtZnYxWlRZY211WUtPM2s3NUVtTHZBVzdQX3pkZWNwMzJLY2psX2VnbWp5OUZTaWpEZmVVNFJ5dllzNTJ3SW8zSUFxUjZILWhicml5S0xGU2tUazRqaTJMbGRGb0E?oc=5",
+    "published_utc": "2026-11-26T06:06:00+00:00",
+    "published_kabul": "2026-11-26 10:36 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-26T06:16:08.839704+00:00"
   }
 ]
