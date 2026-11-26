@@ -14820,5 +14820,62 @@
     "relevance": "ارتباط محدود",
     "category": "انرژی",
     "archived_at_utc": "2026-11-26T08:46:05.714824+00:00"
+  },
+  {
+    "source": "Economic Reports",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Economic Reports"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "US PCE Inflation Rises to 3.8% in October; Will the Fed Hike Interest Rates in December? - Kotak Neo",
+    "summary": "US PCE Inflation Rises to 3.8% in October; Will the Fed Hike Interest Rates in December? Kotak Neo",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcTJQeWhhXzNOWVUwSjE4Q1VRR05lcGVyd3NRcW1idWdIWlU0SXh3ajJaNTJ1dndSdW5pZ3ZMLWVjWDB0U01TNnZWQVhnV1VCUzlGaTFyXzVoUThBLWJkVC1zQW1Gb0FTM1JWSTFYcHNfNGRfd2NZWGRMcDBrUDUzdEJOUTN1Ym4yb3lIYkZKaU80SzBGOE5OVHZfdExVcS1KNnN4UlhLYjBuRDVXUWhPV1hmZnFpQjUtR1JrRm5QdndCUTZNcm1jTnhxejh3dnNrQWp0d0VPekNCMU0wTVpTVGR5YUc?oc=5",
+    "published_utc": "2026-11-26T03:26:15+00:00",
+    "published_kabul": "2026-11-26 07:56 (کابل)",
+    "importance": "زیاد",
+    "relevance_score": 52,
+    "relevance": "بسیار مرتبط",
+    "category": "اقتصاد آمریکا و دلار",
+    "archived_at_utc": "2026-11-26T09:01:05.874918+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "China accuses US of ‘political manipulation’ amid fresh threats of tariffs over ‘industrial overcapacity’ - Anadolu Ajansı",
+    "summary": "China accuses US of ‘political manipulation’ amid fresh threats of tariffs over ‘industrial overcapacity’ Anadolu Ajansı",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRDVVQ3ZnTzRlOUhvUVhzVUZrTHZGbFpGZXZDLWhWRHdLd2tLdDBZandoSExWWF9pVHdRc3FwUHhaUlF0a0tyMkpBQWtHc2xZQ2duM3E3OWJULWVHOV9YNU9Pc3FxS2N4Y3JMaDhfTG9NeWdrcHp2RmRGTmRhRHJObmw0VVV5UTBtbThSTGhKa2NWMmRCandkX0lJVkNKYVhjTXJLaEg2UjVaTkpkclNmX1F2dmFQUVY0eEI2bkpqdHdLcG03MjdnRGotekM4Umc3R0NDOENDNS1FOUd0R2Y5NjN3?oc=5",
+    "published_utc": "2026-11-26T08:54:31+00:00",
+    "published_kabul": "2026-11-26 13:24 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-26T09:01:15.065163+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Oil Prices Mixed as Traders Weigh Middle East Supply Risks, OPEC+ Meeting - WSJ",
+    "summary": "Oil Prices Mixed as Traders Weigh Middle East Supply Risks, OPEC+ Meeting WSJ",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMG9zX0RPUEVtQjFwX3JjTHJlTGZQMHY0OGtiTXRlbE9Kam5MLUdKTlJmdXgyaFZJSWdiWFZtbWVzQXlqTkp1ZzF6d0UwaEg1U09FY2xHbl9hM1FVYWZubGlndHJ4ZzlsMHNDZThVczU0VEpvTFZONGZZdXd6ak5zV1RBRnRQaTk2dU01bFJsYkQzMzAyTVNkcFNCYWxDYkNrNkpLeEpmZWFIWmVTNDZHTUxFTTFYckVpM1NjeQ?oc=5",
+    "published_utc": "2026-11-26T08:28:00+00:00",
+    "published_kabul": "2026-11-26 12:58 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-26T09:01:24.933172+00:00"
   }
 ]
