@@ -7350,7 +7350,8 @@
     "relevance_score": 45,
     "relevance": "بسیار مرتبط",
     "category": "طلا و فلزات گران‌بها",
-    "archived_at_utc": "2026-11-24T02:45:32.342292+00:00"
+    "archived_at_utc": "2026-11-24T02:45:32.342292+00:00",
+    "last_confirmation_utc": "2026-11-26T03:45:23.892020+00:00"
   },
   {
     "source": "Gold Market",
@@ -14015,5 +14016,24 @@
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-26T03:30:59.580528+00:00"
+  },
+  {
+    "source": "China and Global Markets",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "China and Global Markets"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Stocks rally in Asia, unrocked by US tariffs - Yahoo Finance",
+    "summary": "Stocks rally in Asia, unrocked by US tariffs Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPa09oWTlvekdOUXlkVXcxUGNFcHY3cDdKdWtLMlNpYzJpdHpaQUVKbkxBckJCUGt5RWYtVHM5VkZhQkZacTFRNHMzdG8xSmRIclRoYUhOZDgtbThXYWFrTHdLdncwWjItTUMxRFZ3RkV4czRqc2hUd2RRUFJXWXBaWlhJdlBHTkFoMEV1OTFXWEczS2Fja3FVZUcySlVpSnV2SmFN?oc=5",
+    "published_utc": "2026-11-26T03:17:00+00:00",
+    "published_kabul": "2026-11-26 07:47 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-26T03:45:32.648278+00:00"
   }
 ]
