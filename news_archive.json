@@ -16519,5 +16519,47 @@
     "archived_at_utc": "2026-11-26T22:01:02.084269+00:00",
     "telegram_message_id": 1664,
     "telegram_chat_id": "@Gold_Channel_00"
+  },
+  {
+    "source": "Economic Reports",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Economic Reports"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Bank of England says mortgage payments will soar for homeowners in 2027 - The Independent",
+    "summary": "Please refresh the page or navigate to another page on the site to be automatically logged in Please refresh your browser to be logged in\n\nSwipe for next article\n\nWant to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today.",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTzNIMmNjMVc5RWlsMjZ2M1daRlo3LUw2Tm9JZmdzbEFqekx5UDhLT1VyQVRoc2VOeXhjNHhvQkNtOUZJc29rOHB0VDRBMWRCdUUxWENvc1ZyeUxuTm0zU3JITGVEaG02ZDc3U1VCMmFHbDFuWG9HUDlGdmRjTTctSXcwVklRQ3JEbU5pMDZPQjQ3alJzQ2RMNW5lREpzUGlQYWJz?oc=5",
+    "published_utc": "2026-11-26T18:10:00+00:00",
+    "published_kabul": "2026-11-26 22:40 (کابل)",
+    "importance": "کم",
+    "relevance_score": 22,
+    "relevance": "ارتباط محدود",
+    "category": "بانک‌های مرکزی و نرخ بهره",
+    "archived_at_utc": "2026-11-26T22:15:32.429697+00:00",
+    "telegram_message_id": 1666,
+    "telegram_chat_id": "@Gold_Channel_00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Watch How Canada May Be Winning Trump’s Trade War - Bloomberg",
+    "summary": "Watch How Canada May Be Winning Trump’s Trade War Bloomberg",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNzJ3STJlSnpxSTZLaWJfNFoxazBkSGpTUFhJMmd3d1JjUDNMZVNMUmRWRUxQYXZ4OU9uemhoSmNwQ1ZqYTZ0d2pnTUltY3g5aUZUSXBMZzZYYTdsbHAteDEyYnlMYTNMY1NfYW0xZGlUVkV3cURQd3dsZ3ppbDNfX3lqRjNuemVPTTZyTEsxVEotRk5sMzFtQ3V5UnkzY28?oc=5",
+    "published_utc": "2026-11-26T22:04:18+00:00",
+    "published_kabul": "2026-11-27 02:34 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-26T22:15:40.464455+00:00",
+    "telegram_message_id": 1667,
+    "telegram_chat_id": "@Gold_Channel_00"
   }
 ]
