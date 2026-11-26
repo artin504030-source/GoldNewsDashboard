@@ -15927,7 +15927,8 @@
     "category": "اقتصاد آمریکا و دلار",
     "archived_at_utc": "2026-11-26T16:15:50.919993+00:00",
     "telegram_message_id": 1562,
-    "telegram_chat_id": "@Gold_Channel_00"
+    "telegram_chat_id": "@Gold_Channel_00",
+    "last_confirmation_utc": "2026-11-26T21:15:27.734903+00:00"
   },
   {
     "source": "Oil and Energy",
@@ -16390,7 +16391,7 @@
     "archived_at_utc": "2026-11-26T21:01:04.188661+00:00",
     "telegram_message_id": 1646,
     "telegram_chat_id": "@Gold_Channel_00",
-    "last_confirmation_utc": "2026-11-26T21:01:37.660424+00:00"
+    "last_confirmation_utc": "2026-11-26T21:15:36.518192+00:00"
   },
   {
     "source": "Geopolitical News",
@@ -16411,6 +16412,27 @@
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-26T21:01:34.518561+00:00",
     "telegram_message_id": 1647,
+    "telegram_chat_id": "@Gold_Channel_00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Kushner Says Putin Shows No Interest in a Ceasefire, Calls Ukraine War a Proxy War - Around Prague",
+    "summary": "Kushner Says Putin Shows No Interest in a Ceasefire, Calls Ukraine War a Proxy War Around Prague",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQclg0TDNzVWJzX0xFYUxxN3RJLVZqQ1RoUzJFSFlTLU1xaVRNb2tORUZaNWxSWUxNaWN0MWdnRVZ2d1QxLXpQY0hIYXNqWF84dS1neU5oTWQtR0ptUFZfa2QxemNxR2FNME9fV01XajhzZU1UV3RSZXIzSUwyVW45MmVPNGdqQ0NlTzNuSTBuVEsyZEJVYXB3bW02ZW9FdUwxLWdCZ05UZjZ5eWwwZ0dIa3lzQXBGUQ?oc=5",
+    "published_utc": "2026-11-26T20:26:30+00:00",
+    "published_kabul": "2026-11-27 00:56 (کابل)",
+    "importance": "کم",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-26T21:15:33.451818+00:00",
+    "telegram_message_id": 1651,
     "telegram_chat_id": "@Gold_Channel_00"
   }
 ]
