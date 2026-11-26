@@ -15324,5 +15324,68 @@
     "archived_at_utc": "2026-11-26T11:15:47.830679+00:00",
     "telegram_message_id": 1395,
     "telegram_chat_id": "@Gold_Channel_00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "U.S. targets China, EU, Japan and others with new tariffs citing overcapacity - The Japan Times",
+    "summary": "U.S. targets China, EU, Japan and others with new tariffs citing overcapacity The Japan Times",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNmh6MnZFMm1TYm1Uc2xCZDk4OEJKRjluYlV0TUl5blVHTVcwQS02MFgxc1VTQ0UzNWxIREUxN3puRExHRkdOUUY0b25tUFhYbW1oVkdPRERfdlpvSnNrT2dmTENueVgzaEh6UExTZGZ2ajE0RGhzX2gxd0dXRWNaUDkxVmVqXzRZNmc?oc=5",
+    "published_utc": "2026-11-25T23:10:00+00:00",
+    "published_kabul": "2026-11-26 03:40 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-26T11:30:55.799538+00:00",
+    "telegram_message_id": 1406,
+    "telegram_chat_id": "@Gold_Channel_00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Oil prices drop to three-month low of Sh11,568 per barrel as supply fears ease - The Eastleigh Voice",
+    "summary": "Oil prices drop to three-month low of Sh11,568 per barrel as supply fears ease The Eastleigh Voice",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUWw5VjVTTTZpZmYyQnZPbkM3UDRILU9UblB3RTV5Ym00YVJKaGs0RVlIVFBjM0x2U2tKNUdnXzZVa1k5akdlQzlxOXcwTElYbDZ4YnA1TkVzQllTb3hIaDhjZ2VhZHpXSmdMd29wUFhSRjUwaGV3Vl9QVjhtZm5DYUdfVWkwazRFWl9OeE5rSDMyWXlFend6MV9uNjBDZnNiWmNod3FvVzJuODJ5X0tFXzgtdVJJQ1UtXzg4SFU0QQ?oc=5",
+    "published_utc": "2026-11-25T17:39:18+00:00",
+    "published_kabul": "2026-11-25 22:09 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-26T11:31:03.871527+00:00",
+    "telegram_message_id": 1407,
+    "telegram_chat_id": "@Gold_Channel_00"
+  },
+  {
+    "source": "Oil Trade and Supply",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil Trade and Supply"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Suspected Fake Iranian Oil Tanker Signals Hormuz Breakout, Exposing Gaps in US Maritime Blockade Monitoring - Business Upturn",
+    "summary": "Suspected Fake Iranian Oil Tanker Signals Hormuz Breakout, Exposing Gaps in US Maritime Blockade Monitoring Business Upturn",
+    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPMXppV1ZRcndIMVNySTRHMzYxdDhyUWpPTERQLUk3cVRrRnRJeElsdWxPZXI5RVdjeHNyd2VMMVZJRjhYNmNzeEZYTEdjZEFVQnJadW9zWlB6alhuOE1aSU03MXcxS1V3cXhPem5qejMtZVF3cVJJM3p2dFRRajdSbXdlUlR0QWZTV1dsdFdSczZRQ2pyaEtFNExCVmFOYmNEbzB5VW5lbFV5VkdDV25UZXYwU1h4NDNBX0g5clBFMDRFdzFzQUpNMlE1R01aOXB1QXVHbGVlREFsOGZWV3c4YVp2Rm5JQ08wb001VW1lZ0thWEFvNGc?oc=5",
+    "published_utc": "2026-11-26T10:59:41+00:00",
+    "published_kabul": "2026-11-26 15:29 (کابل)",
+    "importance": "کم",
+    "relevance_score": 28,
+    "relevance": "مرتبط",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-26T11:31:13.453883+00:00",
+    "telegram_message_id": 1408,
+    "telegram_chat_id": "@Gold_Channel_00"
   }
 ]
