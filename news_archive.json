@@ -13897,7 +13897,8 @@
     "relevance_score": 16,
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
-    "archived_at_utc": "2026-11-26T02:00:54.476646+00:00"
+    "archived_at_utc": "2026-11-26T02:00:54.476646+00:00",
+    "last_confirmation_utc": "2026-11-26T02:46:00.309896+00:00"
   },
   {
     "source": "Oil and Energy",
@@ -13917,5 +13918,43 @@
     "relevance": "ارتباط محدود",
     "category": "انرژی",
     "archived_at_utc": "2026-11-26T02:30:39.516040+00:00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Wheaton Precious Metals Corp (WPM) Stock Forecasts - Yahoo Finance",
+    "summary": "Wheaton Precious Metals Corp (WPM) Stock Forecasts Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeHFiN3NkYlhxWDdQcnd2MktLUjRkY2lDZ3ZpTERsb1llQ013OGdaSE1UcGJCd2Ntck9tRmtsMjZIR3NUcGRTWnpfZmtScVA3YnNrMEZYOGtKaGstN3d0NnRabzRPOUpoa0V0NGQ4SU1CNkxRbDlZbEhBVTZQa1ZjZHJydEliczJnUnU4ZnJrTQ?oc=5",
+    "published_utc": "2026-11-26T00:21:43+00:00",
+    "published_kabul": "2026-11-26 04:51 (کابل)",
+    "importance": "کم",
+    "relevance_score": 45,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-26T02:45:45.982329+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "For Trump, doubling down on tariffs is about power, not popularity - Reuters",
+    "summary": "For Trump, doubling down on tariffs is about power, not popularity Reuters",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUGF3UXNuQWFId2NPaERJLTVlLUhkQlp0WGpPNWRaamVTN3BmVFc5YkY3NVkzNHhJLUx6aTN4c2hZVnRucS13S1hMVlJWMEhzNllrYjJDSzczMndmRm5EeUhreW1qb0dpUG1HdTBrdnUtdGRLdFRVaDBWcFFEOXBsZ3gxMXlMNjJFbWk4ZzVtYXF3bWF2Z2NzZ3dTMmE5THV4VGdnRw?oc=5",
+    "published_utc": "2026-11-25T23:31:00+00:00",
+    "published_kabul": "2026-11-26 04:01 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-26T02:45:54.265747+00:00"
   }
 ]
