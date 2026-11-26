@@ -15048,7 +15048,8 @@
     "relevance_score": 12,
     "relevance": "ارتباط محدود",
     "category": "انرژی",
-    "archived_at_utc": "2026-11-26T10:01:12.284059+00:00"
+    "archived_at_utc": "2026-11-26T10:01:12.284059+00:00",
+    "last_confirmation_utc": "2026-11-26T10:45:41.253580+00:00"
   },
   {
     "source": "Oil and Energy",
@@ -15146,5 +15147,43 @@
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-26T10:31:14.059929+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Trump’s China Tariffs Raise Threat of New Test for Trade Truce - Yahoo Finance UK",
+    "summary": "Trump’s China Tariffs Raise Threat of New Test for Trade Truce Yahoo Finance UK",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdlE0RUZrQzNuNFZaa3JfT3JEUld6MERQanRUbS1ja0l4U3pqOWZaS0luclllY3lCS0t0NHh4QUhYblBfaGhyX3ZtR0Jpdzh5UGVHZndKeU5LUklfeUR1SGNjOWJnSzMtZnh0cHBVVlNVR1NRMVR6OGlHcDVOS2tzVjNaWW1jM3Rv?oc=5",
+    "published_utc": "2026-11-26T03:45:00+00:00",
+    "published_kabul": "2026-11-26 08:15 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-26T10:45:30.540858+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Trump Riles Trade Partners With Tariffs That Undercut ‘China+1’ - Yahoo! Finance Canada",
+    "summary": "Trump Riles Trade Partners With Tariffs That Undercut ‘China+1’ Yahoo! Finance Canada",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONDVkZE0zc0RXenJzaEIzLUFfUGM0TVN4TlJ5WDl1SXNrOFpnY1A0bWs1VU9Bc21vOTFSRWZmNlQtejdRVElHV2FSSXJIOEQ1eXdReVlhMFZxZEhDVWJKLURBWURLeEZDOURFM0hYX2ZUdktvNmJKWU1jMi1kUXJQenpPemVZangyNmJ3?oc=5",
+    "published_utc": "2026-11-26T08:05:24+00:00",
+    "published_kabul": "2026-11-26 12:35 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-26T10:45:37.655533+00:00"
   }
 ]
