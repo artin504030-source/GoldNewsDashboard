@@ -14129,7 +14129,8 @@
     "relevance_score": 12,
     "relevance": "ارتباط محدود",
     "category": "انرژی",
-    "archived_at_utc": "2026-11-26T04:45:41.889467+00:00"
+    "archived_at_utc": "2026-11-26T04:45:41.889467+00:00",
+    "last_confirmation_utc": "2026-11-26T05:31:13.075116+00:00"
   },
   {
     "source": "Oil Trade and Supply",
@@ -14225,5 +14226,43 @@
     "relevance": "ارتباط محدود",
     "category": "بانک‌های مرکزی و نرخ بهره",
     "archived_at_utc": "2026-11-26T05:15:48.326180+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Russia Ukraine War - Bluefield Daily Telegraph",
+    "summary": "Russia Ukraine War Bluefield Daily Telegraph",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNY2dGM3RBWllTOEgxYlJSN3RqZW1ZOV94cG0zVFQySWQ2UlZMQ0hrdDE4T0ZDc0hUeVBXWUQ5elNLVnlIcDZlSWdVQzlqUjVOcDNtVlFwTDUxa2VPVHhpMWRIMW9BZFZmVHdGZF9lM3ZZRDU0QUQ4eUlxWVZTT1AtSTJ4OF9rbDlTaDFrV1pad0lhSlRlRXl4bDc3RURFeDh4X20xZThjbHZQNy1jRmFn?oc=5",
+    "published_utc": "2026-11-26T05:07:45+00:00",
+    "published_kabul": "2026-11-26 09:37 (کابل)",
+    "importance": "کم",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-26T05:31:00.910875+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Oil Rallies as Hormuz Mine Strikes Rattle Global Markets - Crude Oil Prices Today | OilPrice.com",
+    "summary": "Oil Rallies as Hormuz Mine Strikes Rattle Global Markets Crude Oil Prices Today | OilPrice.com",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOd3VWcGJsMERhMmJlY09wRFd5czQtNWg3UXNhVWxWSnB5dUhwVjlmM2NpOVBHWW9MV0d4YldGd1JfeXRJYlltTWl5aU9wUUFyLU5xNnlOdFZnU0JoTGhmZE8ycUZ0SzRHMEttVjBlb0pBUHl1cDEwOXI5b0hmZGs1ZDg0b2FBT2NVU3czT1VIR1AyR1VHeGVGWkZjVjBvb3VGaDBwQkotYkRJNUJTU0dhMTJB0gG3AUFVX3lxTE1mR0wtandFNjNmU2FtVTdzZWwwaklKWTM0R3FUb1RmdEp0Q29SclJCUEtpM3VoZ0x1azlZQXY2akdfV3FZbmRYYkVEeC12czEzUkZEZFllX1BaNGstMUo0emp4ZEVGMktESDhueHY5ZnN3alNOdDJJbGxEcHVXamVaeHN2ZEhFeGdKTkNwSFZ2TktneENSdmxhTy1rN1h4clpuNllTa0ZwZlc4OWhjSHdPbmpDMnNkNA?oc=5",
+    "published_utc": "2026-11-26T05:18:59+00:00",
+    "published_kabul": "2026-11-26 09:48 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-26T05:31:09.337934+00:00"
   }
 ]
