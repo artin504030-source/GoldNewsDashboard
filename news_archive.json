@@ -15628,5 +15628,26 @@
     "archived_at_utc": "2026-11-26T14:01:49.188345+00:00",
     "telegram_message_id": 1477,
     "telegram_chat_id": "@Gold_Channel_00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Trump’s Latest Tariffs Revive Focus on Pressuring China - The New York Times",
+    "summary": "Trump’s Latest Tariffs Revive Focus on Pressuring China The New York Times",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1odENQTk1RR0JMbTlRYWhYcnh6cGdvcktJUGVNZURvbUFtTHZ0end3RjhpclNNNEF0ZnZFTDVHTy1Vcy1jMF90U240MEZFUURvdkJDN3I2aE55R193X1VjVW9PaU5sVWZvU1Y4dmt5M3ZmeE1YcVE?oc=5",
+    "published_utc": "2026-11-26T14:00:33+00:00",
+    "published_kabul": "2026-11-26 18:30 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-26T14:15:56.938734+00:00",
+    "telegram_message_id": 1480,
+    "telegram_chat_id": "@Gold_Channel_00"
   }
 ]
