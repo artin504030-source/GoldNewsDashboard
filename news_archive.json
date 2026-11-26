@@ -15649,5 +15649,26 @@
     "archived_at_utc": "2026-11-26T14:15:56.938734+00:00",
     "telegram_message_id": 1480,
     "telegram_chat_id": "@Gold_Channel_00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Strathcona Resources Ltd. (TSX:SCR) Stock Declines 2.03%: Crude Oil Price Volatility and Production Risks Pressure Investor Sentiment - kalkine.ca",
+    "summary": "Strathcona Resources Ltd. (TSX:SCR) Stock Declines 2.03%: Crude Oil Price Volatility and Production Risks Pressure Investor Sentiment kalkine.ca",
+    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxONF9RYUFoZDhxV3FxX0p6RjZzeXU0UzFHYngySG1USUkyaTd3bm1fSHZacU94akNJMkJoZHB0TUZUcU5GcW1rd1Q5S1FqazJTYTZ1cHozYXk2VVdzRE5RSEFPRHdHTkJuZzliblJ2Ml9zM191NFYxMjViSjFkQ0pXLXMxY1Q0ODc5dDlyWThyTVdRYzhicVdVUldkb1FGcGxZSUtYQXJvdzhFUlczODdtS0lNcDQxUGwyMDNzeGo3RUVaSVVRZHZQVjdtb0swTEg5NTdFcUZNM19rWnBZczJQdHNleE5oaVpwWjFxZU53?oc=5",
+    "published_utc": "2026-11-26T13:42:00+00:00",
+    "published_kabul": "2026-11-26 18:12 (کابل)",
+    "importance": "کم",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-26T14:30:41.144421+00:00",
+    "telegram_message_id": 1487,
+    "telegram_chat_id": "@Gold_Channel_00"
   }
 ]
