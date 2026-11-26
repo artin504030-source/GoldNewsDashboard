@@ -13639,10 +13639,11 @@
     "source": "Oil and Energy",
     "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
     "confirmed_sources": [
-      "Oil and Energy"
+      "Oil and Energy",
+      "Oil Trade and Supply"
     ],
-    "source_count": 1,
-    "confirmation_status": "یک منبع ثبت‌شده",
+    "source_count": 2,
+    "confirmation_status": "تأیید چند منبع",
     "title": "UK Energy Price Cap Jumps 26% in January, Highest Since 2023 - Crude Oil Prices Today | OilPrice.com",
     "summary": "UK Energy Price Cap Jumps 26% in January, Highest Since 2023 Crude Oil Prices Today | OilPrice.com",
     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUHQtRVBxVWx1MFlZMzdPR2lDQjNVWFpDRENRbHpjY2o2ZzE1WGlxdlVMcURaRkhZSFlTem1kRkRnX0Z2TkNMajVlN3NKVWV5SkYxeXR0UnpsOG5XTWY2Q0d6S19OdkRoRk11U0lUZW83c0NaTHhobHFGMXRIVmp0ZVZYR0hXQjByd1ZFNXp0alpjQkJfNUJ3WENPbUJxTzdfcVpZbFZkdlB6ajY3Qjk2Mk9Da2TSAboBQVVfeXFMTlpGWDFJN2JkeWlfcm5GcTl0SGpZOE83ZEc2TUZLcFBxazNuU1lHTHlBWk0yamZ0YjZ4TllyUkpJOG1Rc20xQmhuYXNhaWs4aUEybW9nQUQxLVJvWkNaWnpnZEpCelVlUTJnYTdVMHMyX1BKU0RwalZldFVzY0lLeXFUcmdVUUg1OFRrQy1KYVhnS2drd3Uzd0ZMclFZMVhaYWdOc29SWWQ3U3lNUktHN1c2N3Z5d3V5ZWV3?oc=5",
@@ -13652,7 +13653,8 @@
     "relevance_score": 12,
     "relevance": "ارتباط محدود",
     "category": "انرژی",
-    "archived_at_utc": "2026-11-26T01:01:10.198512+00:00"
+    "archived_at_utc": "2026-11-26T01:01:10.198512+00:00",
+    "last_confirmation_utc": "2026-11-26T05:45:45.631954+00:00"
   },
   {
     "source": "Oil and Energy",
