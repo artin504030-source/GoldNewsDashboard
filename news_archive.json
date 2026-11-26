@@ -15028,7 +15028,8 @@
     "relevance_score": 16,
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
-    "archived_at_utc": "2026-11-26T10:01:03.434388+00:00"
+    "archived_at_utc": "2026-11-26T10:01:03.434388+00:00",
+    "last_confirmation_utc": "2026-11-26T10:15:36.654195+00:00"
   },
   {
     "source": "Oil and Energy",
@@ -15053,10 +15054,11 @@
     "source": "Oil and Energy",
     "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
     "confirmed_sources": [
-      "Oil and Energy"
+      "Oil and Energy",
+      "Oil Trade and Supply"
     ],
-    "source_count": 1,
-    "confirmation_status": "یک منبع ثبت‌شده",
+    "source_count": 2,
+    "confirmation_status": "تأیید چند منبع",
     "title": "Oil prices edge higher amid geopolitical tensions, OPEC+ decision in focus - Anadolu Ajansı",
     "summary": "Oil prices edge higher amid geopolitical tensions, OPEC+ decision in focus Anadolu Ajansı",
     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOV1hwd3hHR2dTV1RPOTJNZlNXWVBGc2RKV2ctNHFza2JOUTY0aXJUVURlbmFSdU9YeGpIcjJqd3NvaXNWUHRjTnNfNlp1TWZUQVhtOEVBdm02X3VybGx6Y0hpeGtlcUxUYXkwQVpwMXFFbWJwUzdWQTBDcl9wcVJ2X2c4ZjdRX28wZUxBMkFxRUtPX2l4UXJvNk5EWkhiekJCeGNTY2ExUlRQRVR3MFl3bnBzWWTSAbwBQVVfeXFMUEZyTnlOQ1h0RHQzdVVjS3c4T280Sk9tdEp0bF92Y3g2cXZqMUxBczBIZW9IZWdKTS02U2pwUkoyd0xjNHZFellYZ3lNcWxieVEyaWNtT2tSWDRrekV5YkRKdUM0LUp2T1BJbVNlQmVBNGh5b0p6Yk1BUXdocHEwdGZualMtV1laSzg0NG5hbDk1ZnVFcUVaZ3hVcWU1MlZZNDMxc2hES1N1Y20tOWZfWnEwaVFFT0FzQXN5TEg?oc=5",
@@ -15066,6 +15068,26 @@
     "relevance_score": 28,
     "relevance": "مرتبط",
     "category": "انرژی",
-    "archived_at_utc": "2026-11-26T10:01:19.448846+00:00"
+    "archived_at_utc": "2026-11-26T10:01:19.448846+00:00",
+    "last_confirmation_utc": "2026-11-26T10:15:37.953337+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "US to hike tariffs on China, EU, Brazil and others over subsidized factories - Hot Springs Sentinel Record",
+    "summary": "US to hike tariffs on China, EU, Brazil and others over subsidized factories Hot Springs Sentinel Record",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbUhETUJxb2x4MXd4czNQY2dSRnNDQ0FuMzU2UDFyR3ZwRE96STNMejlZWXAxb2tjdjJwU1A1OHlpWWV2YVJ0NjhTOS1QZHpRclhkMjZ5X2FCOVktT3VVcUZjQ0w1b1FMRDFJbkhTRElqRldOYWc2TXJ4MGJWQnFERTdZWnlsUlE4ekhPSDU5WG5wQQ?oc=5",
+    "published_utc": "2026-11-26T10:00:00+00:00",
+    "published_kabul": "2026-11-26 14:30 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-26T10:15:33.519687+00:00"
   }
 ]
