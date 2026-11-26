@@ -14362,5 +14362,62 @@
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-26T06:16:08.839704+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Oil Prices Rise As Iran Reports Mine Strikes On Tankers In Strait Of Hormuz - Arise News",
+    "summary": "Oil Prices Rise As Iran Reports Mine Strikes On Tankers In Strait Of Hormuz Arise News",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUXFPUndVZ1M5Q204TFY2Y0oxeHhTTHRNM3otVTd6NTZrdXdUWkhUaVVJTlk5R2RqMDJld0pEMWJQOFRpWjExWGh3RWRNMm1zLWpaYi1naUxackM5Y1JnVFdvWmlNY2hpb2dvNWJ1eGVXcE5jMHIzb0NfSWU0OVNIcldmbEczNHh5NzBOSGVDMUtzNzVjVzY2R1JJbWJqZw?oc=5",
+    "published_utc": "2026-11-26T05:45:47+00:00",
+    "published_kabul": "2026-11-26 10:15 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 28,
+    "relevance": "مرتبط",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-26T06:45:31.478392+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Natural Gas and Oil Forecast: Houthi Strikes Lift Oil Before OPEC+, Can WTI Clear $84.97? - FXEmpire",
+    "summary": "Natural Gas and Oil Forecast: Houthi Strikes Lift Oil Before OPEC+, Can WTI Clear $84.97? FXEmpire",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcEstTmNjRXk2UmNQUWQ0SWk4Z2NxZGFYdEVRcHp3YllIdmRaWk13T2tfSTNSYVB6ekJVTVNUQnlucVQ3QkwxVldyNlhEaVJOQjdIQzU5clJzZ051TmJzWHNkTWhpX25FYUtqXzhNUm0wZTRDV2NvcEdkZkVDT0FELURWUTM3VEVmVlVNdHZmdUVOWk1rMFluZlFEVkFVZlp3T3ZTeGRCUi1QZExGU2FwYS1USE9mV3RUU2NxUGFtUXVIbzh4RmR0ZlBVLU9DME5a?oc=5",
+    "published_utc": "2026-11-26T05:25:16+00:00",
+    "published_kabul": "2026-11-26 09:55 (کابل)",
+    "importance": "کم",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-26T06:45:38.918924+00:00"
+  },
+  {
+    "source": "China and Global Markets",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "China and Global Markets"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Stocks rally in Asia, US tariffs not as dire as feared By Reuters - Investing.com",
+    "summary": "Stocks rally in Asia, US tariffs not as dire as feared By Reuters Investing.com",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQd0RZWHFaUUQ3bGJvMmlXTXlDMjZ4UnJ2RU9KbDVYeEQ5VXRiaGwzSTBsS2J6X2c1aHpLSzZCczFva0NMQ3QtT0FUaEJFRDV2d3dRQjNZcENCVmhZX3E3bmFDQm13bUxuVDFMN09fZUhLdHlNcWVtUUpiTjhMOEdjOU9FZmxnU0RzZ3UxU0J2b2tZX3o3eVBrTFNsek5icGFpMk15N3RsSVdJaXdyeUE?oc=5",
+    "published_utc": "2026-11-26T05:37:30+00:00",
+    "published_kabul": "2026-11-26 10:07 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-26T06:45:48.496162+00:00"
   }
 ]
