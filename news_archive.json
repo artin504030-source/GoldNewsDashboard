@@ -14476,5 +14476,62 @@
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-26T07:00:58.405099+00:00"
+  },
+  {
+    "source": "Economic Reports",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Economic Reports"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Bank of America 2027 Economic Outlook: AI Investment as the Top US Economy Uncertainty, Fed Projected to Hike Interest Rates 3 More Times - 36Kr",
+    "summary": "Bank of America 2027 Economic Outlook: AI Investment as the Top US Economy Uncertainty, Fed Projected to Hike Interest Rates 3 More Times 36Kr",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xb3FtSDNtTGVMVVBkNDZIRXoxS2JCZ2Q1NGZlbDJXMUxnVVRta3hTV3J4NHZfXy1tazBieXFmNXp1d2JOU0VfLTg0N1VfUlFXTnk0?oc=5",
+    "published_utc": "2026-11-26T01:04:25+00:00",
+    "published_kabul": "2026-11-26 05:34 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 22,
+    "relevance": "ارتباط محدود",
+    "category": "بانک‌های مرکزی و نرخ بهره",
+    "archived_at_utc": "2026-11-26T07:16:07.008967+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Asian trade partners of US hit back at Trump’s latest tariffs - Financial Times",
+    "summary": "Asian trade partners of US hit back at Trump’s latest tariffs Financial Times",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOXdLemg3R0M0SkVKVUhMZHdsQmN0X2t0Tk9lYWY4RzFuYzhWUFFxVHQ0WUxkMDhnQTB4dEhoZDJvQ0gzUmhmelROQmRlS2kxdUpXTkI0TkxFM0pVMElQWlE4RmY2UE1UZjQyLUNtdmVJT3k5OE1xOXJvaURWU1hjZmN5anY?oc=5",
+    "published_utc": "2026-11-26T06:58:16+00:00",
+    "published_kabul": "2026-11-26 11:28 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-26T07:16:14.893721+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Analysis-Trump's new tariffs aim to prise global trade from China's grip - Yahoo News Singapore",
+    "summary": "Analysis-Trump's new tariffs aim to prise global trade from China's grip Yahoo News Singapore",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YclplOHc3UDFuT1lPWGh6ejE0NTI3eXBsV1p3VUFObzVDS2tORkFsU2h6cFd4bnJmNjV1Q1lXUGlTU2Y1bnptT1NHSXh5bG9vQnF2LTdKNEdfYkpPendEU0FlSHUtb3Uzb1k0ZURkWE95cW9rWl85d3lwYXhOUWc?oc=5",
+    "published_utc": "2026-11-26T07:03:05+00:00",
+    "published_kabul": "2026-11-26 11:33 (کابل)",
+    "importance": "کم",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-26T07:16:22.599908+00:00"
   }
 ]
