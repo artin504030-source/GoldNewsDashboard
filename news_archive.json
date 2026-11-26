@@ -14576,10 +14576,11 @@
     "source": "Oil and Energy",
     "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
     "confirmed_sources": [
-      "Oil and Energy"
+      "Oil and Energy",
+      "Oil Trade and Supply"
     ],
-    "source_count": 1,
-    "confirmation_status": "یک منبع ثبت‌شده",
+    "source_count": 2,
+    "confirmation_status": "تأیید چند منبع",
     "title": "US crude oil inventories up 0.3% in week ending Nov. 20 - Anadolu Ajansı",
     "summary": "US crude oil inventories up 0.3% in week ending Nov. 20 Anadolu Ajansı",
     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaVFTejkxRjlMZTRWTlAzWWRsdjVzQW53TkxOeXhnN0U5dDJIRzNhTHlFWjFWb3VlNVJmU0Y1dE5EUVBEbTRlQms0YWllMnlTSHZ1Z0xpcm5fNjN0WUZtTWtpMDNIR3ZqV2NoZVNjb2plRHZhalpSYWZKZnZQd0RLQ0JBMnEzenltVUdfU3BwS2lGSmt2Sk5aWnV30gGiAUFVX3lxTE5lLXZsdXcyZXhSem82QzF6dzhKV2FLOGpaQ1o3dWhkYzBIdDd1VUdPRkhETGw5THF6MFI3a0xNOHJaT3FuRTJTQ3lVaDlQa0lnTTAyRVJRa19qZEt4MWx4SGNHQ3FLU0ViVjZDek1nOC1PclpoMG1aQVlxWDdoa3lQVTd6LWpmZ1dXbFQwbU5QSzFOeFA1amxlTTd3OW9rWV9PZw?oc=5",
@@ -14589,6 +14590,64 @@
     "relevance_score": 12,
     "relevance": "ارتباط محدود",
     "category": "انرژی",
-    "archived_at_utc": "2026-11-26T07:31:10.617001+00:00"
+    "archived_at_utc": "2026-11-26T07:31:10.617001+00:00",
+    "last_confirmation_utc": "2026-11-26T07:45:42.260877+00:00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Uta Holzenkamp Appointed New CEO of Heraeus Precious Metals - European Coatings",
+    "summary": "Uta Holzenkamp Appointed New CEO of Heraeus Precious Metals European Coatings",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTHpib3FXbDY5cndvdFBmY2pmTDg5QU9QUFc5YklicVdxa09rZEdPVm9fVE5CVDFQcXU0T1ZvbVNodG05SVRDRmthZExKSkFha3lyMEdkUzhFT3p5YzB0bVo0MWx3ZzB4TVlWYlFOdnNTZl82TjYwazNYSFZkUi1nOFR0VjNaeGQ1S1VidG1COUlrTXA0LXFNbmhFekxaOGZYaDZiUFBrcTJocFV0cW4yTWNOTjk?oc=5",
+    "published_utc": "2026-11-26T07:38:08+00:00",
+    "published_kabul": "2026-11-26 12:08 (کابل)",
+    "importance": "کم",
+    "relevance_score": 45,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-26T07:45:30.089788+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Asia rejects basis of new Trump tariffs as US gathers China ammunition - Nikkei Asia",
+    "summary": "Asia rejects basis of new Trump tariffs as US gathers China ammunition Nikkei Asia",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWTdlU2lyQ1Q2c0lSWERfaE9nM3ZHUDlYaldoRGNJWERpNm5HTTNVNTJJRjBTOTRXcFNUV3MzR2RLSDZKR3ZsUnFFY1ZOMXYtUXRpbnZPc1VvTFRuSktXOUJlZWJOOVhYajBSbGt1bEtQT0dPWDFNLUIxVzN5NHNaSWVOUGJhZGdpS0RUQVphSm9JNjEwSDBaWk9HSlFlTDU4c0Z3WnZGdXU1bnYyZ1MxZmE5c3FfN3dfOEg5c3pSM0tWZnNh?oc=5",
+    "published_utc": "2026-11-26T07:28:00+00:00",
+    "published_kabul": "2026-11-26 11:58 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-26T07:45:38.225584+00:00"
+  },
+  {
+    "source": "Trade and Sanctions",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Trade and Sanctions"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Why is US seeking to impose fresh tariffs on 14 economies? - The Business Standard",
+    "summary": "Why is US seeking to impose fresh tariffs on 14 economies? The Business Standard",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTThIUE9yUFBzZjBod1R2b3lDaHQxR0JrcEVlRHB0TzNSVUpOWjVzQlhpTktXOXpvaDU0ajh4eFRSS2N4eFZfbXNYeUlkMUNfUzI5emo0LTh2VFRiTldKbmlBWGZyMW1CWVVvNUttTmhfUG5BR0o4RlZxNkF2SS01Ni1yVDEzVFdSR1BFaXZhZVhHMzlW?oc=5",
+    "published_utc": "2026-11-26T07:31:37+00:00",
+    "published_kabul": "2026-11-26 12:01 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-26T07:45:46.982268+00:00"
   }
 ]
