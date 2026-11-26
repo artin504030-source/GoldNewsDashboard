@@ -13383,10 +13383,11 @@
     "source": "Oil Trade and Supply",
     "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
     "confirmed_sources": [
-      "Oil Trade and Supply"
+      "Oil Trade and Supply",
+      "Trade and Sanctions"
     ],
-    "source_count": 1,
-    "confirmation_status": "یک منبع ثبت‌شده",
+    "source_count": 2,
+    "confirmation_status": "تأیید چند منبع",
     "title": "‘Not a drop of oil on the water’: Bessent signals deepening squeeze on Iran’s oil exports - Business Upturn",
     "summary": "‘Not a drop of oil on the water’: Bessent signals deepening squeeze on Iran’s oil exports Business Upturn",
     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSzRpZ3BtQVpVanI1azZwQlZfbi1sdE9NbWtsalFpS0VtZUdRUUVNTnpqeE5GRlNPSGZxZ3ZpeXIydmxIbGFvMWxWNERaRXFFeGtFSHQ5WUh5QnE5ajliR2g4S1Z2Tl9OcjRQYUNXX0JORnBuWjJlc1Niall1aEV0ekhtWUEtZkhhbDdLOGlqYzd4RmhpUWk2WmU5WnBwZFRYSXdfYUVuRko0bTVPUzE4dmhtY0JuMW9COGV3NDBGWWo?oc=5",
@@ -13396,7 +13397,8 @@
     "relevance_score": 28,
     "relevance": "مرتبط",
     "category": "انرژی",
-    "archived_at_utc": "2026-11-26T00:00:44.569087+00:00"
+    "archived_at_utc": "2026-11-26T00:00:44.569087+00:00",
+    "last_confirmation_utc": "2026-11-26T00:46:01.133684+00:00"
   },
   {
     "source": "Oil Trade and Supply",
@@ -13549,5 +13551,62 @@
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-26T00:30:56.914141+00:00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "How Is Sprott (TSX:SII) Navigating Changing Precious Metals Market Conditions? - Kalkine Media",
+    "summary": "How Is Sprott (TSX:SII) Navigating Changing Precious Metals Market Conditions? Kalkine Media",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMzd6UWpnckY0Ulhwb2dRWVVMYUFGTnJiQzdWVzdwWDluSmZZekpON0RlWS1LWFVabDBUVXE2dVk3UDJCMEJpb2NkQVIzQjdWeFhXUWRtaEZobmN3RWZKVnJBbl9lMVU3Z25tZE0wakdfTmsxZld3RG9VWnpILW5RQkhncEJibzc5RFpVaVJxU3RIYTQ1TW91eV9wTUxzTGE1dElUajJKNzBIVU9jalhqWFhOVmloMHM?oc=5",
+    "published_utc": "2026-11-25T23:22:00+00:00",
+    "published_kabul": "2026-11-26 03:52 (کابل)",
+    "importance": "کم",
+    "relevance_score": 45,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-26T00:45:46.857462+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Trump administration proposes new tariffs - Upper Michigan's Source",
+    "summary": "Trump administration proposes new tariffs Upper Michigan's Source",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUW5jU1RqRHJaa1FZOEk1dlFwTEJZRG52UTRITFRKMG1PWHFqZ3pGWmlVc3NTWkdSWjY3Rk5mOXpXZ09hNWVnOWlPbV9iTmZfRlZaNEg5LWNXQlVmUC1OVkZXeGI4eDUwcjI0LTVnekhySjZJVnhheWZldFNUUjFGTlpsZjFfbWZ4dWxKeFFzU05vU3p40gGoAUFVX3lxTFB2bzd2QUJQcjQ5SjRDOTRJeDZfRVVzbnpBdk1FNW8yZXg4VVZEbS1LQmFXSEF0azdrMmFTTzJyclBzdWNrcFNQd2tYWWJMcWEtak9MbkloRTU4UkN0Z0FKeEZWLXE3MVdhb0RFRk9xcl9KZnoybnFDUHZwalVLWE82bEdON05tOVk1Z3VGbVFxSlNmXzlYa053OFNGeGlBREhwUXI1R0ZDTA?oc=5",
+    "published_utc": "2026-11-26T00:31:00+00:00",
+    "published_kabul": "2026-11-26 05:01 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-26T00:45:55.600961+00:00"
+  },
+  {
+    "source": "Trade and Sanctions",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Trade and Sanctions"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "U.S. targets Iran’s money network and proposes new tariffs on China, India and the EU - Knews, Kathimerini",
+    "summary": "U.S. targets Iran’s money network and proposes new tariffs on China, India and the EU Knews, Kathimerini",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdzk3RS11clBwNFZ4M1gwOW1hM0REZWJpZTYyZllTemRsejdDUjZBSHc5Y0NpU3lYNThQbkxXMXZYSEhDQ0lsWlA4RVR4REN1d3hBUVVJbEdJM2FCbFl1NDNWMm96R2Vmd09DUEpINGpMVFBXQkVCWlJ5RkxlRVB2VG5oT0ZFX1VoTVVtUEZqckx6SzR5dW5EY1JvZ2hLd0xxSXg0cVZGMXZQTDFfdlRGNVJ5bXpmZUJpdTNNN1hNZEF1dw?oc=5",
+    "published_utc": "2026-11-25T14:25:00+00:00",
+    "published_kabul": "2026-11-25 18:55 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-26T00:46:05.754098+00:00"
   }
 ]
