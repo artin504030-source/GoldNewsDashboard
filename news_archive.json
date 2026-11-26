@@ -15696,7 +15696,7 @@
     "archived_at_utc": "2026-11-26T14:46:20.173987+00:00",
     "telegram_message_id": 1491,
     "telegram_chat_id": "@Gold_Channel_00",
-    "last_confirmation_utc": "2026-11-26T19:01:05.990664+00:00"
+    "last_confirmation_utc": "2026-11-26T23:15:29.385832+00:00"
   },
   {
     "source": "Economic Reports",
@@ -16665,6 +16665,27 @@
     "category": "انرژی",
     "archived_at_utc": "2026-11-26T23:01:54.341462+00:00",
     "telegram_message_id": 1681,
+    "telegram_chat_id": "@Gold_Channel_00"
+  },
+  {
+    "source": "Oil Trade and Supply",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil Trade and Supply"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Cold Snap Squeezes UK Spare Power Capacity - Crude Oil Prices Today | OilPrice.com",
+    "summary": "The UK faces a system margin shortfall of more than 2.7 gigawatts GW between noon and 8 p.m. local time on Thursday, as the cold snap is reducing the margin of spare capacity for the third day in a row.&nbsp; The UK&rsquo;s National Energy System Operator NESO issued early on Thursday an electricity margin notice, which encourages market actions to increase system margins.&nbsp;&nbsp; Electricity Margin Notices are used to send a signal to the electricity market. It highlights that, in the short term, NESO would like a greater safety cushion, or margin, between power demand and available supply. Such notices do not signal that blackouts are imminent or that there is not enough generation to meet current demand, the grid operator said.&nbsp; The notice of a reduced system margin comes as the UK&rsquo;s wind power generation has slumped in recent days while electricity demand has jumped due to below-normal temperatures in most of Europe.&nbsp; According to data from market operator Elexon, early on November 26, wind power generation was about 2.5 GW below the latest forecast.&nbsp; Over the past months, NESO has issued several Electricity Margin Notices to warn that the margins were tightened during periods of low wind power generation.&nbsp;&nbsp; Wind power supplied nearly 30% of the UK&rsquo;s electricity last year, and regularly provides about this share of total power generation when wind speeds are favorable.&nbsp;&nbsp; Reduced system margins this week pushed Britain&rsquo;s day-ahead electricity prices higher, just as the energy regulator, Ofgem, on Wednesday announced that energy prices for UK households would surge by 26% from January 1 as the Middle East war is pushing wholesale gas prices higher.&nbsp; The regulator&rsquo;s decision on Wednesday was widely expected by analysts and forecasters, who projected that UK household energy bills would jump by between 25% and 30% in the first quarter of 2027 amid surging natural gas prices as the Middle East crisis drags on. &ldquo;The reason wholesale gas prices are still high is due to the ongoing war in the Middle East,&rdquo; Ofgem said on Wednesday.&nbsp;&nbsp; By Michael Kern for Oilprice.com&nbsp;",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQb1E3eUNyYldYc2NNajFTb0xaczdmdnRHNU53SlFnZ2hzOXdkeHk4RENpbWhhcGs4UjlWYkRXaFgzMVRjYWR2YlZzQm5DY043SnUzRUJIak4yaXZkbnR6Z2xoQnJPZVA5LURwMDd3MnZSNzg5UWJXbWVKUmk1RzBQNmdPODlkQzdwLVJFS3QxQ0QxTEI4SlZYZUZ1a09RcnPSAaQBQVVfeXFMTzFkMFEyUXAtTEh2cC1FNmFYMVduVThJdWhJUFhGa3ltTEgzUzhidFVHMXVFdnNEbDE2X0VJQnRjVXZqRzA1WkgtWVdvM2gyMjFHa2I1YU0wV2xXWFBxREhxTVBWb0VqLUZxSUkzQ1FaUFNFaHFGTG5ZZVBvLXJvQko5dlF3b0RkMGIzLWJETFhXd29aUW9qOVJ5RjA1QnBDRVBZd2c?oc=5",
+    "published_utc": "2026-11-26T15:30:00+00:00",
+    "published_kabul": "2026-11-26 20:00 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 28,
+    "relevance": "مرتبط",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-26T23:15:48.010441+00:00",
+    "telegram_message_id": 1685,
     "telegram_chat_id": "@Gold_Channel_00"
   }
 ]
