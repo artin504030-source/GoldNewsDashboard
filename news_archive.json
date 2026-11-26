@@ -16561,5 +16561,26 @@
     "archived_at_utc": "2026-11-26T22:15:40.464455+00:00",
     "telegram_message_id": 1667,
     "telegram_chat_id": "@Gold_Channel_00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Why Trump’s Trade War May Benefit Canada in the Long Run - Bloomberg",
+    "summary": "Why Trump’s Trade War May Benefit Canada in the Long Run Bloomberg",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUUpCVmZTdFlpRHVKQUMtR3VjUXRxUXprOFlFanpJa0xrY1FqRGVnMjlnOG00TkhVdmt1elBLUmJ5dUZGMVNnV0FsUlJnS3lHdlFkYWROWGktUjVTT19fZVV1NFp5eEhXdlU0NWtOLXpQakdnYXlyRXlMUWVwMTFFX0laeVl1MXNyaUJSU0VKaFdVcVpNTHVUWHB1T3RrTURDN3JmelRYTHR6cXc?oc=5",
+    "published_utc": "2026-11-26T22:22:43+00:00",
+    "published_kabul": "2026-11-27 02:52 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-26T22:30:35.518900+00:00",
+    "telegram_message_id": 1671,
+    "telegram_chat_id": "@Gold_Channel_00"
   }
 ]
