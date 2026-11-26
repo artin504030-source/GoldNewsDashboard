@@ -10510,7 +10510,8 @@
     "relevance_score": 30,
     "relevance": "مرتبط",
     "category": "اقتصاد آمریکا و دلار",
-    "archived_at_utc": "2026-11-25T07:31:08.986645+00:00"
+    "archived_at_utc": "2026-11-25T07:31:08.986645+00:00",
+    "last_confirmation_utc": "2026-11-26T11:50:21.445882+00:00"
   },
   {
     "source": "Oil and Energy",
@@ -15371,10 +15372,11 @@
     "source": "Oil Trade and Supply",
     "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
     "confirmed_sources": [
-      "Oil Trade and Supply"
+      "Oil Trade and Supply",
+      "Trade and Sanctions"
     ],
-    "source_count": 1,
-    "confirmation_status": "یک منبع ثبت‌شده",
+    "source_count": 2,
+    "confirmation_status": "تأیید چند منبع",
     "title": "Suspected Fake Iranian Oil Tanker Signals Hormuz Breakout, Exposing Gaps in US Maritime Blockade Monitoring - Business Upturn",
     "summary": "Suspected Fake Iranian Oil Tanker Signals Hormuz Breakout, Exposing Gaps in US Maritime Blockade Monitoring Business Upturn",
     "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPMXppV1ZRcndIMVNySTRHMzYxdDhyUWpPTERQLUk3cVRrRnRJeElsdWxPZXI5RVdjeHNyd2VMMVZJRjhYNmNzeEZYTEdjZEFVQnJadW9zWlB6alhuOE1aSU03MXcxS1V3cXhPem5qejMtZVF3cVJJM3p2dFRRajdSbXdlUlR0QWZTV1dsdFdSczZRQ2pyaEtFNExCVmFOYmNEbzB5VW5lbFV5VkdDV25UZXYwU1h4NDNBX0g5clBFMDRFdzFzQUpNMlE1R01aOXB1QXVHbGVlREFsOGZWV3c4YVp2Rm5JQ08wb001VW1lZ0thWEFvNGc?oc=5",
@@ -15386,6 +15388,7 @@
     "category": "انرژی",
     "archived_at_utc": "2026-11-26T11:31:13.453883+00:00",
     "telegram_message_id": 1408,
-    "telegram_chat_id": "@Gold_Channel_00"
+    "telegram_chat_id": "@Gold_Channel_00",
+    "last_confirmation_utc": "2026-11-26T11:50:24.786105+00:00"
   }
 ]
