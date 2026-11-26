@@ -11087,9 +11087,10 @@
     "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
     "confirmed_sources": [
       "Geopolitical News",
-      "Oil Trade and Supply"
+      "Oil Trade and Supply",
+      "Oil and Energy"
     ],
-    "source_count": 2,
+    "source_count": 3,
     "confirmation_status": "تأیید چند منبع",
     "title": "Iran War Is Pushing Record Numbers of Fuel Tankers Into Crude Trade - Crude Oil Prices Today | OilPrice.com",
     "summary": "Iran War Is Pushing Record Numbers of Fuel Tankers Into Crude Trade Crude Oil Prices Today | OilPrice.com",
@@ -11101,7 +11102,7 @@
     "relevance": "مرتبط",
     "category": "انرژی",
     "archived_at_utc": "2026-11-25T13:15:47.711863+00:00",
-    "last_confirmation_utc": "2026-11-26T00:00:55.118184+00:00"
+    "last_confirmation_utc": "2026-11-26T01:45:33.646592+00:00"
   },
   {
     "source": "Oil Trade and Supply",
@@ -13801,5 +13802,62 @@
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-26T01:31:14.414315+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "USTR Proposes Section 301 Tariffs on 14 Economies in Structural Excess Capacity Investigations - www.globaltradeandsanctionslaw.com",
+    "summary": "USTR Proposes Section 301 Tariffs on 14 Economies in Structural Excess Capacity Investigations www.globaltradeandsanctionslaw.com",
+    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZHEzY0VvTU5oQzBBWWdKLV9HdGhmVl9udjYtWFp2Nzg3OFg3SWVEaElZUi1kbEtQMEczNW9yTm9XQmhoekxqV0hMeVVIUWR4bTZnU1dxTlVaUVRGVDc4NkZmQVZJSFE0ZkwxN0JuMWhNRXhhV0FOaWJVdGM3c0h2WmtJXzkwczZTNnhPbm1QT2lNcXQ0ejczMXRpeGxhVkJVTy01bENUYWVZT2tuRU1od0prZGNsRG0xN1lxMXN3QlJlZWdERGd1azRwWEsyZ2FHRFNOQkZ1RnN3V19sOVFKOUt0MkhnS0hsNU1N?oc=5",
+    "published_utc": "2026-11-25T23:54:01+00:00",
+    "published_kabul": "2026-11-26 04:24 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-26T01:45:30.027055+00:00"
+  },
+  {
+    "source": "China and Global Markets",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "China and Global Markets"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "World stocks tumble as Trump tariffs rattle markets, AI rally fades - Yahoo Finance",
+    "summary": "World stocks tumble as Trump tariffs rattle markets, AI rally fades Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTFdBa09BUFRidnFKcTFWQkJCb1R2Smh3ZjJ0NkdvMFE1WkdEUklRdzUyZmhFWHgyUHRIS3prWmJQRFlYNGpLSHJ6OThoZVEyWmVDV0NxRTZHblh2cXc4Q0l4MkZXRm83amRNc1l3Qk95UHZJeFpfUENWNTdlLW9sakhBV013cGJicjYxU0pkMlQ4M0tWcTh3dVg5dVJhMzlF?oc=5",
+    "published_utc": "2026-11-25T16:52:13+00:00",
+    "published_kabul": "2026-11-25 21:22 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-26T01:45:40.538408+00:00"
+  },
+  {
+    "source": "China and Global Markets",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "China and Global Markets"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Asia markets edge higher as investors assess fresh U.S. tariffs; South Korea rate decision in focus - CNBC",
+    "summary": "Asia markets edge higher as investors assess fresh U.S. tariffs; South Korea rate decision in focus CNBC",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9GdFlPeWc1LW1ZQjR0SE5YTU9DSXZ6Qlkxa1RkUGJkX3lkbGl2aDd4MmlUc2k1Z1QtNFBjWDlyMUNGRS16MzVoeGFLYmRXQW5vNFM0aURPbHdtcUxETm5zNUllcnFfY29W0gFuQVVfeXFMTXhrRXByTEZhMDA5REEzbmF2X1RBTTZhNU13bzhRaEV4d2E1MUFGaWw0MHhtem9YbVVDTVZyRHhDRlNXSDhBRmk1eURWdjBlVDJjTnpNSkJzbGJ0N29jXzNZc1RBbC1tTktqc1JxZHc?oc=5",
+    "published_utc": "2026-11-25T23:48:51+00:00",
+    "published_kabul": "2026-11-26 04:18 (کابل)",
+    "importance": "زیاد",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-26T01:45:48.232689+00:00"
   }
 ]
