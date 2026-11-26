@@ -13332,7 +13332,8 @@
     "relevance_score": 16,
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
-    "archived_at_utc": "2026-11-25T23:45:31.753230+00:00"
+    "archived_at_utc": "2026-11-25T23:45:31.753230+00:00",
+    "last_confirmation_utc": "2026-11-26T00:15:53.663825+00:00"
   },
   {
     "source": "Oil and Energy",
@@ -13428,5 +13429,62 @@
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-26T00:01:01.241733+00:00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Nexus Minerals No Longer Has ASA Gold and Precious Metals as Substantial Holder After 20 November 2026 Sales - Kalkine",
+    "summary": "Nexus Minerals No Longer Has ASA Gold and Precious Metals as Substantial Holder After 20 November 2026 Sales Kalkine",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNT21SWWd2Ylo1eGx3eHh4ZGxUbUlQRUhheEdRZS1MVXhhYk9aX0tUUzFrWlZTVjRVM0RiUG5XdERBb3FKckthekFJaU0tN3hSWnBVTUdnRTY1RnQ0bGdYTGdiWXRPR2dndl9lRURuakFTaldBcThkQzFQbVlUV3ZIRDFuNGZMNzdzRWRFZnJ1MnVVdk4xNHhpYUFUeEVFQWxkVzdqczBuM3ZzbmcyWDRteEd2eFZPT2RaZ1g0cUtYT1Jzb25xWkJQSTVyTC0yNTF1MGo3S2JDWU5QbkR1eTdjSXhyUnI?oc=5",
+    "published_utc": "2026-11-25T23:15:02+00:00",
+    "published_kabul": "2026-11-26 03:45 (کابل)",
+    "importance": "کم",
+    "relevance_score": 45,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-26T00:15:48.949204+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "How Trump's newest tariffs could impact Americans and the economy - PBS",
+    "summary": "How Trump's newest tariffs could impact Americans and the economy PBS",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOV3QyRGktREcxdDFwR0lJdlo4VWZtVlFZamtGcnpscFJTZU5fYm56bURqV214SHEyc1ZwWHB2Ti1kWVJOaHlKRWxfTGU1S3hrWUJUWG5oN05nOU94M1hnM01MeHRHWTdhTl9lTU5ta1BTNF85a2pDcnlMTmFNUU41TVlvRWp5VVctQjRyRlk4UXlsOGxUai0tS1VlRi1nSzg?oc=5",
+    "published_utc": "2026-11-25T23:50:40+00:00",
+    "published_kabul": "2026-11-26 04:20 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-26T00:15:58.497249+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Oil Prices Fall as Traders Weigh Supply Outlook, Renewed Middle East Tensions - Yahoo Finance",
+    "summary": "Oil Prices Fall as Traders Weigh Supply Outlook, Renewed Middle East Tensions Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNU2FiM3ZZeEN6OGFxalRYTGdMTF8zc3RTWmVNdWZLLXJXWnRmR2FHN1BZamN6N3RCTEJBTWxDcGhuV19BdElHUzg4eHMtUmxOT29sVllCNmYwMlFnNm52Zkhwa0xlcXNCX19TQU5ESmM3eEgtMUhVS1JUcTZTX0lyZVprLVlPSXZJRVotbzBUWQ?oc=5",
+    "published_utc": "2026-11-25T12:27:00+00:00",
+    "published_kabul": "2026-11-25 16:57 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-26T00:16:06.907555+00:00"
   }
 ]
