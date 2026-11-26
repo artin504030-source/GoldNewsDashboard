@@ -16498,5 +16498,26 @@
     "archived_at_utc": "2026-11-26T21:45:35.488286+00:00",
     "telegram_message_id": 1659,
     "telegram_chat_id": "@Gold_Channel_00"
+  },
+  {
+    "source": "Forex and Central Banks",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Forex and Central Banks"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Forex Today: US Dollar finds footing as Japan CPI can rock the Yen | FXStreet - شبكة تواصل الإخبارية",
+    "summary": "Forex Today: US Dollar finds footing as Japan CPI can rock the Yen | FXStreet شبكة تواصل الإخبارية",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9FTWlVaV9TOVU1QjZkb1lNNU15TVQ2QTNPaXh4bk9hRkpSQ1VVeVZuRkhNalFfQmxJcDVsS3FEOTlpbkZuc0sxR1pUUU8wOWE3eU1F?oc=5",
+    "published_utc": "2026-11-26T21:44:53+00:00",
+    "published_kabul": "2026-11-27 02:14 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 30,
+    "relevance": "مرتبط",
+    "category": "اقتصاد آمریکا و دلار",
+    "archived_at_utc": "2026-11-26T22:01:02.084269+00:00",
+    "telegram_message_id": 1664,
+    "telegram_chat_id": "@Gold_Channel_00"
   }
 ]
