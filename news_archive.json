@@ -11063,7 +11063,8 @@
     "relevance_score": 45,
     "relevance": "بسیار مرتبط",
     "category": "طلا و فلزات گران‌بها",
-    "archived_at_utc": "2026-11-25T13:00:54.509310+00:00"
+    "archived_at_utc": "2026-11-25T13:00:54.509310+00:00",
+    "last_confirmation_utc": "2026-11-26T13:30:56.275191+00:00"
   },
   {
     "source": "Geopolitical News",
@@ -15454,6 +15455,69 @@
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-26T13:16:07.384775+00:00",
     "telegram_message_id": 1446,
+    "telegram_chat_id": "@Gold_Channel_00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Gold Price Falls Below $3,500 as Core PCE Hits 3.3% - Gotrade",
+    "summary": "Share this article\n\nGotrade News - The gold price fell below $3,500 an ounce on Wednesday (Nov. 25), its lowest since August 2025, after core PCE inflation accelerated to 3.3% in October and firmed bets on a December Fed hike, according to Trading Economics . SPDR Gold Shares (GLD) and iShares Gold Trust (IAU) track gold.\n\nThe drop reversed a sharp rebound at the start of the week. Spot gold was near $3,635.10 an ounce in late-afternoon trading on Monday (Nov. 23), up 2.75%, supported by bargain hunting and improving risk sentiment as global equity markets recovered, as reported by Kitco News . By Wednesday, Trading Economics put gold at $3,468.23, down 2.49% from the previous day, and said the metal has lost around 37% since its record high earlier this year.\n\nRegular-session close on November 24, 2026, New York time. Data: Massive. 52-week range: daily highs and lows since November 25, 2025.\n\nThe fund details below come from the issuers: the SPDR Gold Shares website for GLD, and the iShares Gold Trust annual report on Form 10-K for fiscal 2025, filed with the U.S. Securities and Exchange Commission, for IAU.\n\nInflation data that reinforced expectations of further Federal Reserve tightening drove Wednesday's drop, according to Trading Economics. Core PCE inflation rose 0.3% in October and the annual rate accelerated to 3.3%, its highest level since 2023, while markets are pricing in an almost certain 25-basis-point rate hike in December.\n\nGold had already slipped to about $3,510 an ounce on Wednesday ahead of the PCE report , which Trading Economics described as the last major inflation reading before the Fed's final meeting of the year. A stronger U.S. dollar also weighed on bullion as investors moved away from riskier technology stocks toward safer assets, the same source said.\n\nThe week before, gold fell with stocks rather than offsetting them. Spot gold traded at $3,543.60 an ounce late on Friday (Nov. 20), down 8.71% on the week, after setting a weekly low of $3,502.93, as hawkish Fed rate expectations, surging Treasury yields and a stronger U.S. dollar \"overwhelmed safe-haven demand,\" according to Kitco News . Kitco reported that investors liquidated precious-metals positions to cover losses elsewhere as a technology-led equity rout deepened.\n\nWriting on Seeking Alpha on Nov. 25, contributor Benjamin C. Barry said gold's drop alongside stocks left some investors wondering whether the metal is truly a hedge against steep equity declines. He measured an 8.9% fall in gold against an 8.61% drop in the S&P 500 during the selloff.\n\nA gold ETF investor owns shares in a trust that holds bullion, not the metal itself: each IAU share represents a fractional undivided beneficial interest in the trust's net assets, according to its 10-K. A direct owner of bars or coins holds the metal and arranges its storage.\n\nCustody sits with the funds' banks. GLD's custody agreements provide that all of the trust's gold is held in allocated form at the end of each business day, and Bureau Veritas counts it twice a year at the custodians' vaults, per the SPDR Gold Shares website.\n\nFees and tracking also set an ETF apart from bullion held directly. GLD aims for its shares to reflect the performance of the price of gold bullion, less the trust's expenses, using the LBMA Gold Price PM as its benchmark. IAU's sponsor's fee accrues daily at an annualized 0.25% of net asset value, per its 10-K. Both funds trade on NYSE Arca.\n\nThis article is for education and information only and is not investment advice. Investment decisions are yours to make after your own research.\n\nDisclaimer\n\nGotrade is the trading name of Gotrade Securities Inc., which is registered with and supervised by the Labuan Financial Services Authority (LFSA). This content is for educational purposes only and does not constitute financial advice. Always do your own research (DYOR) before investing.\n\nM Alfathan Rahman\n\nNov 26, 2026",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBaamEtU3NJTnB3d1lUa0lnTlphX2RlREdZOTJfMkVTWVN4b2twNlRVbGxWd3hrejZoNWhKSjBIS1N4cjZBWXlwbUIzNjR4LTBBc21WSkVyVlctUnBEQmR5Yzc3U0hRZ0FhSk5GaE0tMTl5YzJFSnB0cXNIMmk?oc=5",
+    "published_utc": "2026-11-26T12:30:00+00:00",
+    "published_kabul": "2026-11-26 17:00 (کابل)",
+    "importance": "کم",
+    "relevance_score": 91,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-26T13:30:53.112207+00:00",
+    "telegram_message_id": 1457,
+    "telegram_chat_id": "@Gold_Channel_00"
+  },
+  {
+    "source": "Economic Reports",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Economic Reports"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "December Fed rate hike looks locked in after inflation climbs - Mortgage Professional America",
+    "summary": "Stubborn inflation and a stronger economy leave brokers bracing for higher mortgage rates well into 2027\n\nA fresh inflation reading has all but sealed another Federal Reserve rate hike next month, leaving mortgage brokers facing a harder conversation with rate-weary clients.\n\nThe personal consumption expenditures (PCE) price index, the Fed's preferred inflation gauge, rose 3.8% in October from a year earlier, the US Bureau of Economic Analysis (BEA) reported Wednesday.\n\nThat was up from 3.7% in September and nearly double the central bank's 2% target.\n\nCore PCE, which strips out food and energy and which policymakers treat as the better guide to underlying trends, climbed to 3.3% from 3.1%, topping economists' forecast of 3.2%. Both measures rose 0.3% on the month.\n\nThe broader economy gave the Fed little reason to hesitate. Personal income jumped 0.7% in October against forecasts of 0.4%, while spending rose 0.3% and the saving rate edged up to 4.1%.\n\nA separate Commerce Department estimate put third-quarter growth at a 4.3% annualized rate, evidence that policy is not yet restraining activity.\n\nMarkets are fully pricing a quarter-point increase when the Federal Open Market Committee (FOMC) meets Dec. 8–9. The Fed raised its target range to 3.75%–4% on Sept. 16, its first hike since 2023, then held in October.\n\nGovernor Christopher Waller has since argued that a half-point move may be needed in December , and futures traders already expect another quarter-point increase in January, according to CME Group's FedWatch tool.\n\nMike Fratantoni, chief economist at the Mortgage Bankers Association (MBA) in Washington, DC, said at the association's annual convention in Chicago in October: \"We think the Fed is going to be in a position where they have to hike a couple more times.\"\n\nThe MBA projects increases in December and the first quarter of 2027.\n\nMichael Pearce and Bernard Yaros of Oxford Economics say strong jobs data, persistent inflation, and AI-driven investment are reinforcing expectations for a December Fed rate hike, with mortgage rates likely to remain elevated. https://t.co/FJNAquFXeV\n\nThe pressure is already visible. The MBA's average 30-year fixed rate rose to 7.35% in the week ended Nov. 13 from 7.21%.\n\nMortgage rates track the 10-year Treasury yield rather than the Fed's policy rate, and mortgage rates have started climbing again after four weeks of declines as that yield edges back toward 5%.\n\n\"Treasury yields rose last week amid data showing inflation accelerated in October and Fed officials acknowledging that additional rate hikes may be needed in the coming months,\" said Joel Kan, vice president and deputy chief economist at the MBA, in the association's Nov. 18 weekly survey release.\n\nStay updated with the freshest mortgage news. Get exclusive interviews, breaking news, and industry events in your inbox, and always be the first to know by subscribing to our FREE daily newsletter .",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPczBISWEwUjk4Ry00UzZ1NnJ5cjdzWm9QOWxlMUNPdnBhemlNbm1rR2U0MGdhcy01c1FsOHVrNjU4Q08wdjZrdmQ1YzFrR0JWbm9ldGs4dHJMM2dlWUdMMGQ4aW9leUxsRE50VkwzNFBjVXBEeTN1ak40THJnTG15bHpkOHFuYmp2TUNYRV9CUDgxdFFycDY4OUQxUWQ5Nm5kQUU1OHlsb1dkdHoxQTQ4VFZPOFBGNHp0M2Nlemh6YnY2c041SWlN?oc=5",
+    "published_utc": "2026-11-25T14:05:09+00:00",
+    "published_kabul": "2026-11-25 18:35 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 46,
+    "relevance": "بسیار مرتبط",
+    "category": "اقتصاد آمریکا و دلار",
+    "archived_at_utc": "2026-11-26T13:31:14.202746+00:00",
+    "telegram_message_id": 1459,
+    "telegram_chat_id": "@Gold_Channel_00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "November 26 US Market Update: Support and Resistance Levels for 18 Instruments (Gold, Silver, Platinum, Palladium, Crude Oil, Natural Gas, Copper, and Ten Major Currency Pairs) - Moomoo",
+    "summary": "Document",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZkw0ZklUX2VEbG81bk9idWViVmgxaEFBb1AwSl9mcFNNV0V2a0JTZzlPRktiYnRVekppOWFjTklNRFF0dkJBdDdvSGxnTHplWWpFX2lyTEZIdklSZmVlMFhLZlIwc1JPZUVCZ1hpTU5MS3JqUHcxYl9QaGZPUWRIZTRXcVZZMk5NcXQ4Zm5wV1dEMmh2cW9VX3lZMFA2d1N6Q2kwWGU1cWZpQQ?oc=5",
+    "published_utc": "2026-11-26T13:03:09+00:00",
+    "published_kabul": "2026-11-26 17:33 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 57,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-26T13:31:22.827899+00:00",
+    "telegram_message_id": 1460,
     "telegram_chat_id": "@Gold_Channel_00"
   }
 ]
