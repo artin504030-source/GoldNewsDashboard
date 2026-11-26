@@ -11738,10 +11738,11 @@
     "source": "Economic Reports",
     "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
     "confirmed_sources": [
-      "Economic Reports"
+      "Economic Reports",
+      "Gold Market"
     ],
-    "source_count": 1,
-    "confirmation_status": "یک منبع ثبت‌شده",
+    "source_count": 2,
+    "confirmation_status": "تأیید چند منبع",
     "title": "Gold falls 3% to more than one-year low after data shows US inflation rose further - Reuters",
     "summary": "Gold falls 3% to more than one-year low after data shows US inflation rose further Reuters",
     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOV1p3ZkduX2FrdGJhMEMtbmNXNTgxN05HeDFsX2xxNDBkWXZQVkFWS3NzNFpITzZ2RnRyYXVZQ1k5bmthekYzdG9aSDVxcGZGS1RxMnNTTHNRRkQyQWFoWm1zNXVfd2hVQW96VHQ1ZFd4eU04cXNTRWk0cFJ4LS1PLUd1eUFmN3Y4ZjJQbXZpVkd3UQ?oc=5",
@@ -11751,7 +11752,8 @@
     "relevance_score": 75,
     "relevance": "بسیار مرتبط",
     "category": "طلا و فلزات گران‌بها",
-    "archived_at_utc": "2026-11-25T17:00:50.577995+00:00"
+    "archived_at_utc": "2026-11-25T17:00:50.577995+00:00",
+    "last_confirmation_utc": "2026-11-26T03:15:48.848494+00:00"
   },
   {
     "source": "Geopolitical News",
@@ -13956,5 +13958,43 @@
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-26T02:45:54.265747+00:00"
+  },
+  {
+    "source": "Economic Reports",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Economic Reports"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "U.S. Core PCE Inflation Hits 3.3%, Fed Seen Raising Rates in December and January - Businesskorea",
+    "summary": "U.S. Core PCE Inflation Hits 3.3%, Fed Seen Raising Rates in December and January Businesskorea",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9WbkJJUTlZY29IUU1hWnFPTWpVUDlMcW9ualVYczFmdDNzSzFfcmxSc2lkV09yakxwMnV6TTFPTmxPcllnNDF1aE92TFBiekluUVhEa3FCTHJJM0tEV0ZHVFNQTXAtWEhlSlZGeUpGVk1GWFBN?oc=5",
+    "published_utc": "2026-11-26T02:53:25+00:00",
+    "published_kabul": "2026-11-26 07:23 (کابل)",
+    "importance": "زیاد",
+    "relevance_score": 30,
+    "relevance": "مرتبط",
+    "category": "اقتصاد آمریکا و دلار",
+    "archived_at_utc": "2026-11-26T03:15:54.529282+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "US unveils tariffs on EU, China and others over ‘unfair’ trade - Arab News",
+    "summary": "US unveils tariffs on EU, China and others over ‘unfair’ trade Arab News",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTVEwald3MlVhRTJrTTZYSl9KQ05GSVhtZENxbmI0OTJRZkZ1SGNnRE9NVWtKTDQyekgwVGtPaVhfVm5PY3FsR0lFRHJfa0p4OExnUXg3bHhIOS1xY2Q5OElmdkt2eWhBQ1E4aFhJcHg5b3dSV0pxUXJjZVBTRnpQNTZEWTBFZE13Y0t1OENtWmFYQzVITXlTeC1OVHVQa1E?oc=5",
+    "published_utc": "2026-11-26T03:03:41+00:00",
+    "published_kabul": "2026-11-26 07:33 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-26T03:16:02.436617+00:00"
   }
 ]
