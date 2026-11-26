@@ -16392,7 +16392,7 @@
     "archived_at_utc": "2026-11-26T21:01:04.188661+00:00",
     "telegram_message_id": 1646,
     "telegram_chat_id": "@Gold_Channel_00",
-    "last_confirmation_utc": "2026-11-26T21:45:40.004392+00:00"
+    "last_confirmation_utc": "2026-11-26T23:30:48.158935+00:00"
   },
   {
     "source": "Geopolitical News",
@@ -16686,6 +16686,27 @@
     "category": "انرژی",
     "archived_at_utc": "2026-11-26T23:15:48.010441+00:00",
     "telegram_message_id": 1685,
+    "telegram_chat_id": "@Gold_Channel_00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "China threatened the US with a response to the new tariffs – what is at stake for the trade truce between Beijing and Washington - Українські Національні Новини (УНН)",
+    "summary": "Kyiv • UNN\n\nNovember 26 2026, 11:16 PM • 130 views\n\nBeijing promised to defend its interests in response to the new US tariffs. A 20% tariff has been proposed for China, which could be raised to 40%.\n\nChina threatened to take measures in response to new trade tariffs proposed by Donald Trump’s administration, which could reach 40%. This was stated by He Yadong, an official representative of the Ministry of Commerce of the People’s Republic of China, UNN reports.\n\nThe Chinese ministry official called on Washington to correct its \"wrong actions\" and return to resolving trade disputes through dialogue and consultations.\n\nChina reserves the right to take necessary measures and will resolutely defend its legitimate rights and interests\n\nOn November 25, the U.S. administration proposed imposing new tariffs on 14 trading partners. Washington explained the decision by citing the results of an investigation that identified signs of unfair trade practices and excess production capacity.\n\nUS is preparing new tariffs for China, the EU and more than a dozen countries - media 25.11.26, 10:03 • 4880 views\n\nA 20% tariff is proposed for China. However, the U.S. administration allows for it to be raised to 40% if Beijing fails to comply with the terms of the current trade truce.\n\nThe new measures will allow the Trump administration to reinstate a number of tariffs that the U.S. Supreme Court declared illegal and repealed in February.\n\nBefore taking effect, the new tariffs must undergo a public-comment procedure. Hearings are scheduled for early 2027, so the countries affected by the restrictions will still have an opportunity to present their objections.\n\nTrump administration announced new US tariffs - which countries will be affected 25.11.26, 16:12 • 4324 views\n\nStepan Haftko",
+    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTDBSbnA2MFhWQVJQNldQVnEyWk5wa2VYZEVzc2cyQk81X3NNQXZSb3BheVA0RGVSNXpUcmhvY29kQUV0dlNEa0ZlV0p2V3NaR2ttRVdXbEpGNnlVWEVCb3ZYU1hMcS1idlJtWmJKVmNLc3hSb3UyNGpXeG9hbGdnbjhWTlpKeDlJSGE1WnBCQTZEdzU1cjBma1kyRkp4RXE0VVNkbmdCdHIwUDRpaU5LcVR2Wm5Wc1EzeXE5cnpfOG83aGpFZTVSLTV1NFBvZUpoaUtPc25sV2FVcTh3TFVDelhaUdIB4gFBVV95cUxPTnhFLU1rWXhXdEZaRkNYY2tWcnRyQkljWk42RXJmYzRGb0NWZmxQSXlObDc5dkE1S0lKQ1A4SzJfRnpNbXJHWlJldTRfWDRrcGVJOGNKWC1xUTZuZkQ4bHpLd0QxdVk5YnByVjM5a3Utb3VidElVRHV2aEsxaEY4WnRyajdpLVRqaU9pWGc5RlFrTDVZTjhEQzJtc2s4cmg0aVlsZ05mOG5PTjFsNmdGcUlBUTM3bnVMOEF1U0lCSzdZa0Fta2ltQndnYXdLdkxkT0NOZm8wTWNHcVF3QjVLczBn?oc=5",
+    "published_utc": "2026-11-26T23:16:07+00:00",
+    "published_kabul": "2026-11-27 03:46 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-26T23:30:45.036098+00:00",
+    "telegram_message_id": 1747,
     "telegram_chat_id": "@Gold_Channel_00"
   }
 ]
