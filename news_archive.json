@@ -15185,5 +15185,62 @@
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-26T10:45:37.655533+00:00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Why Wheaton Precious Metals (TSX:WPM) Eased on the S&P/TSX Composite as Gold and Silver Prices Fell (24 Nov 2026) - kalkine.ca",
+    "summary": "Why Wheaton Precious Metals (TSX:WPM) Eased on the S&P/TSX Composite as Gold and Silver Prices Fell (24 Nov 2026) kalkine.ca",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcW43dWdyOWR0Y1NqM3dWbFloN0xrWlJCeFBmcU5qN1MwQXJHTVRLOG9kRHh5aGt3bzBzQjg4bllCTzJCMG9LT0Rqdnk5S3A2ZFlKMl9SVDRJN05NS041SVRJRXZLT2FFN2lvYXRvMmtmWUNiNUxGUXFhd1N2SjFLcHdyX1JST1lyUUd1ZVJxUWsxTDI4M1NvR3hTNFo5VG0tYl9hU1JXZUdkMkZ3dDdFazQ1dVNhdU1vaXZ2bHNiTlNrZnFsMlRDcmFtTEdjd3lPQldr?oc=5",
+    "published_utc": "2026-11-26T10:36:00+00:00",
+    "published_kabul": "2026-11-26 15:06 (کابل)",
+    "importance": "کم",
+    "relevance_score": 45,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-26T11:00:43.760651+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Fresh tariffs blitz pushes Asian nations to speed up trade deals with US - Yahoo Finance Singapore",
+    "summary": "Fresh tariffs blitz pushes Asian nations to speed up trade deals with US Yahoo Finance Singapore",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNckVIdGNFWnBLR2hUM21zVzQ2dHNudHhWRk9ZVllfbFZmenFYLTMyREJfM3hLWDR6M1BXemNxelpwakdEbTM5YVo3bDhGS3hlLXE4SnVHUkxMZ2VzQmkzOGxHMWJDaEJENExCNnVLNlNpOXdHVjR2MjNqVE1QWG82dThYUDVVbC1G?oc=5",
+    "published_utc": "2026-11-26T10:35:39+00:00",
+    "published_kabul": "2026-11-26 15:05 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-26T11:00:53.395401+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Oil Price Forecast: Rebound Faces a Test as OPEC+ Quota Talks Near - FXEmpire",
+    "summary": "Oil Price Forecast: Rebound Faces a Test as OPEC+ Quota Talks Near FXEmpire",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQck0ycXJLVmJhYjI0ZzM3YWk2cFllYW9UbzJvVGI0Vk50SWJpbDdBdjctNVRzakx5WjI2N1MyekNaMUttS2hEeWdnbXNNcmticWlfRFNZRlQzOXNpbnBvRU9pbE82OEJ1NVc2YXh3VElLdGFHOFpBSTBGVmtTdEhJanotQTU2cFRKT1o3M19aVWJ4akhzN1p1Mk5DeFdzd19fRVUwOVVKa3JENWx3bUVEOWJ6RlBTdw?oc=5",
+    "published_utc": "2026-11-26T05:50:15+00:00",
+    "published_kabul": "2026-11-26 10:20 (کابل)",
+    "importance": "کم",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-26T11:01:01.539805+00:00"
   }
 ]
