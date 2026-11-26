@@ -13744,5 +13744,62 @@
     "relevance": "ارتباط محدود",
     "category": "انرژی",
     "archived_at_utc": "2026-11-26T01:16:09.463239+00:00"
+  },
+  {
+    "source": "Economic Reports",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Economic Reports"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Upward pressure on interest rates as additional U.S. tariffs could worsen inflation: CIO - CNBC",
+    "summary": "Upward pressure on interest rates as additional U.S. tariffs could worsen inflation: CIO CNBC",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNM1BnWUZITFUzTlFPSjZZaDRJRWRhVVg2QUVUODF5UEZCdlkzREthNlNnNmo3VVA5eXpqY2NzX05QV0VZS1RuMWl3WGRCVkc4cHA5YWVFX2ctREsxaGZWM2x3RGpQdFVJTnJpaGNMTGZnMUo5UFRncjJab2djTDN1Q21waDI5N2x6UHFNcEZMNnNUZEhIaVltdDJ5YVJ6NHNySjVzdkZyLWZtMGox?oc=5",
+    "published_utc": "2026-11-26T01:21:48+00:00",
+    "published_kabul": "2026-11-26 05:51 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 38,
+    "relevance": "مرتبط",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-26T01:30:58.086169+00:00"
+  },
+  {
+    "source": "Economic Reports",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Economic Reports"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Gold Edges Lower as US Inflation Data Fuels Bets for Rate Hikes - Bloomberg",
+    "summary": "Gold Edges Lower as US Inflation Data Fuels Bets for Rate Hikes Bloomberg",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWk5iY21FejJMUDVfS2h4ekdoUnQ1RndSalFWS2pkZzJZY1AwSXRnY1otVEdsMUdRVWZJV0NKSUxEM3Boc2VlQXNMMWkweGxJSWVGaFJHcC1qWTk0WTdIbXR0Z3VNQ2N2R054YXZMa1I2eVk4RjU5T09FelF5ZC1KdGJRYnV5bFdvMjJoRzBpMjNoUDkzMDJiTmdvejdOMF85Vy1JZU16eEI1M3VzVlBNa0RyMjk?oc=5",
+    "published_utc": "2026-11-26T00:18:00+00:00",
+    "published_kabul": "2026-11-26 04:48 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 75,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-26T01:31:06.032055+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Trump unveils new tariffs on Japan, China, EU, others - Japan Today",
+    "summary": "Trump unveils new tariffs on Japan, China, EU, others Japan Today",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcDN4ME5WTGRXNWFUcnF3bU9XdEI1YXRITThibnJ1ZnppS1Rrb1psa2FoUWRlZ1lVVkd6UGIxYWp5dWY2NEtFWFc4S0lBRk1Ueng5VG5aTnFLNld2ZW5IU19LdHdxZGQ0M29Db3JMRnRsaEZxTFcyRlF6TU1rR1JqOXlIV054d3lzNENSZWNzUFJVVjhDUnY4Rlh5djY4TWR2R295Q3pwZXhjXzJXTEFRSURGWDNNMjhFY1c5VHBodGtVeTNtcFhN?oc=5",
+    "published_utc": "2026-11-25T21:35:00+00:00",
+    "published_kabul": "2026-11-26 02:05 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-26T01:31:14.414315+00:00"
   }
 ]
