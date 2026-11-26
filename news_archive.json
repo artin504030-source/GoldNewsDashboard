@@ -16582,5 +16582,26 @@
     "archived_at_utc": "2026-11-26T22:30:35.518900+00:00",
     "telegram_message_id": 1671,
     "telegram_chat_id": "@Gold_Channel_00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "China Warns: New US Tariffs May Mean Retaliation, Disrupted Trade Talks - Yahoo Finance",
+    "summary": "China Warns: New US Tariffs May Mean Retaliation, Disrupted Trade Talks Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNczcteTZGRWZkMmFDLUIxUjFNUndvWEsyZVZ0VF91MktmcFJzbTlSdEJXMTc2RFhpYm1fTjRfUF95WjJ3Y3c1c0NHSWZpMmJqZG1PVUs0clpza2s4U3V5cFFBdmM0R1dOeE5scUZ4azJQTEdXQ0JqR0xab01acGRSUnNkUjNtQVV4SktSVVlBMkNrOTVqckE?oc=5",
+    "published_utc": "2026-11-26T21:28:39+00:00",
+    "published_kabul": "2026-11-27 01:58 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-26T22:45:33.620368+00:00",
+    "telegram_message_id": 1674,
+    "telegram_chat_id": "@Gold_Channel_00"
   }
 ]
