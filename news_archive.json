@@ -13181,10 +13181,11 @@
     "source": "Geopolitical News",
     "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
     "confirmed_sources": [
-      "Geopolitical News"
+      "Geopolitical News",
+      "China and Global Markets"
     ],
-    "source_count": 1,
-    "confirmation_status": "یک منبع ثبت‌شده",
+    "source_count": 2,
+    "confirmation_status": "تأیید چند منبع",
     "title": "World reacts to Trump’s new tariffs as US stocks tumble - Al Jazeera",
     "summary": "World reacts to Trump’s new tariffs as US stocks tumble Al Jazeera",
     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQ2xwNlNFeVhicVplSG9FSUZVd2xjOUxCcHd6QjFfeV9PV0VNTkNmOEVQWkN1S2JRbGd6WXBlZ2czdlRWT3hDcWlWclMzeVA0c09QZzVzRTY0VWhxZEJOMU1BNVhpRTNVLThIczAwODJjSzBka1lXVkFRc1pBWGZjRHRhakwxUTdhdllTYVJXUGg1cE9tbWg2clBQZXFBcWl00gGmAUFVX3lxTE1ManFzV2ItczJsaU1wc2t3Tkc3OXdMTlhsdF9tZVh2c29Ld2lLakRybW1sZEhzOXMwNUh5ZUVLd2prWTFSUFZpbm40alhZcEcxVFBIM1NTUzljU1dzdS1oZ2RxTlp6cGNSUzRTOGlxbE5GNGZORy1Da3diOS1NWExyM1RNQVZrZkJEMkhZREdZY1BickkyNE1pbWIzOHdhRFk3Zng2TWc?oc=5",
@@ -13194,7 +13195,8 @@
     "relevance_score": 16,
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
-    "archived_at_utc": "2026-11-25T23:00:53.676219+00:00"
+    "archived_at_utc": "2026-11-25T23:00:53.676219+00:00",
+    "last_confirmation_utc": "2026-11-26T14:01:33.128809+00:00"
   },
   {
     "source": "Oil and Energy",
@@ -14772,10 +14774,11 @@
     "source": "Geopolitical News",
     "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
     "confirmed_sources": [
-      "Geopolitical News"
+      "Geopolitical News",
+      "China and Global Markets"
     ],
-    "source_count": 1,
-    "confirmation_status": "یک منبع ثبت‌شده",
+    "source_count": 2,
+    "confirmation_status": "تأیید چند منبع",
     "title": "New Tariffs on China Could Undermine Trade Truce with U.S. - WSJ",
     "summary": "New Tariffs on China Could Undermine Trade Truce with U.S. WSJ",
     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWUcwQ3JjLUlNWjhSZnFuYWMzVEFGd0RMR2lZT2VmWUdBejNHckpxbWFSb0lsTUNuTzktdm9qTk94eTgxMXFRQkplOTdZZkFDSEVaUkVZcWFfb1lEMTNEVzFHd013bXhoRFU4ajZjOTB0UXFhM1FacVliRVdqcFY5dG11UURVYmFZang5ZEpaZEVCazhBMjFz?oc=5",
@@ -14785,7 +14788,8 @@
     "relevance_score": 16,
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
-    "archived_at_utc": "2026-11-26T08:45:49.006811+00:00"
+    "archived_at_utc": "2026-11-26T08:45:49.006811+00:00",
+    "last_confirmation_utc": "2026-11-26T14:01:32.978591+00:00"
   },
   {
     "source": "Geopolitical News",
@@ -15581,6 +15585,48 @@
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-26T13:46:09.442515+00:00",
     "telegram_message_id": 1466,
+    "telegram_chat_id": "@Gold_Channel_00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Analysis-Trump's New Tariffs Aim to Prise Global Trade From China's Grip - U.S. News & World Report",
+    "summary": "Analysis-Trump's New Tariffs Aim to Prise Global Trade From China's Grip U.S. News & World Report",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYUVvbTI1MDE1dlJJend6czlkY1l0WHlmQ1M2Rkx6Y05VcndUeUYzX0Nrb0RCMmpsSkprRFphUjBiZDJqVk9MdTU5TWU2S0VUQW1rWElLWkp5VWJMY2tfT2g0enM4MmJqSXh4REpvcWRpTmgySEpoUXlINzRMT2NSeERxeVN5R3JfbVBnQ3BNbkJBQklyWFhTaFV1R1ktV1FMckFFS2lsUVktYmJuQ2xaVU0tQ3p3eU5kbTlhek5YWDFlV1V1eVE?oc=5",
+    "published_utc": "2026-11-26T07:14:33+00:00",
+    "published_kabul": "2026-11-26 11:44 (کابل)",
+    "importance": "کم",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-26T14:01:19.412570+00:00",
+    "telegram_message_id": 1476,
+    "telegram_chat_id": "@Gold_Channel_00"
+  },
+  {
+    "source": "China and Global Markets",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "China and Global Markets"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "China, U.S. allies push back on latest round of White House tariffs - CBC",
+    "summary": "China, U.S. allies push back on latest round of White House tariffs CBC",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMW4wYkZMMFV6Y3dYbm8zUDRITFJCWkFWX0RidWpjWVVVTFk2eTJqZzkxN3dvTUF5QzY4RGJ5SlFPTmxpOHAySWpWSDZVWFZVa3R3dlJTMW0zZ2NuS0laN3YzT0p4bXFHd1NRWWQwTVlZRUl3Z09EUFF4MGlzUnU5bA?oc=5",
+    "published_utc": "2026-11-26T13:05:29+00:00",
+    "published_kabul": "2026-11-26 17:35 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-26T14:01:49.188345+00:00",
+    "telegram_message_id": 1477,
     "telegram_chat_id": "@Gold_Channel_00"
   }
 ]
