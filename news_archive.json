@@ -15046,10 +15046,11 @@
     "source": "Oil and Energy",
     "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
     "confirmed_sources": [
-      "Oil and Energy"
+      "Oil and Energy",
+      "Oil Trade and Supply"
     ],
-    "source_count": 1,
-    "confirmation_status": "یک منبع ثبت‌شده",
+    "source_count": 2,
+    "confirmation_status": "تأیید چند منبع",
     "title": "Enbridge Eyes $1 Billion Pipeline Deal With Indigenous Communities - Crude Oil Prices Today | OilPrice.com",
     "summary": "Enbridge Eyes $1 Billion Pipeline Deal With Indigenous Communities Crude Oil Prices Today | OilPrice.com",
     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWWw0aHMyT0FKTGg5SUFVNnNUOGg2eDdCbF9Ldkt5ZFNJY2NfS1FiZGt0QVZmeVhpejF4ZkVSNjhHUENtWGxTeXdKeFZPMzUxU2hlRUloaWtNMUh2cWs2X2RxZEZoQzUxRWZWa05QSDhncWZqZlpJMUdYc1RSWjRPbnpfSXUxSHJtNHVNYXpCTXo3RTdlcDRLS210ME5fM0ZwS00xNU83bUxMdkx5N1BSaENnVFMzd2F6R0gxSW5B?oc=5",
@@ -15060,7 +15061,7 @@
     "relevance": "ارتباط محدود",
     "category": "انرژی",
     "archived_at_utc": "2026-11-26T10:01:12.284059+00:00",
-    "last_confirmation_utc": "2026-11-26T10:45:41.253580+00:00"
+    "last_confirmation_utc": "2026-11-26T20:00:38.080031+00:00"
   },
   {
     "source": "Oil and Energy",
