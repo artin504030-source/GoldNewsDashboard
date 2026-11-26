@@ -11086,10 +11086,11 @@
     "source": "Geopolitical News",
     "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
     "confirmed_sources": [
-      "Geopolitical News"
+      "Geopolitical News",
+      "Oil Trade and Supply"
     ],
-    "source_count": 1,
-    "confirmation_status": "یک منبع ثبت‌شده",
+    "source_count": 2,
+    "confirmation_status": "تأیید چند منبع",
     "title": "Iran War Is Pushing Record Numbers of Fuel Tankers Into Crude Trade - Crude Oil Prices Today | OilPrice.com",
     "summary": "Iran War Is Pushing Record Numbers of Fuel Tankers Into Crude Trade Crude Oil Prices Today | OilPrice.com",
     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPd0xrRjNXRkJIMlI1MkRZdUZ3YmdwS2dhSHA1dVFfbE1DWHdzR09vV19qb2lObWp3eDRxTUlJSDhCMWttSHZVSjF5VGx3OXRXYXBwNVIyU1F3a28xRkFsRXFYWHpJbTVLZXhQbVQySS0wYklfSVNIaFV6S25DOVRUNjJWWHVIZTdaTjJ3UXc0N3ZRVjlwdU9EcjZ1WDYzVDlvQmNQc3FvYUF1OGc5d3lSZzZkalJGVFlJM0Nmd3lubHTSAcYBQVVfeXFMTnl6bTVmRzQ4TDRKOFpvMkZBYUpQUTR6QTZLdmU5S0xqejFnWjJxZW9ERUYyRVlLaEo4NEdKaS1IYU9hSk0xaEtTQnE5aGwwMXh6SkFFLU5nWng1V2s0SFczbUVmNmk4cEphX09fSnd1aUctUi1xa2hJN2tVd1ZfTnJJMkNKdEtxWENXZ3JtdHhSc0cxRTVHcHJTczdJZTJ2QjJYYlY2a1Mwak8tOTJReDV1Z3o5X2tRNzNpRHYwRFVvSXpoNGVn?oc=5",
@@ -11099,7 +11100,8 @@
     "relevance_score": 28,
     "relevance": "مرتبط",
     "category": "انرژی",
-    "archived_at_utc": "2026-11-25T13:15:47.711863+00:00"
+    "archived_at_utc": "2026-11-25T13:15:47.711863+00:00",
+    "last_confirmation_utc": "2026-11-26T00:00:55.118184+00:00"
   },
   {
     "source": "Oil Trade and Supply",
@@ -13239,10 +13241,11 @@
     "source": "Oil and Energy",
     "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
     "confirmed_sources": [
-      "Oil and Energy"
+      "Oil and Energy",
+      "Oil Trade and Supply"
     ],
-    "source_count": 1,
-    "confirmation_status": "یک منبع ثبت‌شده",
+    "source_count": 2,
+    "confirmation_status": "تأیید چند منبع",
     "title": "Aramco Opens $7 Billion Petrochemical Complex in South Korea - Crude Oil Prices Today | OilPrice.com",
     "summary": "Aramco Opens $7 Billion Petrochemical Complex in South Korea Crude Oil Prices Today | OilPrice.com",
     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSlRuZmxiR0JabXhYXzhRamMzSU85M2Fnc1NSaEtyWVVFS0p6UFNKbzh0dTZyVnhoNi15VUVUbHRzTUdoXzlqTzlvWjJwWXdtQnpXMHZYZ1puUTBNaDd1NWRaUHVUa3hpc3NoVDIwZ3FXYVdybVdKSXRZSHE5ZjlxZFJ5RU9mbXItcnBnbTFvQTJ1Z2lTS1N5ZXZtT0lPRl9PcENFektFMVlMOUdJLWtNQV9yNFdjQdIBuwFBVV95cUxQdW80TC1XWkp4UFRreDFfenlfSTFtVWRaWDVXaFFtODFMekVBUDBqQzV1T2hEMEkxUWtNZlpSempDcXhNenp5V2cydzNWTTl5V0VZSWZyRmVTWUtZQmFwcTNGa2lTTGtMQ2xDb3ZlbmdXZ2tBakQxbXZmRFFTeUkwdkQ1Y0hSdlRVbmZxcWV1LUNESE13RDNlSXFiZmx6Q2xQZkR0cGgzRm0tYTllLVhrQjlJMTVyWWpJTXdv?oc=5",
@@ -13252,7 +13255,8 @@
     "relevance_score": 12,
     "relevance": "ارتباط محدود",
     "category": "انرژی",
-    "archived_at_utc": "2026-11-25T23:16:07.695846+00:00"
+    "archived_at_utc": "2026-11-25T23:16:07.695846+00:00",
+    "last_confirmation_utc": "2026-11-26T00:00:54.936329+00:00"
   },
   {
     "source": "Gold Market",
@@ -13367,5 +13371,62 @@
     "relevance": "ارتباط محدود",
     "category": "انرژی",
     "archived_at_utc": "2026-11-25T23:45:48.529157+00:00"
+  },
+  {
+    "source": "Oil Trade and Supply",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil Trade and Supply"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "‘Not a drop of oil on the water’: Bessent signals deepening squeeze on Iran’s oil exports - Business Upturn",
+    "summary": "‘Not a drop of oil on the water’: Bessent signals deepening squeeze on Iran’s oil exports Business Upturn",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSzRpZ3BtQVpVanI1azZwQlZfbi1sdE9NbWtsalFpS0VtZUdRUUVNTnpqeE5GRlNPSGZxZ3ZpeXIydmxIbGFvMWxWNERaRXFFeGtFSHQ5WUh5QnE5ajliR2g4S1Z2Tl9OcjRQYUNXX0JORnBuWjJlc1Niall1aEV0ekhtWUEtZkhhbDdLOGlqYzd4RmhpUWk2WmU5WnBwZFRYSXdfYUVuRko0bTVPUzE4dmhtY0JuMW9COGV3NDBGWWo?oc=5",
+    "published_utc": "2026-11-25T14:40:00+00:00",
+    "published_kabul": "2026-11-25 19:10 (کابل)",
+    "importance": "کم",
+    "relevance_score": 28,
+    "relevance": "مرتبط",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-26T00:00:44.569087+00:00"
+  },
+  {
+    "source": "Oil Trade and Supply",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil Trade and Supply"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Russia Considers Extending Gasoline Export Ban Amid 'Tense' Fuel Market - news.sbs.co.kr",
+    "summary": "Russia Considers Extending Gasoline Export Ban Amid 'Tense' Fuel Market news.sbs.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1PN0RFWHhmeDJhc29yaHJUdEVhMzh0VEpUbExlb1VRNHVVRDJ0Z2hWZTBucWF4b21YcUNyTGZub0VfWnpZNkxfZGxwSmxqOXg0NVlJVzRKU2NwX1B0b3UwWFNqRllURjhaMzQ5WU53?oc=5",
+    "published_utc": "2026-11-25T14:18:29+00:00",
+    "published_kabul": "2026-11-25 18:48 (کابل)",
+    "importance": "کم",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-26T00:00:51.777219+00:00"
+  },
+  {
+    "source": "China and Global Markets",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "China and Global Markets"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Trump set to add new sweeping tariffs, undeterred by midterms defeat - Yahoo Finance",
+    "summary": "Trump set to add new sweeping tariffs, undeterred by midterms defeat Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNndyR0VJNnlJZm5UR2tJRjUzalBvR1E0R245TVNfU0xWT3NxNk1pOU1SZkRJd2ZaTkY4T1RzZ1VLZ0V3SmpQZDZpeGhwcmVVRFFsekl0RE9pUkJ3Q2t5UUpXZkhRWkRlM2hzUVgtaE5GRDlfUWVZODR0cmlJamFQMHNkZXp0RFJQeHlFQ0tiTjlkcWczdjJ4ZVlzQXRxYjVfQ0VMX01sWQ?oc=5",
+    "published_utc": "2026-11-25T17:08:31+00:00",
+    "published_kabul": "2026-11-25 21:38 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-26T00:01:01.241733+00:00"
   }
 ]
