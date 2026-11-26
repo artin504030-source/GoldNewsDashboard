@@ -14073,5 +14073,24 @@
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-26T04:01:07.663654+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "US proposes new tariffs on China, Japan, Taiwan and nations across Asia - IntelliNews",
+    "summary": "US proposes new tariffs on China, Japan, Taiwan and nations across Asia IntelliNews",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRWliWGdWVE9jd2NGSTEzT05UMU9rWHcteDc4SEhlWTRoMUxZU0M2RWppR3hvUjdfeU43cmxOZlI3ME95QXU4eGZsWC1KcjhKRTlUa3NjRUQwVUNGR2VhcF9aalZUdmY1SlNxX3EwSE9wMW1adW5jam81eU5kakxJWDR6SWQyVnhTMGdYeUtGaHFNaWZDenpDOTFBRjBYMXBMVlhleHhhVHQ?oc=5",
+    "published_utc": "2026-11-26T04:04:39+00:00",
+    "published_kabul": "2026-11-26 08:34 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-26T04:15:53.491745+00:00"
   }
 ]
