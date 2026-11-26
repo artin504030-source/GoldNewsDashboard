@@ -7852,7 +7852,7 @@
     "relevance": "ارتباط محدود",
     "category": "انرژی",
     "archived_at_utc": "2026-11-24T08:01:07.746849+00:00",
-    "last_confirmation_utc": "2026-11-24T20:00:57.732962+00:00"
+    "last_confirmation_utc": "2026-11-26T02:00:47.281846+00:00"
   },
   {
     "source": "Economic Reports",
@@ -13820,7 +13820,8 @@
     "relevance_score": 16,
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
-    "archived_at_utc": "2026-11-26T01:45:30.027055+00:00"
+    "archived_at_utc": "2026-11-26T01:45:30.027055+00:00",
+    "last_confirmation_utc": "2026-11-26T02:00:46.568467+00:00"
   },
   {
     "source": "China and Global Markets",
@@ -13859,5 +13860,43 @@
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-26T01:45:48.232689+00:00"
+  },
+  {
+    "source": "Economic Reports",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Economic Reports"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Trump Tariffs 2027: Inflation, Fed Rates & Stock Risks - www.equiti.com",
+    "summary": "Trump Tariffs 2027: Inflation, Fed Rates & Stock Risks www.equiti.com",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ3RQTHA1azE5Uk1LWmJtYnpmRlQ0eEJEWnBsS1lYazl2THRsSFdtTVJtT2tGWER6VElya1JFRVhtc0JfZUZhY2VhMUNYaXllTDFEd1gtdkFLWU93X2pqTVM1Wi1BWEltdlY4N1M0ZEoxYzBuTmgtaWp5c3FVZEhnRGM1dEJiNmdLcU9lYjYwRVR2TWpLTFUwQWpZRUp0elJD?oc=5",
+    "published_utc": "2026-11-26T01:49:01+00:00",
+    "published_kabul": "2026-11-26 06:19 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 46,
+    "relevance": "بسیار مرتبط",
+    "category": "اقتصاد آمریکا و دلار",
+    "archived_at_utc": "2026-11-26T02:00:42.615336+00:00"
+  },
+  {
+    "source": "China and Global Markets",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "China and Global Markets"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Asia shares bounce, AI and tariffs lurk in background - The State",
+    "summary": "Asia shares bounce, AI and tariffs lurk in background The State",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5kVkRPRWoybl81YkQyM2ZXRlUwakV0VzVvRmJwdW5SUHEzclpYWlU3UENYTXRkZmtYM2JLNHdlbWRSSGNRRGJFbS1DcWNLSGNPM3VjMTFZSjFLWF9NOVRkTktxdVZlREhyV2t2V25ySnJESHJTSHR1amNBMTdUdw?oc=5",
+    "published_utc": "2026-11-26T01:45:05+00:00",
+    "published_kabul": "2026-11-26 06:15 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-26T02:00:54.476646+00:00"
   }
 ]
