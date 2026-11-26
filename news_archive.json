@@ -13780,10 +13780,11 @@
     "source": "Economic Reports",
     "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
     "confirmed_sources": [
-      "Economic Reports"
+      "Economic Reports",
+      "Gold Market"
     ],
-    "source_count": 1,
-    "confirmation_status": "یک منبع ثبت‌شده",
+    "source_count": 2,
+    "confirmation_status": "تأیید چند منبع",
     "title": "Gold Edges Lower as US Inflation Data Fuels Bets for Rate Hikes - Bloomberg",
     "summary": "Gold Edges Lower as US Inflation Data Fuels Bets for Rate Hikes Bloomberg",
     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWk5iY21FejJMUDVfS2h4ekdoUnQ1RndSalFWS2pkZzJZY1AwSXRnY1otVEdsMUdRVWZJV0NKSUxEM3Boc2VlQXNMMWkweGxJSWVGaFJHcC1qWTk0WTdIbXR0Z3VNQ2N2R054YXZMa1I2eVk4RjU5T09FelF5ZC1KdGJRYnV5bFdvMjJoRzBpMjNoUDkzMDJiTmdvejdOMF85Vy1JZU16eEI1M3VzVlBNa0RyMjk?oc=5",
@@ -13793,7 +13794,8 @@
     "relevance_score": 75,
     "relevance": "بسیار مرتبط",
     "category": "طلا و فلزات گران‌بها",
-    "archived_at_utc": "2026-11-26T01:31:06.032055+00:00"
+    "archived_at_utc": "2026-11-26T01:31:06.032055+00:00",
+    "last_confirmation_utc": "2026-11-26T18:30:32.104651+00:00"
   },
   {
     "source": "Geopolitical News",
@@ -15397,7 +15399,7 @@
     "archived_at_utc": "2026-11-26T11:31:13.453883+00:00",
     "telegram_message_id": 1408,
     "telegram_chat_id": "@Gold_Channel_00",
-    "last_confirmation_utc": "2026-11-26T12:16:08.987204+00:00"
+    "last_confirmation_utc": "2026-11-26T18:30:34.632256+00:00"
   },
   {
     "source": "Geopolitical News",
@@ -16195,6 +16197,48 @@
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-26T18:18:44.881699+00:00",
     "telegram_message_id": 1616,
+    "telegram_chat_id": "@Gold_Channel_00"
+  },
+  {
+    "source": "Energy Shipping Routes",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Energy Shipping Routes"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Two tankers ‘on fire’ in Strait of Hormuz after explosions claimed by Iran - TradeWinds News",
+    "summary": "UKMTO also says third vessel endured a near miss west of Dubai, while Iran claims two ships hit sea mines\n\nMy Alerts is a service for subscribers. Please login or subscribe in order to use My Alerts.",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbng4VTIyY3JIZzU4b2ZnamVRWUVaN2Nsd21SNUdUWkVVXzRHbGxIN2lvY1lFemFwcWVJZFM4YU1CYXdMeGRFYl9pN05yeTgzZ1ZpSmZsNFl0ZF9qV3R1OG9GVVJBRDhRZjB6WGRQX3VnblBxeG1TcFhPdGNtcTFjU3NTY2lZd2UxbzFfYUZWV1JHUUo3MzFsWnJaNUlrOHNGRkpCaEJENlgtWWRYZzVJcHZRNDdWYzVlSkFzQzhRT0w?oc=5",
+    "published_utc": "2026-11-26T12:40:39+00:00",
+    "published_kabul": "2026-11-26 17:10 (کابل)",
+    "importance": "کم",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-26T18:30:41.689419+00:00",
+    "telegram_message_id": 1622,
+    "telegram_chat_id": "@Gold_Channel_00"
+  },
+  {
+    "source": "Energy Shipping Routes",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Energy Shipping Routes"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Tanker Traffic at Hormuz Ticks Up Despite Intensified Attacks - Crude Oil Prices Today | OilPrice.com",
+    "summary": "The number of tankers carrying energy products through the Strait of Hormuz has increased in November despite the fact that the number of attacks and incidents with mines has hit the highest level since the beginning of the Iran war. Between November 1 and 19, the seven-day moving average count showed more than 26 crude oil, fuel, and LNG tankers transiting the Strait each day, Bloomberg reported on Thursday, citing ship-tracking data by Vortexa. To compare, the seven-day moving average was below 25 vessels on at least two-thirds of the days in October. The vessel numbers come with two caveats. First, the above-mentioned numbers may not be all tankers that have transited or attempted to transit the Strait of Hormuz, due to signal interference and en masse switching off of the transponders on the ships. The other is that there has been a slight reduction in the number of very large crude carriers VLCCs and Suezmaxes moving through the chokepoint, but the number of smaller tankers, Aframaxes, has increased, according to Vortexa&rsquo;s data. The change in the tanker fleet operating in and out of the Strait of Hormuz makes it even more difficult for analysts to estimate how much crude oil and fuel are being evacuated from the Persian Gulf and exit the Strait en route to international markets. Smaller oil tankers moved in October the most volumes of crude oil out of the Strait of Hormuz since the war began, as Iran targets supertankers and incidents with naval mines and unknown projectiles hit a wartime high. Moreover, a record number of the so-called long-range-2 LR2 clean tankers that have transported fuels such as diesel and gasoline have become the so-called dirty tankers and started shipping crude. The LR2 tankers are similar in capacity to the Aframax crude tankers, which can ship up to 800,000 barrels of crude each. A clean-turned-dirty LR2 tanker could be employed on the complex trade shuffles near the Strait of Hormuz, where shuttle-shipments have become the prevailing mode of moving crude oil out of the Persian Gulf in recent months. By Charles Kennedy for Oilprice.com&nbsp;",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZFF3VXJKOWltd2ctUDMwWUtmSWFRSmdJRkdRWV9HYjZNQlZuam1xR0xRNThpeUI1ZGM4YWlfNzJlUkZ0ZEVKaldPZUNaMWRHcnNVZFdlY3hzU1h0eXE4TDk2a1l0dzFUMnZ3eDhJS3pscFo1Z2dNSlEyeHlXV1owMjRIbHd6UXE3SGVjaFhmVUV5ZEVudnBRQ3pIRWRaeDluM0JtS3g1QWJBNU9BdTJuelQyaF9vb2JP0gG-AUFVX3lxTE5GbmFScVpIU0gwQmNkelY2Z0xyVjBXekl2NG92NndUMEJtTlhCcGszRzZSTEhxVkx6d3JtNEo1R1RkbzFndGdPYkVucmppQzlUVHZyc0dJQU1FSWlYNy1KamZSVkxzVy1CdUlfZUthb1ZuVGZUZGhqUzA0ZXVYbXpZcUFXbzJPTF8wdzBDQjlKenFYLU83aTNLTFVXVmlWcktTbXpHU0pmX3ZfWWNoOFU0V2NsajBaU0dDbWlmVkE?oc=5",
+    "published_utc": "2026-11-26T16:31:16+00:00",
+    "published_kabul": "2026-11-26 21:01 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 28,
+    "relevance": "مرتبط",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-26T18:30:57.887088+00:00",
+    "telegram_message_id": 1623,
     "telegram_chat_id": "@Gold_Channel_00"
   }
 ]
