@@ -19495,5 +19495,28 @@
     "archived_at_utc": "2026-11-27T16:45:54.095847+00:00",
     "telegram_message_id": 2162,
     "telegram_chat_id": "@Gold_Channel_00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "claim_status": "تأیید مستقل در آرشیو احراز نشده",
+    "independent_verification": "احراز نشده",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک فید ثبت‌شده؛ نه تأیید مستقل",
+    "title": "Bullish Signals Appear Across The Precious Metals Sector - Seeking Alpha",
+    "summary": "matejmo/iStock via Getty Images\n\nBy Clive Maund\n\nThere were prominent reversal candles across the metals sector on Wednesday after metals prices dropped to silly oversold extremes at trendline targets. So it looks like itâs time to start âaveraging in.â\n\nThis article was written by",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQVc5UUhHZzE0dHhLYTJ1SzFHczd5MnJhcUswYkNBekxsR1YwbVNsTWlJQS1HT3VLZExtTHJPOXRVS2tibU5wSzA4ajVaNzFrQmtkSzJDaVdpVFo0cEk2blF2MEZNSjgwcXFSQUo1Q2dyZXNkYnd6bFdrdDVnamRHWHBnckswRmk5Q1Blakl0ODlpY3ZRbi1IeA?oc=5",
+    "published_utc": "2026-11-27T16:45:00+00:00",
+    "published_kabul": "2026-11-27 21:15 (کابل)",
+    "importance": "کم",
+    "relevance_score": 45,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-27T17:01:04.211008+00:00",
+    "telegram_message_id": 2168,
+    "telegram_chat_id": "@Gold_Channel_00"
   }
 ]
