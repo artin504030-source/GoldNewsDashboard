@@ -14113,7 +14113,7 @@
       "Oil and Energy"
     ],
     "source_count": 1,
-    "confirmation_status": "یک منبع ثبت‌شده",
+    "confirmation_status": "یک فید ثبت‌شده؛ نه تأیید مستقل",
     "title": "Oil prices rise in global markets - Apa.az",
     "summary": "Oil prices rise in global markets Apa.az",
     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ0pyZW5BU2lKVWg4aUlmT3NqMWIzbm1wajEyRFF0RU5PUTFHQUZnU19tN3lUM1o0VGxKWTlxN2EyZ2xKcVEwSGQ5RGdjWXNRM1kycFlZV1lhdGVaYzdkRlVhcWUyWGpVd2JBbjBYaFFadTV4MTIybjZnS2lPamYydTdZdWg?oc=5",
@@ -14123,7 +14123,8 @@
     "relevance_score": 12,
     "relevance": "ارتباط محدود",
     "category": "انرژی",
-    "archived_at_utc": "2026-11-26T04:45:34.592640+00:00"
+    "archived_at_utc": "2026-11-26T04:45:34.592640+00:00",
+    "last_confirmation_utc": "2026-11-27T08:15:44.885936+00:00"
   },
   {
     "source": "Oil Trade and Supply",
@@ -17587,6 +17588,52 @@
     "category": "طلا و فلزات گران‌بها",
     "archived_at_utc": "2026-11-27T08:00:43.060497+00:00",
     "telegram_message_id": 1922,
+    "telegram_chat_id": "@Gold_Channel_00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "claim_status": "تأیید مستقل در آرشیو احراز نشده",
+    "independent_verification": "احراز نشده",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک فید ثبت‌شده؛ نه تأیید مستقل",
+    "title": "South African rand strengthens on precious metals rally - marketscreener.com",
+    "summary": "South African rand strengthens on precious metals rally marketscreener.com",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRVlCXy1xa0phem4wUUlpSGNjdkRxTVVPN25UcEF1WG9ucU9IZHNlcC1rd0EybmVMRzg1dWUzV1g5V1BwUVZWdWF6S25ZS01IWF9kOE1ucEsxTWJxWXNTQ205bDZwS1lSTXJCbzdhMHJnbEhuM0RpX01hTTRVQWV2cFJvLVhQS2tncTBrZVBiZWF3bGpZN0ZJb0FMeUFCOHJyTTRmeWZxdDdHUmhX?oc=5",
+    "published_utc": "2026-11-27T07:43:28+00:00",
+    "published_kabul": "2026-11-27 12:13 (کابل)",
+    "importance": "کم",
+    "relevance_score": 45,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-27T08:15:30.549076+00:00",
+    "telegram_message_id": 1925,
+    "telegram_chat_id": "@Gold_Channel_00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "claim_status": "تأیید مستقل در آرشیو احراز نشده",
+    "independent_verification": "احراز نشده",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک فید ثبت‌شده؛ نه تأیید مستقل",
+    "title": "South African rand strengthens on precious metals rally - TradingView",
+    "summary": "South African rand strengthens on precious metals rally — TradingView News Black Friday Up to 80% OFF South African rand strengthens on precious metals rally Read the full article Get unlimited access to articles from Reuters and every other news source on TradingView.",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSFd3U29Jcm55cEdBNjdJTU5LR1RDclYtazljSTVzU3duZDRwbVNyOTJOdU50ODhsS19Pa3pzUG52WVJoOVB3WXJRUTVxWGMwNGNXa1E0c0k5dlZpYXZxNktKSnA1MG4xNnNJcURxR3hFOUM4U3FDSUkzQl9OdkFWYzVWY1Nvc2FGeFl5ZnBoZkpFUHJHVmhBajZ0MTlSdnZVVTFydTZvSnFfVDhqbEdFbnhwRWUwNUgxelNJYWVaaXdoQzQ?oc=5",
+    "published_utc": "2026-11-27T07:41:00+00:00",
+    "published_kabul": "2026-11-27 12:11 (کابل)",
+    "importance": "کم",
+    "relevance_score": 45,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-27T08:15:38.213220+00:00",
+    "telegram_message_id": 1926,
     "telegram_chat_id": "@Gold_Channel_00"
   }
 ]
