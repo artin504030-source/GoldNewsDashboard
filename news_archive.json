@@ -16382,7 +16382,7 @@
       "Geopolitical News"
     ],
     "source_count": 1,
-    "confirmation_status": "یک منبع ثبت‌شده",
+    "confirmation_status": "یک فید ثبت‌شده؛ نه تأیید مستقل",
     "title": "New trade war could be brewing following tariff proposal - KDBC",
     "summary": "New trade war could be brewing following tariff proposal Skip to main content 1 / 4 New trade war could be brewing following tariff proposal MANILA, PHILIPPINES - NOVEMBER 17: (L-R) Japan Prime Minister Sanae Takaichi, India Prime Minister Narendra Modi, U.S. President Donald Trump and Australia Prime Minister Anthony Albanese pose together at the Solaire Hotel on November 17, 2026 in Manila, Philippines. Trump's visit coincides with the 49th Association of Southeast Asian Nations (ASEAN) Leaders' Summit. (Photo by Win McNamee/Getty Images) Read The Article SHARE",
     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRnA4NHI2MkFINTBqa3A1UUEzVHFZT2J4MHRwY1J0V2U0a3BFa1ZVVm03MHN0V2RCSTRLeVFJb1hSSHhPeTRLVnd1R0ZESjVfRVpUNkhsSUE3YkJ0cDB3bzdwM2ZDQWx0OXZja0hNeVNmd0gzcVlQeVZRQnFlbU9lU3hBcWVma3haQzBrVGtqS1V6QTRrMDdmU1Rmd3p0Z3dvd0hGU2M0VDJDTjlKeU9FWHg1eERyUHVXa2F4OFY3ZW8xNWM?oc=5",
@@ -16395,7 +16395,7 @@
     "archived_at_utc": "2026-11-26T21:01:04.188661+00:00",
     "telegram_message_id": 1646,
     "telegram_chat_id": "@Gold_Channel_00",
-    "last_confirmation_utc": "2026-11-27T03:15:45.321614+00:00"
+    "last_confirmation_utc": "2026-11-27T09:01:50.482702+00:00"
   },
   {
     "source": "Geopolitical News",
@@ -17775,6 +17775,75 @@
     "category": "انرژی",
     "archived_at_utc": "2026-11-27T08:46:38.401318+00:00",
     "telegram_message_id": 1942,
+    "telegram_chat_id": "@Gold_Channel_00"
+  },
+  {
+    "source": "European Central Bank",
+    "source_status": "منبع رسمی",
+    "claim_status": "تأیید مستقل در آرشیو احراز نشده",
+    "independent_verification": "احراز نشده",
+    "confirmed_sources": [
+      "European Central Bank"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک فید ثبت‌شده؛ نه تأیید مستقل",
+    "title": "ECB Consumer Expectations Survey results – October 2026",
+    "summary": "27 November 2026\n\nCompared with September 2026:\n\nIn October the median rate of perceived inflation over the previous 12 months increased to 4.1% from 3.6% in September and stood at its highest level since July 2024. Median expectations for inflation over the next 12 months also rose to 3.5% from 3.1%, but remained below the level reached at the start of the conflict in March 2026 (4.0%). Median expectations for inflation three years ahead increased to 3.0% from 2.9%, returning to the March 2026 level. Median expectations for inflation five years ahead were unchanged at 2.5% for the third consecutive month, the highest level since the start of the series in August 2022. Uncertainty about expectations for inflation over the next 12 months increased for the second consecutive month, remaining higher than the level prior to the start of the conflict in the Middle East. Respondents in the bottom income quintile continued to report higher inflation perceptions and expectations, on average, than those in the top quintile. Younger respondents (aged 18-34) continued to report lower inflation perceptions and expectations than older respondents (aged 35-54 and 55-70).\n\nConsumers’ expectations for nominal income growth over the next 12 months fell to 0.6% from 1.1% in September. While expectations declined across all income quintiles, the decline was most pronounced in the bottom income quintile (by 0.7 percentage points to 0.8%) and in the top quintile (by 0.8 percentage points to 0.4%). Perceived nominal spending growth over the previous 12 months increased to 5.4% from 5.3% in September, while expected nominal spending growth over the next 12 months was unchanged at 3.7%.\n\nExpectations for economic growth over the next 12 months increased in October to -1.3% from -1.5% in September. Expectations for the unemployment rate 12 months ahead decreased to 11.0% from 11.3% in September. As observed in previous months, households in the bottom income quintile expected the highest unemployment rate 12 months ahead (13.3%), while households in the top income quintile expected the lowest rate (9.5%). Consumers continued to expect the future unemployment rate to be only slightly higher than the perceived current unemployment rate (10.4%), suggesting a broadly stable labour market outlook. Quarterly data revealed a somewhat mixed labour market sentiment. Unemployed respondents reported a lower expected probability of finding a job over the next three months, at 29.6% in October compared with 30.8% in July. Employed respondents reported a lower expected probability of job loss over the next three months, at 9.4% in October compared with 9.8% in July.\n\nConsumers expected the price of their home to increase by 3.3% over the next 12 months, lower than in September (3.5%). As in previous months expectations for home price growth over the next 12 months remained, on average, higher in the lowest income quintile (3.8%) than in the highest income quintile (3.0%). Expectations for mortgage interest rates in 12 months’ time remained unchanged from July, at 4.9%. As in previous months, households in the top income quintile expected the lowest mortgage interest rates 12 months ahead (4.6%), while those in the bottom quintile expected the highest rates (5.4%). The net percentage of households reporting a tightening (relative to those reporting an easing) of access to credit over the previous 12 months increased compared with September. The net percentage of households expecting tighter credit conditions over the next 12 months (relative to those expecting an easing) also increased compared with September, reaching its highest value since October 2023. Quarterly data showed that the share of consumers who reported having applied for credit during the past three months increased slightly to 14.4% in October, from 14.3% in July.\n\nThe release of the Consumer Expectations Survey (CES) results for November is scheduled for 7 January 2027.\n\nFor media queries, please contact: Benoit Deeg , tel.: +49 172 1683704.\n\nDisclaimer Please note that related topic tags are currently available for selected content only.\n\nReproduction is permitted provided that the source is acknowledged.",
+    "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261127~2e53af695e.en.html",
+    "published_utc": "2026-11-27T09:00:00+00:00",
+    "published_kabul": "2026-11-27 13:30 (کابل)",
+    "importance": "کم",
+    "relevance_score": 22,
+    "relevance": "ارتباط محدود",
+    "category": "بانک‌های مرکزی و نرخ بهره",
+    "archived_at_utc": "2026-11-27T09:01:18.023630+00:00",
+    "telegram_message_id": 1947,
+    "telegram_chat_id": "@Gold_Channel_00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "claim_status": "گزارش اولیه/ادعای تأییدنشده؛ نیازمند تأیید مستقل",
+    "independent_verification": "احراز نشده",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک فید ثبت‌شده؛ نه تأیید مستقل",
+    "title": "Trade partners protest tariffs, deny US claims - The Arkansas Democrat-Gazette",
+    "summary": "HONG KONG -- China, Japan and other U.S. trading partners protested planned tariff hikes by the Trump administration and hit back Thursday at claims that they have excess manufacturing capacity.\n\nThe new tariffs, which are likely to take effect early next year, were announced Wednesday. They are intended to help reinstate most tariffs after a Supreme Court ruling in February struck down most of the levies implemented last year.\n\nThe new import duties came after a monthslong Section 301 probe. U.S. Trade Representative Jamieson Greer said he determined that practices of the 14 economies relating to excess capacity and production in manufacturing are \"unreasonable and burden or restrict U.S. commerce.\"\n\nChina, one of the biggest trading partners of the U.S., is facing a 20% tariff. It slammed the notion of \"overcapacity\" as a \"false premise.\" The tariffs could double to 40% if the U.S. finds China not engaging adequately.\n\n\"China opposes its use as a pretext for political maneuvering,\" said Guo Jiakun, a spokesperson for the Ministry of Foreign Affairs, at a regular news briefing. \"Tariff wars and trade wars serve no one's interests.\"\n\nBeijing will take \"necessary measures to defend its legitimate rights and interests,\" he added.\n\nThe U.S. and China have extended by two months a trade truce that's set to expire Jan. 10, 2027. The two countries also have agreed on tariff cuts on reciprocal lists of nonsensitive products worth about $60 billion in total.\n\nJapan faces new U.S. tariffs of up to 15%. The Japanese government said it protested to Washington.\n\n\"Japan does not have any nonmarket policies or practices, or structural excess production capacity in the first place,\" Chief Cabinet Secretary Minoru Kihara told a regular news conference Thursday. \"It is regrettable that the United States announced the proposed measures targeting Japan, and we have conveyed our position to the U.S. side.\"\n\nSingapore, due to be hit by an up to 20% tariff rate, said it was \"very disappointed\" with the U.S. proposal.\n\n\"Singapore's economic policies do not protect our domestic market or subsidize manufacturing for export,\" its Ministry of Energy, Trade and Industry said in a statement.\n\nMalaysia said it \"does not have excess capacity in its manufacturing sectors that distorts or disrupts global markets,\" adding that it will continue to engage and consult with the United States. Vietnam, facing tariffs of up to 35%, said it's working with the U.S. on a trade deal.\n\nIn Thailand, government spokesperson Lalida Persvivatana said Thursday that the latest U.S. proposal, capping tariffs at 18%, was more favorable than expected.\n\n\"The government will continue to pursue negotiations to secure competitive tariff levels and additional exemptions for Thai products, with the main goal of protecting Thailand's export markets,\" Persvivatana added.\n\nThe 27-nation European Union, which faces a potential 15% tariff rate by the U.S., rejected \"the premise that Europe is a source of structural overcapacity\" and pointed to the lack of joint action by the EU and the U.S.\n\nInformation for this article was contributed by Eileen Ng, Mari Yamaguchi, Mayuko Ono, Aniruddha Ghosal, Jintamas Saksornchai, Lorne Cook and Sam McNeil of The Associated Press.\n\nLog in or create an account to continue reading.\n\nSupport local journalism and get trusted reporting delivered your way. Cancel anytime.\n\nUnlimited digital access to the Arkansas Democrat-Gazette on web, mobile and app. Your subscription includes puzzles, gift articles and a personalized homepage.\n\nAll the benefits of a digital subscription with the added bonus of the Sunday print edition delivered to your home.",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOT2h2U0c5Z0R6VWR3a1I0TDFHRWYtRFpOYWEwS2FvamZ2M0hTNEZnRy1nWmNyZW5VbDFmR1Q0WnpldEdvRnA4OEtObnQ4U0lkb2JHYkdIeG1Fa1p1Z0VqVDhvbGRBZ0RHZUJLWVdzQXE0N1d1WmFyM05hUzcyWWx6dTg1Q3BUVHFsOGtfNDk5Sldvd2NtcXJNVUl3?oc=5",
+    "published_utc": "2026-11-27T08:41:00+00:00",
+    "published_kabul": "2026-11-27 13:11 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-27T09:01:47.349558+00:00",
+    "telegram_message_id": 1949,
+    "telegram_chat_id": "@Gold_Channel_00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "claim_status": "تأیید مستقل در آرشیو احراز نشده",
+    "independent_verification": "احراز نشده",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک فید ثبت‌شده؛ نه تأیید مستقل",
+    "title": "Houthi Attack on Saudi Refinery Sparks Fresh Rally in Global Crude Oil Prices - ChemAnalyst",
+    "summary": "Leave a Comment",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWWVENUxIX1NQQmtZZXRsamtWVTh3UTNPUndKWk5EazJzZTNYbkNvWWJydFRCN3I2YkYwRmZEVzhYYXBKTzRRUk1Ua21IUDgxalR6RmdTTHQ1TVp6dk91QkFaU3J4WnktZ1BLTk9FRXJHRHRWZDBDcGZKazZJNC15QldCTkNPTTJYeG1fVGdqa1Z5OVdrNzZoYm42dEliTXFVbTlPeHNvNXF0cUNremc?oc=5",
+    "published_utc": "2026-11-27T08:48:15+00:00",
+    "published_kabul": "2026-11-27 13:18 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-27T09:01:56.181213+00:00",
+    "telegram_message_id": 1951,
     "telegram_chat_id": "@Gold_Channel_00"
   }
 ]
