@@ -18035,5 +18035,28 @@
     "archived_at_utc": "2026-11-27T10:01:24.563259+00:00",
     "telegram_message_id": 1976,
     "telegram_chat_id": "@Gold_Channel_00"
+  },
+  {
+    "source": "Oil Trade and Supply",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "claim_status": "تأیید مستقل در آرشیو احراز نشده",
+    "independent_verification": "احراز نشده",
+    "confirmed_sources": [
+      "Oil Trade and Supply"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک فید ثبت‌شده؛ نه تأیید مستقل",
+    "title": "Russia extends jet fuel export ban out to April 2027 - Quantum Commodity Intelligence",
+    "summary": "Please Register or Sign in to view this content.\n\nQuantum Commodity Intelligence is a premium paid subscription service for professionals in the oil, biofuels, carbon, ammonia and hydrogen markets.\n\nQuantum Oil service subscribers have access to:\n\nGet in touch with us for subscription information on all Quantum platforms or help with the service.",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaUhYd2dJMTN2TGNGcHJBR0MyR1BHNGhUUktTR1I5UDJwR3o0bl9UVmZjd0tOZVM3S1Y2NFMzeEZUNTltSjJlaGxjNmE5REZvV05PRnBXN0sxSHRRUXZaOEZjTVZaTGVQZnRiOV9OcjFVdjNuM0tXT1VxalFxMndzMHp6aUl2TlV5TTVSSVpBX0JoOUlrOWZLaTlTVQ?oc=5",
+    "published_utc": "2026-11-27T10:01:25+00:00",
+    "published_kabul": "2026-11-27 14:31 (کابل)",
+    "importance": "کم",
+    "relevance_score": 28,
+    "relevance": "مرتبط",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-27T10:15:51.739765+00:00",
+    "telegram_message_id": 1979,
+    "telegram_chat_id": "@Gold_Channel_00"
   }
 ]
