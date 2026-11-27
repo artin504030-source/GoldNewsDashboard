@@ -15698,7 +15698,7 @@
     "archived_at_utc": "2026-11-26T14:46:20.173987+00:00",
     "telegram_message_id": 1491,
     "telegram_chat_id": "@Gold_Channel_00",
-    "last_confirmation_utc": "2026-11-27T07:45:24.057065+00:00"
+    "last_confirmation_utc": "2026-11-27T11:30:52.835537+00:00"
   },
   {
     "source": "Economic Reports",
@@ -18242,6 +18242,52 @@
     "category": "انرژی",
     "archived_at_utc": "2026-11-27T11:15:58.631200+00:00",
     "telegram_message_id": 2002,
+    "telegram_chat_id": "@Gold_Channel_00"
+  },
+  {
+    "source": "Forex and Central Banks",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "claim_status": "گزارش اولیه/ادعای تأییدنشده؛ نیازمند تأیید مستقل",
+    "independent_verification": "احراز نشده",
+    "confirmed_sources": [
+      "Forex and Central Banks"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک فید ثبت‌شده؛ نه تأیید مستقل",
+    "title": "Bank of Japan warns digital money risks extend beyond the token - finchannel",
+    "summary": "The FINANCIAL — The Bank of Japan called for stronger safeguards against digital money risks on Friday, as Executive Director Kazushige Kamiyama warned that tokenized finance and increasingly capable artificial intelligence could create new vulnerabilities across payments and markets.\n\nIn his November 27 speech at an International Monetary Fund seminar in Tokyo , Kamiyama described a financial system in which stablecoins, tokenized bank deposits and other digital assets coexist. He urged authorities to preserve trust, strengthen cybersecurity and establish clear responsibilities as new platforms develop.\n\nReuters reported that his warning covered both financial stability and the ability of AI to identify and exploit security weaknesses. He also highlighted legal uncertainty over whether transferring a digital token effectively transfers rights to the underlying asset. These were risks requiring safeguards, rather than a report of a newly identified loss or attack.\n\nTokenization changes the way an asset is recorded and transferred. The Bank of England explains it as creating a digital representation of something such as a share, bond or unit of money on a shared ledger. Authorized users can keep track of ownership, while software attached to the token can enable transactions to follow specified conditions.\n\nThe British central bank distinguishes that process from creating an unbacked cryptoasset. A token can represent an asset that already exists, rather than derive its value solely from what another buyer will pay for it. The distinction matters for the financial products under discussion: a new recordkeeping system and a new underlying investment are separate propositions.\n\nAmong the possibilities the bank describes are payments triggered by confirmed delivery, faster international transfers and more flexible movement of corporate cash. These are potential applications of programmable finance. They depend on the arrangements supporting a particular system, rather than follow automatically whenever a financial claim is represented by computer code.\n\nThe Bank of England also describes dividing assets into smaller units as a possible way to broaden access to investments. Its stated approach includes small-scale testing before wider adoption.\n\nThe Bank for International Settlements set out a broader architecture in its 2025 Annual Economic Report. Its proposal placed tokenized central bank reserves, commercial bank money and financial assets on a common programmable platform. Bringing those elements together could combine instructions, reconciliation and transfer processes that currently take place through separate stages.\n\nThe BIS assessed new monetary arrangements against three requirements: acceptance at face value, an ability to supply liquidity as payment needs change, and protection against financial crime . Its report argued that stablecoins fell short of the requirements needed to serve as the foundation of the monetary system. That was the BIS’s assessment, rather than a finding that every proposed tokenized payment arrangement has the same weaknesses.\n\nA shared platform, in that account, need not use distributed ledger technology. The proposed benefit lies in connecting the money and assets involved in a transaction while retaining reliable settlement. The BIS emphasized central bank reserves as the final settlement asset, with commercial bank deposits continuing to perform their role in financing economic activity.\n\nA June 2026 Federal Reserve staff paper identified a different potential weakness: safe reserve assets alone may not prevent a run on digital money. The research examined the interaction between network effects, which make a payment instrument more useful as more people adopt it, and congestion-sensitive fees, which make transactions more expensive when network demand rises.\n\nIn the authors’ model, those forces can encourage users to redeem together even when the assets backing the instrument are perfectly safe. The result concerns the incentives created by the payment network itself. It does not require the reserve portfolio to suffer the kind of credit loss that might otherwise undermine confidence in an issuer.\n\nThe paper was published in the Fed’s Finance and Economics Discussion Series, under the title “The Fragility of Perfectly Safe Digital Money.” Its conclusions represent the authors’ research, not a policy determination by the Board of Governors. The mechanism is a theoretical finding, rather than evidence that a particular issuer has experienced such a run.\n\nAI presents a parallel set of questions about how risks spread between institutions. In November 2024, the Financial Stability Board identified dependence on outside providers, correlated market behavior, cyber threats and model governance as vulnerabilities that could become systemic. Its review also recognized benefits, including more efficient operations, improved compliance and more powerful analysis of financial data.\n\nThe board’s concern extended beyond individual software errors. Similar tools used across institutions could produce correlated responses, while dependence on a small group of service providers could create common points of failure. Generative AI could also increase financial fraud and disinformation, the report said. These were potential channels of instability, rather than a claim that all uses of AI increase overall risk.\n\nThat earlier review called for better information about adoption and an assessment of whether supervisory frameworks adequately addressed emerging vulnerabilities. Authorities themselves were using AI to improve supervision, it noted. Limited data and rapid technological change made it harder to monitor the financial system’s exposure.\n\nThe FSB moved from identifying vulnerabilities to outlining institutional controls in 12 sound practices published on October 15, 2026 . They cover oversight across an organization and management throughout an AI system’s development and deployment. Financial institutions are encouraged to consider them; the report presents practices rather than a new statute applying directly to every bank.\n\nThe practices assign a role to boards and senior management in aligning AI use with business strategy and risk appetite. They also call for clear accountability, documentation and assessment of the significance of each use case. Model selection is meant to reflect the institution’s operational needs as well as the materiality of the risks involved.\n\nFurther practices address data quality, explainability, performance evaluation and appropriate human oversight. Cyber-risk testing and information sharing sit alongside management of third-party dependencies. That last category includes the performance and transparency of outside suppliers, concentration in the supply chain and continuity of operations if a provider fails.\n\nThe European Central Bank’s November 2026 Financial Stability Review analysis of AI describes the same issue across banks, asset managers and the wider economy. It says financial firms are using AI for activities including fraud detection, credit scoring and portfolio management, while reliance on a concentrated group of technology providers can create shared operational exposures.\n\nThe ECB distinguishes broader adoption from the deployment of more autonomous systems. Its review says advanced uses in credit assessment, trading and portfolio management remain less widespread, with agentic AI largely at the pilot stage. It warns that greater automation could increase operational risk and contribute to correlated behavior in investment markets.\n\nFinancial exposure also reaches beyond the institutions using the software. The review describes potential transmission through equity and credit holdings in companies affected by AI, including firms financing infrastructure expansion. Its conclusion calls for governance, better monitoring and international cooperation, reflecting the cross-border reach of the technology and its suppliers.\n\nThe ECB also identifies potential gains from lower information and transaction costs, better investment analysis and more efficient financial intermediation when adoption is properly managed.\n\nIn Japan, Kamiyama said the central bank was pursuing experimentation alongside improvements to existing infrastructure. Its work includes a distributed-ledger sandbox and a retail central bank digital currency pilot. No decision to issue a retail digital currency has been made, he said.\n\nNo. Kamiyama said work on a pilot continues, but no issuance decision has been made.\n\nThe October report describes practices financial institutions are encouraged to consider; it does not present them as a new statute.\n\nSupport Independent Journalism\n\nHelp The FINANCIAL continue delivering quality business and financial news.Support from as little as $1. If you can, please consider supporting us with a regular amount each month. Thank you\n\nThe FINANCIAL -- The U.S. fintech software development market includes global consultancies that work with banks such as UBS and...\n\nSend letter to Editor / Submit Guest Post: editor ( @ ) finchannel.com\n\nSales & Marketing, United States:\n\n(+1) 646 918 5009\n\nEmail: marketing (at) finchannel.com\n\nWhatsup: (+1) 646 918 5009\n\nEmail: editor (@) finchannel.com",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObDczY1J4czJHalpGTjk0bXozVHBlRDZIbXJhVUUwcEN3NFlMbm5QUlRfbFJ1dzRBdmVjWjNmRXktcG1VaGhvTmZvcTVWX1VfV0w5blBfdkdYNVRBbTJMLXBwTGhxb1V2VDB4OW9aTUJwQTJWLUtxOHJCdVFWNl90MHpWUXlVS2tVY1hEQzBjMUFhQWJBUFRUb0xyeXdQcExyOFo5MmpELVpRSHdpV2JRZms3c21xMjVmREwxY21kNmFrTV92aUVzVG9oZWVoUQ?oc=5",
+    "published_utc": "2026-11-27T11:01:46+00:00",
+    "published_kabul": "2026-11-27 15:31 (کابل)",
+    "importance": "کم",
+    "relevance_score": 68,
+    "relevance": "بسیار مرتبط",
+    "category": "اقتصاد آمریکا و دلار",
+    "archived_at_utc": "2026-11-27T11:31:40.435767+00:00",
+    "telegram_message_id": 2008,
+    "telegram_chat_id": "@Gold_Channel_00"
+  },
+  {
+    "source": "Economic Reports",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "claim_status": "تأیید مستقل در آرشیو احراز نشده",
+    "independent_verification": "احراز نشده",
+    "confirmed_sources": [
+      "Economic Reports"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک فید ثبت‌شده؛ نه تأیید مستقل",
+    "title": "Bank of England to defy market pricing and stick with gradual tightening - Financial Times",
+    "summary": "Bank of England to defy market pricing and stick with gradual tightening Financial Times",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQZXJ5N3RRa3hKLThzQ0VLWUZHVXc3ZzBpS1hqTHBJYkRYSF9oYlhVbG1QV1dhN1VUNFhiYkxiWU1wb2JxYXJoWXF3MnBlUGNzQmpPMDgzcWZ1cXBNQjNONmRVRXlrc2ZFWWFvekduVk0?oc=5",
+    "published_utc": "2026-11-27T05:35:26+00:00",
+    "published_kabul": "2026-11-27 10:05 (کابل)",
+    "importance": "کم",
+    "relevance_score": 22,
+    "relevance": "ارتباط محدود",
+    "category": "بانک‌های مرکزی و نرخ بهره",
+    "archived_at_utc": "2026-11-27T11:31:48.853190+00:00",
+    "telegram_message_id": 2011,
     "telegram_chat_id": "@Gold_Channel_00"
   }
 ]
