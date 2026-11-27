@@ -19866,5 +19866,28 @@
     "archived_at_utc": "2026-11-27T20:01:48.786937+00:00",
     "telegram_message_id": 2228,
     "telegram_chat_id": "@Gold_Channel_00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "claim_status": "تأیید مستقل در آرشیو احراز نشده",
+    "independent_verification": "احراز نشده",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک فید ثبت‌شده؛ نه تأیید مستقل",
+    "title": "Precious metals ETF GLTR seen as a buy below $1... - Pluang",
+    "summary": "The abrdn Physical Precious Metals Basket Shares ETF (GLTR), holding mostly gold and silver, has dropped over 52% since January, presenting a potential buying opportunity below $155. Factors supporting a long-term bullish outlook include central bank gold purchases, declining fiat currency value, silver's ongoing supply deficits, and limited platinum and palladium production. However, risks such as a stronger US dollar, rising interest rates, or broad market sell-offs could extend the current downtrend. Investors should watch for currency or bond market reversals that might trigger a recovery in precious metals prices. GLTR ETF performance is the subject, with Pluang market data for context. As of Nov 28, 2026 01:21 WIB, 134 of 150 US stocks on Pluang rose, 16 fell. Notable movers include BlackBerry Limited at USD 9.04 (+6.35%, 100% sell orders), Tencent Music Entertainment Group at USD 10.11 (+5.97%, 100% sell orders), and NIO Inc. at USD 2.85 (+5.95%, 84% sell orders).",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV2pmc3RxRUtWd05LeFpYd3dmTHhpekNwLTdGa3c0b3NkMEtjRnpKVDM5QUJ1ZVVGSUpRalN1VGFfYXhUSDRSc05sRGpfZlFSaGo1bFQtOVA0RFJqY05iMGxhUmdsSWt1UHJGUGsyUHB4bFc5SjdrN2RhSnFoWk41VjZEZVZxemM0?oc=5",
+    "published_utc": "2026-11-27T19:46:49+00:00",
+    "published_kabul": "2026-11-28 00:16 (کابل)",
+    "importance": "کم",
+    "relevance_score": 67,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-27T20:15:56.859404+00:00",
+    "telegram_message_id": 2231,
+    "telegram_chat_id": "@Gold_Channel_00"
   }
 ]
