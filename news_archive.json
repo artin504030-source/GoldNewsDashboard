@@ -17243,7 +17243,7 @@
       "Gold Market"
     ],
     "source_count": 1,
-    "confirmation_status": "یک منبع ثبت‌شده",
+    "confirmation_status": "یک فید ثبت‌شده؛ نه تأیید مستقل",
     "title": "Wheaton Precious Metals Corp. stock rises Wednesday, outperforms market - MarketWatch",
     "summary": "Wheaton Precious Metals Corp. stock rises Wednesday, outperforms market MarketWatch",
     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSnpOMUdtR3l3Mlp4UUVISFlKYTZGWVpZMXFnc056eHNmQUVjYVRRUmhFbHJZVzhZT1Fya3c5M2ZLZU5FZUZiZTYwVEhqX3FpME9zYkNnQlJXMkVUaHZBOFk3cnNGa09pdjZGa21qcmJCUmJwbGZmdG92bXh5SVNyOVIyWDk3UHRoZExsTFR3bXVwanpYX256b3lWa2NUX0ZTQXBOb19RVllESFYxaE53WlBma2Nsb1RlUnIzTWp4bTFTUWRVOFUwWQ?oc=5",
@@ -17255,7 +17255,8 @@
     "category": "طلا و فلزات گران‌بها",
     "archived_at_utc": "2026-11-27T05:15:39.032169+00:00",
     "telegram_message_id": 1839,
-    "telegram_chat_id": "@Gold_Channel_00"
+    "telegram_chat_id": "@Gold_Channel_00",
+    "last_confirmation_utc": "2026-11-27T08:30:38.965553+00:00"
   },
   {
     "source": "Geopolitical News",
@@ -17634,6 +17635,75 @@
     "category": "طلا و فلزات گران‌بها",
     "archived_at_utc": "2026-11-27T08:15:38.213220+00:00",
     "telegram_message_id": 1926,
+    "telegram_chat_id": "@Gold_Channel_00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "claim_status": "تأیید مستقل در آرشیو احراز نشده",
+    "independent_verification": "احراز نشده",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک فید ثبت‌شده؛ نه تأیید مستقل",
+    "title": "Australia Passes Landmark Law to Reserve Gas for Domestic Consumers - Crude Oil Prices Today | OilPrice.com",
+    "summary": "The Australian parliament today passed a law that would mandate LNG exporters to set aside gas equivalent to up to 20% of their annual export volumes for the domestic market, beginning in 2028. The scheme, a brainchild of the Labor government, aims to make sure Australia does not over-export its gas at the disadvantage of local consumers. &ldquo;Gas heats Australian homes, it firms renewable energy, it is essential to manufacturing ... and we will now have for the first time legislation preserving Australian gas for Australians,&rdquo; Prime Minister Anthony Albanese said, as quoted by Reuters. The proposal for a gas reservation scheme was first announced in December last year, with the proposed model unveiled in May this year, in response to worry about looming gas shortages in parts of the country, notably the east coast, which is particularly vulnerable to supply shortages. Last year, the country's competition regulator warned the market could swing into a deficit by December. That danger was temporarily averted thanks to existing agreements with LNG exporters and available gas reserves, without the need for export restrictions under the Australian Domestic Gas Security Mechanism, but the competition authority still warned last year that the risk of shortages remains. In response to the warnings, the Albanese government came up with the idea to make gas exporters allocate a certain portion of their output for the domestic market. The idea was not welcomed by the energy industry, which said this could change investment decisions and lead to lower spending by gas producers. The bill was subsequently tweaked, where the original 20% mandate was replaced with an &ldquo;up to 20%&rdquo; stipulation, which was the one that parliament passed today. However, the country&rsquo;s biggest gas-producing state won an exemption from the scheme. Earlier this month, Western Australia, accounts for about two-thirds of Australia&rsquo;s LNG exports, would not be included in the gas reservation scheme because it already has a 15% reservation scheme itself; besides, there are no pipelines or any other gas connections between it and the east coast, which is the target of the gas reservations. By Irina Slav for Oilprice.com",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNHUwMWNRN1l3bktGT0VDWVZ2cDZXb3NkZnk0dmtiN3k1SGxQbEdTN3ltdzdreHBTWHE4WTlRYkpqN21jRGw2cHdNWlVpUi01Nng5aU12RDhOdEVIdjJOS3BwSXYxNWtaOUtOalFldmNXRzlyNDVBTnlZZ0ZqbFF1ZGlVSGZ2dm1EMmVqS05lVWZBMkJTZ3JlcS1QSHZWY1M0VW9ETXN0WDRZMFJudDRUY3hvSng2dzlpNEJUTkQtc0LSAcYBQVVfeXFMT2tfS1p4TFJrSjlXY0c3WDlGZU5yRHE1YWNxWU1jMnBma0t4OFFGV1U5V1c5MnFwbUQ1VmxuUlRzOVkzelJoZW5PbW1EYzZqbmpVUm9KckY1ZEtUN0I3NVQweU5KNlFIUjVzREFiclJVbXlTLXBpRmJJNkd0c1B1VUswd1NJSUNMS24xTEkwNkstUE1IdmstSF9DblJZVXdlamFVT21ZODdWdzIzRzRVa0N4M3hOdG93RU1rRk1IMEx5bWtKbXB3?oc=5",
+    "published_utc": "2026-11-27T07:30:00+00:00",
+    "published_kabul": "2026-11-27 12:00 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 28,
+    "relevance": "مرتبط",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-27T08:30:55.881786+00:00",
+    "telegram_message_id": 1931,
+    "telegram_chat_id": "@Gold_Channel_00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "claim_status": "تأیید مستقل در آرشیو احراز نشده",
+    "independent_verification": "احراز نشده",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک فید ثبت‌شده؛ نه تأیید مستقل",
+    "title": "Oil Prices Gain as Middle East Supply Risks Return - grafa.com",
+    "summary": "Crude oil prices were heading for a weekly gain as escalating security risks in the Middle East renewed concerns about global supply, challenging expectations of a potential oil market surplus.\n\nBrent crude was trading at $96.61 per barrel, while US West Texas Intermediate (WTI) stood at $85.79. Both benchmarks were recovering from recent declines, although they remained below levels reached in October.\n\nMore frequent reports of attacks on commercial vessels in the Strait of Hormuz, alongside Houthi attacks on Saudi energy infrastructure, have increased concerns about disruptions to crude transportation and regional exports.\n\nData showing that Middle Eastern energy commodity exports remain below pre-war levels has also contributed to the recovery in prices.\n\nANZ commodity analysts said Brent could still exceed $100 per barrel without another major escalation in the Middle East, although that would increasingly require evidence of restricted physical oil supplies.\n\nING analysts similarly highlighted attacks on Saudi infrastructure, including areas around the Ras Tanura export hub and Red Sea ports, as well as reports of vessels being targeted in the Strait of Hormuz.\n\nThe latest developments have challenged earlier expectations of a global oil surplus.\n\nThe International Energy Agency had previously anticipated that the recovery in Middle Eastern exports recorded in September would continue.\n\nHowever, more recent data indicate that oil flows have declined from September and October highs, while liquefied natural gas exports remain approximately half their pre-war levels.\n\nMarket attention is also turning to the November 29 OPEC+ meeting, where members are expected to discuss their production strategy for 2027.\n\nThe outcome could influence supply expectations as traders assess the balance between geopolitical disruptions, production decisions and global demand.\n\nCrude oil prices fell more than 1% on Wednesday, with Brent declining 1.6% to US$89.93 a barrel and West Texas Intermediate dropping 1.9% to US$80.53.\n\nBrent crude fell 0.9%, or $0.92, to $103.36 per barrel on Friday as expectations of reduced U.S.-Iran tensions eased immediate concerns over Middle East oil supplies.\n\nBrent crude fell 0.3% to US$89.10 per barrel on Tuesday, while West Texas Intermediate crude declined 0.3% to US$79.97 as rising supply expectations raised concerns about a potential global oil surplus.\n\nBrent crude and West Texas Intermediate crude fell as traders weighed forecasts of a fourth-quarter oil surplus against continuing shipping risks in the Strait of Hormuz.",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUi1nRFJXdnYyZEZSODRENEoycUM5ekY4NGY2cGp5Ym1FTm1fREVmM1B3MThIUmZfLU1sQWQxcFNkVFNNQ3djUHN6ZktUbGpYNmhydVRHa08xaWZydnZpUWJCeHo1UW9ZX0lieXM1UC10YVhmVi1fR2xPVmVvVm5WdVpkVmlaZGw0ZlVMX2hyVmY?oc=5",
+    "published_utc": "2026-11-27T08:24:48+00:00",
+    "published_kabul": "2026-11-27 12:54 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 28,
+    "relevance": "مرتبط",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-27T08:31:13.897917+00:00",
+    "telegram_message_id": 1932,
+    "telegram_chat_id": "@Gold_Channel_00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "claim_status": "تأیید مستقل در آرشیو احراز نشده",
+    "independent_verification": "احراز نشده",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک فید ثبت‌شده؛ نه تأیید مستقل",
+    "title": "Natural Gas and Oil Forecast: OPEC+ Capacity Fight Looms, Can Brent Clear $95.55? - FXEmpire",
+    "summary": "Brent edged up to $96.61 a barrel at 0450 GMT on Friday, Reuters reported, after gaining nearly $2 on Thursday to settle at its highest since November 6. Ongoing attacks on tankers in the Strait of Hormuz and on Saudi energy infrastructure have heightened supply concerns, Reuters said. The next test comes on Sunday, when OPEC+ meets to set its output policy for 2027.Brent: Iraq and Kazakhstan Want Higher Capacity RatingsAhead of that meeting, Iraq and Kazakhstan are pressing OPEC+ to raise its estimates of their production capacity, Reuters reported. The group plans to use membersâ maximum capacity to set output quotas from 2027 and beyond, so a higher rating can mean a bigger quota later. OPECâs first capacity review, carried out by US consultancy DeGolyer and MacNaughton, put Iraqâs capacity at 4.9mn barrels per day (bpd) in a preliminary finding. Iraqâs quota is 4.431mn bpd and the IEA estimates its sustainable capacity at 4.87mn bpd, but Baghdad wants a higher capacity figure recognized.Iraq OPEC+ quota versus capacity estimatesChart: Iraqâs OPEC+ quota versus capacity estimates, million barrels per day. Source: OPEC, IEA, preliminary DeGolyer and MacNaughton review, via ReutersKazakhstan has joined the push, and the IEA put its October output at 1.76mn bpd, about 8% above its quota of 1.628mn bpd for November and December. Two sources told Reuters that OPEC+ may roll over its current output targets for at least the first quarter of 2027. OCBC analyst Sim Moh Siong said recovering Gulf exports and easing geopolitical risk support lower prices in 2027, though depleted inventories, shipping risks and slow refinery repairs leave the market exposed, Reuters reported. ANZ analysts were more upbeat: âWe think Brent can still push above USD100/bbl without another major escalation in the Middle East,â they wrote in a note. In my view, a rollover only delays the capacity fight, and higher baselines would mean more barrels once Gulf flows recover.WTI: Refiners Run at 97.5% as Crude Stocks BuildUS commercial crude stocks rose 1.1mn barrels to 418.9mn in the week ended November 20, the EIA said, less than the 1.5mn-barrel build analysts expected in a Reuters poll. Stocks at Cushing, Oklahoma, the delivery point for US crude futures, fell 534,000 barrels. Refinery utilization, the share of refining capacity in use, rose 1.8 percentage points to 97.5%.Even with the build, WTI kept rising: US crude traded at $85.78 on Friday, up $2.10 from Wednesdayâs close, with no settlement on Thursday because of the Thanksgiving holiday, Reuters said. The EIAâs Weekly Petroleum Status Report normally comes out on Wednesdays at 10:30 a.m. ET.Natural Gas: World Bank Sees a Tight Winter in EuropeUS gas storage posted its first withdrawal of the season, a 24bn cubic feet (Bcf) draw in the week ended November 20, which left inventories at 3,858 Bcf, according to the EIAâs storage report. The draw matched the five-year average decrease for this time of year, NGI said.Overseas, the World Bank sees a tighter market: EU gas inventories remain near the bottom of their range over the past decade and could fall below 10% of working capacity by end-March 2027 if colder-than-average weather and Strait of Hormuz disruptions continue, World Bank economists Paolo Agnolucci and Nikita Makarenko wrote in a November 24 blog. They estimate that about 30% of US liquefied natural gas (LNG) exports have shifted from Europe toward East Asia, and they forecast the US benchmark price flat in 2026 before a rise of about 6% in 2027, driven mainly by growing LNG export demand. For more on gas, see FXEmpireâs natural gas forecasts.Brent Crude Oil Technical Analysis: Brent Reclaims $91.79 Pivot, Eyes $95.55Brent Price ChartThose supply worries show on the daily chart. February Brent futures, which become the front month after January expires on Monday, November 30, are trading near $92.53. Buyers stepped in at a rising trendline, a line connecting higher lows since July, and Brent is back above $91.79, the pivot point, a level calculated from the previous periodâs high, low and close that traders use to judge direction. Prices are now testing the faster moving average, which tracks average prices over time.A close above $95.55, the first resistance, where sellers may return, would open the way for $98.65. On the downside, the pivot is the first support, where buyers may step in, and a drop below it would expose $85.60. RSI, a 0 to 100 gauge of buying and selling strength, is near 48 and above its signal line, a slower average of RSI. I see a slight bullish lean while Brent holds above the pivot.Natural Gas Technical Analysis: NG Holds $3.57 Pivot as $3.68 Caps PricesNatural Gas (NG) Price ChartJanuary natural gas futures are trading near $3.62/MMBtu, or per million British thermal units, on the 2-hour chart. Buyers defended a rising trendline, which meets the $3.57 pivot, and prices are pressing against the faster moving average.A move above $3.68 would favor buyers and open the way for $3.75. A drop below the pivot would point to $3.51. RSI is near 49 and edging above its signal line. Until one side breaks, my bias stays neutral.WTI Crude Oil Technical Analysis: WTI Breaks Above $85.11 Pivot, Tests ResistanceWTI Price ChartJanuary WTI futures are trading near $86.28 on the 1-hour chart. WTI has climbed from Mondayâs lows, broken above the $85.11 pivot and is now testing resistance. Both moving averages are rising below price, and the faster one has crossed above the slower one.A close above $86.65 would open the way for $87.93. A drop back below the pivot would point to $83.33. RSI is near 74, which is overbought, meaning prices rose very fast, so a pause would not be a surprise. WTI stays bullish while it holds above $85.11.",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSm80UzF1RldyYmpsWFhzNUp6YW12cjQ2S05lQ1lYNFhyVzVmdENOQlhPQnEtUHRaRmtNMnN3WTFXMjJJaWdpb3kwZmNuTDl0T3RBTl9mR2JjYUJRSkRYRmJCdjFMU1RSbXFSOG41N1NWUmczaklOZlptcGR2LU5xYXRHb2p6VlhVM1lDbjJuWHdINXVaTDdIUjYyaVl4UG14aXd3a3VJWHRLUTRuUUpCTEo5UlpJRDBZbEFfc2hsSWRpclM4eUE?oc=5",
+    "published_utc": "2026-11-27T06:48:31+00:00",
+    "published_kabul": "2026-11-27 11:18 (کابل)",
+    "importance": "کم",
+    "relevance_score": 28,
+    "relevance": "مرتبط",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-27T08:31:50.717662+00:00",
+    "telegram_message_id": 1933,
     "telegram_chat_id": "@Gold_Channel_00"
   }
 ]
