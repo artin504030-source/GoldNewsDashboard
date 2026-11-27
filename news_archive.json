@@ -17157,7 +17157,7 @@
       "Bank of Japan"
     ],
     "source_count": 1,
-    "confirmation_status": "یک منبع ثبت‌شده",
+    "confirmation_status": "یک فید ثبت‌شده؛ نه تأیید مستقل",
     "title": "(BOJ Review) Developments in JGB Market-Making Business by Securities Companies",
     "summary": "November 27, 2026 ASAMATSU Hiroki, AIDA Eri * , HORIKAWA Takumi, OGAWA Yoshiya Financial System and Bank Examination Department\n\n* Previously at the Financial System and Bank Examination Department\n\nSecurities companies function as market makers in the Japanese government bond (JGB) market by intermediating the trading needs of investors. They manage the interest rate risk they bear and earn profits from their intermediation. In this paper we analyze the developments in factors that are internally considered by securities companies, such as balance sheet size, interest rate risk, and profits, as they undertake the role of market makers, and we examine the impact of these factors on liquidity in the government bond market, including through case studies. Generally, under stable market conditions, the risk management factors of securities companies rarely have a significant impact on the liquidity of the government bond market. However, during the market turmoil in April 2025, the cautious stance of securities companies toward taking on additional risks may have contributed to the widening of bid-ask spreads. Moving forward, it remains important to deepen our understanding of the developments in market-making business.\n\nThe Bank of Japan Review Series is published by the Bank to explain recent economic and financial topics for a wide range of readers. This report, 2026-E-14, is a translation of the Japanese original, 2026-J-13, published in September 2026. Views expressed are those of the authors and do not necessarily reflect those of the Bank.\n\nIf you have any comments or questions, please contact Financial System and Bank Examination Department (E-mail: emu-.fsbe51_post@boj.or.jp).",
     "link": "http://www.boj.or.jp/en/research/wps_rev/rev_2026/rev26e14.htm",
@@ -17169,7 +17169,8 @@
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-27T05:00:50.406688+00:00",
     "telegram_message_id": 1832,
-    "telegram_chat_id": "@Gold_Channel_00"
+    "telegram_chat_id": "@Gold_Channel_00",
+    "last_confirmation_utc": "2026-11-27T08:00:37.450215+00:00"
   },
   {
     "source": "Gold Market",
@@ -17563,6 +17564,29 @@
     "category": "طلا و فلزات گران‌بها",
     "archived_at_utc": "2026-11-27T07:46:21.736866+00:00",
     "telegram_message_id": 1916,
+    "telegram_chat_id": "@Gold_Channel_00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "claim_status": "تأیید مستقل در آرشیو احراز نشده",
+    "independent_verification": "احراز نشده",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک فید ثبت‌شده؛ نه تأیید مستقل",
+    "title": "South African rand strengthens on precious metals rally - Reuters",
+    "summary": "South African rand strengthens on precious metals rally Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeFB4SFJBdWY0S0hvMVFUeWhDNlBFRnR0SlBQX0FaR0NSRUlfNmtCSFViRmlqVDhya3NOQXVBX1lPX1B1WFhLUFQwUlM1a1p1WDdxa1ZEajJ6R0s2dEI3N285bkpnMkdTT3VqMGtQb05BUU1XMEtNYTZWMXpMd3k2ZzdaRTh4aVV6NWp4aUNIY2RLbUlicV94M1pKTTkwcTF5ZmlV?oc=5",
+    "published_utc": "2026-11-27T07:43:00+00:00",
+    "published_kabul": "2026-11-27 12:13 (کابل)",
+    "importance": "کم",
+    "relevance_score": 45,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-27T08:00:43.060497+00:00",
+    "telegram_message_id": 1922,
     "telegram_chat_id": "@Gold_Channel_00"
   }
 ]
