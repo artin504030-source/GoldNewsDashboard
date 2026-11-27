@@ -16792,5 +16792,47 @@
     "archived_at_utc": "2026-11-27T00:31:06.864109+00:00",
     "telegram_message_id": 1762,
     "telegram_chat_id": "@Gold_Channel_00"
+  },
+  {
+    "source": "Economic Reports",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Economic Reports"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Bank of England sees growing financial risks as AI borrowing surges - Reuters",
+    "summary": "Bank of England sees growing financial risks as AI borrowing surges Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMlNESVMtMnZuRm9TZ0FHOGE2NkE2anNKbkwwVlpqbThWRW5WdGpYMnJyMVZrX1dheTRXTGtRT2xqckxNdEo1Y1V3aUthRU5QTUJGY21qaDBnamg1cVRlSG5ZQ1IzZTVnUzJ1djJfS25sOC03WlgwOVY1LXJ0ZHZhRFFwWk5ubV9KWWIxal93a25QaDBmTGMxUmg3OFUta2NWNmFBRGNJVUlNakE3ak82Sm9tRzI?oc=5",
+    "published_utc": "2026-11-26T15:39:19+00:00",
+    "published_kabul": "2026-11-26 20:09 (کابل)",
+    "importance": "کم",
+    "relevance_score": 22,
+    "relevance": "ارتباط محدود",
+    "category": "بانک‌های مرکزی و نرخ بهره",
+    "archived_at_utc": "2026-11-27T00:45:47.972031+00:00",
+    "telegram_message_id": 1764,
+    "telegram_chat_id": "@Gold_Channel_00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "WiseTech Faces Market Pressure as Oil Prices Lift Energy Stocks - www.suaralandak.co.id",
+    "summary": "Rising oil prices and geopolitical uncertainty in the Middle East are reshaping investor sentiment across Australia's share market, creating contrasting conditions for energy and technology companies. WiseTech Global Ltd (ASX:WTC), a major logistics software provider, is among the technology stocks attracting attention as investors reassess sector exposure and operating costs. Market data recorded WiseTech shares at AUD 54.46, up AUD 7.650 or 16.343%, at 23:55 UTC on November 26, 2026.The company's position within the ASX 200 also makes its performance relevant to broader assessments of Australia's listed technology sector. The latest market environment reflects competing pressures. Higher crude oil prices have supported energy stocks following escalating tensions in the Middle East, while rising commodity costs and changing investor risk appetite have created challenges for growth-oriented technology shares, according to the market analysis published by Kalkine Media.WiseTech operates in the supply chain technology industry, providing software that supports freight forwarding and customs operations across international markets. Its flagship platform helps logistics operators manage shipping documentation, regulatory compliance, freight rates and shipment tracking.These services support the administrative processes behind international cargo movements. Businesses use the software to coordinate complex logistics activities, making technology an important component of freight operations. Disruptions across global shipping routes have also increased operational complexity for logistics companies. Port congestion, changing trade routes, shipping diversions and tighter customs requirements have created additional administrative demands across the freight industry.Geopolitical tensions can intensify these challenges when maritime operators need to avoid strategically sensitive shipping routes. Longer transit times and changes to transportation arrangements can increase documentation and coordination requirements. Higher oil prices present a separate challenge for the logistics industry because fuel expenses contribute to transportation costs. At the same time, the market analysis highlights how greater operational complexity can increase the importance of automation and logistics management software.For technology investors, the distinction between company performance and broader market movements remains relevant. Changes in sector valuations can reflect shifts in capital allocation and investor sentiment rather than developments within an individual company's operations. Energy companies have benefited from the latest movement in crude prices.Woodside Energy Group Ltd (ASX:WDS), one of Australia's major listed oil and gas producers, is among the companies closely watched when international oil markets experience significant movements. Higher energy costs can also influence freight expenses, business input costs and the valuation of companies whose expected earnings extend further into the future. These factors can weigh on technology shares even when their underlying business operations have not experienced an equivalent change.The market session also featured developments in Australia's banking sector. Bank of Queensland Ltd (ASX:BOQ) reported lower cash earnings year on year alongside higher revenue during its fiscal first half, according to the source report.The combination highlights different pressures facing regional lenders, including funding expenses, margin conditions and investment in business transformation. Revenue growth and cash earnings therefore presented contrasting indicators of the bank's financial performance. Banking developments also provide context for Australia's broader financial sector, where technology investment remains relevant to operational efficiency and digital infrastructure.Financial institutions are significant users of enterprise software as they continue to manage their technology requirements. Australia's share market remains heavily represented by financial services and resources companies, although internationally focused software businesses have gradually increased their presence. WiseTech's position within the ASX 200 reflects the growing importance of technology companies in the domestic equity market.",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBJdHpVcDhOVGVPeUZGaVRUSklfVDhxci1BOVZsNURBUjNUblZidjIzVXRCeGs5UTc2eHBjVWg5UV90OC1JVE1uVzkwRXA4NjhVRTBLc3dVTHMtc0RnZWwyRjUyNkZ0T1ItR0plOExB?oc=5",
+    "published_utc": "2026-11-27T00:30:18+00:00",
+    "published_kabul": "2026-11-27 05:00 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 28,
+    "relevance": "مرتبط",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-27T00:46:17.030379+00:00",
+    "telegram_message_id": 1765,
+    "telegram_chat_id": "@Gold_Channel_00"
   }
 ]
