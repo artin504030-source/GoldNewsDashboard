@@ -18045,10 +18045,11 @@
     "claim_status": "تأیید مستقل در آرشیو احراز نشده",
     "independent_verification": "احراز نشده",
     "confirmed_sources": [
-      "Oil Trade and Supply"
+      "Oil Trade and Supply",
+      "Trade and Sanctions"
     ],
-    "source_count": 1,
-    "confirmation_status": "یک فید ثبت‌شده؛ نه تأیید مستقل",
+    "source_count": 2,
+    "confirmation_status": "چند فید ثبت‌شده؛ تأیید مستقل احراز نشده",
     "title": "Russia extends jet fuel export ban out to April 2027 - Quantum Commodity Intelligence",
     "summary": "Please Register or Sign in to view this content.\n\nQuantum Commodity Intelligence is a premium paid subscription service for professionals in the oil, biofuels, carbon, ammonia and hydrogen markets.\n\nQuantum Oil service subscribers have access to:\n\nGet in touch with us for subscription information on all Quantum platforms or help with the service.",
     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaUhYd2dJMTN2TGNGcHJBR0MyR1BHNGhUUktTR1I5UDJwR3o0bl9UVmZjd0tOZVM3S1Y2NFMzeEZUNTltSjJlaGxjNmE5REZvV05PRnBXN0sxSHRRUXZaOEZjTVZaTGVQZnRiOV9OcjFVdjNuM0tXT1VxalFxMndzMHp6aUl2TlV5TTVSSVpBX0JoOUlrOWZLaTlTVQ?oc=5",
@@ -18060,7 +18061,8 @@
     "category": "انرژی",
     "archived_at_utc": "2026-11-27T10:15:51.739765+00:00",
     "telegram_message_id": 1979,
-    "telegram_chat_id": "@Gold_Channel_00"
+    "telegram_chat_id": "@Gold_Channel_00",
+    "last_confirmation_utc": "2026-11-27T20:01:37.316439+00:00"
   },
   {
     "source": "Geopolitical News",
@@ -19817,6 +19819,52 @@
     "category": "انرژی",
     "archived_at_utc": "2026-11-27T19:46:28.583330+00:00",
     "telegram_message_id": 2221,
+    "telegram_chat_id": "@Gold_Channel_00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "claim_status": "تأیید مستقل در آرشیو احراز نشده",
+    "independent_verification": "احراز نشده",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک فید ثبت‌شده؛ نه تأیید مستقل",
+    "title": "NASA Wanted a 100-Kilowatt Reactor on the Moon but Is Settling for 20 - Crude Oil Prices Today | OilPrice.com",
+    "summary": "In August 2025, Washington promised a 100-kilowatt nuclear reactor on the Moon by 2030, ahead of China and Russia. \"We're in a race to the moon, in a race with China to the moon,\" NASA's then-interim chief Sean Duffy said, warning that whoever landed a reactor first could declare a \"keep-out zone\" around it. But the reactor NASA put out to bid on November 23 is one-fifth that size. Lunar Reactor-1 LR-1 will generate 20 kilowatts, enough for about 16 American homes, and it will run on high-assay low-enriched uranium HALEU, a fuel the Energy Department says US suppliers can't yet provide. Duffy's target was more than double the 40-kilowatt designs NASA had been funding, and experts doubted it. Katy Huff, the Energy Department's former top nuclear official, said she found \"no evidence\" that anyone had thought about the 100-kilowatt figure \"beyond it being bigger.\" In an earlier interview, she said going from 40 to 100 kilowatts \"is not a matter of simply turning up the knob.\" Randy Bell of the Aerospace Corporation said a 100-kilowatt reactor would be very large and difficult to land, TechTimes reported. In April, the White House lowered the target. A memo on space nuclear power set the 2030 lunar reactor at a minimum of 20 kilowatts and pushed the 100-kilowatt version into the 2030s, without saying why. NASA wants bids by December 21 for a reactor that is ready to launch by 2030 and can run for five years without maintenance. Related Goldman Sachs Sees U.S. Natural Gas Demand Surging on Data Center Boom The reactor has to survive more than two weeks of total darkness at the lunar south pole, keep running after any single failure, and operate with little contact from Earth. It also has to be shielded so astronauts a kilometer away get no more than 5 rem a year of extra radiation, according to Nuclear Newswire. Companies that win the contract get 18 months to build and test a non-nuclear version. The real reactor won't run at power until it reaches the Moon. Russia and China are aiming later. Roscosmos chief Yury Borisov said in 2024 that the two countries plan to install a power plant on the Moon around 20332035. In December 2025, Roscosmos hired the Russian space contractor Lavochkin to build one by 2036, with Russia's state nuclear company Rosatom involved, to power the China-led lunar base Russia has joined. Neither country has said how big it will be. NASA plans to spend $20 billion over seven years on a base near the lunar south pole with habitats, pressurized rovers and nuclear power, and it plans to launch the base's first element in December. SR-1 Freedom, a 20-kilowatt nuclear-electric spacecraft bound for Mars, is due to fly in 2028 and will supply data for LR-1's design. \"SR-1 Freedom is our Nautilus, and she will launch in 2028,\" NASA Administrator Jared Isaacman said in October. Fueling the reactor may be harder than building it. HALEU is uranium enriched to between 5% and 20%, richer than ordinary reactor fuel. Russia's state nuclear company Rosatom has been the only commercial seller, and China can also make it at scale, according to POWER magazine. The United States has no commercial supply. The Energy Department says HALEU is \"not currently available\" from US suppliers, so it is drawing the fuel for NASA's 2028 Mars spacecraft from government stocks, including material held by the nuclear weapons agency. It has not said where LR-1's fuel will come from. In January, Washington committed $2.7 billion to domestic uranium enrichment, including $900 million to Centrus Energy, which expects to produce new HALEU in Ohio by 2029. The Government Accountability Office warned in August that production \"is unlikely to scale quickly enough\" to meet demand. That leaves NASA's reactor depending on a fuel plant not expected to be online until 2029, a year before the reactor is due on the launch pad. By Charles Kennedy for Oilprice.com",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZG5mUjlkSjBLYnBQekZjQ0QxQ0p5cnFZcWVxb0N1ZFRlbGtNWlVfQlFDWTNYZWp0eUtJVVRIdzRnZ1p6U2hWa09pT21yeHBmbEpIcGdOMHZfWXE1UFlBOTJ0LW5GUG1vZ3F4UkNBWkJtbVk1SjNxMUE0SkpieDljd0pNVUU5WWJqOTdZX3lCZWVSMDlGSVFkek9IeVowQm1wYlJkY1VHSlZiRmVYbGpJR2RPdmdpTE1XUkllR0JuamwtUV9seEVZ0gHMAUFVX3lxTE5QRk85bGVWWkRLeElSQUk3X1gtVXk0emNtY2Z2RnJvN2VWMmRNTHVtZEhkQWg5UkJ1UXRpODFoakZUeXB3WHJERlRhdEdlaE9PMXg1d2swNHBsRHBPcGFCUW5Oa3haQ1NCR0F1ZEhLUXgyeWtaUkFMTXFGQU15bWx3UHMxR00tdFBBb3NXTVEzb19IMGRUeVFrcEM4MUh6Tnh0ZTNIeHdnbFVscERIUHlNc191Qm9RWkVjM3kwTXkwZExzWU5McE5kMDhpdA?oc=5",
+    "published_utc": "2026-11-27T00:00:00+00:00",
+    "published_kabul": "2026-11-27 04:30 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 73,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-27T20:01:30.605416+00:00",
+    "telegram_message_id": 2226,
+    "telegram_chat_id": "@Gold_Channel_00"
+  },
+  {
+    "source": "Trade and Sanctions",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "claim_status": "تأیید مستقل در آرشیو احراز نشده",
+    "independent_verification": "احراز نشده",
+    "confirmed_sources": [
+      "Trade and Sanctions"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک فید ثبت‌شده؛ نه تأیید مستقل",
+    "title": "Russia Extends Jet Fuel Export Ban Until March 2027 - The Moscow Times",
+    "summary": "An airport fuel truck fills up a passenger plane.\n\nGazprom Neft\n\nThe Russian government announced Friday that it will extend its ban on jet fuel exports until the end of March 2027 as the domestic energy market continues to feel the strain from Ukrainian strikes on oil refineries.\n\nRussia first banned jet fuel exports in June following Ukrainian drone attacks on refineries that led to slumps in domestic production and localized shortages. That embargo was set to expire on Monday, Nov. 30.\n\nThe extension of the ban runs from Tuesday, Dec. 1 until March 31, 2027.\n\nExceptions are made for international intergovernmental agreements, as well as humanitarian aid shipments and supplies to the Russian military, Baikonur spaceport in Kazakhstan and Russian operations in the Svalbard archipelago off Norway.\n\nThree additional exemptions are marked “for official use” in the published decree signed by Prime Minister Mikhail Mishustin.\n\nDeputy Prime Minister Alexander Novak acknowledged earlier this week that the situation in Russia’s domestic fuel market remains “quite tense” due to ongoing repairs of several major oil refineries.\n\n“There’s definitely a deficit, which is being covered by external supplies,” Novak told reporters on Wednesday, adding that fuel is being imported from both neighboring and distant countries.\n\nHe said authorities will decide next month whether to continue importing gasoline in 2027 and extend current gasoline export restrictions, which expire in January.\n\n“It will depend on the ability to process [fuel] and supply the domestic market,” Novak said.\n\nRabkor was founded by jailed anti-war sociologist and Marxist theorist Boris Kagarlitsky.\n\nOur weekly newsletter contains a hand-picked selection of news, features, analysis and more from The Moscow Times. It arrives in your mailbox once a week. Never miss the latest news from Russia.",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONWhlR3NkNWNYQ3dVaGdOdVRYcE1aUFJ4Z29xWlo4N2lYRWNWYXhqdTlQejRsaVdlNHdzdTU0cnhzNzQwVDRHd0pkWmpaZXhqVVJlbWRid2hfcjdMN1pYRW9EUjNFSTFWVl9mS053TE44OXJiNVVtb2E5RkczTHBRRjJ6d2FSbkR2d0N6RG1vaTlKczRoODd4T3U5SWVGYnJHTzRV?oc=5",
+    "published_utc": "2026-11-27T15:07:35+00:00",
+    "published_kabul": "2026-11-27 19:37 (کابل)",
+    "importance": "کم",
+    "relevance_score": 28,
+    "relevance": "مرتبط",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-27T20:01:48.786937+00:00",
+    "telegram_message_id": 2228,
     "telegram_chat_id": "@Gold_Channel_00"
   }
 ]
