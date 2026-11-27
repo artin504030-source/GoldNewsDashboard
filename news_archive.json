@@ -18289,5 +18289,28 @@
     "archived_at_utc": "2026-11-27T11:31:48.853190+00:00",
     "telegram_message_id": 2011,
     "telegram_chat_id": "@Gold_Channel_00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "claim_status": "تأیید مستقل در آرشیو احراز نشده",
+    "independent_verification": "احراز نشده",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک فید ثبت‌شده؛ نه تأیید مستقل",
+    "title": "Angel Wing Metals Inc. (TSXV:AWM) Retreats as Market Attention Turns to Precious Metals Exploration - kalkine.ca",
+    "summary": "Angel Wing Metals Inc. (TSXV:AWM) Retreats as Market Attention Turns to Precious Metals Exploration kalkine.ca",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcEVSNVVUOUp0VUV1djlwSVgwVGZ3b2R0VVBGbUVKSkxibWpudDRKZUJCS3ZONFJsX3NwREJzRFdVV0tDR3JNWm1SMDhUTHM5UE5vNFFNVTdhS1lzekJTTmk4NENhMm5odkZZOXFRc0N4Y2UzbHhCTjhGd08wMS13MkFmXzNETUwxZTRqal96MnRuTWprU3NEeXhNajJnS1EwYkRTRkFIMFNWY2xERlpzLUNJSE15blcwdlhnMm9NZ1hsRUI1?oc=5",
+    "published_utc": "2026-11-27T11:27:00+00:00",
+    "published_kabul": "2026-11-27 15:57 (کابل)",
+    "importance": "کم",
+    "relevance_score": 45,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-27T11:45:30.055801+00:00",
+    "telegram_message_id": 2014,
+    "telegram_chat_id": "@Gold_Channel_00"
   }
 ]
