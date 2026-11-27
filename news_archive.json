@@ -11053,7 +11053,7 @@
       "Gold Market"
     ],
     "source_count": 1,
-    "confirmation_status": "یک منبع ثبت‌شده",
+    "confirmation_status": "یک فید ثبت‌شده؛ نه تأیید مستقل",
     "title": "Central Bank of Armenia: exchange rates and prices of precious metals - 25-11-26 - Armenpress",
     "summary": "Central Bank of Armenia: exchange rates and prices of precious metals - 25-11-26 Armenpress",
     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBkMWp4cHVaMzJaMWI5UWdkNWpiS054UGtXdU1nWDlKTG83VHNSMzU1TTItYkxISWJITlhFYXNuMm9nSVJFSTlnNjF0bG5tbV8ta1HSAVdBVV95cUxNMHk1akZnYWl3Q3lGSmhRamNPbE5RVmJXd0NqdkN5RWpmMTQyb1BxLWk0cTZZbFZJSGxXc0lFTm5ORjBBUkpPdThyTm4zREFUNjNNNTJRNWM?oc=5",
@@ -11064,7 +11064,7 @@
     "relevance": "بسیار مرتبط",
     "category": "طلا و فلزات گران‌بها",
     "archived_at_utc": "2026-11-25T13:00:54.509310+00:00",
-    "last_confirmation_utc": "2026-11-26T13:30:56.275191+00:00"
+    "last_confirmation_utc": "2026-11-27T13:08:17.208862+00:00"
   },
   {
     "source": "Geopolitical News",
@@ -15451,10 +15451,11 @@
     "source": "Geopolitical News",
     "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
     "confirmed_sources": [
-      "Geopolitical News"
+      "Geopolitical News",
+      "China and Global Markets"
     ],
-    "source_count": 1,
-    "confirmation_status": "یک منبع ثبت‌شده",
+    "source_count": 2,
+    "confirmation_status": "چند فید ثبت‌شده؛ تأیید مستقل احراز نشده",
     "title": "Trump's new tariffs aim to prise global trade from China's grip - Reuters",
     "summary": "Trump's new tariffs aim to prise global trade from China's grip Reuters",
     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaUdXQjZTRVJvNzVESnNzMlpfZmxhTEgweFZsUHRZRTVLa29xcENmUjJaUUNjWExsaVNTREJqNlNwSFZzNXFuRUFqSlpRam4tZkZHWXEwZXQ5VlhPVFJzcmNnZEw5a3N2ZVBndnpnNzhiN1Y1NkRtU1M5WE05UmRFcGMzUVk0NXYyRTVpM05MOUhISDhmb3BPTERXcmNHWE9zc2dR?oc=5",
@@ -15466,7 +15467,8 @@
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-26T13:16:07.384775+00:00",
     "telegram_message_id": 1446,
-    "telegram_chat_id": "@Gold_Channel_00"
+    "telegram_chat_id": "@Gold_Channel_00",
+    "last_confirmation_utc": "2026-11-27T13:09:12.280257+00:00"
   },
   {
     "source": "Gold Market",
@@ -18568,6 +18570,52 @@
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-27T13:04:30.704238+00:00",
     "telegram_message_id": 2044,
+    "telegram_chat_id": "@Gold_Channel_00"
+  },
+  {
+    "source": "Forex and Central Banks",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "claim_status": "تأیید مستقل در آرشیو احراز نشده",
+    "independent_verification": "احراز نشده",
+    "confirmed_sources": [
+      "Forex and Central Banks"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک فید ثبت‌شده؛ نه تأیید مستقل",
+    "title": "Yen hovers near 160 as Fed decision sets tone ahead of December Bank of Japan vote - VT Markets",
+    "summary": "Yen hovers near 160 as Fed decision sets tone ahead of December Bank of Japan vote VT Markets",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZGRtWVN0N21zUTRzRjk3X2FnRXExZ1dGT3pqMXAxZkpmRk1hS291UmkwbTg4dk5mMW9sOTJDMzRBTVNjOE04ei16dF9XZGNhcDlkNTZDREtrWnNnbUM2a2s2bzNJZm56eFoyRmd4WWZMVGpXcFc2NjZXMkJ0bFFGV1V6dEtQRzllUjAyeGtXbTFpbUdRQ2g1eHk5ZlMxcDBTMW5qWlB4WEZVelQ3ZmpEMFZGZWlnYmE0X2E4d29Ea0paR3NMQzVn?oc=5",
+    "published_utc": "2026-11-27T08:32:15+00:00",
+    "published_kabul": "2026-11-27 13:02 (کابل)",
+    "importance": "کم",
+    "relevance_score": 22,
+    "relevance": "ارتباط محدود",
+    "category": "بانک‌های مرکزی و نرخ بهره",
+    "archived_at_utc": "2026-11-27T13:08:22.518777+00:00",
+    "telegram_message_id": 2054,
+    "telegram_chat_id": "@Gold_Channel_00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "claim_status": "تأیید مستقل در آرشیو احراز نشده",
+    "independent_verification": "احراز نشده",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک فید ثبت‌شده؛ نه تأیید مستقل",
+    "title": "Trump embraced Xi, then slapped new tariffs on China: What’s his game plan? - Al Jazeera",
+    "summary": "In February 2025, US President Donald Trump marked his return to office by kick-starting a trade war with China.\n\nNew tariffs, amid accusations that China was failing to prevent the flow of drugs into the United States, set the stage for an escalating economic confrontation between the world’s two largest economies, which stands to reshape global trade.\n\nWhile Trump’s new trade tariffs regime hit allies and rivals alike, China took the fight head-on.\n\nWashington first put a 10 percent duty on Chinese goods, citing fentanyl and immigration concerns, and Beijing responded by curbing exports of five rare earth metals key to defence, clean energy and tech products.\n\nThen it came to a showdown with Trump’s “ Liberation Day ” tariffs in April, including 34 percent for Chinese products. A tit-for-tat exercise ensued as headline US tariffs on China climbed to 145 percent, while US goods entering China were slapped with tariffs of 125 percent, alongside restrictions on rare earth exports.\n\nThe tariff war seesawed for much of that year before the two leaders sat at a table in October, on the sidelines of the 2025 Asia-Pacific Economic Cooperation (APEC) summit in South Korea, to call a truce.\n\nThe limited-time pause in hostilities paved the way for a diplomatic thaw.\n\nTrump then travelled to Beijing last May for talks with Xi, who then visited Washington in September for the first time in more than a decade. Trump embraced the Chinese president when he arrived in Shenzhen, China’s technology hub, earlier this month for this year’s APEC summit.\n\nBut then Trump returned to Washington and, in less than a week, his administration had announced a new tariff regime – its second attempt at reshaping its trade war after the Supreme Court declared his Liberation Day tariffs of April last year illegal.\n\n“The practical purpose is simple: rebuild [the] tariff leverage the Supreme Court stripped away and force Beijing to the table before the next summit,” said Alicia Garcia-Herrero, the chief economist for Asia Pacific at investment bank Natixis.\n\nThis time, the Trump administration has announced plans to impose new tariffs on 14 of its major trading partners, including China, the European Union and India, accusing them of flooding world markets with cheap goods through unfair government subsidies, policies and suppressed wages.\n\nChina is subject to the highest rates – a new 20 percent levy that is still within the bounds of the trade truce that is set to expire in January. Washington has, however, threatened a 40 percent levy if trade talks break down .\n\nInstead of the emergency powers it used the first time – and which the Supreme Court struck down – the Trump administration is using Section 301 of the Trade Act of 1974, alleging that targeted countries are making use of “structural excess capacity”. It has identified these 14 specific economies during an investigation it launched in March, but views China as the biggest offender, particularly in its steel, aluminium, electric cars, household appliances and solar panels industries.\n\nDeborah Elms, head of trade policy at the Hinrich Foundation, a trade policy think tank in Singapore, said the “original intention” of the investigation “was to provide a more durable way to get back to the tariff levels” announced on Liberation Day.\n\n“Over that time, I think the purpose changed somewhat,” she told Al Jazeera.\n\n“Originally a means to apply tariffs, it seems clear that the White House wants a more sweeping use of Section 301, which allows a broad range of activities to be subject to possible negotiations and future punishment like tariffs,” she added.\n\nElms argued that Trump’s announcement coming in “now is rather interesting”, given he is due to meet with Xi next month, in Miami, at the G20 Leaders’ Summit. “This announcement adds another layer of possible tensions,” she said.\n\nJust before Trump landed in Shenzhen, where he was greeted by Xi on the tarmac, earlier this month, the Chinese leader had opened the Asia-Pacific Economic Cooperation (APEC) leaders’ meeting with a call to “reduce barriers to trade and investment”.\n\nXi also portrayed Beijing as a stable trade partner in contrast with the US, where Trump’s tariff war had already rattled global economic equations.\n\nResponding to the latest round of tariffs this week, Beijing warned that it “reserves the right” to retaliate with steeper tariffs.\n\n“China urges the US to correct its wrong practices and return to the right track of resolving issues through dialogue and consultation,” a Ministry of Commerce spokesperson said, adding that Beijing “will resolutely safeguard its legitimate rights and interests”.\n\nReferring to the eight-month investigation into “structural excess capacity” practices undertaken by Jamieson Greer, Trump’s trade representative, China said it was “a typical act of unilateralism that severely disrupts the international economic order and seriously violates WTO rules”.\n\nUnder the latest measures, Washington is seeking to take its economic confrontation with Beijing beyond bilateral trade, targeting the industrial policies of countries emerging as alternative manufacturing hubs but whose supply chains remain closely intertwined with China’s.\n\nHinrich Foundation’s Elms told Al Jazeera that while Beijing “is probably ok with a 20 percent tariff, they are undoubtedly less comfortable with the attempt to hold all other trade partners accountable to the US for engagement with China”.\n\nInvestment bank Natixis’s Herrero said that Trump’s latest tariffs “are less a grand strategy than a familiar negotiating ploy: keep the pressure on after a friendly photo-op”, referring to the meeting in Shenzhen.\n\n“The stated rationale is Chinese overcapacity,” she said, adding that, however, the aim is to “rebuild tariff leverage” and “force Beijing to the table before the next summit”.\n\nChen Bo, a senior research fellow at the National University of Singapore (NUS), said the new measures are a substitute for the struck-down reciprocal tariffs, with “the same kind of inherent reasons or motivations”.\n\nBo argued that the US government “needs to raise money to keep its many activities going, including the war on Iran”. Furthermore, “it cannot rely on the bond market due to high interest rates – and consumer inflation already hit them hard in midterm election results”.\n\n“Tariff money is one of the easiest ways to finance itself, rather than asking for more from Congress,” Bo told Al Jazeera.\n\nDespite nearly a decade of the ongoing trade tensions between the US and China, Beijing’s global goods trade surplus reached a record $1.19 trillion last year, underscoring the scale of its export dominance. By comparison, the US ran a $1.24 trillion goods trade deficit over the same period.\n\n“Nothing has changed substantially over the years,” he said, adding that “no new tariff will be effective to reduce the Chinese overcapacity at all, or in a significant way.”\n\nBo said he believes both China and the US are “working hard on the trade negotiations to de-escalate or mitigate” before the two leaders meet again next month, where they want to discuss issues like AI, nuclear weapons and the wars in Iran and Ukraine. “That’s a much bigger picture for them than a trade relationship,” Bo said.\n\nFor Beijing’s part, Herrero said that “China can still blunt” these new measures by the US.\n\n“Rare earths remain its sharpest tool,” she added.\n\n“The risk for Trump is the same as always: higher prices land on American consumers, and the wider trade system frays further,” Herrero said. “Whether that counts as a feature or a bug depends on how much pain Washington is willing to absorb.”",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMXRrMjFFcHlmR0hqa0dhQ3UzLTlXZi1BdEphd1VMYVQ2Um1rMlp1bzVtNmFGcWNqdEZlZ3o0bTRLMEJoa3E5MTZRRkdITmhxQlpOM19QbnNhZ2RUZ1F1ZGdNSWdBVDk3SDRJQTc0ZHV4Z2ljU1ZRTUFUdm4zRmZiYmZoamtuYWt0cFRCWElNLVY2T2V1clVlVWdMLXltWThmZGtQZWJ2OElxd3BvTS1sSzl2Xy1ma2Zm0gG-AUFVX3lxTE05bWo1cEplMVQtNjlEaERCcXJpRU1YN3NocHEzWF9nVXUyMG1CNXhZbVR6Y215N1BQaXZ1dzZVWkRsc0lEV3p3ajZTUVRCVDdtNGR0TFVlU3NCOGFQdmhrX1FwOFdNY3RHaHAtb3hoTlcyLUt1eHRyenNZcVJDY053MDV1REFOZ1k5dDM3X0FtNWpkZ0daR2Q3QWZ2V054b2xQVnBfYVFNSDJ5ZUlHREdMLXZsazBTZXJCZ0FNV2c?oc=5",
+    "published_utc": "2026-11-27T12:56:15+00:00",
+    "published_kabul": "2026-11-27 17:26 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 38,
+    "relevance": "مرتبط",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-27T13:09:05.790905+00:00",
+    "telegram_message_id": 2055,
     "telegram_chat_id": "@Gold_Channel_00"
   }
 ]
