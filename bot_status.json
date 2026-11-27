@@ -84,30 +84,30 @@
     },
     "Gold Prices Bot": {
       "last_run": {
-        "run_id": 46038307475,
-        "run_number": 188,
-        "run_attempt": 1,
-        "status": "completed",
-        "conclusion": "failure",
-        "event": "workflow_dispatch",
-        "branch": "main",
-        "head_sha": "2ffcf3fa0d1cd4f47b533d9c7b54d5987fab264a",
-        "html_url": "https://github.com/artin504030-source/GoldNewsBot/actions/runs/46038307475",
-        "created_at_utc": "2026-11-27T17:00:30Z",
-        "updated_at_utc": "2026-11-27T17:00:47Z"
-      },
-      "last_success": {
-        "run_id": 46029860873,
-        "run_number": 186,
+        "run_id": 46042362366,
+        "run_number": 189,
         "run_attempt": 1,
         "status": "completed",
         "conclusion": "success",
         "event": "workflow_dispatch",
         "branch": "main",
-        "head_sha": "85b413aa08a26fad04e788bc08c057dbc31ac3d4",
-        "html_url": "https://github.com/artin504030-source/GoldNewsBot/actions/runs/46029860873",
-        "created_at_utc": "2026-11-27T16:00:30Z",
-        "updated_at_utc": "2026-11-27T16:00:42Z"
+        "head_sha": "74d340578bf305387a36e39b66bd11d3ea4714a3",
+        "html_url": "https://github.com/artin504030-source/GoldNewsBot/actions/runs/46042362366",
+        "created_at_utc": "2026-11-27T17:30:24Z",
+        "updated_at_utc": "2026-11-27T17:30:34Z"
+      },
+      "last_success": {
+        "run_id": 46042362366,
+        "run_number": 189,
+        "run_attempt": 1,
+        "status": "completed",
+        "conclusion": "success",
+        "event": "workflow_dispatch",
+        "branch": "main",
+        "head_sha": "74d340578bf305387a36e39b66bd11d3ea4714a3",
+        "html_url": "https://github.com/artin504030-source/GoldNewsBot/actions/runs/46042362366",
+        "created_at_utc": "2026-11-27T17:30:24Z",
+        "updated_at_utc": "2026-11-27T17:30:34Z"
       }
     },
     "Gold Market Telegram Delivery": {
@@ -223,5 +223,5 @@
       }
     }
   },
-  "updated_at_utc": "2026-11-27T17:30:39.798412+00:00"
+  "updated_at_utc": "2026-11-27T17:30:45.917499+00:00"
 }
