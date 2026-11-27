@@ -1,0 +1,29 @@
+name: Dashboard checks
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Validate dashboard runtime mapping
+        run: python -m unittest discover -s tests -v
+      - name: Validate JavaScript syntax
+        run: node --check assets/site.js
+      - name: Validate public JSON data
+        run: |
+          python -m json.tool bot_status.json > /dev/null
+          python -m json.tool news_archive.json > /dev/null
+          python -m json.tool daily_report.json > /dev/null
