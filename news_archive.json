@@ -18411,10 +18411,11 @@
     "claim_status": "تأیید مستقل در آرشیو احراز نشده",
     "independent_verification": "احراز نشده",
     "confirmed_sources": [
-      "Oil Trade and Supply"
+      "Oil Trade and Supply",
+      "Trade and Sanctions"
     ],
-    "source_count": 1,
-    "confirmation_status": "یک فید ثبت‌شده؛ نه تأیید مستقل",
+    "source_count": 2,
+    "confirmation_status": "چند فید ثبت‌شده؛ تأیید مستقل احراز نشده",
     "title": "Trump admin targets Spanish olive oil exports to the US with new shipping penalties over Israeli weapons ban at Algeciras port - Olive Press News Spain",
     "summary": "SPAIN’s olive oil giants face an unprecedented blow as the US mulls a multi-billion-euro ban on Spanish imports.\n\nThe US Federal Maritime Commission proposed on October 14 slapping Spanish-flagged ships with $200,000 fees when they dock at US ports, as well as restricting imports including cosmetics, ceramics and olive oil.\n\nThe latter alone accounted for more than $830 million worth of Spanish exports to the US last year, according to the US body, while the total value of goods potentially facing restrictions is estimated at a staggering €2.8 billion.\n\nREAD MORE: Spain celebrates four months of no border with Gibraltar – but warns it will have to be rebuilt if the treaty fails\n\nThe measure is a tit-for-tat response to a row dating back to 2024, when Spain refused to allow three US-flagged ships carrying cargo to or from Israel to dock at Algeciras port, in Andalucia.\n\nMalaga-based Dcoop, the world’s largest producer of olive oil and table olives, said it was ‘very concerned’ about the measure, which could be finalised in the coming weeks following a public consultation in the US.\n\nThe US is Spain’s second-biggest market for olive oil after Italy, accounting for about 15% of Spanish exports last year, according to figures from the International Olive Council (IOC).\n\nA ban on olive oil would deal Spanish producers a crippling blow, industry experts have warned, as dozens of local firms rely on the US market for their livelihood.\n\nREAD MORE: Moroccans fear Vox, Venezuelans reject the left: How Spain’s three-million strong immigrant populations plan to vote in this Sunday’s election\n\nSpanish olive oil exports to the US have faced tariffs of at least 10% since US President Donald Trump launched his global trade war in April 2025.\n\nAfter the tariffs were introduced, the value of Spanish olive oil exports to the US fell from approximately €1 billion in 2024 to €730 million in 2025, according to Spain’s ministry of economy.\n\nDcoop president Antonio Luque said he was ‘very concerned’ and that the threatened ban represented a ‘great risk’ for the industry, adding that he hoped it would ultimately not be approved.\n\nThe controversy is the latest escalation in mounting tensions between Spain and the US after prime minister Pedro Sanchez refused to raise defence spending to 5% of GDP, as demanded by Trump, at a NATO summit in June 2025.\n\nTrump then threatened to punish Spain with trade penalties, including tariffs, and vowed to make Madrid pay twice as much for a trade deal.\n\nThe two leaders clashed again over the war in Gaza, after Spain formally recognised a Palestinian state in May 2024 and later imposed restrictions on weapons shipments to Israel.\n\nWashington condemned Madrid’s position, accusing it of potentially limiting US military operations and turning its back on Israel.\n\nSpain, meanwhile, recalled its ambassador to Israel amid the escalating diplomatic row.\n\nTensions reached another flashpoint following the outbreak of war between the US, Israel and Iran in February 2026.\n\nREAD MORE: Spain’s centre-right PP raise spectre of ‘vote rigging’ as Pedro Sanchez’s PSOE closes in during final polling of election\n\nSanchez refused to allow American forces to use the jointly operated Rota and Moron military bases in Andalucia for strikes against Iran, describing the conflict as ‘illegal’ and contrary to international law.\n\nTrump responded by threatening to cut off all trade with Spain and instructing Treasury Secretary Scott Bessent to end dealings with Madrid.\n\nSpain then went further by closing its airspace to US military aircraft involved in the Iran war, prompting further criticism from Washington.\n\nClick here to read more International Affairs News from The Olive Press.\n\nGranada-based reporter for the Olive Press and journalism student at NCTJ-accredited News Associates. My work has appeared in the Sunday Times, and I’ve collaborated with BBC TV and Radio. I’m particularly interested in science, environmental reporting, crime, and culture. Contact me with any leads at alessio@theolivepress.es\n\nYou must be logged in to post a comment.\n\nThis site uses Akismet to reduce spam. Learn how your comment data is processed.",
     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcTNfYm9WeTVpUnJOMlpDS09BMUdqNFRYb0lzX2xHQ0QtNC1xMk0xTENiZ2ZPTElIaW1BSExMVzZMNnRKcWZUNGJTSFlRQ2p6bUpoNTNWUERaQlZFT01RS0U2amdBaGNNYlpfN3hNaW5GZWFYcF95YlI5eW9jbjM3S3dVN0ZQLTc5MzFoelVDdm4wQm1yWElWY0l5cEtUVkdJbXJkVllzcEpBTk84dHhZVlVOMA?oc=5",
@@ -18426,6 +18427,30 @@
     "category": "انرژی",
     "archived_at_utc": "2026-11-27T12:16:28.308559+00:00",
     "telegram_message_id": 2023,
+    "telegram_chat_id": "@Gold_Channel_00",
+    "last_confirmation_utc": "2026-11-27T12:31:06.016647+00:00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "claim_status": "تأیید مستقل در آرشیو احراز نشده",
+    "independent_verification": "احراز نشده",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک فید ثبت‌شده؛ نه تأیید مستقل",
+    "title": "Ethanol Margins Face Pressure as Oil Prices Fall Nearly 20% - AgroLatam",
+    "summary": "Will Falling Oil Prices Threaten Ethanol and Corn Demand?",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaVJOaE5Rel9yODNpZnFiMEY5TGgtb3d2aUltazRRMVNZV2pQZFo4WnVwRE5IZkpFcFNpX2ppUFhoa3hqcjdCeS04b0MyeU1aSmt2VXhOWDNYSGNBazFXVXpqd2lvWGl3ZFc0QUVhZWNDd1ZSbWRvZURqQ01Ja3hpd3FMN3E0aWpwcXI0OVg2ck1ScmwyMFFTazZ3?oc=5",
+    "published_utc": "2026-11-27T12:20:37+00:00",
+    "published_kabul": "2026-11-27 16:50 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-27T12:31:00.985529+00:00",
+    "telegram_message_id": 2030,
     "telegram_chat_id": "@Gold_Channel_00"
   }
 ]
