@@ -87,14 +87,14 @@
         "run_id": 46038307475,
         "run_number": 188,
         "run_attempt": 1,
-        "status": "in_progress",
-        "conclusion": "unknown",
+        "status": "completed",
+        "conclusion": "failure",
         "event": "workflow_dispatch",
         "branch": "main",
         "head_sha": "2ffcf3fa0d1cd4f47b533d9c7b54d5987fab264a",
         "html_url": "https://github.com/artin504030-source/GoldNewsBot/actions/runs/46038307475",
         "created_at_utc": "2026-11-27T17:00:30Z",
-        "updated_at_utc": "2026-11-27T17:00:34Z"
+        "updated_at_utc": "2026-11-27T17:00:47Z"
       },
       "last_success": {
         "run_id": 46029860873,
@@ -223,5 +223,5 @@
       }
     }
   },
-  "updated_at_utc": "2026-11-27T17:00:54.647657+00:00"
+  "updated_at_utc": "2026-11-27T17:01:02.292419+00:00"
 }
