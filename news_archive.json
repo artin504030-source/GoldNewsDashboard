@@ -16230,10 +16230,11 @@
     "source": "Energy Shipping Routes",
     "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
     "confirmed_sources": [
-      "Energy Shipping Routes"
+      "Energy Shipping Routes",
+      "Oil and Energy"
     ],
-    "source_count": 1,
-    "confirmation_status": "یک منبع ثبت‌شده",
+    "source_count": 2,
+    "confirmation_status": "چند فید ثبت‌شده؛ تأیید مستقل احراز نشده",
     "title": "Tanker Traffic at Hormuz Ticks Up Despite Intensified Attacks - Crude Oil Prices Today | OilPrice.com",
     "summary": "The number of tankers carrying energy products through the Strait of Hormuz has increased in November despite the fact that the number of attacks and incidents with mines has hit the highest level since the beginning of the Iran war. Between November 1 and 19, the seven-day moving average count showed more than 26 crude oil, fuel, and LNG tankers transiting the Strait each day, Bloomberg reported on Thursday, citing ship-tracking data by Vortexa. To compare, the seven-day moving average was below 25 vessels on at least two-thirds of the days in October. The vessel numbers come with two caveats. First, the above-mentioned numbers may not be all tankers that have transited or attempted to transit the Strait of Hormuz, due to signal interference and en masse switching off of the transponders on the ships. The other is that there has been a slight reduction in the number of very large crude carriers VLCCs and Suezmaxes moving through the chokepoint, but the number of smaller tankers, Aframaxes, has increased, according to Vortexa&rsquo;s data. The change in the tanker fleet operating in and out of the Strait of Hormuz makes it even more difficult for analysts to estimate how much crude oil and fuel are being evacuated from the Persian Gulf and exit the Strait en route to international markets. Smaller oil tankers moved in October the most volumes of crude oil out of the Strait of Hormuz since the war began, as Iran targets supertankers and incidents with naval mines and unknown projectiles hit a wartime high. Moreover, a record number of the so-called long-range-2 LR2 clean tankers that have transported fuels such as diesel and gasoline have become the so-called dirty tankers and started shipping crude. The LR2 tankers are similar in capacity to the Aframax crude tankers, which can ship up to 800,000 barrels of crude each. A clean-turned-dirty LR2 tanker could be employed on the complex trade shuffles near the Strait of Hormuz, where shuttle-shipments have become the prevailing mode of moving crude oil out of the Persian Gulf in recent months. By Charles Kennedy for Oilprice.com&nbsp;",
     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZFF3VXJKOWltd2ctUDMwWUtmSWFRSmdJRkdRWV9HYjZNQlZuam1xR0xRNThpeUI1ZGM4YWlfNzJlUkZ0ZEVKaldPZUNaMWRHcnNVZFdlY3hzU1h0eXE4TDk2a1l0dzFUMnZ3eDhJS3pscFo1Z2dNSlEyeHlXV1owMjRIbHd6UXE3SGVjaFhmVUV5ZEVudnBRQ3pIRWRaeDluM0JtS3g1QWJBNU9BdTJuelQyaF9vb2JP0gG-AUFVX3lxTE5GbmFScVpIU0gwQmNkelY2Z0xyVjBXekl2NG92NndUMEJtTlhCcGszRzZSTEhxVkx6d3JtNEo1R1RkbzFndGdPYkVucmppQzlUVHZyc0dJQU1FSWlYNy1KamZSVkxzVy1CdUlfZUthb1ZuVGZUZGhqUzA0ZXVYbXpZcUFXbzJPTF8wdzBDQjlKenFYLU83aTNLTFVXVmlWcktTbXpHU0pmX3ZfWWNoOFU0V2NsajBaU0dDbWlmVkE?oc=5",
@@ -16245,7 +16246,8 @@
     "category": "انرژی",
     "archived_at_utc": "2026-11-26T18:30:57.887088+00:00",
     "telegram_message_id": 1623,
-    "telegram_chat_id": "@Gold_Channel_00"
+    "telegram_chat_id": "@Gold_Channel_00",
+    "last_confirmation_utc": "2026-11-27T08:46:25.113924+00:00"
   },
   {
     "source": "Geopolitical News",
@@ -17704,6 +17706,75 @@
     "category": "انرژی",
     "archived_at_utc": "2026-11-27T08:31:50.717662+00:00",
     "telegram_message_id": 1933,
+    "telegram_chat_id": "@Gold_Channel_00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "claim_status": "تأیید مستقل در آرشیو احراز نشده",
+    "independent_verification": "احراز نشده",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک فید ثبت‌شده؛ نه تأیید مستقل",
+    "title": "Gold prices jump as precious metals head for weekly gains - AzerNews",
+    "summary": "Gold and silver prices recorded gains on the New York COMEX commodity exchange. The price of gold futures increased by ...\n\nFind the plan that suits you best.\n\nFull digital access to all news for 1 month\n\nFull digital access to all news for 3 months\n\nFull digital access to all news for 6 months\n\nFull digital access to all news for 1 year\n\nHere we are to serve you with news right now. It does not cost much, but worth your attention.\n\nChoose to support open, independent, quality journalism and subscribe on a monthly basis.\n\nBy subscribing to our online newspaper, you can have full digital access to all news, analysis, and much more.\n\nYou can also follow AzerNEWS on Twitter @AzerNewsAz or Facebook @AzerNewsNewspaper\n\nThank you!",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9WdnM5cmJDaEduTzI5YUN1M3VNaVIwcE1MQU9ueC1Kc3dwUnRFS3Fuc3JucmlsemVMZUl2Ul8tRURkZ093QWhieklkMFc4bjByZE8zWFJ2OA?oc=5",
+    "published_utc": "2026-11-27T08:28:00+00:00",
+    "published_kabul": "2026-11-27 12:58 (کابل)",
+    "importance": "کم",
+    "relevance_score": 45,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-27T08:45:52.735314+00:00",
+    "telegram_message_id": 1939,
+    "telegram_chat_id": "@Gold_Channel_00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "claim_status": "گزارش اولیه/ادعای تأییدنشده؛ نیازمند تأیید مستقل",
+    "independent_verification": "احراز نشده",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک فید ثبت‌شده؛ نه تأیید مستقل",
+    "title": "Oil Prices Climb as Houthi Attack Claim Raises Supply Fears - Demokratis.co.id",
+    "summary": "Global oil markets experienced renewed volatility on Wednesday, November 25, 2026, after Yemen's Houthi movement claimed responsibility for attacking Saudi Arabia's Ras Tanura refinery. The announcement pushed international crude benchmarks higher as traders assessed potential disruptions to one of the world's major oil export facilities against growing supply and inventory concerns.Brent crude futures climbed 3.5% to settle at $94.61 per barrel, while US West Texas Intermediate (WTI) advanced 2% to $83.68. Both benchmarks had already gained more than 2% during Tuesday's trading session, according to CNBC.Ras Tanura, located on Saudi Arabia's Gulf coast, has a refining capacity of 550,000 barrels per day. The installation forms part of a larger industrial complex connected to a major Saudi crude export terminal.Houthi military spokesman Yahya Saree said the attack caused fires at the refinery. Satellite images from NASA and Planet Labs subsequently showed thick black smoke above the facility, while a source familiar with the incident confirmed that the installation had been attacked, CBC reported.The refinery complex covers approximately 600 square kilometers, an area comparable to Chicago. Neither the Saudi government nor state-owned oil company Aramco immediately responded to requests for comment.Despite the geopolitical concerns, rising US petroleum inventories provided a counterweight to the market rally. Data from the Energy Information Administration showed that crude stockpiles increased by 1.1 million barrels to 418.9 million barrels during the week ending November 20.The increase was smaller than analysts' expectations of a 1.5 million-barrel build in a Reuters poll. Bob Yawger, director of energy futures at Mizuho, attributed the inventory increase primarily to weaker crude exports combined with higher imports.Market participants are also monitoring upcoming decisions by OPEC+ regarding production targets for 2027. Ministers are scheduled to meet on November 29 to discuss future output policies, while Russia's Deputy Prime Minister Alexander Novak said a review of member countries' production capacities is expected to conclude by year-end.Uncertainty surrounding future production levels has added another consideration for oil traders. Iraq and Kazakhstan have reportedly pushed for higher estimates of their production capacities, potentially increasing tensions during the review process.Tsuyoshi Ueno, senior economist at NLI Research Institute, highlighted the competing influence of supply expectations on market sentiment.\"Since the release of an IEA report this month, perceptions of a global supply glut have kept prices in check,\" said Tsuyoshi Ueno, senior economist at NLI Research Institute.Developments elsewhere also contributed to the broader supply outlook. Libya's Sharara oil pipeline resumed operations after flows were suspended when a valve was closed by what the National Oil Corporation described as an \"unlawful group.\" Oil subsequently began flowing into storage tanks at the Akakus facility in Zawiya.Meanwhile, security concerns extended to the Strait of Hormuz, another critical international shipping corridor. Iran's Revolutionary Guards said a container ship was targeted on Tuesday while traveling along an \"unauthorised\" route near the strait, causing the vessel to stop.The combination of geopolitical risks, recovering supply infrastructure, rising US inventories and uncertainty over OPEC+ production decisions continues to shape expectations for the global oil market ahead of the November 29 ministerial meetings.",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3TVRJY0luVnhub0QwcmluX2lCa2Jkd3l2RjRVSHVoeXB0My1iWUcxX1BoalBqOGpFbUVPYmw4NnhQTi1vNFdqVG1SZ3hnU013VzZ1ZWpERUJzNXBJZ05UWVY5a0RoQTJLZXZqSg?oc=5",
+    "published_utc": "2026-11-26T17:35:00+00:00",
+    "published_kabul": "2026-11-26 22:05 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 28,
+    "relevance": "مرتبط",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-27T08:46:21.955993+00:00",
+    "telegram_message_id": 1940,
+    "telegram_chat_id": "@Gold_Channel_00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "claim_status": "گزارش اولیه/ادعای تأییدنشده؛ نیازمند تأیید مستقل",
+    "independent_verification": "احراز نشده",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک فید ثبت‌شده؛ نه تأیید مستقل",
+    "title": "Iraq Delays Up to 30 Million Barrels of Crude Oil Shipments - Crude Oil Prices Today | OilPrice.com",
+    "summary": "Iraq&rsquo;s SOMO has delayed loadings of crude oil cargoes to the tune of between 20 and 30 million barrels, according to a Bloomberg report citing unnamed sources. The reason for the delays has not been established yet, but the cargoes were supposed to be loaded this month; now, only some of them will be loaded, and only during the first ten days of December, the report said. As a result, buyers are looking for alternatives, and Middle Eastern prices have climbed higher. One obvious possibility is that shipping oil out of the Persian Gulf via the Strait of Hormuz, which is Iraq&rsquo;s only maritime route from the Gulf to the open ocean,&nbsp;has become a lot riskier. This possibility, while not verified by any official source, has been supported by the recent slew of reports about tankers hitting mines in Hormuz because they failed to stick to the corridor approved by Iran. Another hypothetical possibility would be a sudden drop in buyer appetite, but that possibility is not supported by the information related in the Bloomberg report, which said buyers were actually looking for prompt delivery alternatives to the Iraqi crude from the Middle East, rather than other parts of the world. Iraq has been especially hard hit by the effects of the U.S. and Israeli war with Iran. Because of its geographical position, it exports almost all of its oil via the Strait of Hormuz, and when Iran shut traffic down, Iraq had to start cutting oil production quite soon for lack of abundant storage capacity. Since then, however, production has rebounded and so have exports, on rumored deals with Iran and ship-to-ship transfers outside the Strait, in the Gulf of Oman. The latest figures show a daily average production rate of 4.6 million barrels for October, which is Iraq&rsquo;s highest since 2019, and an increase of 540,000 barrels daily from September. By Irina Slav for Oilprice.com",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZmx4Rnp6emJjRGMzSGdrN3pQY3hyTExsbmx3bVFuNXBTeC1QczdTYlFtOUtsTFl4aEFVT3o3cFI1dnJqVzNfUkt3YnVYTUhKY3p2V1pVcVljMzliNTNKS0xWT3AyNE1HcDBtNGJ5aTBUbzlQNmhrWmFJbzdEUVQ1QWNTcHB0cWJTczIzZWtpYXpsYlZXcmRvcVZnWnprTW1yTnBTcmsybHpTQW96V056Q3lZc0VTUdIBuwFBVV95cUxQYzUydy0tczFPbFRvZlpxTkNiZFZTWXdVODlTQ2Z0N25ZaTlXRmthTnFOQVIzLUxnc0IyZFFCSHlOZ2ZtbHBzTkJHY2lFVGdBTHBQZndpcnZPcGdwLS00Qm52Nkl0dHYxXzMwbEhYSnFGNHlZT3dFSS11a2RtRjVDZEdaN3NwNEk5MldlRmoxeW9va2M5V1JsY3lnTDZCc21ISy1IeEFLSUtQT3pha1l0U3ljTnRHOF9RUWJZ?oc=5",
+    "published_utc": "2026-11-27T08:30:00+00:00",
+    "published_kabul": "2026-11-27 13:00 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 28,
+    "relevance": "مرتبط",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-27T08:46:38.401318+00:00",
+    "telegram_message_id": 1942,
     "telegram_chat_id": "@Gold_Channel_00"
   }
 ]
