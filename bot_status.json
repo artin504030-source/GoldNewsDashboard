@@ -196,17 +196,17 @@
     },
     "Gold Priced-In Analyst": {
       "last_run": {
-        "run_id": 46013758111,
-        "run_number": 9,
+        "run_id": 46037748749,
+        "run_number": 10,
         "run_attempt": 1,
-        "status": "completed",
-        "conclusion": "success",
+        "status": "in_progress",
+        "conclusion": "unknown",
         "event": "workflow_run",
         "branch": "main",
-        "head_sha": "044a09d73655b9a9a82f6ccd15d1165a210bec04",
-        "html_url": "https://github.com/artin504030-source/GoldNewsBot/actions/runs/46013758111",
-        "created_at_utc": "2026-11-27T14:12:05Z",
-        "updated_at_utc": "2026-11-27T14:12:29Z"
+        "head_sha": "37a8d72911848c837ea04caa658365f67e03ecb1",
+        "html_url": "https://github.com/artin504030-source/GoldNewsBot/actions/runs/46037748749",
+        "created_at_utc": "2026-11-27T16:56:14Z",
+        "updated_at_utc": "2026-11-27T16:56:17Z"
       },
       "last_success": {
         "run_id": 46013758111,
@@ -223,5 +223,5 @@
       }
     }
   },
-  "updated_at_utc": "2026-11-27T16:56:18.850685+00:00"
+  "updated_at_utc": "2026-11-27T16:56:26.403109+00:00"
 }
