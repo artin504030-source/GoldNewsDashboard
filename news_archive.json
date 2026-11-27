@@ -18923,10 +18923,11 @@
     "claim_status": "تأیید مستقل در آرشیو احراز نشده",
     "independent_verification": "احراز نشده",
     "confirmed_sources": [
-      "Economic Reports"
+      "Economic Reports",
+      "Google News — Europe Official Economic Releases"
     ],
-    "source_count": 1,
-    "confirmation_status": "یک فید ثبت‌شده؛ نه تأیید مستقل",
+    "source_count": 2,
+    "confirmation_status": "چند فید ثبت‌شده؛ تأیید مستقل احراز نشده",
     "title": "Government bond issuance surprises and the term structure of interest rates in the UK - Bank of England",
     "summary": "We use necessary cookies to make our site work. We’d also like to use some non-essential cookies (including third-party cookies) to help us improve the site. By clicking ‘Accept recommended settings’ on this banner, you accept our use of analytics cookies. For more information on how these cookies work please see our Cookie policy .\n\nAndras Lengyel\n\nHow does the additional debt issued by the government affect the term structure of interest rates? In this paper, we examine the impact of unexpected government bond issuance by leveraging the institutional framework of the UK government bond primary market. Our findings indicate that higher-than-expected issuance exerts upward pressure on interest rates by increasing both real term premia and inflation risk premia. These effects are amplified during periods of market stress, with some evidence suggesting that yield reactions become more localized under such conditions.\n\nGovernment bond issuance surprises and the term structure of interest rates in the UK\n\nBack to top",
     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTXg0QUhFX2lrUGFicmc4V1UtUWp6NFROLWVmNHlFSkhhcUFUZ0VLX00ycThnWHRBdmpsZjZUMXphRkZsazNCZHRpN1dTZ25qVndia3p5eVF3c0ozLXI4N0Vla1NPc002QTExNGdQM2k2WVJqSmZsSFVOUEl3SWtLT2tGNXlZQ0UwQWV4VW9HRl9jaWg3R3kxbUxYRkl4MjN2czFGbWZMWHlVeVgwVHBGaHZjWnRtMFF3RnY3eV9BNFVSclRwMmxlLVZWbHcyZW1tTGc?oc=5",
@@ -18938,7 +18939,8 @@
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-27T14:31:04.804480+00:00",
     "telegram_message_id": 2105,
-    "telegram_chat_id": "@Gold_Channel_00"
+    "telegram_chat_id": "@Gold_Channel_00",
+    "last_confirmation_utc": "2026-11-27T14:45:44.434797+00:00"
   },
   {
     "source": "Economic Reports",
@@ -18961,6 +18963,75 @@
     "category": "بانک‌های مرکزی و نرخ بهره",
     "archived_at_utc": "2026-11-27T14:31:12.928472+00:00",
     "telegram_message_id": 2106,
+    "telegram_chat_id": "@Gold_Channel_00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "claim_status": "تأیید مستقل در آرشیو احراز نشده",
+    "independent_verification": "احراز نشده",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک فید ثبت‌شده؛ نه تأیید مستقل",
+    "title": "Millennium Silver Corp. (TSXV:MSC) Faces Downside Pressure as Investors Reassess Silver and Precious Metals Exploration - kalkine.ca",
+    "summary": "Millennium Silver Corp. (TSXV:MSC) Faces Downside Pressure as Investors Reassess Silver and Precious Metals Exploration kalkine.ca",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOR20tZWJ3c2NscjBsazNkQldKa050V3E0VnZiYURnTFUxZWFpMmxFX2ZMQk5WZUZFcjE2M1ptNl9GZWJORkVTOWxSWHlkc2x1UHBMdUd4N0c2WFFPbVEwSmxBVkF2RHpKNi1sNDlnY3lWQU5DUktoVjlhT1k3MVpXV1pHYnZYemhRNFotNklPYmpQLUFvYnlYYzB4azR0eUR3SFJOX0pxclVpYkp4b0tZTEhEYTVzVkpZUGtKWEpVbzVyN3pHQ2xNeGpFVzdpZVlCbkx6YzU3T2tISlhaNnFR?oc=5",
+    "published_utc": "2026-11-27T13:38:00+00:00",
+    "published_kabul": "2026-11-27 18:08 (کابل)",
+    "importance": "کم",
+    "relevance_score": 45,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-27T14:45:53.868885+00:00",
+    "telegram_message_id": 2111,
+    "telegram_chat_id": "@Gold_Channel_00"
+  },
+  {
+    "source": "Economic Reports",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "claim_status": "گزارش اولیه/ادعای تأییدنشده؛ نیازمند تأیید مستقل",
+    "independent_verification": "احراز نشده",
+    "confirmed_sources": [
+      "Economic Reports"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک فید ثبت‌شده؛ نه تأیید مستقل",
+    "title": "ECB may have to raise rates further as inflation stays above 3% - WTVB",
+    "summary": "FRANKFURT, Nov 27 (Reuters) – The European Central Bank may ​have to ‌raise interest rates further as soon as next month as ‌inflation ​in ⁠the euro zone ⁠is likely to stay above 3% for some time ​next year, European Central Bank ⁠policymaker Joachim ⁠Nagel said ​on Friday.\n\n“We’re assuming that ​in 2027 we could ‌remain durably above 3%,” Nagel, who heads ⁠Germany’s Bundesbank, told an event. “This means that, on ⁠the ‌monetary policy ⁠side, we might ​have ‌to do even ​more. ⁠We’ll be meeting again in December.”\n\n(Reporting by Francesco Canepa; editing by Barbara ​Lewis)\n\nYou must be logged in to post a comment.\n\nState's population projected to drop 440,000 by 2052 3h ago Alaska seized his seaplane over some beers. He is asking the US Supreme Court for help 3h ago Mike Tomlin, Tom Brady discuss Aaron Rodgers-Steelers kerfuffle 4h ago AG Nessel launches annual holiday \"Scampaign\" 3h ago India's Modi to revive parliament expansion bill tied to women's quota, sources say 3h ago Exclusive-Hackers breach US Air Force flagship Cloud One computing platform 3h ago",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUktrVUxVSlRiUVZIQ2d0bUtkdXBLQ0FIV241VWxyaWlCLW9Bem5UcFNjZjJ6dGxWWlFIM3JCcFdFYWtZQmQ5QnBrYWZpZEc1SnAtSTNmc2ljeXc3RUZNc050VV9CdE5wYUtpZnlUVkpKNTN6blRnWUFoMkVtR2RWeEs1M2dyMngxa25fNWJvSlBhU3ZQN3ljcg?oc=5",
+    "published_utc": "2026-11-27T13:35:30+00:00",
+    "published_kabul": "2026-11-27 18:05 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 22,
+    "relevance": "ارتباط محدود",
+    "category": "بانک‌های مرکزی و نرخ بهره",
+    "archived_at_utc": "2026-11-27T14:46:08.441007+00:00",
+    "telegram_message_id": 2112,
+    "telegram_chat_id": "@Gold_Channel_00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "claim_status": "تأیید مستقل در آرشیو احراز نشده",
+    "independent_verification": "احراز نشده",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک فید ثبت‌شده؛ نه تأیید مستقل",
+    "title": "THINK Ahead: The ECB’s new boss has timing on his side - ing think",
+    "summary": "Like most things in life, being a successful central banker is as much about timing and luck as experience and skill.\n\nNew ECB president Pablo Hernández de Cos has plenty of the latter. And whisper it, but his timing looks rather good, too.\n\nSure, on the face of it, the inheritance looks grim: inflation at 4%, high energy prices, wobbly stock markets and bond market tensions that haven’t exactly gone away. A December ECB rate hike looks inevitable. But how much of that will still matter when De Cos takes office in February?\n\nBy then, inflation may well be past the peak. Maybe it already is. November's unexpectedly soft French and Spanish figures point to a drop in next week's eurozone headline rate. Cheaper petrol is clearly part of this, but French services and Spanish core inflation point to reduced pressure elsewhere, too.\n\nAdmittedly, that doesn’t mean inflation is set to drop back immediately. Higher natural gas prices are only now reaching utility bills, which is likely to keep energy's overall contribution to inflation elevated into spring or early summer – even as the impact of high petrol and diesel prices should fade rapidly from March.\n\nIn the end, though, this is a bit of a moot point. Four per cent inflation may be an uncomfortable place for central bankers, particularly those who worry about its impact on consumer and business expectations.\n\nBut unless you think energy prices will start climbing again in the winter and next spring, then it’s only a matter of time before their impact on inflation starts to wane. Our forecasts have headline inflation undershooting the ECB's target in the second half of 2027.\n\nWhat really seems to matter now for officials is not so much the level of energy prices at any given time, but what they tell us about the uncertainty surrounding the Iran war. Andrew Bailey at the Bank of England has made it clear this latter point will have a strong bearing on its December decision.\n\nThe ECB and BoE rate hikes so far have been partly justified as an insurance against the tail risk that things get very ugly in the energy markets.\n\nThose tail risks do tentatively seem to be fading, though. Sure, a lasting US-Iran agreement feels like a long shot right now. Yet Middle Eastern oil has continued flowing despite attacks on shipping and threats to infrastructure. The longer that continues, the less plausible the worst-case scenarios become, even without a peace deal. I’d argue central bankers should already be starting to think this way at their December meetings.\n\nThat thinking is already playing out in energy markets, too. Notwithstanding market moves over the past few days, November has seen a sharp drop in the risk premium baked into crude oil prices. Barring renewed escalation, our energy team expects European gas prices to almost halve by the second quarter, with Brent crude below $80/bbl.\n\nThen there are second-round effects, which are still conspicuous by their absence. Barring the slight increase in core inflation so far, there’s still no strong sign that higher energy prices are bleeding out across the inflation basket. My measure of inflation in energy-intensive categories has still not risen this year:\n\nThe ECB seems to agree with this assessment, but officials understandably want more evidence. Firms may have been better placed to absorb the initial shock than in 2022, while gas prices have only recently risen more sharply. The hawks would argue that this resilience can only last so long without companies putting up prices.\n\nBut fast-forward another three months, when De Cos takes office, and those arguments will start to look a little thin if there’s still no sign of inflationary pressure outside of energy.\n\nThere are two things in particular I’d keep an eye on before then. One is food, where inflation has started to inch higher off a very low base. But neither producer nor import prices point to an imminent spike. Yes, some agricultural commodities are 10-15% above February levels, not helped by this summer's drought. But that's offset by fertiliser prices, which have reversed their initial war-driven surge.\n\nAnd while we’re on the topic of commodities, industrial metal prices are down on pre-war levels, while shipping costs seem to have peaked too. That should keep a lid on core goods prices.\n\nThen there are wages, which also offer little evidence of a broader inflation problem so far. Inflation categories (mostly services) that are sensitive to wage growth have not accelerated this year. The ECB's negotiated-wage tracker does not suggest a material pickup in 2027, either, although plenty of these deals are still yet to be agreed.\n\nNeedless to say, none of this guarantees an easy presidency. De Cos will have to decide early on whether another rate hike is needed in March (we currently think it won’t), while navigating an increasingly fraught European political backdrop. Still, he may find that the hardest part of the current inflation fight is already behind him. And for a new central banker, a little bit of good timing never hurts.\n\nJames Smith\n\nUnited States (James Knightley)\n\nEurozone (Bert Colijn)",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTEEtUl84UXc1aWgxWFA0cC01clJPNEdSclpUd0YxbnRXbFVvbFFQQ2VJeFF1NjA5UUs0Z3d6US1XNm93dDFhVGJibmxveUNwWUxCS3ZTSUpIdk1mc2hHQm5ZVU9pNWIxbEM4ZjBXTTVkNXhJQ0lQYWVNemtldllBZnNiQWlONkw2V2ZQNA?oc=5",
+    "published_utc": "2026-11-27T13:44:45+00:00",
+    "published_kabul": "2026-11-27 18:14 (کابل)",
+    "importance": "کم",
+    "relevance_score": 60,
+    "relevance": "بسیار مرتبط",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-27T14:46:44.207467+00:00",
+    "telegram_message_id": 2113,
     "telegram_chat_id": "@Gold_Channel_00"
   }
 ]
