@@ -14687,7 +14687,7 @@
       "China and Global Markets"
     ],
     "source_count": 1,
-    "confirmation_status": "یک منبع ثبت‌شده",
+    "confirmation_status": "یک فید ثبت‌شده؛ نه تأیید مستقل",
     "title": "Analysis-Trump’s new tariffs aim to prise global trade from China’s grip By Reuters - Investing.com",
     "summary": "Analysis-Trump’s new tariffs aim to prise global trade from China’s grip By Reuters Investing.com",
     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMEllNTB5eWZqeTFkU3VWVTV2Skk4UjNWRmR5Qmw1dXJ1blNiNkNndUJncG5vMEFjNEticHN0cnRKN3RfZ1czNHdvTHZOZHFmTUh3R2FadVJJTFR2RFlSYjNmcVp1QlFsbXB5N1RKdkdqOWVXTGN3a2RDaUFhcHFacG5fU1J0QWVndGdQOHpGTkxfY1FWY0JRT2J3TUZVMjBPWTVfcHVmMWpXaXpRSEdfd3BZMUdkb0VfbUpCWnpB?oc=5",
@@ -14697,7 +14697,8 @@
     "relevance_score": 16,
     "relevance": "ارتباط محدود",
     "category": "ژئوپلیتیک",
-    "archived_at_utc": "2026-11-26T08:00:51.192337+00:00"
+    "archived_at_utc": "2026-11-26T08:00:51.192337+00:00",
+    "last_confirmation_utc": "2026-11-27T09:45:47.320079+00:00"
   },
   {
     "source": "China and Global Markets",
@@ -15706,7 +15707,7 @@
       "Economic Reports"
     ],
     "source_count": 1,
-    "confirmation_status": "یک منبع ثبت‌شده",
+    "confirmation_status": "یک فید ثبت‌شده؛ نه تأیید مستقل",
     "title": "Hernández de Cos Set to Succeed Lagarde: Where Next for ECB Interest Rates? - Morningstar",
     "summary": "Hernández de Cos Set to Succeed Lagarde: Where Next for ECB Interest Rates? Morningstar",
     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUFNzckoxVG5FSkM2MDd1N1VFUktvRTdhd1k4R0l6UllTbWtJTTNKNS1tWXJwZkNVaW1qV3k3SjVxNHBpQlRPSmp4RW1Bd0xQS3pqSnlQNUNWejNnUnMxTjVDOXFKUkIySEdncHZmWGVOeTRVaFVQZUxuZHZxVWhjWVBGaUdtVDJVUW5wWnBVOTVadkdMbWlrS1l1Zy00NHVuUUdLamFzWURVUE9hUWlZ?oc=5",
@@ -15718,7 +15719,8 @@
     "category": "بانک‌های مرکزی و نرخ بهره",
     "archived_at_utc": "2026-11-26T14:46:29.302763+00:00",
     "telegram_message_id": 1493,
-    "telegram_chat_id": "@Gold_Channel_00"
+    "telegram_chat_id": "@Gold_Channel_00",
+    "last_confirmation_utc": "2026-11-27T09:45:43.481091+00:00"
   },
   {
     "source": "Bank of England",
