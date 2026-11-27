@@ -15,10 +15,47 @@ function card(x){const score=Math.max(0,Math.min(100,Number(x.relevance_score??0
 function renderCards(items,target){const el=$(target);if(!el)return;el.innerHTML=items.length?items.map(card).join(''):'<div class="empty" style="grid-column:1/-1">موردی برای نمایش در آرشیو فعلی وجود ندارد.</div>'}
 function related(x,s){const terms=symbolMap[s]||[s];const text=[x.title,x.summary,x.category].join(' ').toLowerCase();return terms.some(t=>text.includes(t.toLowerCase()))}
 function render(){let rows=[...archive];if(page==='breaking')rows=rows.filter(urgent);if(page==='symbol')rows=rows.filter(x=>related(x,symbol));if(page==='archive'){const q=($('#q')?.value||'').trim().toLowerCase();const cat=$('#cat')?.value||'';const imp=$('#imp')?.value||'';const range=$('#range')?.value||'all';const sort=$('#sort')?.value||'new';const now=Date.now();const cutoff=range==='24h'?now-86400000:range==='7d'?now-604800000:range==='30d'?now-2592000000:range==='month'?new Date(new Date().getFullYear(),new Date().getMonth(),1).getTime():0;rows=rows.filter(x=>(!q||[x.title,x.summary,x.source,x.category].join(' ').toLowerCase().includes(q))&&(!cat||x.category===cat)&&(!imp||x.importance===imp)&&(!cutoff||((dateOf(x)?.getTime()||0)>=cutoff)));if(sort==='old')rows.sort((a,b)=>(dateOf(a)?.getTime()||0)-(dateOf(b)?.getTime()||0));else if(sort==='importance'){const rank={'بحرانی':5,'فوری':4,'زیاد':3,'High':3,'high':3,'متوسط':2,'Medium':2,'medium':2,'کم':1,'Low':1,'low':1};rows.sort((a,b)=>(rank[b.importance]||0)-(rank[a.importance]||0));}else if(sort==='gold')rows.sort((a,b)=>Number(b.relevance_score||0)-Number(a.relevance_score||0));else rows.sort((a,b)=>(dateOf(b)?.getTime()||0)-(dateOf(a)?.getTime()||0));}else rows.sort((a,b)=>(dateOf(b)?.getTime()||0)-(dateOf(a)?.getTime()||0));renderCards(rows.slice(0,page==='home'?6:100),'#news-list');if($('#total'))$('#total').textContent=number(archive.length);if($('#urgent'))$('#urgent').textContent=number(archive.filter(urgent).length);if($('#updated'))$('#updated').textContent=localDate(new Date());if($('#result-count'))$('#result-count').textContent=number(rows.length)+' خبر'}
-const runtimeConfig={breaking:{id:'runtime-breaking',name:'Gold News Breaking Monitor',staleMinutes:20},news:{id:'runtime-news',name:'Gold News Bot',staleMinutes:45},digest:{id:'runtime-digest',name:'Gold News Daily Digest',staleMinutes:26*60}};
+const runtimeConfig={
+  news:{id:'runtime-news',name:'Gold News Bot',staleMinutes:45},
+  prices:{id:'runtime-prices',name:'Gold Prices Bot',staleMinutes:70},
+  market:{id:'runtime-market',name:'Gold Market Telegram Delivery',staleMinutes:100},
+  analyst:{id:'runtime-analyst',name:'Gold News Analyst',staleMinutes:null},
+  reports:{id:'runtime-reports',name:'Gold Reports Bot',staleMinutes:25},
+  pricedIn:{id:'runtime-priced-in',name:'Gold Priced-In Analyst',staleMinutes:20}
+};
 function runtimeDate(value){if(!value)return 'ثبت نشده';const d=new Date(value);return Number.isNaN(d.getTime())?'زمان نامشخص':localDate(d)}
-function renderBotStatus(data){const runs=data?.workflows||{};const now=Date.now();for(const [key,cfg] of Object.entries(runtimeConfig)){const item=runs[cfg.name]||{};const last=item.last_run||null;const success=item.last_success||null;const badge=$('#'+cfg.id+'-badge'),time=$('#'+cfg.id+'-time'),detail=$('#'+cfg.id+'-detail'),link=$('#'+cfg.id+'-link');if(!last){if(badge){badge.className='runtime-badge unknown';badge.textContent='بدون داده'}if(time)time.textContent='—';if(detail)detail.textContent='هنوز اجرای ثبت‌شده‌ای در داشبورد وجود ندارد.';continue}const finished=new Date(last.updated_at_utc||last.completed_at||'').getTime();const age=Number.isFinite(finished)?Math.max(0,(now-finished)/60000):Infinity;const late=age>cfg.staleMinutes;const ok=last.conclusion==='success';const status=late?'تأخیر در اجرا':ok?'موفق':'ناموفق';const cls=late?'late':ok?'ok':'fail';if(badge){badge.className='runtime-badge '+cls;badge.textContent=status}if(time)time.textContent=runtimeDate(last.updated_at_utc||last.completed_at);const ago=Number.isFinite(age)?(age<60?Math.round(age)+' دقیقه پیش':Math.floor(age/60)+' ساعت پیش'):'زمان نامشخص';const successText=success?'آخرین اجرای موفق: '+runtimeDate(success.updated_at_utc||success.completed_at):'هنوز اجرای موفقی ثبت نشده است';const conclusion=last.conclusion==='success'?'آخرین اجرا با موفقیت پایان یافت.':last.conclusion==='cancelled'?'آخرین اجرا لغو شد.':'آخرین اجرا با وضعیت '+(last.conclusion||'نامشخص')+' پایان یافت.';if(detail)detail.textContent=conclusion+' · '+ago+' · '+successText;if(link&&last.html_url)link.href=last.html_url}
-if($('#runtime-updated'))$('#runtime-updated').textContent='آخرین همگام‌سازی: '+runtimeDate(data?.updated_at_utc)}
+function renderBotStatus(data){
+  const runs=data?.workflows||{};
+  const now=Date.now();
+  for(const cfg of Object.values(runtimeConfig)){
+    const item=runs[cfg.name]||{};
+    const last=item.last_run||null;
+    const success=item.last_success||null;
+    const badge=$('#'+cfg.id+'-badge'),time=$('#'+cfg.id+'-time'),detail=$('#'+cfg.id+'-detail'),link=$('#'+cfg.id+'-link');
+    if(!last){
+      if(badge){badge.className='runtime-badge unknown';badge.textContent='بدون داده'}
+      if(time)time.textContent='—';
+      if(detail)detail.textContent='هنوز اجرای ثبت‌شده‌ای در داشبورد وجود ندارد.';
+      continue;
+    }
+    const finished=new Date(last.updated_at_utc||last.completed_at||last.created_at_utc||'').getTime();
+    const age=Number.isFinite(finished)?Math.max(0,(now-finished)/60000):Infinity;
+    const late=cfg.staleMinutes!=null&&age>cfg.staleMinutes;
+    const ok=last.conclusion==='success';
+    const cancelled=last.conclusion==='cancelled';
+    const status=late?'تأخیر در اجرا':ok?'موفق':cancelled?'لغوشده':'ناموفق';
+    const cls=late?'late':ok?'ok':cancelled?'unknown':'fail';
+    if(badge){badge.className='runtime-badge '+cls;badge.textContent=status}
+    if(time)time.textContent=runtimeDate(last.updated_at_utc||last.completed_at||last.created_at_utc);
+    const ago=Number.isFinite(age)?(age<60?Math.round(age)+' دقیقه پیش':Math.floor(age/60)+' ساعت پیش'):'زمان نامشخص';
+    const successText=success?'آخرین اجرای موفق: '+runtimeDate(success.updated_at_utc||success.completed_at||success.created_at_utc):'هنوز اجرای موفقی ثبت نشده است';
+    const conclusion=ok?'آخرین اجرا با موفقیت پایان یافت.':cancelled?'آخرین اجرا لغو شد.':'آخرین اجرا با وضعیت '+(last.conclusion||'نامشخص')+' پایان یافت.';
+    const cadenceNote=cfg.staleMinutes==null?' · این ربات رویدادمحور است؛ نبود اجرای تازه به‌تنهایی خطا محسوب نمی‌شود.':'';
+    if(detail)detail.textContent=conclusion+' · '+ago+' · '+successText+cadenceNote;
+    if(link&&last.html_url)link.href=last.html_url;
+  }
+  if($('#runtime-updated'))$('#runtime-updated').textContent='آخرین همگام‌سازی: '+runtimeDate(data?.updated_at_utc);
+}
 async function loadBotStatus(){try{const r=await fetch('./bot_status.json?ts='+Date.now(),{cache:'no-store'});if(!r.ok)throw Error('Status file unavailable');const data=await r.json();renderBotStatus(data)}catch(e){if($('#runtime-updated'))$('#runtime-updated').textContent='هنوز داده اجرای خودکار منتشر نشده است'}}
 function healthDate(value){if(!value)return 'ثبت نشده';const d=new Date(value);return Number.isNaN(d.getTime())?'زمان نامشخص':localDate(d)}
 function renderSourceHealth(summary){const list=$('#health-list');if(!list)return;const sources=summary?.sources||{};const entries=Object.entries(sources);const total=Number(summary?.checked_count??entries.length);const ok=Number(summary?.healthy_count??entries.filter(([,v])=>v.last_status==='success').length);const failed=Number(summary?.failed_count??entries.filter(([,v])=>v.last_status==='failure').length);const unknown=Number(summary?.unknown_count??Math.max(0,total-ok-failed));if($('#health-total'))$('#health-total').textContent=number(total);if($('#health-ok'))$('#health-ok').textContent=number(ok);if($('#health-failed'))$('#health-failed').textContent=number(failed);if($('#health-unknown'))$('#health-unknown').textContent=number(unknown);if($('#health-updated'))$('#health-updated').textContent='آخرین ثبت: '+healthDate(summary?.updated_at_utc);if(!entries.length){list.innerHTML='<div class="empty">هنوز هیچ بررسی منبعی در گزارش ثبت نشده است. پس از اجرای بعدی ربات، وضعیت‌ها در این قسمت ظاهر می‌شوند.</div>';return}entries.sort((a,b)=>{const rank=x=>x.last_status==='failure'?0:x.last_status==='success'?1:2;return rank(a[1])-rank(b[1])||a[0].localeCompare(b[0])});list.innerHTML=entries.map(([name,item])=>{const status=item.last_status;const good=status==='success';const bad=status==='failure';const label=good?'سالم':bad?'دارای خطا':'بررسی‌نشده';const cls=good?'ok':bad?'fail':'unknown';const detail=good?number(item.last_entries_count||0)+' خبر دریافت‌شده':bad?(item.last_error||'خطای نامشخص'):'هنوز بررسی ثبت نشده است';const mode=item.last_mode==='breaking'?'اخبار فوری':'پایش عادی';return '<article class="health-source '+cls+'"><div class="health-source-top"><b>'+safe(name)+'</b><span class="health-badge '+cls+'">'+label+'</span></div><p>'+safe(detail)+'</p><div class="health-meta"><span>آخرین بررسی: '+safe(healthDate(item.last_checked_utc))+'</span><span>'+safe(mode)+'</span><span>موفق: '+number(item.success_count||0)+' · ناموفق: '+number(item.failure_count||0)+'</span></div></article>'}).join('')}
