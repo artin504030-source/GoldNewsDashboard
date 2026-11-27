@@ -19633,5 +19633,28 @@
     "archived_at_utc": "2026-11-27T18:01:06.886964+00:00",
     "telegram_message_id": 2199,
     "telegram_chat_id": "@Gold_Channel_00"
+  },
+  {
+    "source": "Economic Reports",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "claim_status": "تأیید مستقل در آرشیو احراز نشده",
+    "independent_verification": "احراز نشده",
+    "confirmed_sources": [
+      "Economic Reports"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک فید ثبت‌شده؛ نه تأیید مستقل",
+    "title": "ECB may have to raise rates further as inflation stays above 3% - 1470 & 100.3 WMBD",
+    "summary": "FRANKFURT, Nov 27 (Reuters) – The European Central Bank may ​have to ‌raise interest rates further as soon as next month as ‌inflation ​in ⁠the euro zone ⁠is likely to stay above 3% for some time ​next year, European Central Bank ⁠policymaker Joachim ⁠Nagel said ​on Friday.\n\n“We’re assuming that ​in 2027 we could ‌remain durably above 3%,” Nagel, who heads ⁠Germany’s Bundesbank, told an event. “This means that, on ⁠the ‌monetary policy ⁠side, we might ​have ‌to do even ​more. ⁠We’ll be meeting again in December.”\n\n(Reporting by Francesco Canepa; editing by Barbara ​Lewis)\n\nYou must be logged in to post a comment.",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOY0Q0ME1RQjRfNFRyNVh2eUc3bUNZM2FrYjBHQkwtQVpZTmJHZWs5MWhzU0ZaQ2dxUDFiNGJQUkhQc3JCYk5FY21SbTRFckFtUG5xVk9OaG5NcW1KOWdiVVVWTHEwcDctMlpZUVlsZkVlZ1dJN1lzaW5xRHVSQ3p0M3RXYTdTNzdZc2dzRGNuTWpXbzdpc3dMSk1GcWY?oc=5",
+    "published_utc": "2026-11-27T13:40:29+00:00",
+    "published_kabul": "2026-11-27 18:10 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 22,
+    "relevance": "ارتباط محدود",
+    "category": "بانک‌های مرکزی و نرخ بهره",
+    "archived_at_utc": "2026-11-27T19:01:06.715956+00:00",
+    "telegram_message_id": 2205,
+    "telegram_chat_id": "@Gold_Channel_00"
   }
 ]
