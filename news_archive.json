@@ -19959,5 +19959,74 @@
     "archived_at_utc": "2026-11-27T22:31:07.155417+00:00",
     "telegram_message_id": 2258,
     "telegram_chat_id": "@Gold_Channel_00"
+  },
+  {
+    "source": "Google News — Europe Official Economic Releases",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "claim_status": "تأیید مستقل در آرشیو احراز نشده",
+    "independent_verification": "احراز نشده",
+    "confirmed_sources": [
+      "Google News — Europe Official Economic Releases"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک فید ثبت‌شده؛ نه تأیید مستقل",
+    "title": "Bank of England Staff Working Paper No. 1,216 - Bank of England",
+    "summary": "Bank of England Staff Working Paper No. 1,216 Bank of England",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZG5Cb2NBX3lXUzA5cGJRZG1ENUF5bW5RVXVtdV9SeGJ1QW9VTDdIcl9XU1VBVjhLMDJMTE5MbU02c2h5Qm5mbGNjRFVqaTExSGJGNkZrNlBiQURja1Mzc0h0WWtUSmdWanY4VG5Ea3VTTFAxM21pQXZ6QklaOWNpamsxQXhtci1lbjF0RURjSHR4NjBEbHhpbm8xYjVrMTZfRGVxdEVpT3ZxS3R5TEdkUFFzbUp5Yk5NdTFuQ3I4SEpxc3Vsc2xITkJUVFJOMnFnTDNzaVJsVWFycXgwQUg3eFRvLWdMSm80Smc?oc=5",
+    "published_utc": "2026-11-27T23:27:48+00:00",
+    "published_kabul": "2026-11-28 03:57 (کابل)",
+    "importance": "کم",
+    "relevance_score": 22,
+    "relevance": "ارتباط محدود",
+    "category": "بانک‌های مرکزی و نرخ بهره",
+    "archived_at_utc": "2026-11-27T23:30:39.162580+00:00",
+    "telegram_message_id": 2272,
+    "telegram_chat_id": "@Gold_Channel_00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "claim_status": "تأیید مستقل در آرشیو احراز نشده",
+    "independent_verification": "احراز نشده",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک فید ثبت‌شده؛ نه تأیید مستقل",
+    "title": "International Oil Prices Drop Despite Middle East Supply Concerns... Brent Falls 1.2% : Finance : JKN - 재경일보",
+    "summary": "Oil prices fall despite Middle East supply concerns; Brent drops 1.2% (Photo: Yonhap News)\n\nInternational oil prices fell on the 27th despite ongoing concerns over crude oil supply disruptions in the Middle East. Brent crude closed at $95.44 per barrel, and West Texas Intermediate (WTI) closed at $83.08.\n\nBrent crude rose 3.1% for the week, marking its first weekly gain in four weeks, while WTI fell 0.4% over the same period.\n\nInternational oil prices moved as the market weighed supply forecasts and the policies of oil-producing countries, even amid rising tensions in the Middle East. The International Energy Agency (IEA) has previously raised the possibility that the global oil market could return to a supply surplus in the fourth quarter of 2026.\n\nIncidents threatening the supply of crude oil and petroleum products continue to occur across the Middle East. Attacks on ships passing through the Strait of Hormuz by Iran and attacks on Saudi Arabian energy facilities by Yemen's Houthi rebels have increased anxiety regarding maritime transportation and production and refining facilities.\n\nThe Saudi Arabian Ministry of Energy announced on the 26th that the Jazan refinery facility suffered a fire following an attack by a hostile aerial projectile. The fire was extinguished, but one Nepalese worker was killed, several others were injured, and operations at some facilities were temporarily suspended. The Saudi side identified the Houthis as the perpetrators of the attack.\n\nThe IEA assessed that energy transport disruptions in the Strait of Hormuz have continued through November, and that supply risks occurring in the Middle East, the Red Sea, and Russia are simultaneously impacting the international energy market. Global oil supply in October increased by 2.3 million barrels per day from the previous month to 105.4 million barrels, and crude oil exports from the Gulf region also partially recovered.\n\nMarket attention is focused on the 42nd OPEC and non-OPEC ministerial meeting to be held on the 29th. OPEC previously decided to maintain December oil production at the levels required for September 2026, and there are expectations that this meeting will result in maintaining production targets for the first quarter of next year at current levels.\n\nOPEC has pointed out that attacks on energy infrastructure and disruptions to international maritime transport routes could increase supply security concerns and market volatility. While the IEA analyzed that Gulf region exports have not yet fully recovered to pre-war levels, it forecasted that market supply and demand conditions could change if the increase in supply continues.\n\nCopyright © JKN. Unauthorized reproduction or redistribution prohibited.",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ZQnBELVIwSE5Gbno2bGFXSW53NmtaN1JwZEZucHMydkpRQUhiOHJRbXRVaDJxUE1uLWpIa3ZVWElNSUl6RDRNZUVpSmozOEdub0ZrQUdMSmZCLWhMUmJ1RFJR?oc=5",
+    "published_utc": "2026-11-27T23:15:00+00:00",
+    "published_kabul": "2026-11-28 03:45 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 28,
+    "relevance": "مرتبط",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-27T23:31:08.092022+00:00",
+    "telegram_message_id": 2274,
+    "telegram_chat_id": "@Gold_Channel_00"
+  },
+  {
+    "source": "Energy Shipping Routes",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "claim_status": "تأیید مستقل در آرشیو احراز نشده",
+    "independent_verification": "احراز نشده",
+    "confirmed_sources": [
+      "Energy Shipping Routes"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک فید ثبت‌شده؛ نه تأیید مستقل",
+    "title": "Senior IRGC officials vow to break US blockade on Strait of Hormuz, claim Iran's ports are 'open' - The Jerusalem Post",
+    "summary": "Mohammad Mokhber, an adviser to Iran's Supreme Leader Mojtaba Khamenei, vowed on Friday to break the US blockade, according to Iranian state media.\"Neither will the Strait of Hormuz be reopened, nor will we allow the blockade to remain in place,\" state media reported Mokhber as saying. He did not provide details on Iran's plans to break the embargo.Separately, Iranian Navy Commander Shahram Irani told state television: \"Breaking through the enemy blockade is underway, and our ports are active today. Contrary to all propaganda, maritime escorts are taking place, and we stand with the shipowners and sailors.\"\"The enemy's attempt is to cut off the lifeblood of our economy in whatever way it can, and this has so far failed,\" Irani said, without giving details.In a statement to Iranian state broadcaster IRIB, a spokesperson for the Islamic Revolutionary Guard Corps (IRGC) said the number of tankers attempting to transit the Strait of Hormuz via unauthorized routes has \"decreased significantly over the past few days.\"The statement added that \"this demonstrates the authority and absolute control exercised by the IRGC Navy over both the eastern and western sectors of the Strait of Hormuz.\"CENTCOM says it stopped Iranian ship violating blockadeThe two statements came shortly after US Central Command (CENTCOM) announced that a US military aircraft struck and disabled a commercial cargo ship in the Gulf of Oman on Thursday after its crew attempted to breach the US naval blockade of Iran.The ship's crew \"attempted to run the US naval blockade, despite multiple warnings, following departure from Bandar Abbas, Iran,\" CENTCOM explained.\"A US military aircraft launched precision munitions that struck the stern of Palau-flagged M/V Pacific Archer,\" CENTCOM said. \"The ship's propulsion was ultimately disabled, and the civilian crew was unharmed.\"US President Donald Trump called the US naval blockade “the greatest naval blockade in history” and said more oil was moving through the Strait of Hormuz now than before the war began.“Not one Iranian ship has gotten through the blockade since we established it,” Trump said, except for “a little moratorium.”",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAxLU1CUTdXdndZZllNbjFmYUJIbjI5dTkxYnVUeTZpSVEwQ0JQVkNDQ3FJdzh4N0JtbnJ1aWI0Q3RFcDdDTkUtN05wclJSNFBVZlRnSmZGNHh1TTVFa3MwOEEyMURzdkdHY1E?oc=5",
+    "published_utc": "2026-11-27T22:42:12+00:00",
+    "published_kabul": "2026-11-28 03:12 (کابل)",
+    "importance": "کم",
+    "relevance_score": 28,
+    "relevance": "مرتبط",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-27T23:31:28.152941+00:00",
+    "telegram_message_id": 2275,
+    "telegram_chat_id": "@Gold_Channel_00"
   }
 ]
