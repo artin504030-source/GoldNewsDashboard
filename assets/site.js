@@ -40,16 +40,17 @@ function renderBotStatus(data){
     }
     const finished=new Date(last.updated_at_utc||last.completed_at||last.created_at_utc||'').getTime();
     const age=Number.isFinite(finished)?Math.max(0,(now-finished)/60000):Infinity;
-    const late=cfg.staleMinutes!=null&&age>cfg.staleMinutes;
+    const running=last.status==='in_progress';
+    const late=!running&&cfg.staleMinutes!=null&&age>cfg.staleMinutes;
     const ok=last.conclusion==='success';
     const cancelled=last.conclusion==='cancelled';
-    const status=late?'تأخیر در اجرا':ok?'موفق':cancelled?'لغوشده':'ناموفق';
-    const cls=late?'late':ok?'ok':cancelled?'unknown':'fail';
+    const status=running?'در حال اجرا':late?'تأخیر در اجرا':ok?'موفق':cancelled?'لغوشده':'ناموفق';
+    const cls=running?'running':late?'late':ok?'ok':cancelled?'unknown':'fail';
     if(badge){badge.className='runtime-badge '+cls;badge.textContent=status}
     if(time)time.textContent=runtimeDate(last.updated_at_utc||last.completed_at||last.created_at_utc);
     const ago=Number.isFinite(age)?(age<60?Math.round(age)+' دقیقه پیش':Math.floor(age/60)+' ساعت پیش'):'زمان نامشخص';
     const successText=success?'آخرین اجرای موفق: '+runtimeDate(success.updated_at_utc||success.completed_at||success.created_at_utc):'هنوز اجرای موفقی ثبت نشده است';
-    const conclusion=ok?'آخرین اجرا با موفقیت پایان یافت.':cancelled?'آخرین اجرا لغو شد.':'آخرین اجرا با وضعیت '+(last.conclusion||'نامشخص')+' پایان یافت.';
+    const conclusion=running?'این ربات اکنون در حال اجرا است.':ok?'آخرین اجرا با موفقیت پایان یافت.':cancelled?'آخرین اجرا لغو شد.':'آخرین اجرا با وضعیت '+(last.conclusion||'نامشخص')+' پایان یافت.';
     const cadenceNote=cfg.staleMinutes==null?' · این ربات رویدادمحور است؛ نبود اجرای تازه به‌تنهایی خطا محسوب نمی‌شود.':'';
     if(detail)detail.textContent=conclusion+' · '+ago+' · '+successText+cadenceNote;
     if(link&&last.html_url)link.href=last.html_url;
@@ -65,4 +66,4 @@ async function loadReport(){try{const r=await fetch('./daily_report.json?ts='+Da
 document.querySelectorAll('.nav a').forEach(a=>{if(a.getAttribute('href')===location.pathname.split('/').pop()||(!location.pathname.split('/').pop()&&a.getAttribute('href')==='index.html'))a.classList.add('active')});
 document.addEventListener('input',e=>{if(['q','cat','imp','range','sort'].includes(e.target.id))render()});document.addEventListener('change',e=>{if(['q','cat','imp','range','sort'].includes(e.target.id))render()});$('#reset-filters')?.addEventListener('click',()=>{['q','cat','imp','range','sort'].forEach(id=>{const el=$('#'+id);if(el)el.value=id==='range'?'all':id==='sort'?'new':''});render()});
 $('#refresh')?.addEventListener('click',()=>{loadArchive();if(page==='reports')loadReport();if(page==='home'){loadSourceHealth();loadBotStatus()}});
-if(page==='reports')loadReport();else loadArchive();if(page==='home'){loadSourceHealth();loadBotStatus()};
+if(page==='reports')loadReport();else loadArchive();if(page==='home'){loadSourceHealth();loadBotStatus();window.setInterval(loadBotStatus,60000)};
