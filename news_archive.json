@@ -20028,5 +20028,30 @@
     "archived_at_utc": "2026-11-27T23:31:28.152941+00:00",
     "telegram_message_id": 2275,
     "telegram_chat_id": "@Gold_Channel_00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "claim_status": "تأیید مستقل در آرشیو احراز نشده",
+    "independent_verification": "احراز نشده",
+    "confirmed_sources": [
+      "Oil and Energy",
+      "Oil Trade and Supply"
+    ],
+    "source_count": 2,
+    "confirmation_status": "چند فید ثبت‌شده؛ تأیید مستقل احراز نشده",
+    "title": "Oil prices rise after mine strikes on ships revive supply concerns - Yahoo Finance",
+    "summary": "Oil prices rise after mine strikes on ships revive supply concerns Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ3lnVzA4RlRaOGkxUDRSNWlyR096S2xXd1IxV0dPMGRWLWFBX1dMbE5Xc2VQSFVXZ1NIalh3VFd2UWtkdV9tVExpWTBCWG5ZNGo5cEF2Y2ZrMEl1eWgwT3Y0M2EyaGl2dERpbG5ST1BnTHV5T25wNFo4Z3Z5WWJyOE9CM2Y4V2xYYXE4SlRadGs?oc=5",
+    "published_utc": "2026-11-26T14:48:19+00:00",
+    "published_kabul": "2026-11-26 19:18 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-27T23:46:08.247967+00:00",
+    "telegram_message_id": 2281,
+    "telegram_chat_id": "@Gold_Channel_00",
+    "last_confirmation_utc": "2026-11-27T23:46:11.764204+00:00"
   }
 ]
