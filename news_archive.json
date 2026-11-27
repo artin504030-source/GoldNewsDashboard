@@ -19426,5 +19426,28 @@
     "archived_at_utc": "2026-11-27T16:16:28.896779+00:00",
     "telegram_message_id": 2155,
     "telegram_chat_id": "@Gold_Channel_00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "claim_status": "تأیید مستقل در آرشیو احراز نشده",
+    "independent_verification": "احراز نشده",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک فید ثبت‌شده؛ نه تأیید مستقل",
+    "title": "Crude Oil Jan 27 (CL=F) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "summary": "Washington Crossing Advisors senior portfolio manager Chad Morganlander sits down with \"The 8:30\" hosts Julie Hyman and Jake Conley to discuss the latest developments on oil (CL=F, BZ=F) prices.",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9vb0xIM2NQRFk0TmhHMF9LYWZjb2ZDWFpMSE56RzRaMW5nVUhEZFJvMjVLdWExU25wQ1E5V0NpY2FwS2JkaTktb1hhUHJKVV9uVjBQSA?oc=5",
+    "published_utc": "2026-11-27T15:17:11+00:00",
+    "published_kabul": "2026-11-27 19:47 (کابل)",
+    "importance": "کم",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-27T16:31:03.063532+00:00",
+    "telegram_message_id": 2159,
+    "telegram_chat_id": "@Gold_Channel_00"
   }
 ]
