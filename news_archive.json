@@ -18126,7 +18126,8 @@
     "category": "طلا و فلزات گران‌بها",
     "archived_at_utc": "2026-11-27T10:46:17.501318+00:00",
     "telegram_message_id": 1988,
-    "telegram_chat_id": "@Gold_Channel_00"
+    "telegram_chat_id": "@Gold_Channel_00",
+    "last_confirmation_utc": "2026-11-27T11:00:38.145476+00:00"
   },
   {
     "source": "Gold Market",
@@ -18149,6 +18150,52 @@
     "category": "طلا و فلزات گران‌بها",
     "archived_at_utc": "2026-11-27T10:46:26.932425+00:00",
     "telegram_message_id": 1991,
+    "telegram_chat_id": "@Gold_Channel_00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "claim_status": "تأیید مستقل در آرشیو احراز نشده",
+    "independent_verification": "احراز نشده",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک فید ثبت‌شده؛ نه تأیید مستقل",
+    "title": "Gold Climbs Above $3,670 as Precious Metals Rally Following Recent Sell-Off - Yahoo Finance UK",
+    "summary": "Gold prices surged on Friday as buying activity returned to precious metals following a volatile week that saw bullion fall to its lowest level in 15 months.\n\nThe recovery coincided with improving sentiment across artificial intelligence-related equities and an easing of selling pressure, although expectations of additional Federal Reserve interest rate increases continued to weigh on the longer-term outlook.\n\nAt 08:33 GMT, spot gold was trading 3% higher at $3,672.19 an ounce, while US gold futures gained 3.9% to $3,671.90.\n\nSilver recorded a particularly strong advance, with spot prices rising 6.6% to $44.2755 an ounce. Platinum gained 5% to $1,362.85, while spot palladium increased 3.9% to $916.25 an ounce.\n\nPalladium futures climbed 8.1% to $900.50, while the US dollar index edged up 0.1% to 103.81.\n\nFriday morning's gains lifted spot gold approximately $139 an ounce, or 3.9%, above its 20 November closing price of $3,532.85.\n\nThe advance represents a partial recovery from the previous week's 9.4% decline, which marked gold's largest weekly loss in eight months and its steepest since the week ended 20 March.\n\nGold initially attracted buying interest on Monday following the recent sell-off, but subsequently surrendered much of its gains as market volatility persisted.\n\nBullion briefly traded below $3,500 an ounce on Wednesday before recovering. The latest prices point towards a positive weekly performance, although the final outcome will depend on Friday's remaining trading activity.\n\nDespite the rebound, gold has remained below $4,000 an ounce since 11 November and is still on course for a third monthly decline of more than 6%.\n\nThe decline from January's record high accelerated after the conflict between the United States and Iran increased energy prices, contributing to inflationary pressures and expectations of higher interest rates.\n\nImproving sentiment towards artificial intelligence investments helped lift European and Asian equity markets on Thursday following recent weakness across global technology shares.\n\nWith US cash equity markets closed for Thanksgiving, developments across European and Asian markets provided the main indications of investor sentiment.\n\nThe recovery in equities coincided with renewed buying across precious metals, although monetary policy expectations remain a significant consideration for gold investors.\n\nRecent US inflation data have reinforced expectations of further monetary tightening, potentially limiting the extent of gold's recovery.\n\nThe core personal consumption expenditures (PCE) price index increased 3.3% year-on-year in October, its highest annual growth rate since 2023.\n\nThe figures have strengthened expectations of an interest rate increase at the Federal Reserve's upcoming policy meeting on 9 December, with interest rate futures indicating a 96.2% probability of a 25-basis-point hike.\n\nInvestors are also positioning for additional tightening in early 2027. Market pricing indicates a 64.3% probability that the federal funds target range will reach 4.25%–4.50% by the Fed's 27 January meeting.\n\nThe prospect of further interest rate increases remains a potential headwind for bullion, as higher yields on interest-bearing investments increase the opportunity cost of holding gold, which generates no interest income.",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBLbnZVeUV4bkFvVkRJRHNxY0tQVDNZSXNhYmFSemFCZUJDVmN2OFJnWmtaYWNUQTNaRzhfR2x1ZU1uR2NKV2NzNUFacU1qRDAyc3dndEZva2I5UVpVZG50NXdtNlJiUF9IM09QbkQycDhHMTRTUVI0NG1XN3Y?oc=5",
+    "published_utc": "2026-11-27T10:17:49+00:00",
+    "published_kabul": "2026-11-27 14:47 (کابل)",
+    "importance": "کم",
+    "relevance_score": 100,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-27T11:01:00.918952+00:00",
+    "telegram_message_id": 1996,
+    "telegram_chat_id": "@Gold_Channel_00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "claim_status": "تأیید مستقل در آرشیو احراز نشده",
+    "independent_verification": "احراز نشده",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک فید ثبت‌شده؛ نه تأیید مستقل",
+    "title": "Gold Steadies as Fed Rate Path and AI Stocks Frame Volatile Week - Bloomberg.com",
+    "summary": "Gold Steadies as Fed Rate Path and AI Stocks Frame Volatile Week Bloomberg.com",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdjBId0RKMFpkWFQ3R3VMeVV3T0VOMEI5dzRuWWZaMGNLVFBtRXZoWjJlWHhsdXVqdGNYT2NNc3ctSU9zdXpCR3ZaSXFENDhwQ1BQa1RqV01palJ3LWcxOWFnRXZFRm40NGRTaU9XYU9yOGF2WXAtV0lxOEdDcWZmSUxfYlZfZENjV3JUX0k5YmstSkk3V1ZWVWpkR1VjdDNzdkF6ZGxSNXpOZ1AxZmlGNThJTE0zUQ?oc=5",
+    "published_utc": "2026-11-27T10:22:03+00:00",
+    "published_kabul": "2026-11-27 14:52 (کابل)",
+    "importance": "کم",
+    "relevance_score": 75,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-27T11:01:09.375430+00:00",
+    "telegram_message_id": 1998,
     "telegram_chat_id": "@Gold_Channel_00"
   }
 ]
