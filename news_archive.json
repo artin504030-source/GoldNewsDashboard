@@ -16771,5 +16771,26 @@
     "archived_at_utc": "2026-11-27T00:01:08.807843+00:00",
     "telegram_message_id": 1757,
     "telegram_chat_id": "@Gold_Channel_00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Oil Prices Mixed as Middle East Supply Risks Clash With Growing U.S. Inventories Ahead of OPEC+ Meeting - EnergyNow.com",
+    "summary": "Oil Prices Mixed as Middle East Supply Risks Clash With Growing U.S. Inventories Ahead of OPEC+ Meeting EnergyNow.com",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUkdfTnFFOXpiam5vVjRrenB2UERTYmM5MEp2ZWllekQ3R3d0LVJGdlEyNGctX28yQ2U2WVJ5Sk85b2VOcHg5T0hfSUhIVWY0M3hQT3o3eHo0dzdMQUFtNXRJTkRsam5tTXJndTNndU5LYWNvLVpzOFpUQmdfdnRHd0R4ZlVBOGNsek1keWVkbWl2VkxsTE9ZdFZSUkl1NUdkZjMzOGpUTzkydHhjWkNJNlJYUE55SzFCcGtIYmdpYURvTHRfUHJ0b1l6R2g?oc=5",
+    "published_utc": "2026-11-26T11:25:00+00:00",
+    "published_kabul": "2026-11-26 15:55 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-27T00:31:06.864109+00:00",
+    "telegram_message_id": 1762,
+    "telegram_chat_id": "@Gold_Channel_00"
   }
 ]
