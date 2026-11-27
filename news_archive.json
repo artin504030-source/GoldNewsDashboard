@@ -16918,5 +16918,26 @@
     "archived_at_utc": "2026-11-27T02:15:36.927970+00:00",
     "telegram_message_id": 1778,
     "telegram_chat_id": "@Gold_Channel_00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک منبع ثبت‌شده",
+    "title": "Oil prices fall amid forecasts of global oversupply - Inspenet",
+    "summary": "The oil prices retreated on Wednesday, November 25, amid expectations of a global crude oil surplus, forecasts of supply exceeding demand weighed more heavily on prices than fears of potential supply disruptions in the Middle East.\n\nThe Brent crude futures they fell 0.5% to $90.96 per barrel, while the West Texas Intermediate (WTI) it registered a drop of 0.8%, to $81.43 per barrel, according to quotes at 10:35 GMT.\n\nThis pullback comes after both oil benchmarks registered gains of more than 2% during the previous session.\n\nThe forecasts of the International Energy Agency (IEA) they point to a global crude oil surplus, a scenario that is keeping prices under pressure. This is compounded by the increase in oil inventories in the United States.\n\nAccording to data from American Petroleum Institute (API) , US crude oil inventories increased by 126,000 barrels during the week ending November 20.\n\nFurthermore, the reactivation of the Sharara oil pipeline in Libya allowed the resumption of crude oil transport to the Akakus storage facilities in Zawiya.\n\nOil market operators are also keeping a close eye on the meetings of the OPEC+ scheduled for November 29, in which the ministers will address the crude oil production policy for 2027.\n\nAhead of these meetings, Iraq is seeking an upward revision of the alliance’s estimate of its extraction capacity. This revision will be crucial in determining member countries’ production quotas for the coming year.\n\nDespite the prospects of oversupply, the situation in the Middle East continues to generate uncertainty among energy market participants.\n\nThe Houthis in Yemen claimed to have attacked the Ras Tanura refinery in Saudi Arabia, a facility that is part of a strategic complex for processing and exporting Saudi oil.\n\nAdded to this situation are the recent maritime incidents in the Strait of Hormuz, which maintain concerns about the safety of international hydrocarbon transport.\n\nFor now, expectations of a global crude oil surplus outweigh geopolitical risks and are keeping oil prices down throughout the day.\n\nSource: Reuters\n\nPhoto: Envato\n\nAnalyst and writer of news specialized in industrial technology, with a solid background in engineering. My work focuses on curating and synthesizing complex information, transforming technical advances and regulatory changes into journalistic reports.",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9kbXp4QVBITlRyOGw3ZVNPSzhPZ0c4LWpBdTFrbDhBTU91d29KUVRXN3Z3NTkzZTBJVEx1NWFnb3JJYkJnZmZ6QWRYd1RfRTBORHpqeVoyM0xoTFAybnBHNHNNOWt3dWpINkNGbVp3?oc=5",
+    "published_utc": "2026-11-25T19:09:00+00:00",
+    "published_kabul": "2026-11-25 23:39 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 28,
+    "relevance": "مرتبط",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-27T02:46:00.407680+00:00",
+    "telegram_message_id": 1781,
+    "telegram_chat_id": "@Gold_Channel_00"
   }
 ]
