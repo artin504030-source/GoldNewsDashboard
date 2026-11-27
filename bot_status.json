@@ -59,27 +59,27 @@
         "run_id": 46066309619,
         "run_number": 2171,
         "run_attempt": 1,
-        "status": "in_progress",
-        "conclusion": "unknown",
+        "status": "completed",
+        "conclusion": "success",
         "event": "workflow_dispatch",
         "branch": "main",
         "head_sha": "bfe93ca64d6000bc9ece095fac54fca348a35d2f",
         "html_url": "https://github.com/artin504030-source/GoldNewsBot/actions/runs/46066309619",
         "created_at_utc": "2026-11-27T20:50:14Z",
-        "updated_at_utc": "2026-11-27T20:50:18Z"
+        "updated_at_utc": "2026-11-27T20:50:33Z"
       },
       "last_success": {
-        "run_id": 46065755976,
-        "run_number": 2170,
+        "run_id": 46066309619,
+        "run_number": 2171,
         "run_attempt": 1,
         "status": "completed",
         "conclusion": "success",
         "event": "workflow_dispatch",
         "branch": "main",
-        "head_sha": "f62c1cc420da26fd9826d357b10fc3acb408010e",
-        "html_url": "https://github.com/artin504030-source/GoldNewsBot/actions/runs/46065755976",
-        "created_at_utc": "2026-11-27T20:45:14Z",
-        "updated_at_utc": "2026-11-27T20:46:00Z"
+        "head_sha": "bfe93ca64d6000bc9ece095fac54fca348a35d2f",
+        "html_url": "https://github.com/artin504030-source/GoldNewsBot/actions/runs/46066309619",
+        "created_at_utc": "2026-11-27T20:50:14Z",
+        "updated_at_utc": "2026-11-27T20:50:33Z"
       }
     },
     "Gold Prices Bot": {
@@ -223,5 +223,5 @@
       }
     }
   },
-  "updated_at_utc": "2026-11-27T20:50:26.858958+00:00"
+  "updated_at_utc": "2026-11-27T20:50:42.037944+00:00"
 }
