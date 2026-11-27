@@ -19564,5 +19564,51 @@
     "archived_at_utc": "2026-11-27T17:16:42.483560+00:00",
     "telegram_message_id": 2187,
     "telegram_chat_id": "@Gold_Channel_00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "claim_status": "تأیید مستقل در آرشیو احراز نشده",
+    "independent_verification": "احراز نشده",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک فید ثبت‌شده؛ نه تأیید مستقل",
+    "title": "Oil prices are again rising – here’s why - CNN",
+    "summary": "Oil prices are again rising – here’s why CNN",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5pWERQc1hkMjdnNVdlT2laUE80aXpVRV9GV3o5ZE9lb0lKbng3WFRTUGp0X3c2eG1hSmVkSkFSUUcwWEx3REFpUmdweERDY0ZITkR5cmFaS094dHB6SjFsLU5DbDUzM2JEVmFjX2habw?oc=5",
+    "published_utc": "2026-11-27T14:16:48+00:00",
+    "published_kabul": "2026-11-27 18:46 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-27T17:30:47.003706+00:00",
+    "telegram_message_id": 2193,
+    "telegram_chat_id": "@Gold_Channel_00"
+  },
+  {
+    "source": "Trade and Sanctions",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "claim_status": "تأیید مستقل در آرشیو احراز نشده",
+    "independent_verification": "احراز نشده",
+    "confirmed_sources": [
+      "Trade and Sanctions"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک فید ثبت‌شده؛ نه تأیید مستقل",
+    "title": "Russia extends jet fuel export ban amid refinery disruptions - Latest news from Azerbaijan",
+    "summary": "Russia extends jet fuel export ban amid refinery disruptions Latest news from Azerbaijan",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdldOa1ZDYkdkZFo5Q2NSMEdWU3NQbnVrZXJTUUFQOEdzd0JQVDhGYzFoRi0tRzFmZzdlTFh1OXpTNmwyZHNlQ0txU0RlU2JOUlR0OGVrOHRiSDlkR05VQmlia29DenNQNHVmd181d0NESkxveGY4VVBMQkRGMVI4RVhibnpyT1d4?oc=5",
+    "published_utc": "2026-11-27T07:36:18+00:00",
+    "published_kabul": "2026-11-27 12:06 (کابل)",
+    "importance": "کم",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-27T17:30:56.535106+00:00",
+    "telegram_message_id": 2194,
+    "telegram_chat_id": "@Gold_Channel_00"
   }
 ]
