@@ -17472,5 +17472,28 @@
     "archived_at_utc": "2026-11-27T07:16:06.662340+00:00",
     "telegram_message_id": 1905,
     "telegram_chat_id": "@Gold_Channel_00"
+  },
+  {
+    "source": "Trade and Sanctions",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "claim_status": "تأیید مستقل در آرشیو احراز نشده",
+    "independent_verification": "احراز نشده",
+    "confirmed_sources": [
+      "Trade and Sanctions"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک فید ثبت‌شده؛ نه تأیید مستقل",
+    "title": "Russia Extends Jet Fuel Export Ban to March 2027 - Daily Beirut",
+    "summary": "The Russian government announced the extension of the ban on jet fuel (turbojet) exports until March 31, 2027, a move aimed at ensuring stability in the domestic market.\n\nIn a statement today, the government said it continues working to ensure reliable and continuous fuel supplies for the domestic market.\n\nIt clarified that a decree prohibiting the export of turbojet fuel, including quantities purchased through exchange auctions, has been signed, with the decision taking effect from December 1, 2026, to March 31, 2027, inclusive.\n\nThe new ban replaces a similar measure that began in June 2026 and ends on November 30, 2026. The ban does not cover certain cases, including the supply of aviation fuel under intergovernmental agreements.\n\nThe Cabinet confirmed that \"the decision was taken to maintain stability in the internal fuel market.\" Russia also imposes temporary restrictions on the export of other types of fuel, including diesel.\n\nRT",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVHZyemNkOVpCSjZtYmlmNVpLWUE3Z1c3NEUwMUNDcUFiTFU0U3hVb1FqMS1xa3h6YTA1QUdJaFpVR0QtVzJDUGplVjNfa2VQTkp3Q0FDTzB1ZVcxaUN4aGxoV1NwSzd6Q19nTHZDVTcyek10NU9FbGVoMVJfOEU0eHd4NFdVaURiRlZZcFBET2U3NW8?oc=5",
+    "published_utc": "2026-11-27T07:13:02+00:00",
+    "published_kabul": "2026-11-27 11:43 (کابل)",
+    "importance": "کم",
+    "relevance_score": 38,
+    "relevance": "مرتبط",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-27T07:30:43.794409+00:00",
+    "telegram_message_id": 1912,
+    "telegram_chat_id": "@Gold_Channel_00"
   }
 ]
