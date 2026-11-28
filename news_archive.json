@@ -20147,5 +20147,51 @@
     "archived_at_utc": "2026-11-28T02:01:06.315966+00:00",
     "telegram_message_id": 2303,
     "telegram_chat_id": "@Gold_Channel_00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "claim_status": "تأیید مستقل در آرشیو احراز نشده",
+    "independent_verification": "احراز نشده",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک فید ثبت‌شده؛ نه تأیید مستقل",
+    "title": "5 stories shaping Canadian auto this week: Tariffs biggest trade hurdle, China weighs production, more - Automotive News",
+    "summary": "5 stories shaping Canadian auto this week: Tariffs biggest trade hurdle, China weighs production, more Automotive News",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQV3U3OUtDLXlpa0RodlNndEtmQkpMRXhTZE1MRzN3Qk83NE1WcWRIeWtYTnFnS3RNUlpFbkcwVWxhUUxOUGJjTVBJbDBiR1BFeHVuTWhMM2xkQlpJZTFVanBRSDZVaWRvVHZVUFZJbzJEd0h2aXJKdkF2NHVscmd2aTRyTjM0UQ?oc=5",
+    "published_utc": "2026-11-27T19:46:00+00:00",
+    "published_kabul": "2026-11-28 00:16 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-28T02:15:55.765845+00:00",
+    "telegram_message_id": 2306,
+    "telegram_chat_id": "@Gold_Channel_00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "claim_status": "تأیید مستقل در آرشیو احراز نشده",
+    "independent_verification": "احراز نشده",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک فید ثبت‌شده؛ نه تأیید مستقل",
+    "title": "White House pressured Iraq, Venezuela to leave OPEC in bid to curb world oil prices: Report - thecradle.co",
+    "summary": "White House pressured Iraq, Venezuela to leave OPEC in bid to curb world oil prices: Report",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZGdHUHZ2MjFUYlpBc0ZCdFNTazEzUExaZ04tcUZVWjhMZDB6cERwTGprQXFkcHlURkh3UlpkaEVPZFFLeVlXSjZ4c0hjSFZJVEJzaVlyUHlQb1VsVTM1bEVONXhrVzZVRGtjbnl2RTJadThvV19rekdhN01iRE9QVC02TW1vdmpkQkxTeF9sRUplVk15bjB0WEFzZkxmX2lQa3N5YXNoMG9xVkJkdGFLRjRaRXpWbmd5Z3Z3?oc=5",
+    "published_utc": "2026-11-27T16:43:36+00:00",
+    "published_kabul": "2026-11-27 21:13 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-28T02:16:04.766719+00:00",
+    "telegram_message_id": 2307,
+    "telegram_chat_id": "@Gold_Channel_00"
   }
 ]
