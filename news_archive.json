@@ -17231,7 +17231,7 @@
       "Gold Market"
     ],
     "source_count": 1,
-    "confirmation_status": "یک منبع ثبت‌شده",
+    "confirmation_status": "یک فید ثبت‌شده؛ نه تأیید مستقل",
     "title": "Gold, silver rate rebound: Precious metals-linked stocks rally up to 4%; Muthoot Finance, Titan, Hind Zinc... - Moneycontrol.com",
     "summary": "Gold, silver rate rebound: Precious metals-linked stocks rally up to 4%; Muthoot Finance, Titan, Hind Zinc... Moneycontrol.com",
     "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNUmJOdjFGTjc2cGw2QTNsWDdaYU1iaFVGM24wZzRJbS00alVfWjFkcTFYdEVPTlgtRlJKUGVEajFac1o4SEwtamJlbTA3eXhkanZXa2hKczlJX3pZamNVU3hzMjZ1cldwMVFfQndrb2FyNHYzY3JhS3ZQRjJOUFN0U2V5bUFfUl9pcXczM0pEXzhNNTYxVFlVVHlSdkNXV3VHSVFxTnd1eW16bm1fS2twSm1iV2RTUEVsT2VUSVRaeTZESUoyRXU2NEZFZm0teUxfNGMzLWVEbzVYV1lWYUZpaTZCekVOS21aLV9uSXMxSGtUX3J1cEF0aVJwQ053VHFT0gGGAkFVX3lxTE1TUnkxamhwT0ZQdmY5UFpQdG1wRy05aUxLUjNZYTkzX0NZcGtlNGIwQUh0VWVoeWtpSTZQRUNXa193MDEtTTFJX05maG1Oc1BOQWtfV0F5T0I2aEh6ZjBwME02eVFMbzlqQTFEaDNCeUxoc1VIcW1hekw5SGtudEl4cC1rR2NWUUh0NVpNNVBOWnE0UEs3czVYcXNtb3dRRzlfS2hMRTJVOTFfS2pYUnUzRnNSMWtEUmFhOFFwMndWMlkwTzFnUXhKX1N6Q3lET3RlRTczWVZVWG0wQ29ib3NRdmlrWlVhSGRUMGZ5dG9mbUZuUjNWRDZNcDdwWjhYSnY2NkVGS1E?oc=5",
@@ -17243,7 +17243,8 @@
     "category": "طلا و فلزات گران‌بها",
     "archived_at_utc": "2026-11-27T05:15:31.663834+00:00",
     "telegram_message_id": 1838,
-    "telegram_chat_id": "@Gold_Channel_00"
+    "telegram_chat_id": "@Gold_Channel_00",
+    "last_confirmation_utc": "2026-11-28T06:45:47.366570+00:00"
   },
   {
     "source": "Gold Market",
