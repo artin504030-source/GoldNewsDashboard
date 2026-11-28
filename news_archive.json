@@ -20796,5 +20796,51 @@
     "telegram_message_id": 2475,
     "telegram_chat_id": "@Gold_Channel_00",
     "last_confirmation_utc": "2026-11-28T12:15:58.543620+00:00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "claim_status": "تأیید مستقل در آرشیو احراز نشده",
+    "independent_verification": "احراز نشده",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک فید ثبت‌شده؛ نه تأیید مستقل",
+    "title": "Missile War Monitor: Russia extends its jet fuel export ban as Novak admits a deficit - IntelliNews",
+    "summary": "Missile War Monitor: Russia extends its jet fuel export ban as Novak admits a deficit IntelliNews",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbDVyLUE4d1dxNWJ1dE0tTEYxUzNpWU8wV1FrUkJzdVh2TjhRRUYyNmd3MGZfOEI3MWdvTkNpcGx2aExQS3lyS2stTnhBdm9sNXZvTF85MG00TndEYjJBSWpiRk96emtvZTBnYy1pZHlKNnI5amhOWEE0eDJzaWZnS0dTeEN1d2RJcFpRaEJTVDY1MXVpYlNuYUJIeHJOV0h4WkJKVER6N2N2dnVEOVlTb2t4djFFNER4SWM4UQ?oc=5",
+    "published_utc": "2026-11-28T10:21:21+00:00",
+    "published_kabul": "2026-11-28 14:51 (کابل)",
+    "importance": "کم",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-28T12:46:02.068579+00:00",
+    "telegram_message_id": 2477,
+    "telegram_chat_id": "@Gold_Channel_00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "claim_status": "تأیید مستقل در آرشیو احراز نشده",
+    "independent_verification": "احراز نشده",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک فید ثبت‌شده؛ نه تأیید مستقل",
+    "title": "Oil Prices Fall Friday as Markets Await OPEC+ Decision – Brent Posts First Weekly Gain in November, WTI Extends Losing Streak - EnergyNow.com",
+    "summary": "Oil Prices Fall Friday as Markets Await OPEC+ Decision – Brent Posts First Weekly Gain in November, WTI Extends Losing Streak EnergyNow.com",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOb29ITWNTXzN0UG1sMWdvclV0RnJxY1hDQnAtRDVTN3pPZzYzWVVoQlpHWmQ5ZGNCOUJ6cXVzX2lIbnVlTF9aV0xkaU9UakJSQ3lqU3Q4akRZSVlhV2JYSkZFcWhtQzlabkdxMnAyV3NaX19Ydi0xS2JJbkdBb21jWmMxOXJYLUp2cEVVQVhRRVg0N3BfX3FhRGJweFctV3dBU3RTLWpxOG9FVGRFOWZXaGY1ZEs1cG9kUlBhSWpJY0NfeFJhUnY4eVNkMTJ6RlYxZm5fTzRtOWs0bnJXSXFKLVpxMHFWRTg?oc=5",
+    "published_utc": "2026-11-27T08:00:00+00:00",
+    "published_kabul": "2026-11-27 12:30 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-28T12:46:10.958978+00:00",
+    "telegram_message_id": 2478,
+    "telegram_chat_id": "@Gold_Channel_00"
   }
 ]
