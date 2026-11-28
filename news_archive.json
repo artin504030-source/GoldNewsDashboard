@@ -20124,5 +20124,28 @@
     "telegram_message_id": 2293,
     "telegram_chat_id": "@Gold_Channel_00",
     "last_confirmation_utc": "2026-11-28T01:45:32.860938+00:00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "claim_status": "تأیید مستقل در آرشیو احراز نشده",
+    "independent_verification": "احراز نشده",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک فید ثبت‌شده؛ نه تأیید مستقل",
+    "title": "[MARKET UPDATE]: Dollar climbs, weighing on precious metals; Crude also pressured amid lack of clear catalysts - Newsquawk",
+    "summary": ": Dollar climbs, weighing on precious metals; Crude also pressured amid lack of clear catalysts.\n\nEpisodes in which a firmer dollar leans on the precious complex and crude sells off without a discrete driver have tended to resolve as positioning and funding events rather than a change in underlying fundamentals, and they have a history of reversing once the currency impulse fades. The transmission for metals runs through the real rate and FX channel, since non-yielding assets are marked against the dollar; for crude the linkage is looser, more a function of broad risk tone and the absence of a supply catalyst than of the exchange rate itself, which is the distinction that matters when judging persistence. The worth watching element is whether the dollar bid reflects rate repricing at the front end or a defensive flow, as the former tends to leave a longer tail on metals than the latter. On previous occasions of this kind, confirmation has come from the term structure and inventories rather than the headline move. In the absence of a named catalyst the signal is directional and low conviction by construction.",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeVhlUUR2S1lPVGc0V0kxdEpVQXN6Y1RoTVNrNGF2Y3JPU0xIZFVISDN1MVIzd1haSzdqZzFlTlFmZWJUd0dqTVFuaEo2cGV4azBTWnJMcndad1FnQVZQRVppV3hndlJFdmZ3Yl9rcVV6U1lJQlZHZUQ4M053SkZYOEprM0VrTHBudlQ3d2dITmFLV3diZG85aUg0OFhsa1FtM2xvY0NRenpkbVpFc2xpalBuVWx4SGx2alBHamxLNGI0TjhjSURKS0NWcnhDQ3hSS3ZCVms0T20?oc=5",
+    "published_utc": "2026-11-27T13:52:33+00:00",
+    "published_kabul": "2026-11-27 18:22 (کابل)",
+    "importance": "کم",
+    "relevance_score": 45,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-28T02:01:06.315966+00:00",
+    "telegram_message_id": 2303,
+    "telegram_chat_id": "@Gold_Channel_00"
   }
 ]
