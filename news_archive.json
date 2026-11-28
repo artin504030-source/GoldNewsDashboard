@@ -20493,5 +20493,51 @@
     "archived_at_utc": "2026-11-28T07:31:21.072320+00:00",
     "telegram_message_id": 2413,
     "telegram_chat_id": "@Gold_Channel_00"
+  },
+  {
+    "source": "Gold Market",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "claim_status": "تأیید مستقل در آرشیو احراز نشده",
+    "independent_verification": "احراز نشده",
+    "confirmed_sources": [
+      "Gold Market"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک فید ثبت‌شده؛ نه تأیید مستقل",
+    "title": "Willem Middelkoop: All four major precious metals show backwardation as spot prices exceed futures - Traders Union",
+    "summary": "Willem Middelkoop: All four major precious metals show backwardation as spot prices exceed futures Traders Union",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZVJ2bl9la1ZiT2NZSUJXN01oNmhfVDJBRUZ6MWFtZVVxdWRnNnN5U1hvYUtMcmVXVTI5Tm9abG5ITWV1eXlXTUdiZW1JWmE3OGNNYzBadU80T3pjSFJiU3FzZWdWZHp0X2ZNNnU0MUxjQ3ByNzdZZVpOMWpjU2ZFeGFRV0ZLY1ZKUklIOHVSV0c4TVFHdDBkWGdYNzg?oc=5",
+    "published_utc": "2026-11-28T07:30:46+00:00",
+    "published_kabul": "2026-11-28 12:00 (کابل)",
+    "importance": "کم",
+    "relevance_score": 61,
+    "relevance": "بسیار مرتبط",
+    "category": "طلا و فلزات گران‌بها",
+    "archived_at_utc": "2026-11-28T07:45:49.948487+00:00",
+    "telegram_message_id": 2421,
+    "telegram_chat_id": "@Gold_Channel_00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "claim_status": "تأیید مستقل در آرشیو احراز نشده",
+    "independent_verification": "احراز نشده",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک فید ثبت‌شده؛ نه تأیید مستقل",
+    "title": "Iran war intensifies maritime risks as OPEC+ prepares for oil supply talks - Investing.com",
+    "summary": "Iran war intensifies maritime risks as OPEC+ prepares for oil supply talks Investing.com",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQm85OXVKbVpTR3BTcnRoRmxTbGxCcFBhMVBPd0xuNWkyYUdRX1RyRlVpMEdEalI4aGRDeXZ4alB3RUc3Y3VWWHZUTWpkTEVMTVVNSEZodWdnaVZDZGVuZ2w4U1Q1cTk2bzM0di1PdUhBdG10NndLNDJWNXFCMXBUM0tJUWZ2UkZNX3JmZEVQd3R6QXVYWVFnakdpOWFqVW5Ib1pYWjZuMVdDemJUNXJIMHNWTVBqZU91VVhmQ21NVlo4Qkk?oc=5",
+    "published_utc": "2026-11-28T06:57:41+00:00",
+    "published_kabul": "2026-11-28 11:27 (کابل)",
+    "importance": "کم",
+    "relevance_score": 28,
+    "relevance": "مرتبط",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-28T07:45:58.451150+00:00",
+    "telegram_message_id": 2422,
+    "telegram_chat_id": "@Gold_Channel_00"
   }
 ]
