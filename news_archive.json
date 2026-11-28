@@ -20053,5 +20053,28 @@
     "telegram_message_id": 2281,
     "telegram_chat_id": "@Gold_Channel_00",
     "last_confirmation_utc": "2026-11-27T23:46:11.764204+00:00"
+  },
+  {
+    "source": "Oil Trade and Supply",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "claim_status": "تأیید مستقل در آرشیو احراز نشده",
+    "independent_verification": "احراز نشده",
+    "confirmed_sources": [
+      "Oil Trade and Supply"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک فید ثبت‌شده؛ نه تأیید مستقل",
+    "title": "Russia Extends Jet Fuel Export Ban by 4 Months Until March Next Year - news.sbs.co.kr",
+    "summary": "▲ A Russian oil refinery burning from a Ukrainian airstrike (File Photo) The Russian government announced that it has extended the jet fuel export ban, originally set to expire on November 30, by four months until March 31, 2027. The export restriction also applies to fuel purchased through exchanges, but does not apply to supplies under international intergovernmental agreements. This measure was taken to stabilize the domestic fuel market, which has been destabilized by Ukrainian attacks on Russian oil refining facilities. \"This decision was made to maintain a stable situation in the domestic fuel market,\" the Russian government stated. Previously, Russian Deputy Prime Minister Alexander Novak acknowledged the tight fuel market situation on November 25, saying that \"the situation in the fuel market is urgent with a number of refineries undergoing repairs.\" At the time, Deputy Prime Minister Novak said that in addition to extending the jet fuel export ban, the government would review next month the extension of the gasoline export ban, which is currently set to run until January 31 of next year. Although Russia is the world's second-largest crude oil exporter, it has already been importing gasoline from countries such as India, Kazakhstan, and Turkey due to unstable energy supply and demand. Deputy Prime Minister Novak stated that fuel imports will continue at least until the end of the year, depending on crude processing capacity and domestic market supply conditions. (Photo: Reuters, Yonhap News) ※ Please note: This article was translated by AI and may contain errors.",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xbW1MeXY0T1U4el9VMmdwVU52aVI4RTFkUFpjOUxjTFkyTTJENFlib0dOYVJYZWd6dVJ4WG9sQV8wT1pDRzZpZW5LTjBfYkx4amt3MURLdDhLLU9GVEtqQ1BYM3FwV3NLNUk4RTVR?oc=5",
+    "published_utc": "2026-11-27T14:50:56+00:00",
+    "published_kabul": "2026-11-27 19:20 (کابل)",
+    "importance": "کم",
+    "relevance_score": 28,
+    "relevance": "مرتبط",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-28T00:45:58.833976+00:00",
+    "telegram_message_id": 2285,
+    "telegram_chat_id": "@Gold_Channel_00"
   }
 ]
