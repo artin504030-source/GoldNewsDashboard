@@ -20725,5 +20725,51 @@
     "archived_at_utc": "2026-11-28T10:46:11.895873+00:00",
     "telegram_message_id": 2448,
     "telegram_chat_id": "@Gold_Channel_00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "claim_status": "تأیید مستقل در آرشیو احراز نشده",
+    "independent_verification": "احراز نشده",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک فید ثبت‌شده؛ نه تأیید مستقل",
+    "title": "New York dairy farms caught in crosshairs of U.S.-Canada trade war - Times Union",
+    "summary": "Client Challenge A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSm95OW55bS03eUdCblRITVQ5RWFmOWR0d0dZaUUzczRQaVptcHBhLTlqa0VhREtqVEl5NDJ1cWdsNkplUEQwbUszdTlMSk5rR3dFQnBQcWNQN3RpY0VDUTZfOFFYSzQyS0JtbEN2cVNlNVFfeEpvYWw4a1ExZnFvbkctMXBISnc0UkIxOU1jeDFkbzRFaWc4?oc=5",
+    "published_utc": "2026-11-28T11:12:08+00:00",
+    "published_kabul": "2026-11-28 15:42 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-28T11:15:32.131279+00:00",
+    "telegram_message_id": 2451,
+    "telegram_chat_id": "@Gold_Channel_00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "claim_status": "تأیید مستقل در آرشیو احراز نشده",
+    "independent_verification": "احراز نشده",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک فید ثبت‌شده؛ نه تأیید مستقل",
+    "title": "Despite Deficits, Canada, Philippines, Venezuela, Israel Avoid 301 Tariffs - Forbes",
+    "summary": "Despite Deficits, Canada, Philippines, Venezuela, Israel Avoid 301 Tariffs Forbes",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVUROTm9PY3lWOU1YNExFd19mVExIa1hsRTNwYVczSUg3UUxMRmVJRmtlNGRQZUJwTWpPMjA0LXVXcVlxZzF3d1EyWmNaWm5lMDFFd0pIVVIzQ3JlcWVka19Bd25YZkYyTUpmcmVKMnNmRUl1SXNCdHZIcVhLTW5QcjIxLTNpRXF2M0c4UlJZV1IxYXdDUmpERDJQNERzVXUyVUQwVWR3c0NpZWFDZzhDTmdSRVExWW81eWRpc1hpRQ?oc=5",
+    "published_utc": "2026-11-28T10:52:06+00:00",
+    "published_kabul": "2026-11-28 15:22 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-28T11:15:39.434898+00:00",
+    "telegram_message_id": 2452,
+    "telegram_chat_id": "@Gold_Channel_00"
   }
 ]
