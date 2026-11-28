@@ -20539,5 +20539,28 @@
     "archived_at_utc": "2026-11-28T07:45:58.451150+00:00",
     "telegram_message_id": 2422,
     "telegram_chat_id": "@Gold_Channel_00"
+  },
+  {
+    "source": "Economic Reports",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "claim_status": "تأیید مستقل در آرشیو احراز نشده",
+    "independent_verification": "احراز نشده",
+    "confirmed_sources": [
+      "Economic Reports"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک فید ثبت‌شده؛ نه تأیید مستقل",
+    "title": "ECB May Have to Raise Rates Further as Inflation Stays Above 3% - US News Money",
+    "summary": "ECB May Have to Raise Rates Further as Inflation Stays Above 3% US News Money",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPS2xIMVFubUhkRG9DRi1TbGZscDk3QU84bjZIeGlmVlhTS3NpeGRoUmJyN0VwY2ZqQ0tuaGVoWnhsVkNvMkVLU2h4bUFLRk1GVlo5Nl85blVCdTVUQjJzMU1RdWJ4WWlIeEF6ZXhxbE8ydjNPOC1aV2dCMDUwVnVuSXVob2pRYU84c0RvRGVGTW4wc0dNRWVDRE85VnQzLUV1MWE4bkdXOVlJR2hpRUV0aGl6SFpDRWNnOWRtNWk3OA?oc=5",
+    "published_utc": "2026-11-27T13:15:00+00:00",
+    "published_kabul": "2026-11-27 17:45 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 22,
+    "relevance": "ارتباط محدود",
+    "category": "بانک‌های مرکزی و نرخ بهره",
+    "archived_at_utc": "2026-11-28T08:31:05.909177+00:00",
+    "telegram_message_id": 2426,
+    "telegram_chat_id": "@Gold_Channel_00"
   }
 ]
