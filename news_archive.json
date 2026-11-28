@@ -19429,7 +19429,7 @@
     "archived_at_utc": "2026-11-27T16:16:28.896779+00:00",
     "telegram_message_id": 2155,
     "telegram_chat_id": "@Gold_Channel_00",
-    "last_confirmation_utc": "2026-11-27T19:31:05.709366+00:00"
+    "last_confirmation_utc": "2026-11-28T04:30:55.995396+00:00"
   },
   {
     "source": "Oil and Energy",
@@ -20330,6 +20330,29 @@
     "category": "اقتصاد آمریکا و دلار",
     "archived_at_utc": "2026-11-28T04:01:29.131518+00:00",
     "telegram_message_id": 2325,
+    "telegram_chat_id": "@Gold_Channel_00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "claim_status": "تأیید مستقل در آرشیو احراز نشده",
+    "independent_verification": "احراز نشده",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک فید ثبت‌شده؛ نه تأیید مستقل",
+    "title": "Vietnam Nears U.S. Trade Deal to Cut Tariffs - Briefs Finance",
+    "summary": "Prime Minister Le Minh Hung said in Hanoi that Vietnam \"has recently made very strong commitments and has essentially concluded negotiations\" on a U.S. trade agreement. He added both sides are \"finalizing technical details for the signing of the agreement and the applicable tax rates will be significantly lower than the maximum levels recently announced by the US.\"\n\nHung said a signed deal would create \"a stable and favorable environment for Vietnamese and US businesses and investors, as well as international investors.\" Talks have stretched over months, with transshipment and non-tariff barriers flagged as key hang-ups.\n\nVietnam's foreign ministry urged Washington to make an \"objective and balanced assessment\" of the country's efforts, adding that officials stand prepared to provide additional details and explain relevant policies and regulations. At a Thursday briefing, spokesperson Pham Thu Hang said most issues have been wrapped up, only a few remain, and consultations continue \"in the spirit of goodwill.\"\n\nWhen trade talks touch global business, stay informed with a free five minute recap in Market Briefs\n\nWashington has outlined new tariff plans that would apply to 14 economies across Asia and Europe, featuring country-specific rates that could be reduced if agreements are struck. For Vietnam, the proposed rate tops out at 35% without an accord, compared with 20% if a reciprocal deal is signed.\n\nIn response to the U.S. announcement, Vietnam's trade and industry ministry pledged to participate fully in the next stages of the U.S. investigation - appearing at public hearings, setting out its positions, and answering questions from the USTR. Deputy Minister of Industry and Trade Luong Hoang Thai advised local firms to put risk management and contingency plans in place to handle potential changes in U.S. tariff policy .\n\nAccording to U.S. Census data, Vietnam posted a 191 billion dollar goods surplus with the U.S. over the first nine months of 2026, already outpacing the 178 billion dollars logged for all of 2025. At the same time, its trade deficit with China, the main source of its imports, ballooned.\n\nWhy does that matter? The final tariff line will shape exporter margins tied to Vietnam, input costs for U.S. buyers, and supply chain routing across Asia. A deal that pegs rates near 20% instead of the high end would cushion the hit for companies with Vietnam exposure and smooth some of the supply volatility that leaks into your portfolio.\n\nBecause policy and tariffs can reshape planning, get a concise daily briefing by signing up for Market Briefs newsletter\n\nAnthropic has gone public at a valuation of about $1.5 trillion, while Amazon went public in 1997 at around $440 million. Anthropic has about $33 billion in revenue this year and no profit, and investors are paying more than 40 times its sales, against about 3 times for Amazon. Briefs Finance CEO Jaspreet Singh says nobody knows what comes next, and that long-term investors use downturns to buy instead of panic selling.\n\nWe’re hosting our first ever livestream on how investors can use ChatGPT & Claude to invest like a pro. It’s on 11/17 and is hosted by our CEO Jaspreet Singh.",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNVNkd1BkZ1VGZXRmYlJURHRqbERGdzJndFBXc1pjd1R0UDY3SG9mbnBXTGY0MmtWeG1UMlF5U0ZsOUFOM19JZFBlVzRWcG5hN2YtY0Z5ZHVDekhfYmkwQTBHdFFLS3d3SFlreENaY2V2SHV1YURab2stUkhkS0QybG5lc21Mb0dNTWhoMmlDa2s0Zw?oc=5",
+    "published_utc": "2026-11-28T04:03:41+00:00",
+    "published_kabul": "2026-11-28 08:33 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-28T04:30:52.341776+00:00",
+    "telegram_message_id": 2329,
     "telegram_chat_id": "@Gold_Channel_00"
   }
 ]
