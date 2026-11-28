@@ -17770,10 +17770,11 @@
     "claim_status": "گزارش اولیه/ادعای تأییدنشده؛ نیازمند تأیید مستقل",
     "independent_verification": "احراز نشده",
     "confirmed_sources": [
-      "Oil and Energy"
+      "Oil and Energy",
+      "Oil Trade and Supply"
     ],
-    "source_count": 1,
-    "confirmation_status": "یک فید ثبت‌شده؛ نه تأیید مستقل",
+    "source_count": 2,
+    "confirmation_status": "چند فید ثبت‌شده؛ تأیید مستقل احراز نشده",
     "title": "Iraq Delays Up to 30 Million Barrels of Crude Oil Shipments - Crude Oil Prices Today | OilPrice.com",
     "summary": "Iraq&rsquo;s SOMO has delayed loadings of crude oil cargoes to the tune of between 20 and 30 million barrels, according to a Bloomberg report citing unnamed sources. The reason for the delays has not been established yet, but the cargoes were supposed to be loaded this month; now, only some of them will be loaded, and only during the first ten days of December, the report said. As a result, buyers are looking for alternatives, and Middle Eastern prices have climbed higher. One obvious possibility is that shipping oil out of the Persian Gulf via the Strait of Hormuz, which is Iraq&rsquo;s only maritime route from the Gulf to the open ocean,&nbsp;has become a lot riskier. This possibility, while not verified by any official source, has been supported by the recent slew of reports about tankers hitting mines in Hormuz because they failed to stick to the corridor approved by Iran. Another hypothetical possibility would be a sudden drop in buyer appetite, but that possibility is not supported by the information related in the Bloomberg report, which said buyers were actually looking for prompt delivery alternatives to the Iraqi crude from the Middle East, rather than other parts of the world. Iraq has been especially hard hit by the effects of the U.S. and Israeli war with Iran. Because of its geographical position, it exports almost all of its oil via the Strait of Hormuz, and when Iran shut traffic down, Iraq had to start cutting oil production quite soon for lack of abundant storage capacity. Since then, however, production has rebounded and so have exports, on rumored deals with Iran and ship-to-ship transfers outside the Strait, in the Gulf of Oman. The latest figures show a daily average production rate of 4.6 million barrels for October, which is Iraq&rsquo;s highest since 2019, and an increase of 540,000 barrels daily from September. By Irina Slav for Oilprice.com",
     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZmx4Rnp6emJjRGMzSGdrN3pQY3hyTExsbmx3bVFuNXBTeC1QczdTYlFtOUtsTFl4aEFVT3o3cFI1dnJqVzNfUkt3YnVYTUhKY3p2V1pVcVljMzliNTNKS0xWT3AyNE1HcDBtNGJ5aTBUbzlQNmhrWmFJbzdEUVQ1QWNTcHB0cWJTczIzZWtpYXpsYlZXcmRvcVZnWnprTW1yTnBTcmsybHpTQW96V056Q3lZc0VTUdIBuwFBVV95cUxQYzUydy0tczFPbFRvZlpxTkNiZFZTWXdVODlTQ2Z0N25ZaTlXRmthTnFOQVIzLUxnc0IyZFFCSHlOZ2ZtbHBzTkJHY2lFVGdBTHBQZndpcnZPcGdwLS00Qm52Nkl0dHYxXzMwbEhYSnFGNHlZT3dFSS11a2RtRjVDZEdaN3NwNEk5MldlRmoxeW9va2M5V1JsY3lnTDZCc21ISy1IeEFLSUtQT3pha1l0U3ljTnRHOF9RUWJZ?oc=5",
@@ -17785,7 +17786,8 @@
     "category": "انرژی",
     "archived_at_utc": "2026-11-27T08:46:38.401318+00:00",
     "telegram_message_id": 1942,
-    "telegram_chat_id": "@Gold_Channel_00"
+    "telegram_chat_id": "@Gold_Channel_00",
+    "last_confirmation_utc": "2026-11-28T15:30:49.136175+00:00"
   },
   {
     "source": "European Central Bank",
@@ -20956,6 +20958,29 @@
     "category": "اقتصاد آمریکا و دلار",
     "archived_at_utc": "2026-11-28T14:47:01.505994+00:00",
     "telegram_message_id": 2493,
+    "telegram_chat_id": "@Gold_Channel_00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "claim_status": "تأیید مستقل در آرشیو احراز نشده",
+    "independent_verification": "احراز نشده",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک فید ثبت‌شده؛ نه تأیید مستقل",
+    "title": "Russia Ukraine War Hungary - Bluefield Daily Telegraph",
+    "summary": "In this photo provided by the Ukrainian Presidential Press Office, Hungarian Prime Minister Peter Magyar, left, and Ukrainian President Volodymyr Zelenskyy talk during their meeting in Uzhhorod, Ukraine, Tuesday, Nov. 24, 2026.\n\nSorry, there are no recent results for popular videos.\n\nSorry, there are no recent results for popular commented articles.\n\nSign up now to get our FREE breaking news coverage delivered right to your inbox.",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUXFReWdENnlMVWFGR25ZcWFYdlAtekgwQVpYaVBRaTNYMnZiTGd2THkzeFhqcTBPRmc3eGh0aDVtVWhYMjY1V1ZyMVFNaFpiVW1FTW5rMmIwdHktREdrcVJEMHA0VUVDMGZOdVVvakx5TlRfMlJyZGhEZzgxeEtEa2c2WXVlcGV4dzlXclBFa2l5eFhzcEtpZTN5NUpIc2JJX1pqZ052WWJpQW9seE5RUWhHVnZaN1NyeVE?oc=5",
+    "published_utc": "2026-11-28T15:23:57+00:00",
+    "published_kabul": "2026-11-28 19:53 (کابل)",
+    "importance": "کم",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-28T15:30:44.967456+00:00",
+    "telegram_message_id": 2501,
     "telegram_chat_id": "@Gold_Channel_00"
   }
 ]
