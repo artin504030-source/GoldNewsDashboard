@@ -20239,5 +20239,28 @@
     "archived_at_utc": "2026-11-28T02:31:48.541055+00:00",
     "telegram_message_id": 2314,
     "telegram_chat_id": "@Gold_Channel_00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "claim_status": "تأیید مستقل در آرشیو احراز نشده",
+    "independent_verification": "احراز نشده",
+    "confirmed_sources": [
+      "Oil and Energy"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک فید ثبت‌شده؛ نه تأیید مستقل",
+    "title": "Crude Prices Retreat on Possible Increase in OPEC Crude Output - Yahoo Finance",
+    "summary": "Crude Prices Retreat on Possible Increase in OPEC Crude Output Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcm9xdEZFRWRGLXlCanFybmZkQmhHNXU4UVNIZVl1QS1qMWVaZlA2a2FwZnpOSlNOVUdtTkljam1VSzEyeGM3V080TURrcFRiNUZ3Y2NHWkdNbk1TWWQ4b3lsUEZOM09SbTdMdlA5MkEzMjh0RFdlSmRLRFJSNDZ0VDk1YzJ5LUsyNkxaTHpscW5HYkYtcndhT3N2UQ?oc=5",
+    "published_utc": "2026-11-27T20:11:14+00:00",
+    "published_kabul": "2026-11-28 00:41 (کابل)",
+    "importance": "کم",
+    "relevance_score": 12,
+    "relevance": "ارتباط محدود",
+    "category": "انرژی",
+    "archived_at_utc": "2026-11-28T02:45:33.705997+00:00",
+    "telegram_message_id": 2316,
+    "telegram_chat_id": "@Gold_Channel_00"
   }
 ]
