@@ -28,17 +28,17 @@
     },
     "Gold News Bot": {
       "last_run": {
-        "run_id": 46106661860,
-        "run_number": 792,
+        "run_id": 46107843186,
+        "run_number": 793,
         "run_attempt": 1,
-        "status": "completed",
-        "conclusion": "success",
+        "status": "in_progress",
+        "conclusion": "unknown",
         "event": "workflow_dispatch",
         "branch": "main",
-        "head_sha": "e9b715dafaa9fc90c8bfafbc201c0e012be69141",
-        "html_url": "https://github.com/artin504030-source/GoldNewsBot/actions/runs/46106661860",
-        "created_at_utc": "2026-11-28T04:15:13Z",
-        "updated_at_utc": "2026-11-28T04:15:36Z"
+        "head_sha": "7797f1335e32a8c8a3f221a7be08eec872349ac0",
+        "html_url": "https://github.com/artin504030-source/GoldNewsBot/actions/runs/46107843186",
+        "created_at_utc": "2026-11-28T04:30:19Z",
+        "updated_at_utc": "2026-11-28T04:30:23Z"
       },
       "last_success": {
         "run_id": 46106661860,
@@ -223,5 +223,5 @@
       }
     }
   },
-  "updated_at_utc": "2026-11-28T04:25:56.433141+00:00"
+  "updated_at_utc": "2026-11-28T04:30:32.171439+00:00"
 }
