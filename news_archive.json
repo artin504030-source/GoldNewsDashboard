@@ -20771,5 +20771,30 @@
     "archived_at_utc": "2026-11-28T11:15:39.434898+00:00",
     "telegram_message_id": 2452,
     "telegram_chat_id": "@Gold_Channel_00"
+  },
+  {
+    "source": "Oil and Energy",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "claim_status": "تأیید مستقل در آرشیو احراز نشده",
+    "independent_verification": "احراز نشده",
+    "confirmed_sources": [
+      "Oil and Energy",
+      "Oil Trade and Supply"
+    ],
+    "source_count": 2,
+    "confirmation_status": "چند فید ثبت‌شده؛ تأیید مستقل احراز نشده",
+    "title": "How the Strait of Hormuz Crisis Proved Energy Independence Is a Myth - The National Interest",
+    "summary": "How the Strait of Hormuz Crisis Proved Energy Independence Is a Myth The National Interest",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeVNmYUVxdkRacE5GVEg3SzlFZUpTZThrQy1pb3Z2dnNEZHRibkJsWEJQWjNaMmJHWm9RWWxCMVpIX1RsRTFteEVOU2N6Z1JyMTFoN1lZQ1I2d0RKbXdTd2tFYXVSTkRzSC13X0huLUg5Y0NmdDl6azdFOHJlQWZNQ3FnUTZqYzdXMTBTck9rTzJ5Nl9LRzFpZFc4X09tUE8wR2dadEUwNDFXaDJoRl92OTE5WFlMdw?oc=5",
+    "published_utc": "2026-11-28T12:00:49+00:00",
+    "published_kabul": "2026-11-28 16:30 (کابل)",
+    "importance": "کم",
+    "relevance_score": 0,
+    "relevance": "ارتباط محدود",
+    "category": "اقتصاد جهانی",
+    "archived_at_utc": "2026-11-28T12:15:54.867986+00:00",
+    "telegram_message_id": 2475,
+    "telegram_chat_id": "@Gold_Channel_00",
+    "last_confirmation_utc": "2026-11-28T12:15:58.543620+00:00"
   }
 ]
