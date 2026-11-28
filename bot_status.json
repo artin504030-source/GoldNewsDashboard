@@ -28,30 +28,30 @@
     },
     "Gold News Bot": {
       "last_run": {
-        "run_id": 46092155667,
-        "run_number": 779,
-        "run_attempt": 1,
-        "status": "in_progress",
-        "conclusion": "unknown",
-        "event": "workflow_dispatch",
-        "branch": "main",
-        "head_sha": "849e6b35cd3e1068cc5563f944aaa15ac4bceb88",
-        "html_url": "https://github.com/artin504030-source/GoldNewsBot/actions/runs/46092155667",
-        "created_at_utc": "2026-11-28T01:15:13Z",
-        "updated_at_utc": "2026-11-28T01:15:17Z"
-      },
-      "last_success": {
-        "run_id": 46090874106,
-        "run_number": 778,
+        "run_id": 46093428305,
+        "run_number": 780,
         "run_attempt": 1,
         "status": "completed",
         "conclusion": "success",
         "event": "workflow_dispatch",
         "branch": "main",
-        "head_sha": "140b626fddebecd6d3c84e2ec55022e4445e48c6",
-        "html_url": "https://github.com/artin504030-source/GoldNewsBot/actions/runs/46090874106",
-        "created_at_utc": "2026-11-28T01:00:24Z",
-        "updated_at_utc": "2026-11-28T01:01:18Z"
+        "head_sha": "0a54a75230e0efb64366a5eb5840616584247969",
+        "html_url": "https://github.com/artin504030-source/GoldNewsBot/actions/runs/46093428305",
+        "created_at_utc": "2026-11-28T01:30:20Z",
+        "updated_at_utc": "2026-11-28T01:33:03Z"
+      },
+      "last_success": {
+        "run_id": 46093428305,
+        "run_number": 780,
+        "run_attempt": 1,
+        "status": "completed",
+        "conclusion": "success",
+        "event": "workflow_dispatch",
+        "branch": "main",
+        "head_sha": "0a54a75230e0efb64366a5eb5840616584247969",
+        "html_url": "https://github.com/artin504030-source/GoldNewsBot/actions/runs/46093428305",
+        "created_at_utc": "2026-11-28T01:30:20Z",
+        "updated_at_utc": "2026-11-28T01:33:03Z"
       }
     },
     "Gold News Breaking Monitor": {
@@ -223,5 +223,5 @@
       }
     }
   },
-  "updated_at_utc": "2026-11-28T01:31:11.338926+00:00"
+  "updated_at_utc": "2026-11-28T01:33:14.520659+00:00"
 }
