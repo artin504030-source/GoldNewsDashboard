@@ -20523,10 +20523,11 @@
     "claim_status": "تأیید مستقل در آرشیو احراز نشده",
     "independent_verification": "احراز نشده",
     "confirmed_sources": [
-      "Geopolitical News"
+      "Geopolitical News",
+      "Energy Shipping Routes"
     ],
-    "source_count": 1,
-    "confirmation_status": "یک فید ثبت‌شده؛ نه تأیید مستقل",
+    "source_count": 2,
+    "confirmation_status": "چند فید ثبت‌شده؛ تأیید مستقل احراز نشده",
     "title": "Iran war intensifies maritime risks as OPEC+ prepares for oil supply talks - Investing.com",
     "summary": "Iran war intensifies maritime risks as OPEC+ prepares for oil supply talks Investing.com",
     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQm85OXVKbVpTR3BTcnRoRmxTbGxCcFBhMVBPd0xuNWkyYUdRX1RyRlVpMEdEalI4aGRDeXZ4alB3RUc3Y3VWWHZUTWpkTEVMTVVNSEZodWdnaVZDZGVuZ2w4U1Q1cTk2bzM0di1PdUhBdG10NndLNDJWNXFCMXBUM0tJUWZ2UkZNX3JmZEVQd3R6QXVYWVFnakdpOWFqVW5Ib1pYWjZuMVdDemJUNXJIMHNWTVBqZU91VVhmQ21NVlo4Qkk?oc=5",
@@ -20538,7 +20539,8 @@
     "category": "انرژی",
     "archived_at_utc": "2026-11-28T07:45:58.451150+00:00",
     "telegram_message_id": 2422,
-    "telegram_chat_id": "@Gold_Channel_00"
+    "telegram_chat_id": "@Gold_Channel_00",
+    "last_confirmation_utc": "2026-11-28T09:45:38.413479+00:00"
   },
   {
     "source": "Economic Reports",
@@ -20607,6 +20609,29 @@
     "category": "ژئوپلیتیک",
     "archived_at_utc": "2026-11-28T09:31:13.271771+00:00",
     "telegram_message_id": 2435,
+    "telegram_chat_id": "@Gold_Channel_00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "claim_status": "تأیید مستقل در آرشیو احراز نشده",
+    "independent_verification": "احراز نشده",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک فید ثبت‌شده؛ نه تأیید مستقل",
+    "title": "Why Trump’s Tariffs Have Failed to Reverse America’s Growing Trade Deficit - Investing.com",
+    "summary": "Why Trump’s Tariffs Have Failed to Reverse America’s Growing Trade Deficit Investing.com",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWVk4WGdkaWk1Y2tTVkpEbTVNbHVscEs0VjY2c015djlJWjFCaVlKdlJ0RnNUc3hlZkdXdlhoMDVtczU4Y0pZc3hQeURoelZERHdJZVk4N1VLdmJHNDVrZ2pHUHJEMmhFUFk2MFNDTHRyS0JEcElKMjBFYkVyU3VPaDBPSTA4WHJ5V3ZRRXpSRTdWbnZaUE5WbTUxN2t5V29USmtnUl9iYzlrRGZwRDVPY3RhYzhNbmZj?oc=5",
+    "published_utc": "2026-11-28T06:58:46+00:00",
+    "published_kabul": "2026-11-28 11:28 (کابل)",
+    "importance": "متوسط",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-28T09:45:33.525424+00:00",
+    "telegram_message_id": 2437,
     "telegram_chat_id": "@Gold_Channel_00"
   }
 ]
