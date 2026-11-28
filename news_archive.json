@@ -21076,5 +21076,28 @@
     "archived_at_utc": "2026-11-28T17:16:55.900090+00:00",
     "telegram_message_id": 2529,
     "telegram_chat_id": "@Gold_Channel_00"
+  },
+  {
+    "source": "Geopolitical News",
+    "source_status": "منبع رسانه‌ای/تجمیع‌گر؛ نیازمند بررسی منبع اصلی",
+    "claim_status": "تأیید مستقل در آرشیو احراز نشده",
+    "independent_verification": "احراز نشده",
+    "confirmed_sources": [
+      "Geopolitical News"
+    ],
+    "source_count": 1,
+    "confirmation_status": "یک فید ثبت‌شده؛ نه تأیید مستقل",
+    "title": "Russia Ukraine War Great Famine - Goshen News",
+    "summary": "Well-known Ukrainian actor Yevhen Nyshchuk light candles at the monument of the victims of the Holodomor, Great Famine, which took place in the 1930's and that killed millions, in Kyiv, Ukraine, Saturday, Nov. 28, 2026.\n\nWhen do you put up your Christmas tree?\n\nSign up now to get our FREE breaking news coverage delivered right to your inbox.",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWkVERWtuSUVPMUg4Wm9lNkphU2Y0NU16bEJVNy1sS1pGdHl6SVlBaWkwWkFtV3JnZTN1aTlvazBiVUhidXJJRUVDY0NKdFJXanlnNUtHemZnZUdhV21Semw0RzcyN09pYm9sUEt1RUJUN0hVbnpNN3RhQU52UWxXVENwbVBVYXE1TW84UENvWXo4QjdMMmhjSlJGdUhFVWUwOC1OeVJ6bUlVZGxCN1pWdGlRc0V4MlVHb0x3M0NxZ21IeGc?oc=5",
+    "published_utc": "2026-11-28T16:47:02+00:00",
+    "published_kabul": "2026-11-28 21:17 (کابل)",
+    "importance": "کم",
+    "relevance_score": 16,
+    "relevance": "ارتباط محدود",
+    "category": "ژئوپلیتیک",
+    "archived_at_utc": "2026-11-28T17:31:05.034199+00:00",
+    "telegram_message_id": 2534,
+    "telegram_chat_id": "@Gold_Channel_00"
   }
 ]
